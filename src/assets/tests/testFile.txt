@@ -1,0 +1,42 @@
+﻿####5
+#SC#
+#Q#Research during the past several decades on the nature of language and the processes <span style="text-decoration: underline">that produce and make it understandable has revealed great complexity instead of underlying simplicity</span>.
+#O#(A) that produce and make it understandable has revealed great complexity instead of underlying simplicity
+#O#(B) of producing and understanding it have revealed not underlying simplicity but great complexity
+#O#(C) by which it is produced and understood has revealed not underlying simplicity but great complexity
+#O#(D) by which it is produced and understood have revealed great complexity rather than underlying simplicity
+#O#(E) by which one produces and understands it have revealed great complexity instead of underlying simplicity
+#A#A
+#CR#
+#Q#In response to years of increasing congestion at airport X, the government decided to redistribute landing slots. Henceforth, all international flights arriving from continent A would be rerouted to nearby airport Y, all flights arriving from continent B would continue to land at airport X. Several airlines opposed this measure on the grounds that it would result in lost business.<br><br>Which of the following, if true, justifies the airline's conclusion?
+#O#(A) The airlines' customers prefer less congested airports.
+#O#(B) It takes five minutes more flying time to reach the second
+#O#(C) There are fewer runways, and thus less capacity, at airport Y.
+#O#(D) Airport Y is located in a region with better transport links to the
+#O#(E) Many customers traveling between continent A and continent
+#A#A
+#CR#
+#Q#The U.S. census is not perfect: thousands of Americans probably go uncounted. However, the basic statistical portrait of the nation painted by the census is accurate. Certainly some of the poor go uncounted, particularly the homeless; but some of the rich go uncounted as well, because they are often abroad or traveling between one residence and another.<br><br>Which of the following is an assumption on which the argument above depends?
+#O#(A) Both the rich and the poor have personal and economic reasons to avoid being counted by the census.
+#O#(B) All Americans may reasonably be classified as either poor or rich.
+#O#(C) The percentage of poor Americans uncounted by the census is close to the percentage of rich Americans uncounted.
+#O#(D) The number of homeless Americans is approximately equal to the number of rich Americans.
+#O#(E) The primary purpose of the census is to analyze the economic status of the American population.
+#A#C
+#CR#
+#Q#Companies considering new cost-cutting manufacturing processes often compare the projected results of making the investment against the alternative of not making the investment with costs, selling prices, and share of market remaining constant.<br><br>Which of the following, assuming that each is a realistic possibility, constitutes the most serious disadvantage for companies of using the method above for evaluating the financial benefit of new manufacturing processes?
+#O#(A) The costs of materials required by the new process might not be known with certainty.
+#O#(B) In several years interest rates might go down, reducing the interest costs of borrowing money to pay for the investment.
+#O#(C) Some cost-cutting processes might require such expensive investments that there would be no net gain for many years, until the investment was paid for by savings in the manufacturing process.
+#O#(D) Competitors that do invest in a new process might reduce their selling prices and thus take market share away from companies that do not.
+#O#(E) The period of year chosen for averaging out the cost of the investment might be somewhat longer or shorter, thus affecting the result.
+#A#B
+#RC#
+#R#In general, the impossible must be justified by reference to artistic requirements, or to the higher reality, or to received opinion. With respect to the requirements of art, a probable impossibility is to be preferred to a thing improbable and yet possible. And by extrapolation, it goes without saying that the improbable impossibility makes for a not too enticing option while the probable possibility will not even be discussed here as it, by its very nature, tends towards the mundane.<br><br>The poet being an imitator, like a painter or any other artist, must of necessity imitate one of three objects - things as they were or are, in the past - be it ancient or near - and in the present - as he observes those things around him or those things that are observed by others contemporary to him; things as they are said or thought to be, be they products of philosophical discourse, a study in divinity, or the mythos of a people; or things as they ought to be as often expressed in laments for the state of affairs in a society. The vehicle of expression is language - either current terms or, it may be, rare words or metaphors. There are also many modifications of language which we concede to the poets. Add to this that the standard of correctness is not the same in poetry and politics, any more than in poetry and any other art.<br><br>Within the art of poetry itself there are two kinds of faults - those which touch its essence, and those which are of the cause of a lack of advertence. If a poet has chosen to imitate something, but has fallen short through want of capacity, the error is inherent in the poetry. But if the failure is due to a wrong choice - if he has represented a horse as throwing out both his off legs at once, or introduces technical inaccuracies in medicine, for example, or in any other art - the error is not essential to the poetry. These are the points of view from which we should consider and answer the objections raised by the critics.<br><br>As to matters which concern the poet's own art. If he describes the impossible, he is guilty of an error; but the error may be justified, if the end of the art be thereby attained - if, that is, the effect of this or any other part of the poem is thus rendered more striking. If, however, the end might have been as well, or better, attained without violating the special rules of the poetic art, the error is not justified, for every kind of error should, if possible, be avoided. Again, does the error touch the essentials of the poetic art, or some accident of it? For example, not to know that a hind has no horns is a less serious matter than to paint it inartistically.<br><br>Further, if it be objected that the description is not true to fact, the poet may perhaps reply - But the objects are as they ought to be: just as Sophocles said that he drew men as they ought to be; Euripides, as they are. In this way the objection may be met. If, however, the representation is of neither kind, the poet may answer - This is how men say the thing is. This applies to tales about the gods. It may well be that these stories are not higher than fact nor yet true to fact. But anyhow, - this is what is said. Again, a description may be no better than the fact.</div>
+#Q#Assuming that the poet's artistic goals are achieved, the passage implies thatwhich of the following would NOT be an example of a justifiable error?
+#O#A. Describing a lioness as a hunter in a metaphor for the behaviour of
+#O#B. Using awkward language to create an analogy between a ruler's hand
+#O#C. Creating anachronistic errors by mentioning inappropriate historical or
+#O#D. Representing human characters as improbably courageous or strong
+#O#E. Comparing soldiers with ancient Greek warriors who could not be killed
+#A#B

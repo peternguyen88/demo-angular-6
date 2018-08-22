@@ -1,0 +1,280 @@
+#test-container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #292b2c;
+  z-index: 10000;
+}
+
+div#wrapper {
+  width: 1100px;
+  margin: auto;
+  max-height: 800px;
+}
+
+.testForm {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -500px;
+  min-width: 1000px;
+  background: #006eae;
+  max-height: 800px;
+}
+
+.questionWrap label {
+  vertical-align: middle;
+}
+
+.questionWrap .option {
+  float: left;
+  margin-top: 10px;
+  clear: both;
+}
+
+.questionWrap .option .radio {
+  float: left;
+  position: static !important;
+  margin: 0 -18px 0 0;
+}
+
+.questionWrap .option label {
+  float: left;
+  margin: -1px 0 0 18px;
+  padding: 0 0 0 10px;
+}
+
+a {
+  cursor: pointer;
+}
+
+a:hover {
+  color: yellow
+}
+
+.testForm .whiteBG {
+  position: absolute;
+  bottom: 62px;
+  top: 70px;
+  margin-left: 10px;
+  width: 980px;
+  background: #ffffff;
+}
+
+#section {
+  color: #000000;
+  line-height: 20px;
+  height: 100%;
+  margin: 0;
+}
+
+.passage, .questionWrap {
+  position: absolute;
+  height: 97%;
+  overflow-y: auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.passage {
+  left: 0;
+  top: 0;
+}
+
+.halfWidth {
+  right: 0;
+  top: 0;
+  width: 50%;
+}
+
+.questionWrap.fullWidth {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#header {
+  color: #ffffff;
+  font-family: "Open Sans", geneva, sans-serif;
+  height: 40px;
+}
+
+#header div {
+  line-height: 30px;
+  float: right;
+  margin: 5px 0;
+}
+
+#header, #questionInfo, #section, #footer {
+  margin: 0 10px;
+}
+
+#header h1 {
+  float: left;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 30px;
+  margin: 5px 0 5px 15px;
+  color: #FFFFFF;
+}
+
+.timer {
+  padding-right: 13px;
+}
+
+.quizNum {
+  border-left: 1px solid #3F8FC8;
+  padding-left: 15px;
+  padding-right: 8px;
+}
+
+a.testPause {
+  position: relative;
+}
+
+.nextBtn {
+  float: right;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.testPause {
+  padding-right: 5px;
+  margin: 5px 13px 0 0;
+  line-height: 32px;
+}
+
+#questionInfo {
+  height: 30px;
+  font-family: "Open Sans", geneva, sans-serif;
+  background-color: #7eafe1;
+}
+
+#questionInfo > a {
+  display: block;
+  float: right;
+  font-size: 12px;
+  line-height: 25px;
+  margin-right: 11px;
+  color: white;
+}
+
+.testForm #footer {
+  position: absolute;
+  bottom: 0;
+  width: 980px;
+  height: 40px;
+  background: #006eae;
+}
+
+#footer a {
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 40px;
+  color: white;
+}
+
+.endExamBtn {
+  float: left;
+}
+
+.practiceBtn {
+  float: left;
+  margin-left: 40px;
+}
+
+.testForm #setUp {
+  position: absolute;
+  width: 980px;
+  bottom: 40px;
+  height: 30px;
+}
+
+.testForm #questionNote {
+  position: absolute;
+  margin: 0 10px;
+  width: 980px;
+  bottom: 65px;
+}
+
+.testForm #questionExplanation {
+  position: absolute;
+  margin: 0 10px;
+  width: 980px;
+  bottom: 65px;
+  overflow: scroll;
+  background-color: ghostwhite;
+}
+
+#setUp {
+  background-color: #d8d8d8;
+  font-family: "Open Sans", geneva, sans-serif;
+  margin: 0 10px;
+  clear: both;
+}
+
+.disabled {
+  color: #7eafe1 !important;
+}
+
+.onscreenMessage {
+  line-height: 30px;
+  margin-left: 20px;
+  float: left;
+  color: yellow;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.correct_answer {
+  background-color: lightgreen;
+}
+
+.incorrect_answer {
+  background-color: lightcoral;
+}
+
+.no-glow-button {
+  border: none;
+  cursor: pointer;
+  box-shadow: none;
+  outline: 0;
+}
+
+.white-text {
+  color: white;
+}
+
+.black-text {
+  color: black;
+}
+
+.question-time {
+  line-height: 30px;
+  float: right;
+  margin-right: 10px;
+  color: white;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+.hasNote{
+  color: yellow;
+  background-color: indigo;
+}

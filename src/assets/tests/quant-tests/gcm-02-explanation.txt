@@ -1,0 +1,339 @@
+####31####GCM-02
+#PS#1#A#
+<div  ans="A">
+      If \(x\) is greater than or equal to 4, equation \(|x - 4| = x\) turns into \(x - 4 = x\). The last one has no solutions. If \(x\) is less than 4, equation \(|x - 4| = x\) turns into \(4 - x = x\) or \(x = 2\).<br>
+      Thus, set \(S\) has only one element: 2. The range of any one-element set is 0.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m20-184239.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#2#E#
+<div  ans="E">
+      Let \(P\) denote the original price.<br>
+      Statement (1) by itself is insufficient.  If \(x\) is much larger than \(y\), the new price is higher than the original. But if \(x\) is only marginally larger, the new price is lower. For example, if \(x = 20\) and \(y = 19\), the new price is \(P*1.2*0.81 \lt P\).<br>
+      Statement (2) by itself is insufficient.  Use the same reasoning. If \(y\) is large, the new price is small (if \(y = 100\), the new price is 0). If \(y\) is small, the new price is higher than the original (if \(y = 10\), the new price is \(P*1.12*0.9 = P*1.008 \gt P\)).<br>
+      Statements (1) and (2) combined are insufficient.  Adding S1 to S2 provides no new information. <br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m16-184081.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#3#A#
+<div  ans="A">
+      (1) 5 pencils and 3 pens cost 30 cents. Given: \(5x+3y=30\). This equation has only one positive integer solution:\( x=3\) and \(y=5\), so the price of 5 pencils is \(5*3=15\) cents. Sufficient.<br>
+      (2) 4 pencils and 4 pens cost 32 cents. Given: \(4x+4y=32\), so \(x+y=8\). This equation has more than one positive integer solution, for example: \(x=1\) and \(y=7\) or \(x=3\) and \(y=5\). Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m14-184011.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#4#B#
+<div  ans="B">
+      (1) ABC is an isosceles triangle. Clearly insufficient.<br>
+      (2) \(AC^2 = AB^2 + BC^2\). This statement implies that ABC is a right triangle and AC is its hypotenuse. Important property: <b>median from right angle is half of the hypotenuse</b>, hence BD=12=AC/2, from which we have that AC=24. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183646.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#5#B#
+<div  ans="B">
+      Notice that we are asked to find which of the options MUST be true, not COULD be true.<br>
+      Let's see what ranges does \(\frac{x}{|x|} \lt x\) give for \(x\). Two cases:<br>
+      If \(x \lt 0\) then \(|x|=-x\), hence in this case we would have: \(\frac{x}{-x} \lt x\), which is the same as \(-1 \lt x\). But remember that we consider the range \(x \lt 0\), so \(-1 \lt x \lt 0\);<br>
+      If \(x \gt 0\) then \(|x|=x\), hence in this case we would have: \(\frac{x}{x} \lt x\), which is the same as \(1 \lt x\).<br>
+      So, \(\frac{x}{|x|} \lt x\) means that \(-1 \lt x \lt 0\) or \(x \gt 1\).<br>
+      Only option which is ALWAYS true is B. ANY \(x\) from the range \(-1 \lt x \lt 0\) or \(x \gt 1\) will definitely be more the \(-1\).<br>
+      As for other options:<br>
+      A. \(x \gt 1\). Not necessarily true since \(x\) could be -0.5;<br>
+      C. \(|x| \lt 1\), so \(-1 \lt x \lt 1\). Not necessarily true since \(x\) could be 2;<br>
+      D. \(|x| \gt 1\), so \(x \lt -1\) or \(x \gt 1\). Not necessarily true since \(x\) could be -0.5;<br>
+      E. \(-1 \lt x \lt 0\). Not necessarily true since \(x\) could be 2.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m09-183830.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#6#D#
+<div  ans="D">
+      Given that the sequence of numbers \(a_1\), \(a_2\), \(a_3\), ... have the following properties: \(i*a_i=j*a_j\) and \(a_1=\text{positive integer}\), so \(1*a_1=2*a_2=3*a_3=4*a_4=5*a_5=...=\text{positive integer}\).<br>
+      We should determine whether the options given below can occur (notice that the question is which of the following <b>COULD be true, not MUST be true</b>).<br>
+      I.  \(2a_{100}=a_{99}+a_{98}\). Since \(100a_{100}=99a_{99}=98a_{98}\), then \(2a_{100}=\frac{100}{99}a_{100}+\frac{100}{98}a_{100}\). Reduce by \(a_{100}\): \(2=\frac{100}{99}+\frac{100}{98}\) which is not true. Hence this option <b>could NOT be true</b>.<br>
+      II. \(a_1\) is the only integer in the sequence. If \(a_1=1\), then all other terms will be non-integers, because in this case we would have \(a_1=1=2a_2=3a_3=...\), which leads to \(a_2=\frac{1}{2}\), \(a_3=\frac{1}{3}\), \(a_4=\frac{1}{4}\), and so on. Hence this option <b>could be true</b>.<br>
+      III. The sequence does not contain negative numbers. Since given that \(a_1=\text{positive integer}=n*a_n\), then \(a_n=\frac{\text{positive integer}}{n}=\text{positive number}\), hence this option is <b>always true</b>.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m17-184131.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#7#D#
+<div  ans="D">
+      Many approaches are possible. For example:<br>
+      <b>Approach #1:</b><br>
+      Consider numbers from 0 to 999 written as follows:<br>
+      1. 000<br>
+      2. 001<br>
+      3. 002<br>
+      4. 003<br>
+      ...<br>
+      1000. 999<br>
+      We have 1000 numbers. We used 3 digits per number, hence used total of \(3*1000=3000\) digits. Now, why should ANY digit have preferences over another? We used each of 10 digits equal # of times, thus we used each digit (including 7) \(\frac{3000}{10}=300\) times.<br>
+      <b>Approach #2:</b><br>
+      There are several ways to count the number of times 7 appears between 7 and 997. One way is to consider the number of 7's in single, double, and triple digit numbers separately.<br>
+      One-digit numbers: 7 is the only one-digit number.<br>
+      Two-digit numbers: 7 could be the tens digit or the units digit. Case 1: 7 is the tens digit. There are 10 ways to place 7 as the tens digit of a two-digit number. Case 2: There are 9 ways to place the units digit. Thus, for two-digit numbers we have: \(10+9=19\) numbers that contain a 7.<br>
+      Three-digit numbers: Use the knowledge from the previous two scenarios: each hundred numbers will contain one 7 in numbers such as 107 or 507 and also 19 other sevens in numbers such as 271 or 237. Thus a total of 20 sevens per each hundred and 200 sevens for 1000. Since we have 700's within the range, that adds another 100 times that a seven will be written for a total of 300 times.<br>
+      <b>Approach #3:</b><br>
+      In the range 0-100:<br>
+      7 as units digit - 10 times (7, 17, 27, ..., 97);<br>
+      7 as tens digit - 10 time (71, 72, 73, ..., 79);<br>
+      So in first one hundred numbers 7 is written \(10+10=20\) times.<br>
+      In 10 hundreds 7 as units or tens digit will be written \(10*20=200\) times. Plus 100 times when 7 is written as hundreds digit (700, 701, 702, ..., 799).<br>
+      Total \(200+100=300\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183521.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#8#A#
+<div  ans="A">
+      <b>Here is a little trick: any positive integer root from a number more than 1 will be more than 1</b>. For example: \(\sqrt[1000]{2} \gt 1\).<br>
+      Now, \(\sqrt{10} \gt 3\) (as \(3^2=9\)) and \(\sqrt[3]{9} \gt 2\) (\(2^3=8\)). Thus \(x=(\text{Number more than 3})+(\text{Number more than 2})+(\text{7 numbers more than 1})=\)<br>
+      \(=(\text{number more than 5})+(\text{number more than 7})\)
+      \(=(\text{number more than 12})\)
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m09-183829.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#9#B#
+<div  ans="B">
+      # of multiples of 13 in the given range \(\frac{(\text{last-first})}{\text{multiple}}+1=\frac{195-13}{13}+1=15\);<br>
+      # of multiples of 12 in the given range \(\frac{(\text{last-first})}{\text{multiple}}+1=\frac{192-12}{12}+1=16\);<br>
+      # of multiples of both 13 and 12 is 1: \(13*12=156\). Notice that 156 is counted both in 15 and 16;<br>
+      So, # of multiples of 13 or 12 but not both in the given range is \((15-1)+(16-1)=29\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m12-183955.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#10#B#
+<div  ans="B">
+      $$\sqrt{(x+3)^2} - \sqrt{(y-1)^2} = |x+3| - |y-1| = | \frac{3}{4} + 3| - |\frac{2}{5}-1| = \frac{15}{4}-\frac{3}{5}=\frac{63}{20}$$
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m06-183699.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#11#C#
+<div  ans="C">
+      \(\)28 = 1+2+4+7+14\(\)
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183653.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#12#D#
+<div  ans="D">
+      Approach One:  Divide all of the three-digit numbers \(999 - 100 + 1 = 900\) (Don't forget to add 1 to get the number of all the 3-digit numbers) by 7, which is 128.57, and then round it off to 128.<br>
+      Approach Two:  Find the first and the last multiples of 7 WITHIN the range (which is between 105 and 994). Find the positive difference, divide by 7, and add 1:<br>
+      $$\frac{994-105}{7}+1=128$$
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183529.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#13#D#
+<div  ans="D">
+      Say:<br>
+      X% contribute less than 4%;<br>
+      Y% contribute at least 4% but less than 5%;<br>
+      Z% contribute at least 5%.<br>
+      Note that these groups don't have intersections and \(X+Y+Z=100\).<br>
+      Given: \(Y+Z=25\%\). Question: \(Z=\)?<br>
+      (1) 20% of the company's employees contribute at least 4% but less than 5% of their salary to the Charity Fund. Given: \(Y=20\%\). Hence, \(Y+Z=20+Z=25\%\), which gives \(Z=5\%\). Sufficient.<br>
+      (2) 95% of the company's employees contribute less than 5% of their salary to the Charity Fund. Given: \(X+Y=95\%\). Hence, \(X+Y+Z=95+Z=100\%\), which gives \(Z=5\%\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m18-184161.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#14#D#
+<div  ans="D">
+      We have to find \((\frac{\frac{a}{b}}{ab})*100\% = (\frac{1}{b^2})*100\%\). To answer the question we need to know \(b^2\).<br>
+      Statement (1) by itself is sufficient.  From S1 it follows that \(b\) is either 6 or -2. But the stem stipulates that \(b \)is positive. Thus, \(b = 6\).<br>
+      Statement (2) by itself is sufficient.  From S2 it follows that \(b\) is either 6 or -3. But the stem stipulates that \(b\) is positive. Thus, \(b = 6\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m16-184101.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#15#A#
+<div  ans="A">
+      <b>Approach #1:</b><br>
+      There is one number in each hundred with 2 in the tens digit and 1 in the units digit: <b>21</b>, 1<b>21</b>, 2<b>21</b>, 3<b>21</b>, ...<br>
+      The difference between 324,700 and 458,600 is \(458,600-324,700=133,900\) - one number per each hundred gives \(\frac{133,900}{100}=1,339\) numbers.<br>
+      <b>Approach #2:</b><br>
+      Look at the series of all numbers ending with 21 within the given range.<br>
+      <ul>
+        <li>324,721</li>
+        <li>324,821</li>
+        <li>.....</li>
+        <li>458,421</li>
+        <li>458,521</li>
+      </ul>
+      Following the series, we can see that only the first four numbers are changing. Instead of counting the numbers ending in 21 in the given range (324,700 to 458,600), simplify and only count the numbers in the range of 3,247 to 4,585. Therefore, the number of integers ending in 21 within the range is \(4,585-3,247+1 = 1,339\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183533.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#16#B#
+<div  ans="B">
+      Backsolve. Plug answer (C) into the equation for \(x\): \(\frac{1}{2}*\frac{1}{2} = 2*\frac{1}{4}\). Solve both sides of the equation:   \(\frac{1}{4} \neq \frac{1}{2}\). Continue plugging in the answers.  Plugging answer (B) into the equation for \(x\) gives: \(\frac{1}{2}*\frac{1}{4} = 2*\frac{1}{16}\)or \(\frac{1}{8} = \frac{1}{8}. \) <br>
+      <p>
+      </p>Another option is to solve the equation for \(x\). \(\frac{1}{2}*\sqrt{x} = 2x\). Since \(x\) is a positive number, i.e., \(x \gt 0\), square both sides of equation to get:<br>
+      $$\frac{1}{4} * x = 4x^2$$
+      Multiply both sides by 4:<br>
+      <d>
+        $$x = 16x^2$$
+        $$16x^2 - x = 0$$
+        $$x(16x-1) = 0$$
+      </d>
+      The roots of this equation are \(x = 0\) and \(x = \frac{1}{16}\). Since \(x \gt 0\), the correct answer is \(x = \frac{1}{16}\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183514.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#17#C#
+<div  ans="C">
+      Start by subtracting equation 2 from equation 3.<br>
+      <d>
+        $$R^2 + PQ - Q^2 - PR = 0$$
+        $$R^2 - Q^2 - P(R - Q) = 0$$
+        $$(R + Q) (R - Q) = P(R - Q)$$
+        $$R + Q = P$$
+      </d>
+      Now, sum all the equations together:<br>
+      <d>
+        $$P^2 + Q^2 + R^2 - QR + PQ + PR = 30$$
+        $$P^2 + Q^2 + R^2 - QR + P(R + Q) = 30$$
+      </d>
+      Since \(P = R + Q\), we can substitute and get<br>
+      <p>
+        \(P^2 + Q^2 + R^2 + P^2 - QR = 30\)
+      </p>
+      Since \(P^2 - QR = 10\), we can substitute these as well:<br>
+      <p>
+        \(P^2 + Q^2 + R^2 = 20\)
+      </p>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m06-183705.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#18#E#
+<div  ans="E">
+      Statement (1) by itself is insufficient.  Let's pick numbers: if the sides of \(ABC\) are 1, 1 and \(\sqrt{2}\) (a half of a square with sides equal to 1), the area equals \(0.5\) and t perimeter is \(2+\sqrt{2}\). The perimeter is much greater than the area of a triangle with these values. However if the sides of \(ABC\) are 10, 10, and \(10\sqrt{2}\); then the perimeter is \(20+10\sqrt{2}\) and the area is 50. The perimeter is much smaller than the area.<br>
+      Statement (2) by itself is insufficient.  All it tells us is that both triangles are similar or proportionate to each other, but nothing about their size.<br>
+      Statements (1) and (2) combined are insufficient.  Combining the two statements, we still cannot determine whether the triangles have small values of their sides that yield greater perimeters or large values that yield greater area measurements.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183756.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#19#A#
+<div  ans="A">
+      In order to have a set with the range of zero, all of the elements in the set must be the same. If all the elements in the set are the same, then the standard deviation is 0.<br>
+      Notice that the standard deviation of a set is always more than or equal to zero: \(SD \geq 0\). <b>SD is 0 if and only if a set contains all identical elements (or the set consists of only 1 element)</b>.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183527.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#20#C#
+<div  ans="C">
+      Let J be John's age and M be Mark's age.<br>
+      John is 3 times as old as Mark: \(J=3M\);<br>
+      In 13 years John will be one year younger than twice the age of Mark on that day: \(J+13=2(M+13)-1\);<br>
+      Substitute \(J\) with \(3M\) in the second equation and solve for \(M\): <br>
+	  \(3M+13=2(M+13)-1\);<br>
+	  \(M=12\).<br>
+      So, Mark is 12 years old today, which makes John \(J=3M=3*12=36\) years old today.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183513.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#21#E#
+<div  ans="E">
+      Statement (1) by itself is not sufficient. Multiples of a prime number are not prime except the prime number itself. For example, 3 is prime and its multiples are 3 itself (prime), 6 (not prime), etc.<br>
+      Statement (2) by itself is not sufficient. The product of two integers can be prime only if one integer is a prime and the other integer is 1. For example \(3=1*3\) is prime, but \(6=3*2\) is not prime.<br>
+      Statements (1) and (2) combined are not sufficient. If both statements are combined,\(x\) can still be 3 (prime) or 6 (not prime).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183537.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#22#E#
+<div  ans="E">
+      Since <b>a circle has the minimum possible perimeter for a given area</b>, then in order to minimize the length of a rope it should enclose a circle.<br>
+      So, 154 square meters should be the area of a circle: \(area=\pi r^2=154\). Now, the approximate value of \(\pi\) is \(\frac{22}{7}\), hence \(\frac{22}{7}*r^2=154\), which gives \(r^2 \approx 49\) and finally \(r \approx 7\).<br>
+      The length of a rope will equal to the circumference of the circle: \(circumference=2\pi r \approx 2*\frac{22}{7}*7=44\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183496.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#23#E#
+<div  ans="E" url="/forum/m25-73471.html">
+      (1) 20% of all chips in the basket are green. Therefore 80% of all chips in the basket are red, which means that the ratio of the number of red chips to the number of green chips is 4:1 (80:20). Now, if there are total of 5 chips in the basket (4 red + 1 green) then the probability that both chips will be green will be 0 (since there are NOT two chips in a basket) but if there are  total of 10 chips in the basket (8 red + 2 green) then the probability that both chips will be green will be more than 0. Not sufficient.<br>
+      (2) The ratio of the number of red chips to the number of green chips is 4:1. The same info as above. Not sufficient.<br>
+      (1)+(2) Both statements tell the same thing, so we have no new info. Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m25-184429.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#24#C#
+<div  ans="C">
+      Mac can finish the job in \(M\) days: the rate of Mac is \(\frac{1}{M}\) job/day;<br>
+      Jack can finish the job in \(J\) days: the rate of Jack is \(\frac{1}{J}\) job/day;<br>
+      After working together for \(T\) days, Mac left and Jack alone worked to complete the remaining work in \(R\) days, hence Mac worked for \(T\) days only and did \(\frac{T}{M}\) part of the job while Jack worked for \(T+R\) days and did \(\frac{T+R}{J}\) part of the job;<br>
+      Since Mac and Jack completed an equal amount of work (so half of the job each) then \(\frac{T}{M}=\frac{1}{2}\) and \(\frac{T+R}{J}=\frac{1}{2}\). So, \(T=\frac{M}{2}\) and \(T=\frac{J}{2}-R\), therefore \(\frac{M}{2}=\frac{J}{2}-R\), which gives \(J=M+2R\).<br>
+      (1) \(M = 20\) days. Not sufficient, we still need the value of \(R\).<br>
+      (2) \(R = 10\) days. Not sufficient, we still need the value of \(M\).<br>
+      (1)+(2) \(J=M+2R=20+2*10=40\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183490.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#25#E#
+<div  ans="E">
+      Statement 1: In general, range can be 0 or positive. If set \(T\) has positive range, then all elements of the set are not equal. Not sufficient.<br>
+      Statement 2: If the elements of the set are not consecutive integers, then all elements of the set could or could not have equal values. Not sufficient.<br>
+      S1 and S2 taken together tell us that elements of the set are not all equal. These elements are not consecutive integers. This information does not is not sufficient to answer whether the median is greater than mean because the set could be {1, 1, 1, 1, 1, 2} or {2, 2, 2, 2, 2, 1}. Set {1, 1, 1, 1, 1, 2} has mean &gt; median and set {1, 2, 2, 2, 2, 2} has median &gt; mean. Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183478.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#26#B#
+<div  ans="B">
+      We are dealing with a repeating decimal in this question. It's helpful to know that there's a way to write these kinds of decimals as a fraction. For example, the repeating decimal 0.444444444(4) may be written as \(\frac{4}{9}\). So, \(\frac{5}{9}\), \(\frac{7}{9}\) and \(\frac{8}{9}\) will all be repeating decimals. You might check it in your calculator. In order to make two decimal points repeat, you have to divide the two digit number by 99. For example, \(\frac{23}{99} = 0.232323232323(23)\). Similarly, \(\frac{36}{99} = \frac{4}{11} = 0.36363636(36)\). Now it's clear that the minimum value of \(m = 4\).<br>
+      <p>
+        <b>Alternate Solution:</b>
+      </p>
+      In case you did not know the formula for the repeating decimal (most probably did not), there is another approach to solving this question - backsolving. This is not a typical backsolving question, however, since both of the variables are unknown and we have to make some assumptions to get to the solution.<br>
+      1. Looking at the repeating decimal - 0.36.... - the ratio between m and n has to be slightly less than 1:3.<br>
+      2. Let's run through the answer choices: <br>
+      A. 3 - the number that's slightly less than 3*3 is 8. \(\frac{3}{8} = 0.375\). Does not work.<br>
+      B. 4 - the number that's slightly less than 3*4 is 11. \(\frac{4}{11} = 0.3636\). Works!<br>
+      C. 7<br>
+      D. 13<br>
+      E. 22<br>
+      We could continue going through answer choices C, D, and E, but the question asks us for the smallest possible value of m, and 4 is the smallest of the ones that work (even if multiple do) so there is no value to check others.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183469.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#27#E#
+<div  ans="E">
+      We want to calculate \(\frac{MIS_{\text{female}}}{MIS_{\text{female}}+MIS_{\text{male}}}\)<br>
+      (1) 5% of female students at Wisconsin University are studying MIS. If there are total of \(X\) female students at Wisconsin University then \(0.05X=MIS_{\text{female}}\). Not sufficient.<br>
+      (2) 12% of male students at Wisconsin University are studying MIS. If there are total of \(Y\) male students at Wisconsin University then \(0.12Y=MIS_{\text{male}}\). Not sufficient.<br>
+      (1)+(2) \(\frac{MIS_{\text{female}}}{MIS_{\text{female}}+MIS_{\text{male}}}=\frac{0.05X}{0.05X+0.12Y}\), still not sufficient to calculate the desired ratio.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183626.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#28#E#
+<div  ans="E">Statements (1) and (2) combined are insufficient.  Consider \(b = 2\) (the answer is "yes") and \(b = 6\) (the answer is "no").</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m14-184016.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#29#D#
+<div  ans="D">
+    Since given that \(x\) is a <i>negative integer</i>, then \(x\) can be -2, -3, -4, or -5.<br>
+    Twice the maximum possible value of \(x\) is \(2*(-2)=-4\).<br>
+    The minimum possible value of \(x\) is \(-5\).<br>
+    Thus the answer is \(-4-(-5)=1\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m26-184450.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#30#B#
+<div  ans="B">
+      (1) \(\frac{1}{x} \gt - 1\). Rewrite as \(\frac{1+x}{x} \gt 0\), two cases:<br>
+      A. \(x \gt 0\) and \(1+x \gt 0\), (\(x \gt -1\)). So, \(x \gt 0\);<br>
+      B. \(x \lt 0\) and \(1+x \lt 0\), (\(x \lt -1\)). So, \(x \lt -1\).<br>
+      So, the given inequality holds true in two ranges: \(x \gt 0\) and \(x \lt -1\), thus \(x\) may or may not be greater than 1. Not sufficient.<br>
+      (2) \(\frac{1}{x^5} \gt \frac{1}{x^3}\). Rewrite as \(\frac{1-x^2}{x^5} \gt 0\), two cases:<br>
+      A. \(x \gt 0\) (it's the same as \(x^5 \gt 0\)) and \(1-x^2 \gt 0\), (\(-1 \lt x \lt 1\)). So, \(0 \lt x \lt 1\);<br>
+      B. \(x \lt 0\) and \(1-x^2 \lt 0\), (\(x \lt -1\) or \(x \gt 1\)). So, \(x \lt -1\);<br>
+      We got that given inequality holds true in two ranges: \(0 \lt x \lt 1\) and \(x \lt -1\), ANY \(x\) from this ranges will be less than 1. So the answer to our original question is NO. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183471.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#31#C#
+<div  ans="C">
+      Follow a basic approach: \(Work=Rate*Time\)<br>
+      \(Q\) is a rate of a qualified worker.<br>
+       \(\frac{3}{4}*Q\) - that of an apprentice.<br>
+       \(\frac{1}{5}*Q\) - that of a trainee.<br>
+      When people work together, their rates are added. The work is the same, which leads to:<br>
+      \(W  = 5Q=(Q+2*(\frac{3}{4}*Q)+2*(\frac{1}{5}*Q))*T\).<br>
+      \(5 = \frac{29}{10}*T\).<br>
+      So, \(T=\frac{50}{29}\) or approximately 1 hour 44 minutes.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m00-183509.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------

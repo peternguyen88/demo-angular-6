@@ -1,0 +1,425 @@
+####97####MR700-PS
+#PS#1#D#
+If \(0.002 < a < 0.004\) and \(5,000 < b < 10,000\), which of the following can be the value of \(\frac{a^2b+b^2a}{a^2b^2}\)?
+(A) 120      
+(B) 150      
+(C) 225     
+(D) 425      
+(E) 725
+---------------------------------
+#PS#2#C#
+If \(f(x,y)=\frac{10x}{x+2y}+\frac{20y}{2x+y}\) where \(0 < x < y\), which of the following could be the value of \(f(x,y)\)?
+(A) 9          
+(B) 10         
+(C) 19          
+(D) 20        
+(E) 23
+---------------------------------
+#PS#3#A#
+If \(x=-\frac{1}{\sqrt{0.91}}, y=-\frac{1}{0.91^2}, z=-\frac{1}{0.91}\), which of the following is true?
+(A) \(y< z < x\)	
+(B) \(y< x < z\)	
+(C) \(x< z < y\)	
+(D) \(z< x < y\)	
+(E) \(z< y < x\)
+---------------------------------
+#PS#4#D#
+A professor gives grades of A, B, C, D and F to the students, but he must give the students only one grade. If the professor needs to ensure that 6 students receive the same grade, what is the smallest possible number of students?
+(A) 6      
+(B) 12     
+(C) 24     
+(D) 26     
+(E) 30
+---------------------------------
+#PS#5#B#
+<p style="text-align: center;"><img align="middle" src="../../../assets/img/question/MR700-PS-5.png"/><p>On the x-y plane there are 5 line segments that have different angles shown as the above figure. If 2 line segments are randomly selected from the 5 line segments, how many angles can be formed from the selection of 2 line segments?
+(A) 8     
+(B) 10     
+(C) 12     
+(D) 15     
+(E) 18
+---------------------------------
+#PS#6#C#
+When a certain computer plays 24-point game, \(Δ\) and \(@\) each represents one of the operation, including addition, subtraction, multiplication, and division, and each of the symbols has the following probability,<br>\(Δ → +:0.3 \quad -:0.3 \quad ×:0.3 \quad ÷:0.1\)<br>\(@ → +: 0.4 \quad -: 0.2 \quad  ×: 0.3  \quad ÷:0.1\)<br>What is the probability that the computer calculates \((6Δ3)(5@1)=12\)?
+(A) 0.04     
+(B) 0.06     
+(C) 0.10     
+(D) 0.14     
+(E) 0.24
+---------------------------------
+#PS#7#B#
+The number of tournament games is represented as \(G(n)\) where n is the number of attendees of the games. 2 attendees play a game such that \(G(n+1)=G(n)+n, G(2)=1\). If the attendees’ number is 30, what is the total number of games?
+(A) 380     
+(B) 435     
+(C) 455      
+(D) 510     
+(E) 520
+---------------------------------
+#PS#8#E#
+In a certain factory, the production line that produces the toys has the probability of 0.001 that a randomly selected toy is damaged. If 100 toys are selected at random, what is the probability that at least one toy is damaged?
+(A) \(0.001^{100}\)
+(B) \((0.001)(0.999)^{100}\)
+(C) \(1-(0.001)^{100}\)
+(D) \(0.999^{100}\)
+(E) \(1-(0.999)^{100}\)
+---------------------------------
+#PS#9#D#
+We make 4 digit codes from the numbers 2, 3, 4, and 5. If none of each numbers are used more than once – for example, 2345 can be a code but 2234 cannot be a code – what is the sum of all the possible codes?
+(A) 92,324     
+(B) 92,624     
+(C) 93,124      
+(D) 93,324     
+(E) 93,424
+---------------------------------
+#PS#10#E#
+If \(n!g(n)=(n+3)!\) and \(n\) are all integers from 1 to 30, inclusive, what is the probability that \(g(n)\) is divisible by 6?
+(A) \(\frac{1}{6}\)
+(B) \(\frac{1}{5}\)
+(C) \(\frac{1}{3}\)
+(D) \(\frac{1}{2}\)
+(E) \(1\)
+---------------------------------
+#PS#11#B#
+How many ways are possible such that 4 is expressed as the sum of 5 non-negative integers?
+(A) 50         
+(B) 70         
+(C) 80        
+(D) 100        
+(E) 160
+---------------------------------
+#PS#12#C#
+There are 7 people sitting at a round table including A, B, C, D, E, F, and G, and When sitting at the table, even if they move on to the next seat along the table, people sitting next to each person are still the same, which is considered as a same case. What is the probability that A sits beside B, B sits C, C sits beside D, D sits beside E, E sits beside F, and F sits beside G?
+(A) 1/120       
+(B) 1/240       
+(C) 1/360        
+(D) 1/480        
+(E) 1/720
+---------------------------------
+#PS#13#C#
+<p style="text-align: center;"><img align="middle" src="../../../assets/img/question/MR700-PS-13.png"/><p>There is a rectangle figure above. How many rectangles can you make by connecting the grid points from the figure above? (you cannot diagonally connect the points)
+(A) 36          
+(B) 48         
+(C) 60         
+(D) 72        
+(E) 96
+---------------------------------
+#PS#14#C#
+There are 2 circular cylinders X and Y, and both cylinders contain water inside. Cylinder X has 5π square inches as the base area and 6 inches as the height of the water inside, and cylinder Y has 10π square inches as the base area and 2 inches as the height of the water inside. If the height of the water becomes the same when the water drawn from cylinder X is poured into cylinder Y, what is the height of water in these cylinders, in inches?
+(A) 2.5		
+(B) 3		
+(C) 10/3		
+(D) 4		
+(E) 4.5
+---------------------------------
+#PS#15#C#
+A certain cube has 150 inches as the length of one side. If the error of the length of one side is within 1 inch, what is the greatest possible difference between the actual volume and the estimated volume of the cube, in cubic inches?
+(A) 4,000	
+(B) 7,000	
+(C) 70,000	
+(D) 140,000	
+(E) 210,000
+---------------------------------
+#PS#16#C#
+There are 64 big cube-shaped bricks painted with yellow. How many small bricks are required to cover the entire outer surface of the big cube so that the yellow paint does not show at all?
+(A) 32		
+(B) 64		
+(C) 96		
+(D) 180		
+(E) 216
+---------------------------------
+#PS#17#B#
+<p style="text-align: center;"><img align="middle" src="../../../assets/img/question/MR700-PS-17.png"/><p>2 equilateral triangles \(XYZ\) and \(ABC\) are shown as above figure. If \(\overline{YX}=\overline{XA}=m\), and \(\overline{AB}=n\), what is the area of a square \(CKHZ\), in terms of \(m\) and \(n\).
+(A) \(\sqrt{3m^2+n^2}\)		
+(B) \(3m^2+n^2\)
+(C) \(\sqrt{3}m^2+n^2\)
+(D) \(\sqrt{m^2+3n^2}\)	
+(E) \(m^2+3n^2\)
+---------------------------------
+#PS#18#D#
+20 students including Tom take a test and Tom gets 5.8 pts higher than their average score. If the teacher gives all the 20 students an additional 10 pts question and Tom is the only one who solved it correctly, how many pts is tom’s average score higher than the average score of the total 20 students?
+(A) 6.2      
+(B) 10.4     
+(C) 10.5     
+(D) 15.3     
+(E) 16.2
+---------------------------------
+#PS#19#E#
+It rained for 12 days during the rainy season. The day with the least rainfall was 0.4 inches, and the day with the most rainfall was 9.4 inches. If the total average rainfall of 12 days was 4.0 inches, what is the maximum possible value of the median rainfall, in inches?
+(A) 4.8     
+(B) 5.2     
+(C) 5.5     
+(D) 5.8     
+(E) 6.1
+---------------------------------
+#PS#20#A#
+There are 1,000 babies. 24 percent of the babies weigh at least 3.5kg, and 60 percent of the babies that are heavier than 2.6kg weigh at least 3.5kg. Which of the following can be the median weight of the 1,000 babies?
+(A) 2.4kg     
+(B) 2.8kg     
+(C) 2.9kg     
+(D) 3.5kg     
+(E) 3.6kg
+---------------------------------
+#PS#21#B#
+From the total sports players, the ratio of soccer players to baseball players to basketball players to volleyball players is 2 to 3 to 4 to 1. Soccer players must practice soccer or weight training 8 hours per day, and of the total soccer players, 3/4 practiced soccer for 8 hours per day. Baseball players must practice baseball or weight training 10 hours per day, and of the total baseball players, 1/3 practiced baseball for 10 hours per day. Basketball players must practice basketball or weight training 12 hours per day, and of the total basketball players, 4/5 practiced basketball for 12 hours per day. Volleyball players must practice volleyball or weight training 9 hours per day, and of the total volleyball players, 1/2 played volleyball for 9 hours per day. If all players must do weight training or their sports practice for set amount of time each day, what is the approximate average number of hours did the players, who did weight training, spend on sports?
+(A) 9hrs        
+(B) 10hrs       
+(C) 12hrs        
+(D) 13hrs       
+(E) 15hrs
+---------------------------------
+#PS#22#E#
+When 120 candies are given to 25 children and the maximum number of candies for each child is 7, what is the maximum number of children who get only 1 candy?
+(A) 5     
+(B) 6     
+(C) 7     
+(D) 8     
+(E) 9
+---------------------------------
+#PS#23#D#
+If 12 children purchased 34 candies and the range of the number of candies that they purchased is 2, which of the following can be the number of children who purchased 3 candies? <br><br>I. 2 <br> II. 5  <br>  III. 11
+(A) I only     
+(B) II only     
+(C) I and II     
+(D) I and III     
+(E) I, II and III
+---------------------------------
+#PS#24#D#
+If \(0.0000125\) is between \(\frac{1}{10^n}\)  and \(\frac{1}{10^{n-1}}\)  what is the value of \(n\)?
+(A) 2       
+(B) 3     
+(C) 4      
+(D) 5       
+(E) 6
+---------------------------------
+#PS#25#E#
+\([x]\) is a smallest integer greater than or equal to \(x\) and \(\{x\}\) is a greatest integer less than or equal to \(x\). What is the value of \([1.5/\{1.5\} -1.5/[1.5]]\)?
+(A) -1     
+(B) -0.5     
+(C) 0     
+(D) 0.5     
+(E) 1
+---------------------------------
+#PS#26#C#
+\(x\), \(y\), and \(n\) are positive integers. If \(x\) and \(y\) are factors of \(n\), which of the following must be an integer? <br><br>I. \(\frac{n}{x+y}\)	 <br><br>	II. \(\frac{n}{xy}\)	<br><br>	III. \(\frac{n}{x}+\frac{n}{y}\)
+(A) I only     
+(B) II only     
+(C) III only     
+(D) I and II only     
+(E) none of them
+---------------------------------
+#PS#27#B#
+If it is well known that \((0.99)^{10}\) is approximately \(0.9\) and \((0.9)^{10}\) is approximately \(0.35\), what is the approximately value of \((0.99)^{200}\)?
+(A) \(0.1125\)     
+(B) \(0.1225\)     
+(C) \(0.1335\)     
+(D) \(0.1445\)     
+(E) \(0.1555\)
+---------------------------------
+#PS#28#D#
+How many factors of 2,310 are odd numbers greater than 1?
+(A) 7     
+(B) 8     
+(C) 11     
+(D) 15     
+(E) 16
+---------------------------------
+#PS#29#C#
+There is a sequence \(S_n\) such that \(S_1=\{1\}, S_2=\{3,5\}, S_3=\{7,9,11\}, … \). The number of elements in set \(S_{j+1}\) is 1 greater than the number of elements in set \(S_j\), and the smallest element in set \(S_{j+1}\) is 2 greater than the largest element in set \(S_j\). What is the value of the largest element of set \(S_{50}\)?
+(A) 2,509      
+(B) 2,529      
+(C) 2,549      
+(D) 2,551      
+(E) 2,569
+---------------------------------
+#PS#30#A#
+Which of the following ranges contains the approximation of \(\frac{5^{10}+5^{20}}{10^{10}+10^{20}}\)?
+(A) ~0.000001     
+(B) 0.000001~0.00001     
+(C) 0.00001~0.0001     
+(D) 0.0001~0.001     
+(E) 0.001~
+---------------------------------
+#PS#31#D#
+If the sum of the n consecutive positive integers is 68, what is the possible value of n?
+(A) 3        
+(B) 5       
+(C) 6      
+(D) 8      
+(E) 17
+---------------------------------
+#PS#32#D#
+In a certain production line, there are 8 boxes A, B, C, D, E, F, G, and H. From 18,524 balls, if 4 balls were put into each of the 8 boxes as a package in the order above, which of the following boxes did the last ball put into?
+(A) D      
+(B) E      
+(C) F      
+(D) G      
+(E) H
+---------------------------------
+#PS#33#C#
+\((5^3)a+(5^2)b+(5^1)c+(5^0)d=316\), where \(a, b, c, d\) are integers from 0 to 4, inclusive. \(b=\)?
+(A) 0      
+(B) 1      
+(C) 2      
+(D) 3      
+(E) 4
+---------------------------------
+#PS#34#B#
+For a positive integer \(n\), \(x=10^n-27\). What is the remainder when \(x\) is divided by 9?
+(A) 0          
+(B) 1          
+(C) 2            
+(D) 3       
+(E) 4
+---------------------------------
+#PS#35#C#
+If the sum of all positive factors of an integer \(n\) is \(2n\), \(n\) is a perfect number. For example, the factors of 6 are 1, 2, 3, and 6, and from the sum 1+2+3+6=12=2*6, the sum of the factors of 6 becomes 12=2*6, thus 6 is the first perfect number. Then, what is the number of factors of the second perfect number?
+(A) 4      
+(B) 5      
+(C) 6      
+(D) 8      
+(E) 12
+---------------------------------
+#PS#36#D#
+When the product of different prime factors of \(n\) is smaller than \(\sqrt{n}\), \(n\) is called “a prime-saturated number”. What is the sum of all factors of the biggest 2-digit prime-saturated number?
+(A) 96      
+(B) 97      
+(C) 132      
+(D) 252      
+(E) 326
+---------------------------------
+#PS#37#C#
+Let’s assume that 328 children are born in 1 year. Among these children, if October has the most number of births, what is the least possible value of the number of births in October?
+(A) 27         
+(B) 28         
+(C) 29        
+(D) 30         
+(E) 31
+---------------------------------
+#PS#38#A#
+If the average (arithmetic mean) of 5 integers is 0.2 smaller than the greatest number, what is the least possible number of even numbers among the integers?
+(A) One     
+(B) Two     
+(C) Three     
+(D) Four     
+(E) Five
+---------------------------------
+#PS#39#C#
+If the greatest common divisor of \((2n)!, (n-2)!\), and \((n+4)!\) is 24 where n is an integer greater than 4, what is the value of \(n\)?
+(A) 4      
+(B) 5       
+(C) 6      
+(D) 7       
+(E) 3
+---------------------------------
+#PS#40#D#
+If the product of 4 different positive integers greater than 3 is smaller than 1,000, what is the greatest possible number of these 4 integers?
+(A) 3          
+(B) 6         
+(C) 7           
+(D) 8          
+(E) 9
+---------------------------------
+#PS#41#D#
+There is a bakery in State X, and bakery is always baking the breads in a certain order. In other words, they are baking in order of roll cake, bagel, and baguette. They bake roll cake for 45 minutes, then bagel for 15 minutes, and then baguette for 50 minutes. If the bakery is baking the breads for 6 hours, what is the maximum amount of time it takes to bake the baguette?
+(A) 2 hrs     
+(B) 2 hrs 30 min     
+(C) 2 hrs 45 min     
+(D) 3 hrs     
+(E) 3 hrs 30 min
+---------------------------------
+#PS#42#B#
+The 20kg mixture comprised of water and sand is mixed evenly so that the ratio of water to sand is 8 to 2. If part of the mixture is replaced by sand to make the ratio of water to sand as 6 to 4, what is the amount of mixture replaced by sand, in kg?
+(A) 4.0	
+(B) 5.0	
+(C) 6.8	
+(D) 7.6	
+(E) 8.4
+---------------------------------
+#PS#43#D#
+Out of the total pigs in the study, male pigs are 80%, and some pigs caught a cholera. 50% of pigs that caught a cholera are males, and the total number of the male pigs in the study is \(x\) times of the male pigs that caught a cholera. Also, the total number of the female pigs in the study is \(y\) times of the female pigs that caught a cholera. What is the value of \(\frac{x}{y}\)?
+(A) 9:2	
+(B) 6:1	
+(C) 8:1	
+(D) 4:1	
+(E) 8:3
+---------------------------------
+#PS#44#C#
+\(x\) represents a certain year and \(y\) represents the production amount <br><br>I. \(x=1996, y=2000 → x=1998, y=2500 → x=2002, y=3000\)<br>II. \(x=1996, y=2400 → x=1998, y=2600 → x=2002, y=2800\)<br>III. \(x=1996, y=2000 → x=1998, y=2200 → x=2002, y=2600\)<br><br>Which of the following has the equal increase in production amount per year from 1996 to 1998 and from 1998 to 2002, respectively?
+(A) I only		
+(B) II only	
+(C) III only	
+(D) I & II		
+(E) II & III
+---------------------------------
+#PS#45#E#
+Last year at an accounting firm, accountants made up 40% of the total employees. This year, 50% of these accountants left for another company, and new accountants, which amounts to 50% of the total employees left, joined the company. What percent of the total employees are accountants this year?
+A.10%      
+(B) 20%       
+(C) 25%        
+(D) 30%      
+(E) 50%
+---------------------------------
+#PS#46#E#
+Machine A can produce toys at a constant rate of 2 units per hour and machine B can produce toys at a constant rate of 5 units per hour. If at least one of either machine A or machine B produces toys, what is the greatest possible hours when machine A and machine B work together at their constant rates so that two machines, A and B, can produce 88 units of toys in 20 hours?
+(A) 5hrs      
+(B) 6hrs     
+(C) 7hrs     
+(D) 8hrs     
+(E) 9hrs
+---------------------------------
+#PS#47#C#
+Tom and John both ride a bicycle in the same direction on an equal route at their constant speed rates of 20 km per hour and 12 km per hour, respectively. After 10 minutes Tom passes John, he reaches a gas station. How many minutes does it take John to reach the gas station?
+(A) 5 min      
+(B) 6 min     
+(C) 6 and 2/3 min     
+(D) 10 min     
+(E) 15 min
+---------------------------------
+#PS#48#B#
+There are 2 candles with the same height. It takes \(t\) mins for A to burn, and it takes \(2t\) mins for B to burn. When the candles are burnt at the same time, how many minutes did it take for the height of B to be twice the height of A?
+(A) \(\frac{t}{3}\)	
+(B) \(\frac{2t}{3}\)	
+(C) \(\frac{t}{2}\)
+(D) \(\frac{3t}{4}\)
+(E) \(\frac{4t}{5}\)
+---------------------------------
+#PS#49#E#
+There is a sequence where each term is a positive integer and at least one of each digit of the term has 3 in an ascending order. What is the value of 150th term?
+(A) 326      
+(B) 329     
+(C) 342     
+(D) 382     
+(E) 392
+---------------------------------
+#PS#50#E#
+A ball drops from a certain height. The height it will reach after rebounding from the floor is 80 percent of the previous height. The total travel is 3,104cm when it touches the floor on the third time. What is the value of the original height, in cm?
+(A) 400cm     
+(B) 500cm     
+(C) 600cm     
+(D) 700cm     
+(E) 800cm
+---------------------------------
+#PS#51#A#
+There is a sequence \(A_n\), and \(A_n=A_{n-1}/A_{n-2}\)  where n is a positive integer greater than 2. If \(A_1=2, A_2=5\), then \(A_{63}\)=?
+(A) \(\frac{\small 5}{\small 2}\) 		
+(B) \(\frac{\small 1}{\small 2}\)
+(C) \(\frac{\small 1}{\small 5}\)		
+(D) \(\frac{\small 2}{\small 5}\)
+(E) \(2\)
+---------------------------------
+#PS#52#B#
+If \(\frac{270}{3^8}=\frac{1}{3^a} + \frac{1}{3^b}\)  , what is the value of \(ab\)?
+(A) 12          
+(B) 15          
+(C) 18          
+(D) 20         
+(E) 24
+---------------------------------
+#PS#53#C#
+If \(0.003 < x-\sqrt{30} < 0.0031\), which of the following options is the approximation of \(\frac{1}{\sqrt{30}}-\frac{1}{x}\)?
+(A) 0.001      
+(B) 0.002      
+(C) 0.0001      
+(D) 0.0002      
+(E) 0.0003
+---------------------------------

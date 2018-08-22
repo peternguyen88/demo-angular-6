@@ -1,0 +1,39 @@
+<p-table [value]="reports">
+  <ng-template pTemplate="header">
+    <tr>
+      <th [pSortableColumn]="'question_set'">
+        Question Set
+        <p-sortIcon [field]="'question_set'"></p-sortIcon>
+      </th>
+      <th>Question No.</th>
+      <th>Report Content </th>
+      <th>Report Time</th>
+      <th>User</th>
+      <th>Processed</th>
+      <th>Save</th>
+      <th>Delete</th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-report>
+    <tr>
+      <td>{{report.question_set}}</td>
+      <td>{{report.question_number}}</td>
+      <td>{{report.report_content}}</td>
+      <td>{{report.report_time}}</td>
+      <td>{{report.report_user_name}}</td>
+      <td>
+        <label class="switch switch-success">
+          <input type="checkbox" class="switch-input" [ngModel]="report.processed" (change)="report.processed = !report.processed">
+          <span class="switch-slider"></span>
+        </label>
+      <td>
+        <button class="btn btn-outline-success" (click)="saveReport(report)">Save</button>
+      </td>
+      <td>
+        <button class="btn btn-outline-danger" (click)="deleteReport(report)">Delete</button>
+      </td>
+    </tr>
+  </ng-template>
+</p-table>
+
+<p-toast [style]="{marginTop: '60px'}"></p-toast>

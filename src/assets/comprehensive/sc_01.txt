@@ -1,0 +1,673 @@
+####84#COMPREHENSIVE SC PART I
+#SC#1#C#
+Giuseppe Alessi, a world-class chef whose life has been a search for the genuine and the delicious in Florentine cooking, is an accomplished scholar <span style="text-decoration: underline">not only unearthing many of his recipes from medieval and Renaissance manuscripts but also a poet and philosopher who draws</span> his inspiration from the idyllic frescoes of Etruscan tombs.
+(A) not only unearthing many of his recipes from medieval and Renaissance manuscripts but also a poet and philosopher who draws
+(B) unearthing many of his recipes both from medieval and Renaissance manuscripts, as well as a poet and a philosopher who draws
+(C) who unearths many of his recipes from medieval and Renaissance manuscripts, as well as a poet and a philosopher who draws
+(D) who unearths many of his recipes from medieval and Renaissance manuscripts, but also a poet and a philosopher drawing
+(E) who unearths many of his recipes from medieval and Renaissance manuscripts, a poet and philosopher drawing
+---------------------------------
+#SC#2#D#
+Unlike <span style="text-decoration: underline">that of earlier works on slavery. Blassingame’s</span> innovative study relies not on the records of White slave owners but on the records of the salves themselves, especially the 70 or so autobiographies and memoirs that have been preserved.
+(A) that of earlier words on slavery, Blassingame’s
+(B) that of earlier works on slavery, Blassingame in his
+(C) earlier works on slavery, Blassingame in his
+(D) earlier works on slavery, Blassingame’s
+(E) the earlier works on slavery, Blassingame in his
+---------------------------------
+#SC#3#E#
+In the sixteenth century, the push for greater precision in measuring time was <span style="text-decoration: underline">not, like more recently, motivated by complicated philosophical questions about the nature of matter and the universe, but the practical matters of navigation</span>: sailors simply needed more highly accurate timepieces in order to compute their longitude from the positions of the stars.
+(A) not, like more recently, motivated by complicated philosophical questions about the nature of matter and the universe, but the practical matters of navigation
+(B) being motivated by the practical matters of navigation, instead of complicated philosophical questions about the nature of matter and the universe, as it has been recently
+(C) motivated not by complicated philosophical questions about the nature of matter and the universe, like they were more recently, but by the practical matters of navigation
+(D) motivated by the practical matters of navigation, not complicated philosophical questions about the nature of matter and the universe, which was the case more recently
+(E) motivated not by complicated philosophical questions about the nature of matter and the universe, as has been the case more recently, but by the practical matters of navigation
+---------------------------------
+#SC#4#A#
+Currently 26 billion barrels a year, <span style="text-decoration: underline">world consumption of oil is rising at a rate of</span> 2 percent annually.
+(A) world consumption of oil is rising at a rate of
+(B) the world is consuming oil at an increasing rate of
+(C) the world’s oil is being consumed at the increasing rate of
+(D) the rise in the rate of the world’s oil consumption is
+(E) oil is consumed by the world at an increasing rate of
+---------------------------------
+#SC#5#D#
+<span style="text-decoration: underline">Turning away from literary realism to write romantic stories about the peasant life and landscape of northern Sweden, in 1909 Selma Lagerlof was the novelist who became the first woman and was also the first Swedish writer to win</span> the Nobel Prize for Literature.
+(A) Turning away from literary realism to write romantic stories about the peasant life and landscape of northern Sweden, in 1909 Selma Lagerlof was the novelist who became the first woman and was also the first Swedish writer to win
+(B) She turned away from literary realism and wrote romantic stories about the peasant life and landscape of northern Sweden, and novelist Selma Lagerlof in 1909 became the first woman as well as the first Swedish writer that won
+(C) Selma Lagerlof was a novelist who turned away from literary realism to write romantic stories about the peasant life and landscape of northern Sweden, and in 1909 she became the first woman in addition to the first Swedish writer winning
+(D) A novelist who turned away from literary realism to write romantic stories about the peasant life and landscape of northern Sweden, Selma Lagerlof became in 1909 the first woman and also the first Swedish writer to win
+(E) As a novelist, Selma Lagerlof turned away from literary realism and wrote romantic stories about the peasant life and landscape of northern Sweden, in 1909 becoming the first woman and also the first Swedish writer that won
+---------------------------------
+#SC#6#E#
+For the farmer who takes care to keep them cool, <span style="text-decoration: underline">providing them with high-energy feed, and milking them regularly. Holstein cows are producing</span> an average of 2,275 gallons of milk each per year.
+(A) providing them with high-energy feed, and milking them regularly, Holstein cows are producing
+(B) providing them with high-energy feed, and milked regularly, the Holstein cow produces
+(C) provided with high-energy feed, and milking them regularly, Holstein cows are producing
+(D) provided with high-energy feed, and milked regularly, the Holstein cow produces
+(E) provided with high-energy feed, and milked regularly, Holstein cows will produce
+---------------------------------
+#SC#7#B#
+Humans have been damaging the environment for centuries by overcutting trees and farming too intensively, and <span style="text-decoration: underline">though some protective measures, like the establishment of national forests and wildlife sanctuaries, having been taken decades ago, great increases in population</span> and in the intensity of industrialization are causing a worldwide ecological crisis.
+(A) though some protective measures, like the establishment of national forests and wildlife sanctuaries, having been taken decades ago, great increases in population
+(B) though some protective measures, such as the establishment of national forests and wildlife sanctuaries, were taken decades ago, great increases in population
+(C) though some protective measures, such as establishing national forests and wildlife sanctuaries having been taken decades ago, great population increases
+(D) with some protective measures, like establishing national forests and wildlife sanctuaries that were taken decades ago, great increases in population
+(E) with some protective measures, such as the establishment of national forests and wildlife sanctuaries, having been taken decades ago, great population increases
+---------------------------------
+#SC#8#A#
+<span style="text-decoration: underline">Galileo did not invent the telescope, but on hearing, in 1609. that such an optical instrument had been made, he</span> quickly built his own device from an organ pipe and spectacle lenses.
+(A) Galileo did not invent the telescope, but on hearing, in 1609, that such an optical instrument had been made, he
+(B) Galileo had not invented the telescope, but when he heard, in 1609, of such an optical instrument having been made,
+(C) Galileo, even though he had not invented the telescope, on hearing, in 1609, that such an optical instrument had been made, he
+(D) Even though Galileo did not invent the telescope, on hearing, in 1609, that such an optical instrument had been made,
+(E) Even though Galileo did not invent the telescope, but when he heard, 1609, of such an optical instrument being made, he
+---------------------------------
+#SC#9#C#
+In January 1994 an oil barge ran aground off the coast of San Juan, Puerto Rico, <span style="text-decoration: underline">leaking its cargo of 750.000 gallons into the ocean, while causing the pollution</span> of the city’s beaches.
+(A) leaking its cargo of 750,000 gallons into the ocean, while causing the pollution of
+(B) with its cargo of 750,000 gallons leaking into the ocean, and it polluted
+(C) and its cargo of 750,000 gallons leaked into the ocean, polluting
+(D) while it leaked its cargo of 750,000 gallons into the ocean and caused the pollution of
+(E) so that its cargo of 750,000 gallons leaked into the ocean, and they were polluting
+---------------------------------
+#SC#10#E#
+<span style="text-decoration: underline">Unlike mainstream American businesses, more than half of which fail</span>, the failure rate for businesses in the Amish community hovers around 5 percent.
+(A) Unlike mainstream American businesses, more than half of which fail
+(B) Unlike mainstream American businesses, in which the failure rate is more than half
+(C) Unlike mainstream American businesses, where more than half of them fail
+(D) While the rate of mainstream American businesses failing is more than half
+(E) While more than half of mainstream American businesses fail
+---------------------------------
+#SC#11#D#
+<span style="text-decoration: underline">Unlike the short flights of the shuttle and earlier spacecraft, which carried sufficient power in fuel cells and batteries</span>, a permanently orbiting space station will have to generate its own electricity.
+(A) the short flights of the shuttle and earlier spacecraft, which carried sufficient power in fuel cells and batteries
+(B) the shuttle and earlier spacecraft, with sufficient enough power in fuel cells and batteries for their short flights
+(C) the short flights of the shuttle and earlier spacecraft, which enabled them to carry sufficient enough power in fuel cells and batteries
+(D) the shuttle and earlier spacecraft, which were capable of carrying sufficient power in fuel cells and batteries for their short flights
+(E) the flights of the shuttle and earlier spacecraft, whose shortness allowed them to carry sufficient power in fuel cells and batteries
+---------------------------------
+#SC#12#C#
+In attempting to solve the problems caused by a lowering of the price of oil, oil companies operating in the North Sea have taken a variety of approaches, <span style="text-decoration: underline">which includes their reducing employment, using new technology to pump oil more efficiently</span> from smaller fields, and finding innovative ways to cut the cost of building and operating platforms.
+(A) which includes their reducing employment, using new technology to pump oil more efficiently
+(B) which includes reducing employment, using new technology to be more efficient in pumping oil
+(C) which include reducing employment, using new technology to pump oil more efficiently
+(D) which include the reduction of employment, their using new technology to pump oil more efficient
+(E) including a reduction of employment, their use of new technology to be more efficient at pumping oil
+---------------------------------
+#SC#13#E#
+<span style="text-decoration: underline">Five hundred million different species of living creatures have appeared on Earth, nearly 99 percent of them vanishing.</span>
+(A) Five hundred million different species of living creatures have appeared on Earth, nearly 99 percent of them vanishing.
+(B) Nearly 99 percent of five hundred million different species of living creatures that appeared on Earth have vanished.
+(C) Vanished are nearly 99 percent of the five hundred million different species of living creatures that appeared on Earth.
+(D) Of five hundred million different species of living creatures that have appeared on Earth, nearly 99 percent of them have vanished.
+(E) Of the five hundred million different species of living creatures that have appeared on Earth, nearly 99 percent have vanished.
+---------------------------------
+#SC#14#A#
+Not one of the potential investors <span style="text-decoration: underline">is expected to make an offer to buy First Interstate Bank until a merger agreement is signed that includes a provision for penalties if the deal were</span> not to be concluded.
+(A) is expected to make an offer to buy First Interstate Bank until a merger agreement is signed that includes a provision for penalties if the deal were
+(B) is expected to make an offer for buying First Interstate Bank until they sign a merger agreement including a provision for penalties if the deal was
+(C) is expected to make an offer to buy First Interstate Bank until a merger agreement be signed by them with a provision for penalties if the deal were
+(D) are expected to make an offer for buying First Interstate Bank until it signs a merger agreement with a provision for penalties included if the deal was
+(E) are expected to be making an offer to buy First Interstate Bank until they sign a merger agreement including a provision for penalties if the deal were
+---------------------------------
+#SC#15#D#
+At an orientation meeting, the travelers were told that <span style="text-decoration: underline">a visa, a landing card, and evidence of inoculation against typhoid fever would be needed by each of them</span>.
+(A) a visa, a landing card, and evidence of inoculation against typhoid fever would be needed by each of them
+(B) they would need a visa, a landing card, and evidence of their being inoculated against typhoid fever
+(C) they would need evidence of being inoculated against typhoid fever and a visa and landing card
+(D) they would each need a visa, a landing card, and evidence of inoculation against typhoid fever
+(E) they would need visas, landing cards, and evidence of inoculation against typhoid fever for each of them
+---------------------------------
+#SC#16#C#
+Scientists have dated sharp-edged flakes of stone found in the fine-grained sediments of a dry riverbed in the Afar region of Ethiopia to between 2.52 and 2.60 million years ago, pushing back by more than 150,000 years the earliest date <span style="text-decoration: underline">when it is known that humans made</span> stone tools.
+(A) when it is known that humans made
+(B) at which it is known that humans had made
+(C) at which humans are known to have made
+(D) that humans are known to be making
+(E) of humans who were known to make
+---------------------------------
+#SC#17#E#
+According to analysts, an alliance between three major personal computer companies and most of the nation’s largest local telephone companies would enable customers to receive Internet data over regular telephone lines <span style="text-decoration: underline">with speeds much higher than is</span>  currently possible.
+(A) with speeds much higher than is
+(B) with speeds that are much higher than are
+(C) at much higher speeds as are
+(D) at much higher speeds than that
+(E) at speeds much higher than are
+---------------------------------
+#SC#18#E#
+Heirloom tomatoes, grown from seeds saved from the previous year, only look less appetizing than their round and red supermarket <span style="text-decoration: underline">cousins, often green and striped, or have plenty of bumps and bruises, but are</span>  more flavorful.
+(A) cousins, often green and striped, or have plenty of bumps and bruises, but are
+(B) cousins, often green and striped, or with plenty of bumps and bruises, although
+(C) cousins, often green and striped, or they have plenty of bumps and bruises, although they are
+(D) cousins; they are often green and striped, or with plenty of bumps and bruises, although
+(E) cousins; they are often green and striped, or have plenty of bumps and bruises, but they are
+---------------------------------
+#SC#19#D#
+Researchers in Germany have unearthed 400,000-year-old wooden spears from what <span style="text-decoration: underline">it appears was an ancient lakeshore hunting ground as stunning evidence of human ancestors who</span> systematically hunted big game much earlier than believed.
+(A) it appears was an ancient lakeshore hunting ground as stunning evidence of human ancestors who
+(B) it appears had been an ancient lakeshore hunting ground and stunning evidence that human ancestors
+(C) appears was an ancient lakeshore hunting ground and is stunning evidence that human ancestors
+(D) appears to be an ancient lakeshore hunting ground, stunning evidence that human ancestors
+(E) appears that it is an ancient lakeshore hunting ground, stunning evidence of human ancestors who
+---------------------------------
+#SC#20#C#
+Birds known as honeyguides exhibit a unique pattern of behavior: the bird leads another animal, such as a honey-badger or human, to a bees’ nest <span style="text-decoration: underline">with their chattering when they fly</span> ahead; after the larger animal takes honey, the bird eats the wasp and bee larvae.
+(A) with their chattering when they fly
+(B) with chattering and its flying
+(C) by chattering as it flies
+(D) by chattering and its flying
+(E) by chattering as they are flying
+---------------------------------
+#SC#21#A#
+<span style="text-decoration: underline">Regardless of their form or function, all aerodynamically enhanced, curved objects made for throwing have been called boomerangs by non-Australians even since 1788,</span> when Europeans saw Dharug-peaking men tossing “bumariny” in the area later known as Sydney.
+(A) Regardless of their form or function, all aerodynamically enhanced, curved objects made for throwing have been called boomerangs by non-Australians even since 1788,
+(B) Regardless of their form or function, any aerodynamically enhanced, curved object made for throwing has been called a boomerang by non-Australians even since 1788,
+(C) Ever since 1788, non-Australians have called all aerodynamically enhanced, curved objects made for throwing boomerangs, regardless of their form or function, from
+(D) Ever since 1788, any aerodynamically enhanced, curved object made for throwing has been called a boomerang by non-Australians, regardless of its form or function, from
+(E) Non-Australians have called all aerodynamically enhanced, curved objects made for throwing boomerang ever since 1788, regardless of their form or function, from
+---------------------------------
+#SC#22#D#
+The electronics company has unveiled what it claims <span style="text-decoration: underline">to be the world’s smallest network digital camcorder, the length of which is that of a handheld computer, and it weighs</span> less than 11 ounces.
+(A) to be the world’s smallest network digital camcorder, the length of which is that of a handheld computer, and it weighs
+(B) to be the smallest network digital camcorder in the world, which is as long as a handheld computer, weighing
+(C) is the smallest network digital camcorder in the world, which is as long as a handheld computer, and it weighs
+(D) is the world’s smallest network digital camcorder, which is as long as a handheld computer and weighs
+(E) is the world’s smallest network digital camcorder, the length of which is that of a handheld computer, weighing
+---------------------------------
+#SC#23#C#
+The Environmental Protection Agency’s proposal to place restrictions <span style="text-decoration: underline">on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, saving</span> that the move will exacerbate the nation’s fuel supply problems.
+(A) on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, saying
+(B) on both diesel fuel and engines have sparked the oil industry to counterattack, and they say
+(C) on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, which says
+(D) both on diesel fuel and engines has sparked the oil industry to a counterattack, saying
+(E) both on diesel fuel and diesel engines have sparked the oil industry to counterattack, and it says
+---------------------------------
+#SC#24#A#
+The Acoma and Hopi are probably the two oldest surviving Pueblo communities, <span style="text-decoration: underline">both dating</span> back at least a thousand years.
+(A) both dating
+(B) both of which have dated
+(C) and each has dated
+(D) and each one dating
+(E) each one of which date
+---------------------------------
+#SC#25#B#
+Neither First Lady Eleanor Roosevelt nor Secretary of Labor Frances Perkins sought recognition by the press, and both cautiously allowed others of the Roosevelt brain trust <span style="text-decoration: underline">to take credit for the genesis of historic programs in public employment, relief, and social security that were in large measure what they had been responsible for</span>.
+(A) to take credit for the genesis of historic programs in public employment, relief, and social security that were in large measure what they had been responsible for
+(B) to take credit for the genesis of historic programs in public employment, relief, and social security for which the two women were in large measure responsible
+(C) taking credit for the genesis of historic programs in public employment, relief, and social security for which the two women were in large measure responsible
+(D) taking credit for the genesis of historic programs in public employment, relief, and social security that were in large measure what they were responsible for
+(E) taking credit for the genesis of historic programs in public employment, relief, and social security which were largely their responsibility
+---------------------------------
+#SC#26#B#
+The steel industry has changed radically over the last two decades, <span style="text-decoration: underline">as large, integrated companies such as Bethlehem Steel</span> once conducted operations from mining at one end of the process to shipping at the other have greatly downsized, or in some cases shut down altogether.
+(A) as large, integrated companies such as Bethlehem Steel
+(B) as large, integrated companies, such as Bethlehem Steel, that
+(C) with large, integrated companies, such as Bethlehem Steel, that
+(D) while large, integrated companies, such as Bethlehem Steel, that
+(E) and large, integrated companies such as Bethlehem Steel
+---------------------------------
+#SC#27#B#
+Unlike the <span style="text-decoration: underline">many winter greens that have tough leaves and thus require a lengthy cooking time, those of escarole need</span> little or no cooking.
+(A) many winter greens that have tough leaves and thus require a lengthy cooking time, those of escarole need
+(B) many winter greens that have tough leaves and thus require a lengthy cooking time, escarole needs
+(C) tough leaves of many winter greens and that they require for a lengthy cooking time, escarole needs
+(D) tough leaves of many winter greens and the requirement that they have a lengthy cooking time, those of escarole need
+(E) lengthy cooking time required by the many winter greens with tough leaves, escarole needs
+---------------------------------
+#SC#28#E#
+After several years of rapid growth, the health care company became one of the largest health care providers in the metropolitan area, <span style="text-decoration: underline">while it then proved unable to handle the increase in business, falling months behind in its payment to</span> doctors and hospitals.
+(A) while it then proved unable to handle the increase in business, falling months behind in its payment to
+(B) while it then proved unable to handle the increase in business and fell months behind in its payment to
+(C) but then it proved unable to handle the increase in business, falling months behind in its paying
+(D) but then proving unable to handle the increase in business, falling months behind in paying
+(E) but then proved unable to handle the increase in business, falling months behind in paying
+---------------------------------
+#SC#29#C#
+<span style="text-decoration: underline">The global-warming effect of ocean white caps are one of the many aspects of the ocean environment that are not vet incorporated in any detail into the computer models used for predicting</span> how rising greenhouse gas concentrations could affect climate.
+(A) The global-warming effect of ocean white caps are one of the many aspects of the ocean environment that are not yet incorporated in any detail into the computer models used for predicting
+(B) The effect on global warming of ocean white caps are one of the many aspects of the ocean environment not yet incorporated in any detail into computer models, which they use to predict
+(C) The effect of ocean white caps on global warming is one of the many aspects of the ocean environment that are not yet incorporated in any detail into the computer models used to predict
+(D) That ocean white caps have an effect on global warming is one of the many aspects of the ocean environment not yet having been incorporated in any detail into the computer models that are used for predicting
+(E) That ocean white caps have an effect on global warming is one of the many aspects of the ocean environment not yet being incorporated in any detail into computer models, which they use to predict
+---------------------------------
+#SC#30#A#
+Unearthed in China, fossils of feathered dinosaurs <span style="text-decoration: underline">offer the most dramatic evidence vet discovered of the close evolutionary relationship between dinosaurs and birds</span>.
+(A) offer the most dramatic evidence yet discovered of the close evolutionary relationship between dinosaurs and birds
+(B) offer evidence more dramatic than what has yet been discovered of the close evolutionary relationship between dinosaurs and birds
+(C) offer more dramatic evidence of the close evolutionary relationship than any yet discovered between dinosaurs and birds
+(D) have offered the most dramatic evidence of the close evolutionary relationship between dinosaurs and birds that have yet been discovered
+(E) have offered more dramatic evidence than any that has yet been discovered of the close evolutionary relationship between dinosaurs and birds
+---------------------------------
+#SC#31#B#
+Tom Bradley was mayor of Los Angeles from 1973 to 1993, <span style="text-decoration: underline">an era when the city had transformed</span> from a collection of suburban neighborhoods to the second-largest city in the United States.
+(A) an era when the city had transformed
+(B) an era during which the city was transformed
+(C) an era that transformed it
+(D) during which era the city transformed
+(E) during which the city was transformed
+---------------------------------
+#SC#32#D#
+Part of the proposed increase in state education spending is due to higher <span style="text-decoration: underline">enrollment, since the number of students in public schools have grown steadily since the mid-1980’s and, at nearly 47 million, are at</span> a record high.
+(A) enrollment, since the number of students in public schools have grown steadily since the mid- 1980’s and, at nearly 47 million, are at
+(B) enrollment, with a number of students in public schools growing steadily since the mid-1980’s and, at nearly 47 million, reaching
+(C) enrollment: since students in public schools have grown steadily in number since the mid-1980’s and, at nearly 47 million, have reached
+(D) enrollment: the number of students in public schools has grown steadily since the mid-1980’s and, at nearly 47 million, has reached
+(E) enrollment: students in public schools have grown steadily in number since the mid-1980’s and, at nearly 47million, are at
+---------------------------------
+#SC#33#E#
+Vivien Thomas, <span style="text-decoration: underline">who had no formal medical training, in struggling against overwhelming odds, he became</span> a cardiac surgeon and eventually to receive an honorary doctorate from Johns Hopkins University.
+(A) who had no formal medical training, in struggling against over whelming odds, he became
+(B) having had no formal medical training, in struggling against overwhelming odds to become
+(C) who, having no formal medical training, he struggled against overwhelming odds in becoming
+(D) who, having had no formal medical training and struggled against overwhelming odds, became
+(E) who had no formal medical training, struggled against overwhelming odds to become
+---------------------------------
+#SC#34#B#
+The yield of natural gas from Norway’s Troll gas field is expected to increase annually until the year <span style="text-decoration: underline">2005 and then to stabilize at six billion cubic feet a day, which will allow such an extraction rate at least for</span> 50 years’ production
+(A) 2005 and then to stabilize at six billion cubic feet a day, which will allow such an extraction rate at least for
+(B) 2005 and then to stabilize at six billion cubic feet a day, an extraction rate that will allow at least
+(C) 2005 and then stabilizing at six billion cubic feet a day, with such an extraction rate at the least allowing
+(D) 2005, then stabilizing at six billion cubic feet a day, allowing such an extraction rate for at least
+(E) 2005, then stabilizing at six billion cubic feet a day, which will allow such an extraction rate for at least
+---------------------------------
+#SC#35#B#
+In archaeology, there must be a balance <span style="text-decoration: underline">between explanation of the value and workings of archaeology, revealing the mysteries of past and present cultures, and to promote</span> respect for archaeological sites.
+(A) between explanation of the value and workings of archaeology, revealing the mysteries of past and present cultures, and to promote
+(B) among explaining the value and workings of archaeology, revealing the mysteries of past and present cultures, and promoting
+(C) between explaining the value and workings of archaeology, revealing the mysteries of past and present cultures, and when promoting
+(D) among explaining the value and workings of archaeology, the revelation of the mysteries of past and present cultures, and to promote
+(E) between explaining archaeology’s value and workings, in the revealing the mysteries of past and present cultures, and in promoting
+---------------------------------
+#SC#36#D#
+According to a 1996 survey by the National Association of College and University Business Officers, more than three times as many independent institutions of higher education charge tuition and fees of under $8,000 a year <span style="text-decoration: underline">than those that charge</span> over $16,000.
+(A) than those that charge
+(B) than are charging
+(C) than to charge
+(D) as charge
+(E) as those charging
+---------------------------------
+#SC#37#A#
+Discussion of greenhouse effects has usually focused on whether the Earth would warm and by how much, but climatologists have indicated all along that <span style="text-decoration: underline">the most obvious effects, and those that would have the largest impact on people, would be extremes of temperature, precipitation, and storminess</span>.
+(A) the most obvious effects, and those that would have the largest impact on people, would be extremes of temperature, precipitation, and storminess
+(B) the effects that are the most obvious ones, extremes of temperature, precipitation, and storminess, would be those impacting the most on people
+(C) those effects to have the largest impact on people, extremes of temperature, precipitation, and storminess, are what are the most obvious effects
+(D) extremes of temperature, precipitation, and storminess, the most obvious effects, that they would have the largest impact on people
+(E) extremes of temperature, precipitation, and storminess, which are the most obvious effects, are those to impact the most on people
+---------------------------------
+#SC#38#D#
+Unlike most severance packages, which require workers to stay until <span style="text-decoration: underline">the last day scheduled to collect, workers at the automobile company are eligible for its severance package</span> even if they find a new job before they are terminated.
+(A) the last day scheduled to collect, workers at the automobile company are eligible for its severance package
+(B) the last day they are scheduled to collect, workers are eligible for the automobile company’s severance package
+(C) their last scheduled day to collect, the automobile company offers its severance package to workers
+(D) their last scheduled day in order to collect, the automobile company’s severance package is available to workers
+(E) the last day that they are scheduled to collect, the automobile company’s severance package is available to workers
+---------------------------------
+#SC#39#E#
+<span style="text-decoration: underline">Studying the fruit fly, a household nuisance but a time-honored experimental subject, has enabled the secrets of how embryos develop to begin to be unraveled by scientists</span>.
+(A) Studying the fruit fly, a household nuisance but a time-honored experimental subject, has enabled the secrets of how embryos develop to begin to be unraveled by scientists.
+(B) By the study of the fruit fly, a household nuisance and also a time-honored experimental subject, it was possible for the secrets of how embryos develoOp to begin to be unraveled by scientists.
+(C) By studying a household nuisance but a time-honored experimental subject, the fruit fly enabled scientists to begin to unravel the secrets of how embryos develop.
+(D) By studying the fruit fly, a household nuisance and also a time-honored experimental subject, the secrets of how embryos develop are beginning to be unraveled by scientists.
+(E) The study of the fruit fly, a household nuisance but a time-honored experimental subject, has enabled scientists to begin to unravel the secrets of how embryos develop.
+---------------------------------
+#SC#40#D#
+The Industrial Revolution, <span style="text-decoration: underline">making it possible to mass-produce manufactured goods, was marked by their use of</span> new machines, new energy sources, and new basic materials.
+(A) making it possible to mass-produce manufactured goods, was marked by their use of
+(B) making possible the mass production of manufactured goods, marked by the use of
+(C) which made it possible that manufactured goods were mass-produced, was marked by their using
+(D) which made possible the mass production of manufactured goods, was marked by the use of
+(E) which made the mass production of manufactured goods possible and was marked by using
+---------------------------------
+#SC#41#C#
+Japan’s abundant rainfall and the typically mild temperature throughout most of the country have produced a lush vegetation cover and, despite the mountainous terrain and generally poor soils, <span style="text-decoration: underline">it has made possible the raising of</span> a variety of crops.
+(A) it has made possible the raising of
+(B) has made it possible for them to raise
+(C) have made it possible to raise
+(D) have made it possible for raising
+(E) thus making it possible for them to raise
+---------------------------------
+#SC#42#A#
+Recent findings lend strong support to the theory <span style="text-decoration: underline">that a black hole lies at the center of the Milky Wav and of</span> many of the 100 billion other galaxies estimated to exist in the universe.
+(A) that a black hole lies at the center of the Milky Way and of
+(B) that a black hole lies at the Milky Way’s center and
+(C) that there is a black hole lying at the Milky Way’s center and
+(D) of a black hole lying at the Milky Way’s center and
+(E) of a black hole that lies at the center of the Milky Way and of
+---------------------------------
+#SC#43#E#
+For many revisionist historians, Christopher Columbus has come to personify <span style="text-decoration: underline">devastation and enslavement in the name of progress that has decimated native peoples of the Western Hemisphere</span>.
+(A) devastation and enslavement in the name of progress that has decimated native peoples of the Western Hemisphere
+(B) devastation and enslavement in the name of progress by which native peoples of the Western Hemisphere decimated
+(C) devastating and enslaving in the name of progress those native peoples of the Western Hemisphere which in the name of progress are decimated
+(D) devastating and enslaving those native peoples of the western Hemisphere which in the name of progress are decimated
+(E) the devastation and enslavement in the name of progress that have decimated the native peoples of the Western Hemisphere
+---------------------------------
+#SC#44#B#
+A Harvard anthropologist has proposed that <span style="text-decoration: underline">using fire to cook food could be dated back to almost two million years and that it could explain hominid features like having</span> a large brain and small teeth.
+(A) using fire to cook food could be dated back to almost two million years and that it could explain hominid features like having
+(B) the use of fire to cook food could date back almost two million years and could explain such hominid features as
+(C) cooking food with fire could date back to almost two million years, explaining hominid features like
+(D) fire used to cook food could date back almost two million years, explaining hominid features such as having
+(E) fire used for cooking food could be dated back to almost two million years and explain hominid features like
+---------------------------------
+#SC#45#A#
+<span style="text-decoration: underline">Until recently, the Inuit people led a nomadic existence, sheltering</span> in igloos, the ice-block domes that are peculiar to north-central Canada, and in structures made of stones, bones, driftwood, and skins.
+(A) Until recently, the Inuit people led a nomadic existence, sheltering
+(B) During recent times, the Inuit people lead a nomadic existence, sheltering
+(C) In the times that are recent, the Inuit people led a nomadic existence, sheltered
+(D) Up until recently, the Inuit people, leading a nomadic existence, have sheltered
+(E) Until recent times, leading a nomadic existence, the Inuit people were sheltered
+---------------------------------
+#SC#46#E#
+In contrast to environmentalists’ proposals to limit emissions of certain pollutants, the <span style="text-decoration: underline">administration proposed calling for mandatory restrictions of</span> only three such pollutants from power plants-mercury, sulfur dioxide, and nitrogen oxides-and the plan would delay such cuts until 2010 or later.
+(A) administration proposed calling for mandatory restriction of
+(B) administration proposed a call for mandatory restrictions, including those for
+(C) administration, proposing mandatory restrictions on
+(D) administration’s proposal was a call for mandatory restrictions, which include
+(E) administration’s proposal would call for mandatory restrictions on
+---------------------------------
+#SC#47#C#
+Most states impose limitations on the authority of the legislature <span style="text-decoration: underline">to borrow money, with their objectives being to protect</span> taxpayers and the credit of the state government.
+(A) to borrow money, with their objectives being to protect
+(B) to borrow money, the objectives of which are the protecting of
+(C) to borrow money, limitations intended to protect
+(D) for borrowing money, of which the objective is protecting
+(E) for borrowing money, limitations with the intent of protecting
+---------------------------------
+#SC#48#B#
+Because fish look through water, their eyes are very different <span style="text-decoration: underline">from a mammal</span>.
+(A) from a mammal
+(B) from a mammal’s
+(C) from that of a mammal
+(D) than that of a mammal
+(E) than is a mammal’s
+---------------------------------
+#SC#49#E#
+The army cutworm moth is a critical source of fat for many of Yellowstone National Park’s grizzly <span style="text-decoration: underline">bears; they overturn rocks to find them and consuming as</span> many as 40,000 apiece in a single day.
+(A) bears; they overturn rocks to find them and consuming as many as
+(B) bears; overturning rocks to find the insects, consuming up to
+(C) bears, overturning rocks to find them and they consume as many as
+(D) bears, and they overturn rocks to find them and consume up to
+(E) bears, which overturn rocks to find the insects, consuming as many as
+---------------------------------
+#SC#50#D#
+New items developed for automobiles in the 1997 model year included a safer air bag, which, unlike previous air bags, eliminated the possibility that a burst of smoke would appear when the bag <span style="text-decoration: underline">inflated, and making</span> an already terrified passenger think the car was on fire.
+(A) inflated, and making
+(B) inflated, so that it could make
+(C) inflated and made
+(D) inflated and make
+(E) inflated to make
+---------------------------------
+#SC#51#C#
+Though the law will require emissions testing of all diesel vehicles, from tractor trailers to excursion buses, it will have no effect on sport utility vehicles, almost all of which are gasoline <span style="text-decoration: underline">powered, and will not be subjected to emissions-control standards as stringent as they are for</span> diesel-powered vehicles.
+(A) powered, and will not be subjected to emissions-control standards as stringent as they are for
+(B) powered, and therefore not subjected to emissions-control standards that are as stringent as those of
+(C) powered and therefore not subject to emissions-control standards as stringent as those for
+(D) powered, which are not subject to emissions-control standards as stringent as they are for
+(E) powered and therefore they are not subject to emissions-control standards as stringent as those of
+---------------------------------
+#SC#52#C#
+Doctors hope that one day the body’s master cells, called stem cells, can be directed to grow in organs or tissues appropriate for <span style="text-decoration: underline">transplant, use them to test drugs and potentially toxic chemicals, and may study them</span> to gain insight into basic human biology.
+(A) transplant, use them to test drugs and potentially toxic chemicals, and may study them
+(B) transplant, using them to test drugs and potentially toxic chemicals, and studied
+(C) transplant, used to test drugs and potentially toxic chemicals, and studied
+(D) a transplant, use them for testing drugs and potentially toxic chemicals, and for studying
+(E) a transplant, used to test drugs and potentially toxic chemicals, and may study them
+---------------------------------
+#SC#53#A#
+Navigators have known for thousands of years that the ocean has variable currents, but it is only in the last half century that <span style="text-decoration: underline">a reasonably clear picture has emerged of the patterns and causes of ocean currents</span>.
+(A) a reasonably clear picture has emerged of the patterns and causes of ocean currents
+(B) a reasonably clear picture of the patterns of ocean currents and their causes have emerged
+(C) a reasonably clear picture emerged of ocean currents, their patterns and the causes of them
+(D) there have emerged a reasonably clear picture of the patterns of ocean currents and what caused them
+(E) there had emerged a reasonably clear picture of the patterns of ocean currents and their causes
+---------------------------------
+#SC#54#C#
+Medicare, the United States government’s health insurance program for the elderly and disabled, covers the full cost of home health care, <span style="text-decoration: underline">but not with other nonhospital services where 20 percent of the costs must be paid by beneficiaries</span>.
+(A) but not with other nonhospital services where 20 percent of the costs must be paid by beneficiaries
+(B) but not of other nonhospital services, making beneficiaries pay 20 percent of the costs
+(C) but not of other nonhospital services, for which beneficiaries must pay 20 percent of the costs
+(D) which is unlike other nonhospital services in that 20 percent of the costs must be paid by beneficiaries
+(E) which is unlike other nonhospital services that make beneficiaries pay 20 percent of the costs
+---------------------------------
+#SC#55#D#
+Deliberately imitating the technique of Louis Armstrong, jazz singer <span style="text-decoration: underline">Billie Holiday’s approach to singing was to use her voice like an instrument, in that she ranged freely over the beat, flattened</span> out the melodic contours of tunes, and, in effect, recomposed songs to suit her range, style, and artistic sensibilities.
+(A) Billie Holiday’s approach to singing was to use her voice like an instrument, in that she ranged freely over the beat, flattened
+(B) Billie Holiday’s approach to singing was to use her voice in a similar way to how other musicians play instruments, in ranging freely over the beat, flattening
+(C) Billie Holiday approached singing by using her voice like other musicians played instruments, ranging freely over the beat, flattening
+(D) Billie Holiday used her voice in the same way that other musicians use their instruments, in that she ranged freely over the beat, flattening
+(E) Billie Holiday approached singing by using her voice like other musicians instruments, ranging freely over the beat, flattening
+---------------------------------
+#SC#56#E#
+The particular design of muscles and bones in the neck and limbs of the turtle <span style="text-decoration: underline">allow that it can draw in its exposed parts such that</span> an attacker can find nothing but hard shell to bite.
+(A) allow that it can draw in its exposed parts such that
+(B) allow it to draw in its exposed parts, and so
+(C) allows for it to draw in its exposed parts and that
+(D) allows that it can draw in its exposed parts, and so
+(E) allows it to draw in its exposed parts, so that
+---------------------------------
+#SC#57#E#
+The relative prosperity of the first years of the twentieth century came to a halt in 1907 when drains on the money <span style="text-decoration: underline">supply, revealing a weak national financial infrastructure of banking and credit, it precipitated</span> an economic crisis that lasted nearly a year.
+(A) supply, revealing a weak national financial infrastructure of banking and credit, it precipitated
+(B) supply, revealing a weak national financial infrastructure of banking and credit, they precipitated
+(C) supply both revealed a weak national financial infrastructure of banking and credit and precipitating
+(D) supply revealed both a weak national financial infrastructure of banking and credit and precipitating
+(E) supply revealed a weak national infrastructure of banking and credit and precipitated
+---------------------------------
+#SC#58#B#
+The reasons for yesterday’s sharp rise in the stock market were much the same as <span style="text-decoration: underline">that</span> behind last week’s rally: a surge in the economy to a 5.6 percent annual growth rate and improved corporate earnings balanced by the lack of signs of inflationary pressure.
+(A) that
+(B) those
+(C) what was
+(D) for that
+(E) they were
+---------------------------------
+#SC#59#C#
+The most vexing problem faced by researchers exploring wind-powered generation of electricity is <span style="text-decoration: underline">achieving a constant flow of power from an unpredictable natural source that meets demand, but so the flow does not overload</span> electrical grids with sudden voltage increases.
+(A) achieving a constant flow of power from an unpredictable natural source that meets demand, but so the flow does not overload
+(B) achieving a constant flow of power from an unpredictable natural source, which meets demand but without overloading
+(C) how to achieve a constant flow of power from an unpredictable natural source, a flow that meets demand but does not overload
+(D) how to achieve a constant flow of power from an unpredictable natural source, but a flow that meets demand without overloading
+(E) how a constant flow of power from an unpredictable natural source can be achieved, which meets demand but does not overload
+---------------------------------
+#SC#60#D#
+Responding to the public’s fascination with-and sometimes undue alarm over-possible threats from asteroids, <span style="text-decoration: underline">a scale developed by astronomers rates the likelihood that a particular asteroid or comet may</span> collide with Earth.
+(A) a scale developed by astronomers rates the likelihood that a particular asteroid or comet may
+(B) a scale that astronomers have developed rates how likely it is for a particular asteroid or comet to
+(C) astronomers have developed a scale to rate how likely a particular asteroid or comet will be to
+(D) astronomers have developed a scale for rating the likelihood that a particular asteroid or comet will
+(E) astronomers have developed a scale that rates the likelihood of a particular asteroid or comet that may
+---------------------------------
+#SC#61#B#
+In 1981 children in the United States spent an average of slightly less than two and a half hours a week doing household <span style="text-decoration: underline">chores; by 1997 they had spent nearly six hours a week</span>.
+(A) chores; by 1997 they had spent nearly six hours a week
+(B) chores; by 1997 that figure had grown to nearly six hours a week
+(C) chores, whereas nearly six hours a week were spent in 1997
+(D) chores, compared with a figure of nearly six hours a week in 1997
+(E) chores, that figure growing to nearly six hours a week in 1997
+---------------------------------
+#SC#62#C#
+Trans World Entertainment Corporation, which owns the Record Town and Saturday Matinee retail chains, announced <span style="text-decoration: underline">that since sales of up to one-fourth of its stores are poor, they will be closed</span>.
+(A) that since sales of up to one-fourth of its stores are poor, they will be closed
+(B) it is closing up to one-fourth of its stores, which accounted for its poor sales
+(C) it was closing up to one fourth of its stores because of poor sales
+(D) to be closing, on account of poor sales, up to one-fourth of its stores
+(E) having poor sales, such that up to one-fourth of its stores will be closed
+---------------------------------
+#SC#63#B#
+Finally reaching a decision on an issue that has long been politically charged in the Pacific Northwest, <span style="text-decoration: underline">politicians decided to postpone by at least five years an ambitious plan to protect wild salmon and other endangered fish, instead of which they proposed a series of smaller steps, by which they intend</span> to protect the fish.
+(A) politicians decided to postpone by at least five years an ambitious plan to protect wild salmon and other endangered fish, instead of which they proposed a series of smaller steps, by which they intend
+(B) politicians decided to postpone by at least five years an ambitious plan to protect wild salmon and other endangered fish, proposing instead a series of smaller steps intended
+(C) politicians decided to postpone by at least five years an ambitious plan for protecting wild salmon and other endangered fish, and instead they proposed a series of smaller steps, intending
+(D) an ambitious plan to protect wild salmon and other endangered fish was postponed by politicians, who instead proposed a series of smaller steps, intending
+(E) an ambitious plan to protect wild salmon and other endangered fish has been postponed by politicians, proposing instead a series of smaller steps intended
+---------------------------------
+#SC#64#D#
+Providing initial evidence that airports are a larger source of pollution than they were once believed to be, environmentalists in Chicago report that the total amount of pollutant emitted annually by vehicles at O’Hare International Airport is twice <span style="text-decoration: underline">as much as that which is being emitted annually by all</span> motor vehicles in the Chicago metropolitan area.
+(A) as much as that which is being emitted annually by all
+(B) as much annually as is emitted by the
+(C) as much compared to what is annually emitted by all
+(D) that emitted annually by all
+(E) that emitted annually compared to the
+---------------------------------
+#SC#65#E#
+The quality of early pieces of blown glass excavated in Italy and Western Europe <span style="text-decoration: underline">by far surpass those of pieces from the eastern Mediterranean, when regarded not only in terms of</span> the variety of shapes represented, but also in terms of decorative techniques and functionality.
+(A) by far surpass those of pieces from the eastern Mediterranean, when regarded not only in terms of
+(B) surpasses by far those from the eastern Mediterranean, with regard not only to
+(C) far surpass that of pieces from the eastern Mediterranean, not only regarding
+(D) far surpasses that of the eastern Mediterranean, with regard to not only
+(E) far surpasses that of pieces from the eastern Mediterranean, not only with regard to
+---------------------------------
+#SC#66#A#
+The Near Earth Asteroid Rendezvous (NEAR) spacecraft will orbit the asteroid Eros for a year, slowly moving closer to the surface of the object <span style="text-decoration: underline">to make ever more precise measurements that scientists hope will enable them to</span> understand how the solar system formed some four billion years ago.
+(A) to make ever more precise measurements that scientists hope will enable them to
+(B) to make ever more and more precise measurements, which scientists are hoping to enable them
+(C) for making ever more precise measurements, and scientists hope that they will be able to
+(D) with the purpose of making more precise measurements than ever, and which scientists hope will enable them to
+(E) in order to make more precise measurements than it ever did, and scientists are hoping they will be able to
+---------------------------------
+#SC#67#A#
+According to some botanists, invasive plants are the second most serious <span style="text-decoration: underline">threat, after habitat loss, to native species of plants and animals and to the maintenance</span> of biologically diverse ecosystems.
+(A) threat, after habitat loss, to native species of plants and animals and to the maintenance of biologically diverse ecosystems
+(B) threat, after habitat loss, to native species of plants and animals and for maintaining biologically diverse ecosystems
+(C) threat, after losing their habitat, to native species of plants and animals and also to maintenance of biologically diverse ecosystems
+(D) threat to native species of plants and animals and for maintaining biologically diverse ecosystems, after habitat loss
+(E) threat to native species of plants and animals as well as to maintaining biologically diverse ecosystems, after losing their habitat
+---------------------------------
+#SC#68#E#
+Scientists claim that the discovery of the first authenticated mammal bones in amber could provide important clues <span style="text-decoration: underline">of determining, in addition to how, when mammals colonized the islands of the West Indies</span>.
+(A) of determining, in addition to how, when mammals colonized the islands of the West Indies
+(B) in the determination of how and when the islands of the West Indies were colonized by mammals
+(C) to determine how mammals colonized the islands of the West Indies and when they did
+(D) for determining when the islands of the West Indies were colonized by mammals and how they were
+(E) for determining how and when mammals colonized the islands of the West Indies
+---------------------------------
+#SC#69#E#
+Although women’s wages are improving, Department of Labor statistics show that the ratio of their earnings <span style="text-decoration: underline">with that of men have been</span> roughly static since 1960.
+(A) with that of men have been
+(B) to that of men are
+(C) to those of men have been
+(D) with those of men is
+(E) to those of men has been
+---------------------------------
+#SC#70#C#
+<span style="text-decoration: underline">In the Louisiana Purchase of 1803. the United States acquired 828.000 square miles for about four cents an acre, which more than doubled the country’s size and that brought</span> its western border within reach of the Pacific Ocean.
+(A) In the Louisiana Purchase of 1803, the United States acquired 828,000 square miles for about four cents an acre, which more than doubled the country’s size and that brought
+(B) For about four cents an acre the United States acquired, in the Louisiana Purchase of 1803, 828,0 square miles, more than doubling the country’s size and it brought
+(C) With the Louisiana Purchase in 1803, the United States acquired 828,000 square miles for about four cents an acre, more than doubling its size and bringing
+(D) The United States, in the Louisiana Purchase of 1803, for about four cents an acre, acquired 828,0 square miles, more than doubling the country’s size, bringing
+(E) Acquiring 828,000 square miles in the Louisiana Purchase of 1803, the United States bought it for about four cents an acre, more than doubling the country’s size and bringing
+---------------------------------
+#SC#71#C#
+In an attempt to attract more tourists, <span style="text-decoration: underline">the Swiss government commissioned several life-size fiberglass cow statues, having them decorated by local artists, and</span> set them up on the streets of Zurich.
+(A) the Swiss government commissioned several life-size fiberglass cow statues, having them decorated by local artists, and
+(B) the Swiss government commissioned several life-size fiberglass cow statues, they were decorated by local artists, and then
+(C) the Swiss government commissioned several life-size fiberglass cow statues, had them decorated by local artists, and
+(D) several life-size fiberglass cow statues were commissioned by the Swiss government, decorated by local artists, and then
+(E) several life-size fiberglass cow statues, commissioned by the Swiss government, were decorated by local artists, and they
+---------------------------------
+#SC#72#E#
+In the 1820’s, anthracite coalfields opened in eastern Pennsylvania, and <span style="text-decoration: underline">when canals and eventually railroads reached into the region, there were substantial supplies of coal that was</span> exported to the nation’s growing mills, forges, factories, and railways.
+(A) when canals and eventually railroads reached into the region, there were substantial supplies of coal that was
+(B) once canals and eventually railroads reaching into the region, there were substantial supplies of coal having been
+(C) with canals and eventually railroads reaching into the region, there had been substantial supplies of coal
+(D) canals and eventually railroads reached into the region, with substantial supplies of coal being
+(E) as canals and eventually railroads reached into the region, substantial supplies of coal were
+---------------------------------
+#SC#73#A#
+According to entomologists, single locusts are quiet creatures, but <span style="text-decoration: underline">when locusts are placed with others of their species,</span> they become excited, change color, vibrate, and even hum.
+(A) when locusts are placed with others of their species,
+(B) when placing them with others of their species, then
+(C) locusts, when placed with others of their species,
+(D) placing them with others of their species,
+(E) placed with others of their species, then
+---------------------------------
+#SC#74#E#
+Until the passage of the Piracy and Counterfeiting Amendments Act in 1982, a first-time charge of copyright infringement was merely a misdemeanor <span style="text-decoration: underline">charge, federal prosecutors being unlikely in pursuing criminal copyright infringers, while offenders were</span> subject to relatively small penalties.
+(A) charge, federal prosecutors being unlikely in pursuing criminal copyright infringers, while offenders were
+(B) charge, with federal prosecutors who were unlikely to pursue criminal copyright infringers, offenders being
+(C) charge, federal prosecutors unlikely to pursue criminal copyright infringers, while offenders were
+(D) charge; therefore, federal prosecutors were unlikely in pursuing criminal copyright infringers and offenders being
+(E) charge; therefore, federal prosecutors were unlikely to pursue criminal copyright infringers, and offenders were
+---------------------------------
+#SC#75#D#
+Unlike the body’s inflammatory response to cuts and sprains, <span style="text-decoration: underline">with widespread swelling and stiffness immobilizing the injured area until it heals, the body’s response to sunburn is more localized and resulting</span>  in a distinct line dividing affected and unaffected areas of the skin.
+(A) with widespread swelling and stiffness immobilizing the injured area until it heals, the body’s response to sunburn is more localized and resulting
+(B) where the injured area is immobilized with widespread swelling and stiffness until it has healed, sunburn generates a more localized response in the body, which results instead
+(C) with the injured area immobilized by means of widespread swelling and stiffness until healing, sunburn generates a more localized response in the body, one resulting
+(D) in which widespread swelling and stiffness immobilize the injured area until it has healed, the body’s more localized response to sunburn results
+(E) in which widespread swelling and stiffness immobilize the injured area until healing, instead, the body’s more localized response to sunburn results
+---------------------------------
+#SC#76#B#
+Roughly one-half of the world’s population, <span style="text-decoration: underline">including virtually all of East and Southeast Asia also, is wholly dependent on rice to be</span>  its staple food.
+(A) including virtually all of East and Southeast Asia also, is wholly dependent on rice to be
+(B) including virtually all of East and Southeast Asia, is wholly dependent on rice as
+(C) virtually all of East and Southeast Asia as well, wholly dependent on rice as
+(D) which includes virtually all of East and Southeast Asia’s, being wholly dependent on rice as
+(E) which includes virtually all of East and Southeast Asia also, is wholly dependent on rice to be
+---------------------------------
+#SC#77#A#
+After increasing steadily for centuries, the total annual catch of all wild <span style="text-decoration: underline">fish peaked in 1989; since that time, the total catch for most species has declined or plateaued. prompting</span> conservation efforts designed to help prevent population crashes and possible extinctions.
+(A) fish peaked in 1989; since that time, the total catch for most species has declined or plateaued, prompting
+(B) fish peaked in 1989, but with the total catch since then declining or plateauing in the case of most species, prompting
+(C) fish had peaked in 1989; since that time, the decline or plateau of the total catch for most species, which prompted
+(D) fish, which peaked in 1989, and, in the case of most species, it has declined or plateaued since, prompted
+(E) fish, which peaked in 1989 but has since declined or plateaued for most species, and this prompted
+---------------------------------
+#SC#78#B#
+During the eighteenth century, widespread changes in agriculture, known as the agrarian  <span style="text-decoration: underline">revolution, involving the large-scale introduction of enclosed fields, of new farming techniques and crops, and</span> the substitution of commercial for subsistence farming.
+(A) revolution, involving the large-scale introduction of enclosed fields, of new farming techniques and crops, and
+(B) revolution, involved the large-scale introduction of enclosed fields and of new farming techniques and crops, and
+(C) revolution, which involved the large-scale introduction of enclosed fields and of new farming techniques and crops, and
+(D) revolution involved the large-scale introduction of enclosed fields, new farming techniques and crops, and of
+(E) revolution that involved the large-scale introduction of enclosed fields and new farming techniques and crops, and of
+---------------------------------
+#SC#79#E#
+More than fifty years after the Second World War, a number of African American soldiers were awarded—some of them posthumously— <span style="text-decoration: underline">with the Congressional Medal of Honor, which was the nation’s highest military award, and which was long overdue in</span> recognition of their outstanding bravery.
+(A) with the Congressional Medal of Honor, which was the nation’s highest military award, and which was long overdue in
+(B) with the Congressional Medal of Honor, the nation’s highest military award for long-overdue
+(C) the Congressional Medal of Honor, which was the nation’s highest military award, long-overdue in
+(D) the Congressional Medal of Honor, the nation’s highest military award for long-overdue
+(E) the Congressional Medal of Honor, the nation’s highest military award, in long-overdue
+---------------------------------
+#SC#80#A#
+The discovery that Earth’s inner <span style="text-decoration: underline">core rotates independently of and more quickly than Earth’s outer layers is responsible for advancing studies of the flow of heat from the inner through the outer planet and of the formation and periodic reversal in direction of Earth’s magnetic field.</span>
+(A) core rotates independently of and more quickly than Earth’s outer layers is responsible for advancing studies of the flow of heat from the inner through the outer planet and of the formation and periodic reversal in direction of Earth’s magnetic field
+(B) core rotates independently of and more quickly than Earth’s outer layers is responsible for advancing studies of how heat from the inner core flows through the outer planet, and the formation and periodic reversal in direction of Earth’s magnetic field
+(C) core rotates independently and more quickly than Earth’s outer layers are responsible for advancing studies of how heat from the inner core flows through the outer planet, and how Earth’s magnetic field forms and the periodic reversal of its direction
+(D) core, rotating independently and more quickly than Earth’s outer layers, are responsible for advancing studies of the flow of heat from the inner through the outer planet, and the formation and periodic reversal in direction of Earth’s magnetic field
+(E) core, rotating independently of and more quickly than Earth’s outer layers, is responsible for advancing studies of the flow of heat from the inner through the outer planet and of how Earth’s magnetic field forms and the periodic reversal of its direction
+---------------------------------
+#SC#81#C#
+Until a few centuries ago, any large bones discovered in the fields or caves of Europe, <span style="text-decoration: underline">now known to be large prehistoric animals, were usually assumed to be</span> the remains of giants and were often displayed as curiosities in castles, palaces, town halls, churches, and monasteries.
+(A) now known to be large prehistoric animals, were usually assumed to be
+(B) presently known as from large prehistoric animals, were usually assumed as
+(C) bones now known to be those of large prehistoric animals, were usually assumed to be
+(D) bones known at present as of large prehistoric animals, were usually assumed as those of
+(E) currently known as those of large prehistoric animals, were usually assumed to be those of
+---------------------------------
+#SC#82#E#
+The principal feature of the redesigned checks is a series of printed instructions that the company hopes will help merchants confirm a check’s authenticity, <span style="text-decoration: underline">which includes reminders to watch the endorsement, compare signatures, and view</span> the watermark while holding the check to the light.
+(A) which includes reminders to watch the endorsement, compare signatures, and view
+(B) which include reminders for watching the endorsement, to compare signatures and view
+(C) by including reminders for watching the endorsement, comparing signatures, and viewing
+(D) including reminders to watch the endorsement, comparing signatures and viewing
+(E) including reminders to watch the endorsement, compare signatures, and view
+---------------------------------
+#SC#83#E#
+In 1850 Lucretia Mott published her Discourse on Women, <span style="text-decoration: underline">arguing in a treatise for women to have equal political and legal rights</span> and for changes in the married women’s property laws
+(A) arguing in a treatise for women to have equal political and legal rights
+(B) arguing in a treatise for equal political and legal rights for women
+(C) a treatise that advocates women’s equal political and legal rights
+(D) a treatise advocating women’s equal political and legal rights
+(E) a treatise that argued for equal political and legal rights for women
+---------------------------------
+#SC#84#E#
+In little more than a decade, Argentina has become the world’s leading exporter of honey, <span style="text-decoration: underline">with nearly 90.000 tons a year sold to foreign markets, almost half of which going</span> to the United States
+(A) with nearly 90,000 tons a year sold to foreign markets, almost half of which going
+(B) with the sale of nearly 90,000 tons a year to foreign markets, and almost half of it that goes
+(C) with the sale to foreign markets of nearly 90,000 tons a year, with almost half of it going
+(D) selling nearly 90,000 tons a year to foreign markets, and almost half of it goes
+(E) selling nearly 90,000 tons a year to foreign markets, with almost half going
+---------------------------------

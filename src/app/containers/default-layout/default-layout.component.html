@@ -1,0 +1,49 @@
+<app-header
+  [fixed]="true"
+  [navbarBrandFull]="{src: 'assets/img/brand/logo.png', width: 89, height: 25, alt: 'Zeth Logo'}"
+  [navbarBrandMinimized]="{src: 'assets/img/brand/logo.png', width: 30, height: 30, alt: 'Zeth Logo'}"
+  [sidebarToggler]="'lg'"
+  [asideMenuToggler]="'lg'">
+
+  <h4 style="text-align: center; flex: 1 1 auto; margin-top: 15px;" class="d-md-down-none">GMAT - Zero To Hero</h4>
+
+  <button class="loginBtn loginBtn--facebook" style="margin-top: 10px; cursor: pointer;" *ngIf="!isLogin()" (click)="login()">Login with Facebook</button>
+
+  <ul class="nav navbar-nav ml-auto" *ngIf="isLogin()">
+    <li class="nav-item dropdown" dropdown placement="bottom right">
+      <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" dropdownToggle (click)="false">
+        <img src="{{user?.providerData[0].photoURL}}" class="img-avatar">
+        <span class="hidden-md-down">{{user?.displayName}}</span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" *dropdownMenu aria-labelledby="simple-dropdown">
+        <span *ngIf="user?.email === 'tronghieubk@gmail.com'">
+          <div class="dropdown-header text-center"><strong>Admin</strong></div>
+          <a class="dropdown-item" routerLink="/management/users"><i class="fa fa-user-secret"></i> Manage Users</a>
+          <a class="dropdown-item" routerLink="/management/question-reports"><i class="fa fa-tasks"></i> User Reports</a>
+        </span>
+        <div class="dropdown-header text-center"><strong>Account</strong></div>
+        <a class="dropdown-item" href="#" (click)="logout()"><i class="fa fa-lock"></i> Logout</a>
+      </div>
+    </li>
+  </ul>
+</app-header>
+<div class="app-body">
+  <app-sidebar [fixed]="true" [display]="'lg'">
+    <app-sidebar-nav [navItems]="navItems" [perfectScrollbar] [disabled]="sidebarMinimized"></app-sidebar-nav>
+    <app-sidebar-minimizer></app-sidebar-minimizer>
+  </app-sidebar>
+  <!-- Main content -->
+  <main class="main">
+    <!-- Breadcrumb -->
+    <ol class="breadcrumb">
+      <app-breadcrumb></app-breadcrumb>
+    </ol>
+    <div class="container-fluid">
+      <router-outlet></router-outlet>
+    </div><!-- /.container-fluid -->
+  </main>
+</div>
+<app-footer>
+  <span><a href="https://www.facebook.com/GMATZeroToHero/">GMAT</a> &copy; 2018 Zero To Hero.</span>
+  <span class="ml-auto">Created by <a href="https://www.facebook.com/tronghieubk">Hieu Nguyen</a></span>
+</app-footer>

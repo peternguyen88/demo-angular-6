@@ -1,0 +1,1121 @@
+####140#OG15
+#SC#1#E#100
+In a review of 2000 studies of human behavior that date back to the 1940's, two Swiss <span style="text-decoration: underline">psychologists, declaring that since most of the studies had failed to control for such variables as social class and family size,</span> none could be taken seriously.
+(A) psychologists, declaring that since most of the studies had failed to control for such variables as social class and family size,
+(B) psychologists, declaring that most of the studies failed in not controlling for such variables like social class and family size, and
+(C) psychologists declared that since most of the studies, having failed to control for such variables as social class and family size,
+(D) psychologists declared that since most of the studies fail in controlling for such variables like social class and family size,
+(E) psychologists declared that since most of the studies had failed to control for variables such as social class and family size,
+---------------------------------
+#SC#2#C#200
+Manufacturers rate batteries in watt-hours; <span style="text-decoration: underline">if they rate the watt-hour higher, the longer</span> the battery can be expected to last.
+(A) if they rate the watt-hour higher, the longer
+(B) rating the watt-hour higher, it is that much longer
+(C) the higher the watt-hour rating, the longer
+(D) the higher the watt-hour rating, it is that much longer that
+(E) when the watt-hour rating is higher, the longer it is
+---------------------------------
+#SC#3#D#300
+Although a surge in retail sales <span style="text-decoration: underline">have raised hopes that there is a recovery finally</span> under way, many economists say that without a large amount of spending the recovery might not last.
+(A) have raised hopes that there is a recovery finally
+(B) raised hopes for there being a recovery finally
+(C) had raised hopes for a recovery finally being
+(D) has raised hopes that a recovery is finally
+(E) raised hopes for a recovery finally
+---------------------------------
+#SC#4#B#400
+At the end of the 1930's, Duke Ellington was looking for a composer to assist him—<span style="text-decoration: underline">someone not only who could arrange music for his successful band, but mirroring his eccentric writing style as well in order to finish</span> the many pieces he had started but never completed.
+(A) someone not only who could arrange music for his successful band, but mirroring his eccentric writing style as well in order to finish
+(B) someone who could not only arrange music for his successful band, but also mirror his eccentric writing style in order to finish
+(C) someone who not only could arrange music for his successful band, but also to mirror his eccentric style in writing
+(D) that being someone who could not only arrange music for his successful big band, but mirroring his eccentric writing style for finishing
+(E) being someone not only who could arrange music for his successful big band, but mirror his eccentric writing style as well, finishing
+---------------------------------
+#SC#5#E#500
+Of all the vast tides of migration that have swept through history, <span style="text-decoration: underline">maybe none is more concentrated as</span> the wave that brought 12 million immigrants onto American shores in little more than three decades.
+(A) maybe none is more concentrated as
+(B) it may be that none is more concentrated as
+(C) perhaps it is none that is more concentrated than
+(D) maybe it is none that was more concentrated than
+(E) perhaps none was more concentrated than
+---------------------------------
+#SC#6#A#600
+Diabetes, together with its serious complications, <span style="text-decoration: underline">ranks as the nation's third leading cause of death, surpassed only</span> by heart disease and cancer
+(a) ranks as the nation's third leading cause of death, surpassed only
+(b) rank as the nation's third leading cause of death, only surpassed
+(c) has the rank of the nation's third leading cause of death, only surpassed
+(d) are the nation's third leading causes of death, surpassed only
+(e) have been ranked as the nation's third leading causes of death, only surpassed
+---------------------------------
+#SC#7#E#700
+The intricate structure of the compound insect eye, <span style="text-decoration: underline">having hundreds of miniature eyes called ommatidia, help explain why scientists have assumed that it</span> evolved independently of the vertebrate eye.
+(A) having hundreds of miniature eyes called ommatidia, help explain why scientists have assumed that it
+(B) having hundreds of miniature eyes that are called ommatidia, helps explain why scientists have assumed that they
+(C) with its hundreds of miniature eyes that are called ommatidia, helps explain scientists' assuming that they
+(D) with its hundreds of miniature eyes called ommatidia, help explain scientists' assuming that it
+(E) with its hundreds of miniature eyes called ommatidia, helps explain why scientists have assumed that it
+---------------------------------
+#SC#8#E#800
+In late 1997, the chambers inside the pyramid of the Pharaoh Menkaure at Giza were closed to visitors for cleaning and repair <span style="text-decoration: underline">due to moisture exhaled by tourists, which raised its humidity to such levels so that salt from the stone was crystallizing</span> and fungus was growing on the walls.
+(A) due to moisture exhaled by tourists, which raised its humidity to such levels so that salt from the stone was crystallizing
+(B) due to moisture that tourists had exhaled, thereby raising its humidity to such levels that salt from the stone would crystallize
+(C) because tourists were exhaling moisture, which had raised the humidity within them to levels such that salt from the stone would crystallize
+(D) because of moisture that was exhaled by tourists raising the humidity within them to levels so high as to make the salt from the stone crystallize
+(E) because moisture exhaled by tourists had raised the humidity within them to such levels that salt from the stone was crystallizing
+---------------------------------
+#SC#9#B#900
+In 1979 lack of rain reduced India's rice production to about 41 million tons, nearly 25 percent <span style="text-decoration: underline">less than those of the 1978 harvest.</span>
+(A) less than those of the 1978 harvest
+(B) less than the 1978 harvest
+(C) less than 1978
+(D) fewer than 1978
+(E) fewer than that of India's 1978 harvest
+---------------------------------
+#SC#10#A#1000
+The widely accepted big-bang theory holds <span style="text-decoration: underline">that the universe began in an explosive instant 10 to 20 billion years ago and has been expanding</span> ever since.
+(A) that the universe began in an explosive instant 10 to 20 billion years ago and has been expanding
+(B) that the universe had begun in an explosive instant 10 to 20 billion years ago and had been expanding
+(C) that the beginning of the universe was an explosive instant 10 to 20 billion years ago that has expanded
+(D) the beginning of the universe to have been an explosive instant 10 to 20 billion years ago that is expanding
+(E) the universe to have begun in an explosive instant 10 to 20 billion years ago and has been expanding
+---------------------------------
+#SC#11#E#1100
+<span style="text-decoration: underline">Like the idolization accorded the Brontes and Brownings</span>, James Joyce and Virginia Woolf are often subjected to this kind of veneration that blurs the distinction between the artist and the human being.
+(A) Like the Idolization accorded the Brontes and Brownings
+(B) As the Brontes' and Brownings' idolization
+(C) Like that accorded to the Brontes and Brownings
+(D) As it is of the Brontes and Brownings
+(E) Like the Brontes and Brownings
+---------------------------------
+#SC#12#B#1200
+Carnivorous mammals can endure what would otherwise be lethal levels of body heat because they have a heat-exchange network <span style="text-decoration: underline">which kept</span> the brain from getting too hot.
+(A) which kept
+(B) that keeps
+(C) which has kept
+(D) that has been keeping
+(E) having kept
+---------------------------------
+#SC#13#D#1300
+There are several ways to build solid walls using just mud or clay, but the most extensively used method has been <span style="text-decoration: underline">the forming of bricks out of mud or clay, and, aftersome preliminary air drying or sun drying, they are laid</span> in the wall in mud mortar.
+(A) the forming of bricks out of mud or clay, and, after some preliminary air drying or sun drying, they are laid
+(B) forming the mud or clay into bricks, and, after some preliminary air drying or sun drying, to lay them
+(C) having bricks formed from mud or clay, and, after some preliminary air drying or sun drying, they were laid
+(D) to form the mud or clay into bricks, and, after some preliminary air drying or sun drying, to lay them
+(E) that bricks were formed from mud or clay, which, after some preliminary air drying or sun drying, were laid
+---------------------------------
+#SC#14#E#1400
+Rising inventories, <span style="text-decoration: underline">when unaccompanied correspondingly by increases in sales, can lead</span> to production cutbacks that would hamper economic growth.
+(A) When unaccompanied correspondingly by increases in sales, can lead
+(B) When not accompanied by corresponding increases in sales, possibly leads
+(C) When they were unaccompanied by corresponding sales increases, can lead
+(D) If not accompanied by correspondingly increased sales, possibly leads
+(E) If not accompanied by corresponding increases in sales, can lead
+---------------------------------
+#SC#15#D#1500
+Many experts regarded the increase in credit card borrowing in March not as a sign that households were pressed for cash and forced to borrow, <span style="text-decoration: underline">rather a sign of confidence by households that they could safely</span> handle new debt.
+(A) rather a sign of confidence by households that they could safely
+(B) yet as a sign of households' confidence that it was safe for them to
+(C) but a sign of confidence by households that they could safely
+(D) but as a sign that households were confident they could safely
+(E) but also as a sign that households were confident in their ability safely to
+---------------------------------
+#SC#16#A#1600
+A surge in new home sales and a drop in weekly unemployment <span style="text-decoration: underline">claims suggest that the economy might not be as weak as some analysts previously thought</span>.
+(A) claims suggest that the economy might not be as weak as some analysts previously thought
+(B) claims suggests that the economy might not be so weak as some analysts have previously thought
+(C) claims suggest that the economy might not be as weak as have been previously thought by some analysts
+(D) claims, suggesting about the economy that it might not be so weak as previously thought by some analysts
+(E) claims, suggesting the economy might not be as weak as previously thought to be by some analysts
+---------------------------------
+#SC#17#A#1700
+Sunspots, vortices of gas associated with strong electromagnetic activity, <span style="text-decoration: underline">are visible as dark spots on the surface of the Sun but have never been sighted on</span> the Sun’s poles or equater.
+(A) are visible as dark spots on the surface of the Sun but have never been sighted on
+(B) are visible as dark spots that never have been sighted on the surface of the Sun
+(C) appear on the surface of the Sun as dark spots although never sighted at
+(D) appear as dark spots on the surface of the Sun, although never having been sighted at
+(E) appear as dark spots on the Sun's surface, which have never been sighted on
+---------------------------------
+#SC#18#E#1800
+Warning that computers in the United States are not secure, the National Academy of Sciences has urged the nation to revamp computer security procedures, institute new emergency response teams, <span style="text-decoration: underline">creating a special nongovernment organization to take</span> charge of computer security planning.
+(A) creating a special nongovernment organization to take
+(B) creating a special nongovernment organization that takes
+(C) creating a special nongovernment organization for taking
+(D) and create a special nongovernment for taking
+(E) and create a special nongovernment to take
+---------------------------------
+#SC#19#B#1900
+<span style="text-decoration: underline">A pioneer journalist, Nellie Bly's exploits included</span> circling the globe faster than Jules Verne's fictional Phileas Fogg
+(A) A pioneer journalist, Nellie Bly's exploits included
+(B) The exploits of Nellie Bly, a pioneer journalist, included
+(C) Nellie Bly was a pioneer journalist, included
+(D) Included in the pioneer journalist Nellie Bly's exploits are
+(E) The pioneer journalist's exploits of Nellie Bly included
+---------------------------------
+#SC#20#B#2000
+Retail sales rose 8/10 of 1 percent in August, intensifying expectations <span style="text-decoration: underline">that personal spending in the July-September quarter more than doubled that of</span> the 1.4 percent growth rate in personal spending for the previous quarter.
+(A) that personal spending in the July-September quarter more than doubled that of
+(B) that personal spending in the July-September quarter would more than double
+(C) of personal spending in the July-September quarter, that it more than doubled
+(D) of personal spending in the July-September quarter, more than doubling that of
+(E) of personal spending in the July-September quarter, that it would more than double that of
+---------------------------------
+#SC#21#D#2100
+The commission has directed advertisers to restrict the use of the word natural to foods that do not contain color or flavor additives, chemical preservatives, <span style="text-decoration: underline">or nothing that has been</span> synthesized.
+(A) or nothing that has been
+(B) or that has been
+(C) and nothing that is
+(D) or anything that has been
+(E) and anything
+---------------------------------
+#SC#22#C#2200
+<span style="text-decoration: underline">Plants are more efficient at acquiring carbon than are fungi</span>, in the form of carbon dioxide, and converting it to energy-rich sugars.
+(A) Plants are more efficient at acquiring carbon than are fungi
+(B) Plants are more efficient at acquiring carbon than fungi
+(C) Plants are more efficient than fungi at acquiring carbon
+(D) Plants, more efficient than fungi at acquiring carbon
+(E) Plants acquire carbon more efficiently than fungi
+---------------------------------
+#SC#23#D#2300
+The Iroquois were primarily planters, <span style="text-decoration: underline">but supplementing</span> their cultivation of maize, squash, and beans with fishing and hunting.
+(A) but supplementing
+(B) and had supplemented
+(C) and even though they supplemented
+(D) although they supplemented
+(E) but with supplementing
+---------------------------------
+#SC#24#E#2400
+<span style="text-decoration: underline">As contrasted with the honeybee</span>, the yellow jacket can sting repeatedly without dying and carries a potent venom that can cause intense pain.
+(A) As contrasted with the honeybee
+(B) In contrast to the honeybee’s
+(C) Unlike the sting of the honeybee
+(D) Unlike that of the honeybee
+(E) Unlike the honeybee
+---------------------------------
+#SC#25#A#2500
+<span style="text-decoration: underline">Neuroscientists,having amassed a wealth of knowledge over the past twenty years about the brain and its development from birth to adulthood, are</span> now drawing solid conclusions about how the human brain grows and how babies acquire language.
+(A) Neuroscientists, having amassed a wealth of knowledge over the past twenty years about how the human brain and its development from birth to adulthood, are
+(B) Neuroscientists, having amassed a wealth of knowledge about the brain and its development from birth to adulthood over the past twenty years,and are
+(C) Neuroscientists amassing a wealth of knowledge about the brain and its development from birth to adulthood over the past twenty years,and are
+(D) Neuroscientists have amassed a wealth of knowledge over past twenty years about the brain and its development from birth to adulthood,
+(E) Neuroscientists have amassed, over the past twenty years, a wealth of knowledge about the brain and its development from birth to adulthood ,
+---------------------------------
+#SC#26#B#2600
+Tropical bats play important roles in the rain forest ecosystem, aiding in the dispersal of cashew, date, and fig seeds; <span style="text-decoration: underline">pollinating banana, breadfruit, and mango trees; and indirectly help produce</span> tequila by pollinating agave plants.
+(A) pollinating banana, breadfruit, and mango trees; and indirectly help produce
+(B) pollinating banana, breadfruit, and mango trees; and indirectly helping to produce
+(C) pollinating banana, breadfruit, and mango trees; and they indirectly help to produce
+(D) they pollinate banana, breadfruit, and mango trees; and indirectly help producing
+(E) they pollinate banana, breadfruit, and mango trees: indirectly helping the producing of
+---------------------------------
+#SC#27#D#2700
+None of the attempts to specify the causes of crime explains why most of the people exposed to the alleged causes do not commit crimes and, conversely, why so many of those not so exposed <span style="text-decoration: underline">have</span>.
+(A) have
+(B) has
+(C) shall
+(D) do
+(E) could
+---------------------------------
+#SC#28#E#2800
+In virtually all types of tissue in every animal species dioxin induces the production of enzymes that are the organism’s <span style="text-decoration: underline">trying to metabolize, or render harmless, the chemical that is irritating it.</span>
+(A) trying to metabolize, or render harmless, the chemical that is irritating it.
+(B) trying that it metabolize, or render harmless, the chemical irritant
+(C) attempt to try to metabolize, or render harmless, such a chemical irritant
+(D) attempt to try and metabolize, or render harmless, the chemical irritating it
+(E) attempt to metabolize, or render harmless, the chemical irritant
+---------------------------------
+#SC#29#E#2900
+Emily Dickinson’s letters to Susan Huntington <span style="text-decoration: underline">Dickinson were written over a period beginning a few years before Susan’s marriage to Emily’s brother and ending shortly before Emily’s death in 1886, outnumbering</span> her letters to anyone else.
+(A) Dickinson were written over a period beginning a few years before Susan’s marriage to Emily’s brother and ending shortly before Emily’s death in 1886, outnumbering
+(B) Dickinson were written over a period that begins a few years before Susan’s marriage to Emily’s brother and ended shortly before Emily’s death in 1886, outnumber
+(C) Dickinson, written over a period beginning a few years before Susan’s marriage to Emily’s brother and that ends shortly before Emily’s death in 1886 and outnumbering
+(D) Dickinson, which were written over a period beginning a few years before Susan’s marriage to Emily’s brother, ending shortly before Emily’s death in 1886, and outnumbering
+(E) Dickinson, which were written over a period beginning a few years before Susan’s marriage to Emily’s brother and ending shortly before Emily’s death in 1886, outnumber
+---------------------------------
+#SC#30#D#3000
+Paleontologists believe that fragments of a primate jawbone unearthed in Burma and estimated <span style="text-decoration: underline">at 40 to 44 million years old provide evidence of</span> a crucial step along the evolutionary path that led to human beings.
+(A) at 40 to 44 million years old provide evidence of
+(B) as being 40 to 44 million years old provides evidence of
+(C) that it is 40 to 44 million years old provides evidence of what was
+(D) to be 40 to 44 million years old provide evidence of
+(E) as 40 to 44 million years old provides evidence of
+---------------------------------
+#SC#31#D#3100
+<span style="text-decoration: underline">Unlike the conviction held by many of her colleagues that genes were</span> reatively simple and static, Barbara McClintock adhered to her own more complicated ideas about how genes might operate, and in 1983, at the age of 81, was awarded a Nobel Prize for her discovery that the genes in corn are capable of moving from one chromosomal site to another.
+(A) Unlike the conviction held by many of her colleagues that genes were
+(B) Although many of her colleagues were of the conviction of genes being
+(C) Contrary to many of her colleagues being convinced that genes were
+(D) Even though many of her colleagues were convinced that genes were
+(E) Even with many of her colleagues convinced of genes being
+---------------------------------
+#SC#32#B#3200
+Galileo was convinced that natural phenomena, as manifestations of the laws of physics, would appear the same to someone on the deck of a ship moving smoothly and uniformly through the<span style="text-decoration: underline"> water as a</span> person standing on land.
+(A) water as a
+(B) water as to a
+(C) water; just as it would to
+(D) water, as it would to the
+(E) water; just as to the
+---------------------------------
+#SC#33#A#3300
+<span style="text-decoration: underline">Because an oversupply of computer chips has sent prices plunging</span>, the manufacturer has announced that it will cut production by closing its factories for two days a month.
+(A) Because an oversupply of computer chips has sent prices plunging
+(B) Because of plunging prices for computer chips, which is due to an oversupply
+(C) Because computer chip prices have been sent plunging, which resulted from an oversupply
+(D) Due to plunging computer chip prices from an oversupply
+(E) Due to an oversupply, with the result that computer chip prices have been sent plunging
+---------------------------------
+#SC#34#B#3400
+Beyond the immediate cash flow crisis that the museum faces, its survival depends on <span style="text-decoration: underline">if it can broaden its membership and leave</span> its cramped quarters for a site where it can store and exhibit its more than 12,000 artifacts.
+(A) if it can broaden its membership and leave
+(B) whether it can broaden its membership and leave
+(C) whether or not it has the capability to broaden its membership and can leave
+(D) its ability for broadening its membership and leaving
+(E) the ability for it to broaden its membership and leave
+---------------------------------
+#SC#35#E#3500
+By 1940, the pilot Jacqueline Cochran held seventeen official national and international speed records, <span style="text-decoration: underline">and she earned them at a time when aviation was still so new for many of the planes she flew to be</span> of dangerously experimental design.
+(A) and she earned them at a time when avation was still so new for many of the planes she flew to be
+(B) earning them at a time that aviation was still so new for many of the planes she flew were
+(C) earning these at a time where aviation was still so new that many of the planes she flew were
+(D) earned at a time in which aviation was still so new such that many of the planes she flew were
+(E) earned at a time when aviation was still so new that many of the planes she flew were
+---------------------------------
+#SC#36#C#3600
+Along with the drop in producer prices announced yesterday, the strong retail sales figures released today seem <span style="text-decoration: underline">like it is indicative that</span> the economy, although growing slowly, is not nearing a recession.
+(A) like it is indicative that
+(B) as if to indicate
+(C) to indicate that
+(D) indicative of
+(E) like an indication of
+---------------------------------
+#SC#37#A#3700
+Dressed as a man and using the name Robert Shurtleff, Deborah Sampson, the first woman to draw a soldier's pension, joined the Continental Army in 1782 at the age of <span style="text-decoration: underline">22, was injured three times, and was discharged in 1783 because she had become </span>too ill to serve.
+(A) 22, was injured three times, and was discharged in 1783 because she had become
+(B) 22, was injured three times, while being discharged in 1783 because she had become
+(C) 22, and was injured three times, and discharged in 1783, being
+(D) 22, injured three times, and was discharged in 1783 because she was
+(E) 22, having been injured three times and discharged in 1783, being
+---------------------------------
+#SC#38#B#3800
+Bengal - born writer, philosopher, and educator Rabindranath Tagore had the greatest admiration <span style="text-decoration: underline">for Mohandas K. Gandhi the person and also as a politician, but Tagore had been</span> skeptical of Gandhi's form of nationalism and his conservative opinions about India's cultural traditions
+(A) for Mohandas K. Gandhi the person and also as a politician, but Tagore had been
+(B) for Mohandas K.Gandhi as a person and as a politician, but Tagore was also
+(C) for Mohandas K.Gandhi not only as a person and as a politician, but Tagore was also
+(D) of Mohandas K.Gandhi as a person and as also a politician, but Tagore was
+(E) of Mohandas K.Gandhi not only as a person and as a politician, but Tagore had also been
+---------------------------------
+#SC#39#A#3900
+Although, shistosomiasis is not often fatal, <span style="text-decoration: underline">it is so debilitating that it has become an economic drain</span> on many devloping countries
+(A) it is so debilitating that it has become an economic drain
+(B) it is of such debilition, it has become an economical
+(C) so debilitating is it as to become an economic
+(D) such is its debilitation, it becomes an economical
+(E) there is so much debilitaiton that it has become an economical.
+---------------------------------
+#SC#40#E#4000
+The Organization of Petroleum Exporting Countries (OPEC) had long been expected to announce a reduction in output to bolster sagging oil prices, but officials of the organization just recently announced that the group will pare daily production by 1.5 million barrels by the beginning of next <span style="text-decoration: underline">year, but only if non-OPEC nations, including Norway, Mexico, and Russia, were to trim output</span> by a total of 500,000 barrels a day.
+(A) year, but only if non-OPEC nations, including Norway, Mexico, and Russia, were to trim output
+(B) year, but only if the output of non-OPEC nations, which includes Norway, Mexico, and Russia, is trimmed
+(C) year only if the output of non-OPEC nations, including Norway, Mexico, and Russia, would be trimmed
+(D) year only if non-OPEC nations, which includes Norway, Mexico, and Russia, were trimming output
+(E) year only if non-OPEC nations, including Norway, Mexico, and Russia, trim output
+---------------------------------
+#SC#41#E#4100
+In 1850 Lucretia Mott published her <span style="font-style: italic">Discourse on Women</span>, <span style="text-decoration: underline">arguing in a treatise for women to have equal political and legal rights </span>and for changes in the married women’s property laws.
+(A) arguing in a treatise for women to have equal political and legal rights
+(B) arguing in a treatise for equal political and legal rights for women
+(C) a treatise that advocates women’s equal political and legal rights
+(D) a treatise advocating women’s equal political and legal rights
+(E) a treatise that argued for equal political and legal rights for women
+---------------------------------
+#SC#42#D#4200
+To develop more accurate population forecasts, demographers <span style="text-decoration: underline">have to know a great deal more than now about the social and economic</span> detriments of fertility.
+(A) have to know a great deal more than now about the social and economic
+(B) have to know a great deal more than they do now about the social and economical
+(C) would have to know a great deal more than they do now about the social and economical
+(D) would have to know a great deal more than they do now about the social and economic
+(E) would have to know a great deal more than now about the social and economical
+---------------------------------
+#SC#43#E#4300
+Laos has a land area <span style="text-decoration: underline">about the same as Great Britain but only four million in population, where many</span> are members of hill tribes ensconced in the virtually inaccessible mountain vallyes of the north.
+(A) about the same as Great Britain but only four million in population, where many
+(B) of about the same size as Great Britain is, but in Laos there is a population of only four million, and many
+(C) that is about the same size as Great Britain's land area, but in Laos with a population of only four million people, many of them
+(D) comparable to the size of Great Britain, but only four million in population, and many
+(E) comparable to that of Great Britain but a population of only four million people, many of whom
+---------------------------------
+#SC#44#C#4400
+The plot of The Bostonians centers on the <span style="text-decoration: underline">rivalry between Olive Chancellor, an active feminist, with her charming and cynical cousin, Basil Ransom</span>, when they find themselves drawn to the same radiant young woman whose talent for public speaking has won her an ardent following.
+(A) rivalry between Olive Chancellor, an active feminist, with her charming and cynical cousin, Basil Ransom
+(B) rivals Olive Chancellor, an active feminist, against her charming and cynical cousin, Basil Ransom
+(C) rivalry that develops between Olive Chancellor, an active feminist, and Basil Ransom, her charming and cynical cousin
+(D) developing rivalry between Olive Chancellor, an active feminist, with Basil Ransom, her charming and cynical cousin
+(E) active feminist, Olive Chancellor, and the rivalry with her charming and cynical cousin Basil Ransom
+---------------------------------
+#SC#45#B#4500
+Quasars, at billions of light-years from Earth the most distant observable objects in the universe, <span style="text-decoration: underline">believed to be</span> the cores of galaxies in an early stage of development.
+(A) believed to be
+(B) are believed to be
+(C) some believe them to be
+(D) some believe they are
+(E) it is believed that they are
+---------------------------------
+#SC#46#B#4600
+In ancient Thailand, <span style="text-decoration: underline">much of the local artisans' creative energy was expended for the creation of Buddha images and when they constructed and decorated the temples that enshrined them</span>.
+(A) much of the local artisans' creative energy was expended for the creation of Buddha images and when they constructed and decorated the temples that enshrined them
+(B) much of the local artisans' creative energy was expended on the creation of Buddha images and on construction and decoration of the temples in which they were enshrined
+(C) much of the local artisans' creative energy was expended on the creation of Buddha images as well as constructing and decoration of the temples in which they were enshrined
+(D) creating images of Buddha accounted for much of the local artisans' creative energy, and also constructing and decorating the temples enshrining them
+(E) the creating of Buddha images accounted for much of the local artisans' creative energy as well as construction and decoration of the temples that enshrined them
+---------------------------------
+#SC#47#B#4700
+In 1713, Alexander Pope began <span style="text-decoration: underline">his translation of the Illiad, a work that, taking him seven years until completion, and that literary critic Samuel Johnson, Pope’s contemporary, pronounced</span> the greatest translation in any language.
+(A) his translation of the Illiad, a work that, taking him seven years until completion, and that literary critic Samuel Johnson, Pope’s contemporary, pronounced
+(B) his translation of the Illiad, a work that took him seven years to complete and that literary critic Samuel Johnson, Pope’s contemporary, pronounced
+(C) his translation of the Illiad, a work that had taken seven years to complete and that literary critic Samuel Johnson, Pope’s contemporary, pronounced it is
+(D) translating the Illiad, a work that took seven years until completion and that literary critic Samuel Johnson, Pope’s contemporary, pronounced it as
+(E) translating the Illiad, a work that had taken seven years to complete and literary critic Samuel Johnson, Pope’s contemporary, pronounced it
+---------------------------------
+#SC#48#C#4800
+<span style="text-decoration: underline">It is called a sea, but the landlocked Caspian is actually the largest lake on Earth, which covers</span> more than four times the surface area of its closest rival in size, North America's Lake Superior.
+(A) It is called a sea, but the landlocked Caspian is actually the largest lake on Earth, which covers
+(B) Although it is called a sea, actually the landlocked Caspian is the largest lake on Earth, which covers
+(C) Though called a sea, the landlocked Caspian is actually the largest lake on Earth, covering
+(D) Though called a sea but it actually is the largest lake on Earth, the landlocked Caspian covers
+(E) Despite being called a sea, the largest lake on Earth is actually the landlocked Caspian, covering
+---------------------------------
+#SC#49#D#4900
+The automotive conveyor-belt system, which Henry Ford modeled after an assembly-line technique introduced by Ransom Olds, reduced <span style="text-decoration: underline">from a day and a half to 93 minutes the required time of assembling a Model T.</span>
+(A) from a day and a half to 93 minutes the required time of assembling a Model T
+(B) the time being required to assemble a Model T, from a day and a half down to 93 minutes
+(C) the time being required to assemble a Model T, a day and a half to 93 minutes
+(D) the time required to assemble a Model T from a day and a half to 93 minutes
+(E) from a day and a half to 93 minutes, the time required for the assembling of a Model T
+---------------------------------
+#SC#50#A#5000
+According to some analysts, the gains in the stock market reflect growing confidence <span style="text-decoration: underline">that the economy will avoid the recession that many had feared earlier in the year and instead come</span> in for a “soft landing,” followed by a gradual increase in business activity.
+(A) that the economy will avoid the recession that many had feared earlier in the year and instead come
+(B) in the economy to avoid the recession, what many feared earlier in the year, rather to come
+(C) in the economy’s ability to avoid the recession, something earlier in the year many had feared, and instead to come
+(D) in the economy to avoid the recession many were fearing earlier in the year, and rather to come
+(E) that the economy will avoid the recession that was feared earlier this year by many, with it instead coming
+---------------------------------
+#SC#51#B#5100
+A new study suggests that the conversational pace of everyday life may be so brisk <span style="text-decoration: underline">it hampers the ability of some children for distinguishing discrete sounds and words and, the result is, to make</span> sense of speech.
+(A) it hampers the ability of some children for distinguishing discrete sounds and words and, the result is, to make
+(B) that it hampers the ability of some children to distinguish discrete sounds and words and, as a result, to make
+(C) that it hampers the ability of some children to distinguish discrete sounds and words and, the result of this, they are unable to make
+(D) that it hampers the ability of some children to distinguish discrete sounds and words, and results in not making
+(E) as to hamper the ability of some children for distinguishing discrete sounds and words, resulting in being unable to make
+---------------------------------
+#SC#52#D#5200
+<span style="text-decoration: underline">To Josephine Baker, Paris was her home long before it was fashionable to be an expatriate</span>, and she remained in France during the Second World War as a performer and an intelligence agent for the Resistance
+(A) To Josephine Baker, Paris was her home long before it was fashionable to be an expatriate
+(B) For Joshephine baker, long before it was fashionable to be an expatriate, paris was her home
+(C) Joshephine baker made Paris her home long before to be an expatriate was fashionable
+(D) Long before it was fashionable to be an expatriate, Josephine Baker made Paris her home
+(E) Long before it was fashionable being an expatriate, Paris was home to Josephine Baker
+---------------------------------
+#SC#53#A#5300
+The nineteenth-century chemist Humphry Davy presented the results of his early experiments in his "Essay on Heat and Light", <span style="text-decoration: underline">a critique of all chemistry since Robert Boyle as well as a vision of a</span> new chemistry that Davy hoped to found.
+(A) a critique of all chemistry since Robert Boyle as well as a vision of a
+(B) a critique of all chemistry following Robert Boyle and also his envisioning of a
+(C) a critique of all chemistry after Robert Boyle and envisioning as well
+(D) critiquing all chemistry from Robert Boyle forward and also a vision of
+(E) critiquing all the chemistry done since Robert Boyle as well as his own envisioning of
+---------------------------------
+#SC#54#E#5400
+The report recommended that the hospital <span style="text-decoration: underline">should eliminate unneeded beds, expensive services should be consolidated, and use space in other hospitals</span>.
+(A) should eliminate unneeded beds, expensive services should be consolidated, and use space in other hospitals
+(B) should eliminate unneeded beds, expensive services should be consolidated, and other hospitals' space be used
+(C) should eliminate unneeded beds, expensive services should be consolidated, and to use space in other other hospitals
+(D) eliminate unneeded beds, consolidate expensive services, and other hospitals' space used
+(E) eliminate unneeded beds, consolidate expensive services, and use space in other hospitals
+---------------------------------
+#SC#55#B#5500
+Many house builders offer rent-to-buy <span style="text-decoration: underline">programs that enable a family with insufficient savings for a conventional down payment to be able to move into new housing and to apply</span> part of the rent to a purchase later.
+(A) programs that enable a family with insufficient savings for a conventional down payment to be able to move into new housing and to apply
+(B) programs that enable a family with insufficient savings for a conventional down payment to move into new housing and to apply
+(C) programs; that enables a family with insufficient savings for a conventional down payment to move into new housing, to apply
+(D) programs, which enables a family with insufficient savings for a conventional down payment to move into new housing, applying
+(E) programs, which enable a family with insufficient savings for a conventional down payment to be able to move into new housing, applying
+---------------------------------
+#SC#56#E#5600
+Elizabeth Barber, the author of both <span style="font-style: italic">Prehistoric Textiles</span>, a comprehensive work on cloth in the early cultures of the Mediterranean, and <span style="text-decoration: underline">also of Women's Work, a more general account of early cloth manufacture, is an expert authority on </span>textiles in ancient societies.
+(A) also of Women's Work, a more general account of early cloth manufacture, is an expert authority on
+(B) also Women's Work, a more general account of cloth manufacture, is an expert authority about
+(C) of Women's Work, a more general account about early cloth manufacture, is an authority on
+(D) of Women's Work, a more general account about early cloth manufacture, is an expert authority about
+(E) Women's Work, a more general account of early cloth manufacture, is an authority on
+---------------------------------
+#SC#57#E#5700
+Many of the earliest known images of Hindu deities in India date from the time of the Kushan <span style="text-decoration: underline">empire, fashioned either from the spotted sandstone of Mathura or </span> Gandharan grey schist.
+(A) empire, fashioned either from the spotted sandstone of Mathura or
+(B) empire, fashioned from either the spotted sandstone of Mathura or from
+(C) empire, either fashioned from the spotted sandstone of Mathura or
+(D) empire and either fashioned from the spotted sandstone of Mathura or from
+(E) empire and were fashioned either from the spotted sandstone of Mathura or from
+---------------------------------
+#SC#58#D#5800
+<span style="text-decoration: underline">That educators have not anticipated the impact of microcomputer technology can hardly be said that it is their fault</span>: Alvin Toffler, one of the most prominent students of the future, did not even mention microcomputers in Future Shock, published in 1970.
+(A) That educators have not anticipated the impact of microcomputer technology can hardly be said that it is their fault
+(B) That educators have not anticipated the impact of microcomputer technology can hardly be said to be at fault
+(C) It can hardly be said that it is the fault of educators who have not anticipated the impact of microcomputer technology
+(D) It can hardly be said that educators are at fault for not anticipating the impact of microcomputer technology
+(E) The fact that educators are at fault for not anticipating the impact of microcomputer technology can hardly be said
+---------------------------------
+#SC#59#E#5900
+A leading figure in the Scottish enlightenment, <span style="text-decoration: underline">Adam Smith’s two major books are to democratic capitalism what</span> Marx’s Das Kapital is to socialism.
+(A) Adam Smith’s two major books are to democratic capitalism what
+(B) Adam Smith’s two major books are to democratic capitalism like
+(C) Adam Smith’s two major books are to democratic capitalism just as
+(D) Adam Smith wrote two major books that are to democratic capitalism similar to
+(E) Adam Smith wrote two major books that are to democratic capitalism what
+---------------------------------
+#SC#60#D#6000
+The Olympic Games helped to keep peace among the pugnacious states of the Greek <span style="text-decoration: underline">world in that a sacred truce was proclaimed during the festival’s month</span>.
+(A) world in that a sacred truce was proclaimed during the festival’s month
+(B) world, proclaiming a sacred truce during the festival’s month
+(C) world when they proclaimed a sacred truce for the festival month
+(D) world, for a sacred truce was proclaimed during the month of the festival
+(E) world by proclamation of a sacred truce that was for the month of the festival
+---------------------------------
+#SC#61#E#6100
+While <span style="text-decoration: underline">all states face similar industrial waste problems, the predominating industries and regulatory environment of the states obviously determines</span> the types and amounts of waste produced, as well as the cost of disposal.
+(A) all states face similar industrial waste problems, the predominating industries and regulatory environment of the states obviously determines
+(B) each state faces a similar industrial waste problem, their predominant industries and regulatory environment obviously determine
+(C) all states face a similar industrial waste problem, their predominating industries and regulatory environment obviously determines
+(D) each state faces similar industrial waste problems, the predominant industries and regulatory environment of each state obviously determines
+(E) all states face similar industrial waste problems, the predominant industries and the regulatory environment of each state obviously determine
+---------------------------------
+#SC#62#A#6200
+Rivaling the pyramids of Egypt or even the ancient cities of the Maya as an achievement, <span style="text-decoration: underline">the army of terra-cotta warriors created to protect Qin Shi Huang, China's first emperor, in his afterlife is more than 2,000 years old and took 700,000 artisans more than 36 years to complete</span>.
+(A) the army of terra-cotta warriors created to protect Qin Shi Huang, China's first emperor, in his afterlife is more than 2,000 years old and took 700,000 artisans more than 36 years to complete
+(B) Qin Shi huang, China's first emperor, was protected in his afterlife by an army of terracotta warriors that was created more than 2,000 years ago by 700,000 artisans who took more than 36 years to complete it
+(C) it took 700,000 artisans more than 36 years to create an army of terra-cotta warriors more than 2,000 years ago that would protect Qin Shi Huang, China's first emperor, in his afterlife
+(D) more than 2,000 years ago, 700,000 artisans worked more than 36 years to create an army of terra-cotta warriors to protect Qin Shi Huang, China's first emperor, in his afterlife
+(E) more than 36 years were needed to complete the army of terra-cotta warriors that 700,000 artisans created 2,000 years ago to protect Qin Shi Huang, China's first emperor, in his afterlife
+---------------------------------
+#SC#63#E#6300
+When Congress reconvenes, some newly elected members from rural states will try <span style="text-decoration: underline">and establish tighter restrictions for the amount of grain farmers are to be allowed to grow and to encourage </span>more aggressive sales of United States farm products overseas.
+(A) and establish tighter restrictions for the amount of grain farmers are to be allowed to grow and to encourage
+(B) and establish tighter restrictions on the amount of grain able to be grown by farmers and encouraging
+(C) establishing tighter restrictions for the amount of grain farmers are allowed to grow and to encourage
+(D) to establish tighter restrictions on the amount of grain capable of being grown by farmers and encouraging
+(E) to establish tighter restrictions on the amount of grain farmers will be allowed to grow and to encourage
+---------------------------------
+#SC#64#A#6400
+Doctors generally agree that such factors as cigarette smoking, eating rich foods high in fats, and alcohol consumption <span style="text-decoration: underline">not only do damage by themselves but also aggravate </span>genetic predispositions toward certain diseases.
+(A) not only do damage by themselves but also aggravate
+(B) do damage by themselves but also are aggravating to
+(C) are damaging by themselves but also are aggravating
+(D) not only do damage by themselves, they are also aggravating to
+(E) are doing damage by themselves, and they are also aggravating
+---------------------------------
+#SC#65#C#6500
+Digging in sediments in northern China, <span style="text-decoration: underline">evidence has been gathered by scientists suggesting that complex life-forms emerged much earlier than they had</span> previously thought.
+(A) evidence has been gathered by scientists suggesting that complex life-forms emerged much earlier than they had
+(B) evidence gathered by scientists suggests a much earlier emergence of complex life-forms than had been
+(C) scientists have gathered evidence suggesting that complex life-forms emerged much earlier than
+(D) scientists have gathered evidence that suggests a much earlier emergence of complex life-forms than that which was
+(E) scientists have gathered evidence which suggests a much earlier emergence of complex life-forms than that
+---------------------------------
+#SC#66#C#6600
+In a plan to stop the erosion of East Coast beaches, the Army Corps of Engineers proposed building parallel to shore a breakwater of rocks that would rise six feet above the waterline and <span style="text-decoration: underline">act as a buffer, so that it absorbs</span> the energy of crashing waves and protecting the beaches.
+(A) act as a buffer, so that it absorbs
+(B) act like a buffer so as to absorb
+(C) act as a buffer, absorbing
+(D) acting as a buffer, absorbing
+(E) acting like a buffer, absorb
+---------------------------------
+#SC#67#A#6700
+The 32 species that make up the dolphin family are closely related to whales and in fact <span style="text-decoration: underline">include the animal known as the killer whale, which can grow to be 30 feet long and is</span> famous for its aggressive hunting pods.
+(A) include the animal known as the killer whale, which can grow to be 30 feet long and is
+(B) include the animal known as the killer whale, growing as big as 30 feet long and
+(C) include the animal known as the killer whale, growing up to 30 feet long and being
+(D) includes the animal known as the killer whale, which can grow as big as 30 feet long and is
+(E) includes the animal known as the killer whale, which can grow to be 30 feet long and it is
+---------------------------------
+#SC#68#D#6800
+Outlining his strategy for nursing the troubled conglomerate back to health,the chief <span style="text-decoration: underline">executive's plans were announced on Wednesday for cutting the company's huge debt by selling nearly $12billion in assets over the next 18 months </span>
+(A) executive's plans were announced on Wednesday for cutting the company's huge debt by selling nearly $12billion in assets over the next 18 months
+(B) executive's plans, which are to cut the company's huge debt by selling nearly $12 billion in assets over the next 18 months were announced on Wednesday.
+(C) executive's plans for cutting the company's huge debt by selling nearly $12 billion in assets over the next 18 months were announced on Wednesday.
+(D) executive announced plans Wednesday to cut the company's huge debt by selling nearly $12billion in assets over the next 18 months
+(E) executive announced plans Wednesday that are to cut the company's huge debt by selling nearly $12billion in assets over the next 18 months
+---------------------------------
+#SC#69#B#6900
+Affording strategic proximity to the Strait of Gibraltar, Morocco was also of interest to the French throughout the first half of the twentieth century because they assumed that <span style="text-decoration: underline">if they did not hold it, their grip on Algeria was always insecure</span>.
+(A) if they did not hold it, their grip on Algeria was always insecure
+(B) without it their grip on Algeria would never be secure
+(C) their grip on Algeria was not ever secure if they did not hold it
+(D) without that, they could never be secure about their grip on Algeria
+(E) never would their grip on Algeria be secure if they did not hold it
+---------------------------------
+#SC#70#E#7000
+The first trenches <span style="text-decoration: underline">that were cut into a 500-acre site at Tell Hamoukar, Syria, have yielded strong evidence for centrally administered complex societies in northern regions of the Middle East that were arising simultaneously with but</span> independently of the more celebrated city-states of southern Mesopotamia, in what is now southern Iraq.
+(A) that were cut into a 500-acre site at Tell Hamoukar, Syria, have yielded strong evidence for centrally administered complex societies in northern regions of the Middle East that were arising simultaneously with but
+(B) that were cut into a 500-acre site at Tell Hamoukar, Syria, yields strong evidence that centrally administered complex societies in northern regions of the Middle East were arising simultaneously with but also
+(C) having been cut into a 500-acre site at Tell Hamoukar, Syria, have yielded strong evidence that centrally administered complex societies in northern regions of the Middle East were arising simultaneously but
+(D) cut into a 500-acre site at Tell Hamoukar, Syria, yields strong evidence of centrally administered complex societies in northern regions of the Middle East arising simultaneously but also
+(E) cut into a 500-acre site at Tell Hamoukar, Syria, have yielded strong evidence that centrally administered complex societies in northern regions of the Middle East arose simultaneously with but
+---------------------------------
+#SC#71#B#7100
+Along the major rivers that traverse the deserts of northeast Africa, the Middle East, and northwest India, the combination of a reliable supply of water and <span style="text-decoration: underline">good growing conditions both encouraged farming traditions that, in places, endure in</span> at least 6,000 years.
+(A) good growing conditions both encouraged farming traditions that, in places, endure in
+(B) good growing conditions encouraged farming traditions that have, in places, endured for
+(C) of good growing conditions have encouraged farming traditions that, in places, endured for
+(D) of good growing conditions both encouraged farming traditions that have, in places, endured
+(E) of good growing conditions encouraged farming traditions that have, in places, been enduring for
+---------------------------------
+#SC#72#B#7200
+His studies of ice-polished rocks in his Alpine home land, far outside the range of present-day glaciers, led Louis Agassiz in 1837 to propose the concept of an age <span style="text-decoration: underline">in which great ice sheets had existed in now currently temperate areas</span>.
+(A) in which great ice sheets had existed in now currently temperate areas
+(B) in which great ice sheets existed in what are now temperate areas
+(C) when great ice sheets existed where there were areas now temperate
+(D) when great ice sheets had existed in current temperate areas
+(E) when great ice sheets existed in areas now that are temperate
+---------------------------------
+#SC#73#D#7300
+Unlike the original National Museum of Science and Technology in Italy, where the models are encased in glass or operated only by staff members, the Virtual Leonardo Project, an online version of the museum, encourages visitors to “touch” each <span style="text-decoration: underline">exhibit, which thereby activates </span> the animated functions of the piece.
+(A) exhibit, which thereby activates
+(B) exhibit, in turn an activation of
+(C) exhibit, and it will activate
+(D) exhibit and thereby activate
+(E) exhibit which, as a result, activates
+---------------------------------
+#SC#74#D#7400
+<span style="text-decoration: underline">Despite its covering the entire planet. Earth has a crust that is not seamless or stationary, rather it is</span> fragmented into mobile semirigid plates.
+(A) Despite its covering the entire planet, Earth has a crust that is not seamless or stationary, rather it is
+(B) Despite the fact that it covers the entire planet, Earth's crust is neither seamless nor is it stationary, but is
+(C) Despite covering the entire planet, Earth's crust is neither seamless nor is it stationary, but rather
+(D) Although it covers the entire planet, Earth's crust is neither seamless nor stationary, but rather
+(E) Although covering the entire planet, Earth has a crust that is not seamless or stationary, but
+---------------------------------
+#SC#75#A#7500
+More and more in recent years, cities are stressing the arts as a means <span style="text-decoration: underline">to greater economic development and investing</span> millions of dollars in cultural activities, despite strained municipal budgets and fading federal support.
+(A) to greater economic development and investing
+(B) to greater development economically and investing
+(C) of greater economic development and invest
+(D) of greater development economically and invest
+(E) for greater economic development and the investment of
+---------------------------------
+#SC#76#B#7600
+Combining enormous physical strength with higher intelligence, the Neanderthals <span style="text-decoration: underline">appear as equipped for facing any obstacle the environment could put in their path</span>, but their relatively sudden disappearance during the Paleolithic era indicates that an inability to adapt to some environmental change led to their extinction.
+(A) appear as equipped for facing any obstacle the environment could put in their path,
+(B) appear to have been equipped to face any obstacle the environment could put in their path,
+(C) appear as equipped to face any obstacle the environment could put in their paths,
+(D) appeared as equipped to face any obstacle the environment could put in their paths,
+(E) appeared to have been equipped for facing any obstacle the environment could put in their path,
+---------------------------------
+#SC#77#D#7700
+A 1972 agreement between Canada and the United States <span style="text-decoration: underline">reduced the amount of phosphates that municipalities had been allowed to dump</span> into the Great Lakes.
+(A) reduced the amount of phosphates that municipalities had been allowed to dump
+(B) reduced the phosphate amount that municipalities had been dumping
+(C) reduces the phosphate amount municipalities have been allowed to dump
+(D) reduced the amount of phosphates that municipalities are allowed to dump
+(E) reduces the amount of phosphates allowed for dumping by municipalities
+---------------------------------
+#SC#78#C#7800
+A proposal has been made to trim the horns from rhinoceroses to discourage poachers; the question is <span style="text-decoration: underline">whether tourists will continue to visit game parks and see rhinoceroses after their horns are</span> trimmed.
+(A) whether tourists will continue to visit game parks and see rhinoceroses after their horns are
+(B) whether tourists will continue to visit game parks to see one once their horns are
+(C) whether tourists will continue to visit game parks to see rhinoceroses once the animals’ horns have been
+(D) if tourists will continue to visit game parks and see rhinoceroses once the animals’ horns are
+(E) if tourists will continue to visit game parks to see one after the animals’ horns have been
+---------------------------------
+#SC#79#C#7900
+Ryunosuke Akutagawa‘s knowledge of the literatures of Europe, China and <span style="text-decoration: underline">that of Japan were instrumental in his development as a writer, informing his literary style as much as</span> the content of his fiction.
+(A) that of Japan were instrumental in his development as a writer, informing his literary style as much as
+(B) that of Japan was instrumental in his development as a writer, and it informed his literary style as well as
+(C) Japan was instrumental in his development as a writer, informing both his literary style and
+(D) Japan was instrumental in his development as a writer, as it informed his literary style as much as
+(E) Japan were instrumental in his development as a writer, informing both his literary style in addition to
+---------------------------------
+#SC#80#E#8000
+The only way for growers to salvage frozen citrus is <span style="text-decoration: underline">to process them quickly into juice concentrate before they rot when warmer weather returns.</span>
+(A) to process them quickly into juice concentrate before they rot when warmer weather returns
+(B) if they are quickly processed into juice concentrate before warmer weather returns to rot them
+(C) for them to be processed quickly into juice concentrate before the fruit rots when warmer weather returns
+(D) if the fruit is quickly processed into juice concentrate before they rot when warmer weather returns
+(E) to have it quickly processed into juice concentrate before warmer weather returns and rots the fruit
+---------------------------------
+#SC#81#D#8100
+Fossils of the arm of a <span style="text-decoration: underline">sloth found in Puerto Rico in 1991, and dated at 34 million years old, made it the earliest known mammal of </span>the Greater Antilles islands.
+(A) sloth found in Puerto Rico in 1991, and dated at 34 million years old, made it the earliest known mammal of
+(B) sloth, that they found in Puerto Rico in 1991, has been dated at 34 million years old, thus making it the earliest mammal known on
+(C) sloth that was found in Puerto Rico in 1991, was dated at 34 million years old, making this the earliest known mammal of
+(D) sloth, found in Puerto Rico in 1991, have been dated at 34 million years old, making the sloth the earliest known mammal on
+(E) sloth which, found in Puerto Rico in 1991, was dated at 34 million years old, made the sloth the earliest known mammal of
+---------------------------------
+#SC#82#B#8200
+Defense attorneys have occasionally argued that their clients’ misconduct stemmed from a reaction to something ingested, but<span style="text-decoration: underline"> in attributing criminal or delinquent behavior to some food allergy</span>, the perpetrators are in effect told that they are not responsible for their actions.
+(A) in attributing criminal or delinquent behavior to some food allergy
+(B) if criminal or delinquent behavior is attributed to an allergy to some food
+(C) in attributing behavior that is criminal or delinquent to an allergy to some food
+(D) if some food allergy is attributed as the cause of criminal or delinquent behavior
+(E) in attributing a food allergy as the cause of criminal or delinquent behavior
+---------------------------------
+#SC#83#E#8300
+A report by the American Academy for the Advancement of Science has concluded that <span style="text-decoration: underline">much of the currently uncontrolled dioxins to which North Americans are exposed comes from the incineration of wastes.</span>
+(A) much of the currently uncontrolled dioxins to which North Americans are exposed comes
+(B) much of the currently uncontrolled dioxins that North Americans are exposed to come
+(C) much of the dioxins that are currently uncontrolled and that North Americans are exposed to comes
+(D) many of the dioxins that are currently uncontrolled and North Americans are exposed to come
+(E) many of the currently uncontrolled dioxins to which North Americans are exposed come
+---------------------------------
+#SC#84#C#8400
+Recently physicians have determined that stomach ulcers are <span style="text-decoration: underline">not caused by stress, alcohol, or rich foods, but</span> a bacterium that dwells in the mucous lining of the stomach.
+(A) not caused by stress, alcohol, or rich foods, but
+(B) not caused by stress, alcohol, or rich foods, but are by
+(C) caused not by stress, alcohol, or rich foods, but by
+(D) caused not by stress, alcohol, and rich foods, but
+(E) caused not by stress, alcohol, and rich foods, but are by
+---------------------------------
+#SC#85#E#8500
+According to a recent poll, owing and living in a free standing house on its own land is still a goal of majority of young adults,<span style="text-decoration: underline">like that of earlier generations.</span>
+(A) like that of earlier generations.
+(B) as that of earlier generations.
+(C) just as earlier generations did
+(D) as have earlier generations
+(E) as it was of earlier generations
+---------------------------------
+#SC#86#B#8600
+In 2000, a mere two dozen products accounted for half the increase in spending on prescription drugs, <span style="text-decoration: underline">a phenomenon that is explained not just because of more expensive drugs but by the fact that doctors are writing</span> many more prescriptions for higher-cost drugs.
+(A) a phenomenon that is explained not just because of more expensive drugs but by the fact that doctors are writing
+(B) a phenomenon that is explained not just by the fact that drugs are becoming more expensive but also by the fact that doctors are writing
+(C) a phenomenon occurring not just because of drugs that are becoming more expensive but because of doctors having also written
+(D) which occurred not just because drugs are becoming more expensive but doctors are also writing
+(E) which occurred not just because of more expensive drugs but because doctors have also written
+---------------------------------
+#SC#87#C#8700
+According to scientists who monitored its path, <span style="text-decoration: underline">an expanding cloud of energized particles ejected from the Sun recently triggered a large storm in the magnetic field that surrounds Earth. which brightened the Northern Lights and also possibly knocking</span> out a communications satellite.
+(A) an expanding cloud of energized particles ejected from the Sun recently triggered a large storm in the magnetic field that surrounds Earth, which brightened the Northern Lights and also possibly knocking
+(B) an expanding cloud of energized particles ejected from the Sun was what recently triggered a large storm in the magnetic field that surrounds Earth, and it brightened the Northern Lights and also possibly knocked
+(C) an expanding cloud of energized particles ejected from the Sun recently triggered a large storm in the magnetic field that surrounds Earth, brightening the Northern Lights and possibly knocking
+(D) a large storm in the magnetic field that surrounds Earth, recently triggered by an expanding cloud of energized particles, brightened the Northern Lights and it possibly knocked
+(E) a large storm in the magnetic field surrounding Earth was recently triggered by an expanding cloud of energized particles, brightening the Northern Lights and it possibly knocked
+---------------------------------
+#SC#88#B#8800
+Often visible as smog, <span style="text-decoration: underline">ozone is formed in the atmosphere from</span> hydrocarbons and nitrogen oxides, two major pollutants emitted by automobiles, react with sunlight.
+(A) ozone is formed in the atmosphere from
+(B) ozone is formed in the atmosphere when
+(C) ozone is formed in the atmosphere, and when
+(D) ozone, formed in the atmosphere when
+(E) ozone, formed in the atmosphere from
+---------------------------------
+#SC#89#A#8900
+Salt deposits and moisture threaten to destroy the Mohenjo-Daro excavation in Pakistan, the site of an ancient civilization <span style="text-decoration: underline">that flourished at the same time as the civilizations</span> in the Nile delta and the river valleys of the Tigris and Euphrates.
+(A) that flourished at the same time as the civilizations
+(B) that had flourished at the same time as had the civilizations
+(C) that flourished at the same time those had
+(D) flourishing at the same time as those did
+(E) flourishing at the same time as those were
+---------------------------------
+#SC#90#C#9000
+The results of the company's cost-cutting measures are evident in its profits, <span style="text-decoration: underline">which increased five percent during the first three months of this year after it fell </span> over the last two years.
+(A) which increased five percent during the first three months of this year after it fell
+(B) which had increased five percent during the first three months of this year after it had fallen
+(C) which have increased five percent during the first three months of this year after falling
+(D) with a five percent increase during the first three months of this year after falling
+(E) with a five percent increase during the first three months of this year after having fallen
+---------------------------------
+#SC#91#C#9100
+In an effort to reduce their inventories, Italian vintners have cut prices; their wines <span style="text-decoration: underline">have been priced to sell, and they are</span>.
+(A) have been priced to sell, and they are
+(B) are priced to sell, and they have
+(C) are priced to sell, and they do
+(D) are being priced to sell, and have
+(E) had been priced to sell, and they have
+---------------------------------
+#SC#92#D#9200
+<span style="text-decoration: underline">Thelonious Monk, who was a jazz pianist and composer, produced a body of work both rooted</span> in the stride-piano tradition of Willie (The Lion) Smith and Duke Ellington, yet in many ways he stood apart from the mainstream jazz repertory.
+(A) Thelonious Monk, who was a jazz pianist and composer, produced a body of work both rooted
+(B) Thelonious Monk, the jazz pianist and composer, produced a body of work that was rooted both
+(C) Jazz pianist and composer Thelonious Monk, who produced a body of work rooted
+(D) Jazz pianist and composer Thelonious Monk produced a body of work that was rooted
+(E) Jazz pianist and composer Thelonious Monk produced a body of work rooted both
+---------------------------------
+#SC#93#A#9300
+Nobody knows exactly how many languages there are in the world, partly because of the difficulty of distinguishing between a language <span style="text-decoration: underline">and the sub-languages or dialects within it, but those who have tried to count typically have found</span> about five thousand.
+(A) and the sub-languages or dialects within it, but those who have tried to count typically have found
+(B) and the sub-languages or dialects within them, with those who have tried counting typically finding
+(C) and the sub-languages or dialects within it, but those who have tried counting it typically find
+(D) or the sub-languages or dialects within them, but those who tried to count them typically found
+(E) or the sub-languages or dialects within them, with those who have tried to count typically finding
+---------------------------------
+#SC#94#A#9400
+<span style="text-decoration: underline">Heating-oil prices are expected to be higher this year than last because refiners are paying about $5 a barrel more for crude oil than they were</span> last year.
+(A) Heating-oil prices are expected to be higher this year than last because refiners are paying about $5 a barrel more for crude oil than they were
+(B) Heating-oil prices are expected to rise higher this year over last because refiners pay about $5 a barrel for crude oil more than they did
+(C) Expectations are for heating-oil prices to be higher this year than last year's becuase refiners are paying about $5 a barrel for crude oil more than they did
+(D) It is the expectation that heating-oil prices will be higher this year over last because refiners are paying about $5 a barrel more for crude oil now than what they were
+(E) It is the expected that heating-oil prices will rise higher this year than last year's because refiners pay about $5 a barrel for crude oil more than they did
+---------------------------------
+#SC#95#C#9500
+One of the primary distinctions <span style="text-decoration: underline">between our intelligence with that of other primates may lay not so much in any specific skill but</span> in our ability to extend knowledge gained in one context to new and different ones.
+(A) between our intelligence with that of other primates may lay not so much in any specific skill but
+(B) between our intelligence with that of other primates may lie not so much in any specific skill but instead
+(C) between our intelligence and that of other primates may lie not so much in any specific skill as
+(D) our intelligence has from that of other primates may lie not in any specific skill as
+(E) of our intelligence to that of other primates may lay not in any specific skill but
+---------------------------------
+#SC#96#A#9600
+<span style="text-decoration: underline">Even though Clovis points, spear points with longitudinal grooves chipped onto their faces, have been found all over North America, they are named for the New Mexico site where they were first discovered in 1932.</span>
+(A) Even though Clovis points, spear points with longitudinal grooves chipped onto their faces, have been found all over North America, they are named for the New Mexico site where they were first discovered in 1932.
+(B) Although named for the New Mexico site where first discovered in 1932, Clovis points are spear points of longitudinal grooves chipped onto their faces and have been found all over North America.
+(C) Named for the New Mexico site where they have been first discovered in 1932, Clovis points, spear points of longitudinal grooves chipped onto the faces, have been found all over North America.
+(D) Spear points with longitudinal grooves that are chipped onto the faces, Clovis points, even though named for the New Mexico site where first discovered in 1932, but were found all over North America.
+(E) While Clovis points are spear points whose faces have longitudinal grooves chipped into them, they have been found all over North America, and named for the New Mexico site where they have been first discovered in 1932.
+---------------------------------
+#SC#97#B#9700
+Some anthropologists believe that the genetic homogeneity evident in the world's people is the result of a "population bottleneck"—<span style="text-decoration: underline">at some time in the past our ancestors suffered an event, greatly reducing their numbers</span> and thus our genetic variation.
+(A) at some time in the past our ancestors suffered an event, greatly reducing their numbers
+(B) that at some time in the past our ancestors suffered an event that greatly reduced their numbers
+(C) that sometime in the past our ancestors suffered an event so that their numbers were greatly reduced
+(D) some time in the past our ancestors suffered an event from which their numbers were greatly reduced
+(E) some time in the past, that our ancestors suffered an event so as to reduce their numbers greatly,
+---------------------------------
+#SC#98#D#9800
+Ranked as one of the most important of Europe’s young playwrights, Franz Xaver Kroetz has written forty plays; his works—translated into over thirty languages—are produced more often <span style="text-decoration: underline">than any</span> contemporary German dramatist.
+(A) than any
+(B) than any other
+(C) than are any
+(D) than those of any other
+(E) as are those of any
+---------------------------------
+#SC#99#B#9900
+<span style="text-decoration: underline">The stars, some of them at tremendous speeds, are in motion just as the planets are, yet being</span> so far away from the Earth that their apparent positions in the sky do not change enough for their movement to be observed during a single human lifetime.
+(A) The stars, some of them at tremendous speeds, are in motion just as the planets are, yet being
+(B) Like the planets, the stars are in motion, some of them at tremendous speeds, but they are
+(C) Although like the planets the stars are in motion, some of them at tremendous speeds, yet
+(D) As the planets, the stars are in motion, some of them at tremendous speeds, but they are
+(E) The stars are in motion like the planets, some of which at tremendous speeds are in motion but
+---------------------------------
+#SC#100#E#10000
+<span style="text-decoration: underline">Heavy commitment by an executive to a course of action, especially if it has worked well in the past, makes it likely to miss signs of incipient trouble or misinterpret them when they do appear.</span>
+(A) Heavy commitment by an executive to a course of action, especially if it has worked well in the past, makes it likely to miss signs of incipient trouble or misinterpret them when they do appear.
+(B) An executive who is heavily committed to a course of action, especially one that worked well in the past, makes missing signs of incipient trouble or misinterpreting ones likely when they do appear.
+(C) An executive who is heavily committed to a course of action is likely to miss or misinterpret signs of incipient trouble when they do appear, especially if it has worked well in the past.
+(D) Executives' being heavily committed to a course of action, especially if it has worked well in the past, makes them likely to miss signs of incipient trouble or misinterpreting them when they do appear.
+(E) Being heavily committed to a course of action, especially one that has worked well in the past, is likely to make an executive miss signs of incipient trouble or misinterpret them when they do appear.
+---------------------------------
+#SC#101#A#10100
+As rainfall began to decrease in the Southwest about the middle of the twelfth century, most of the Monument Valley Anasazi abandoned their homes to join other clans <span style="text-decoration: underline">whose access to water was less limited.</span>
+(A) whose access to water was less limited
+(B) where there was access to water that was less limited
+(C) where they had less limited water access
+(D) with less limitations on water access
+(E) having less limitations to water access
+---------------------------------
+#SC#102#B#10200
+Yellow jackets number among the 900 or so species of the world's social wasps, <span style="text-decoration: underline">wasps living in a highly cooperative and organized society where they consist almost entirely of</span> females—the queen and her sterile female workers.
+(A) wasps living in a highly cooperative and organized society where they consist almost entirely of
+(B) wasps that live in a highly cooperative and organized society consisting almost entirely of
+(C) which means they live in a highly cooperative and organized society, almost all
+(D) which means that their society is highly cooperative, organized, and it is almost entirely
+(E) living in a society that is highly cooperative, organized, and it consists of almost all
+---------------------------------
+#SC#103#D#10300
+El Nino, the periodic abnormal warming of the sea surface off Peru, <span style="text-decoration: underline">a phenomenon in which changes in the ocean and atmosphere combine allowing the warm water that has accumulated</span> in the western Pacific to flow back to the east.
+(A) a phenomenon in which changes in the ocean and atmosphere combine allowing the warm water that has accumulated
+(B) a phenomenon where changes in the ocean and atmosphere are combining to allow the warm water that is accumulating
+(C) a phenomenon in which ocean and atmosphere changes combine and which allows the warm water that is accumulated
+(D) is a phenomenon in which changes in the ocean and atmosphere combine to allow the warm water that has accumulated
+(E) is a phenomenon where ocean and atmosphere changes are combining and allow the warm water accumulating
+---------------------------------
+#SC#104#C#10400
+<span style="text-decoration: underline">Beatrix Potter, in her book illustrations, carefully coordinating them with her narratives</span>, capitalized on her keen observation and love of the natural world.
+(A) Beatrix Potter, in her book illustrations, carefully coordinating them with her narratives,
+(B) In her book illustrations, carefully coordinating them with her narratives, Beatrix Potter
+(C) In her book illustrations, which she carefully coordinated with her narratives, Beatrix Potter
+(D) Carefully coordinated with her narratives, Beatrix Potter, in her book illustrations
+(E) Beatrix Potter, in her book illustrations, carefully coordinated them with her narratives and
+---------------------------------
+#SC#105#C#10500
+<span style="text-decoration: underline">Marconi’s conception of the radio was as a substitute for the telephone, a tool for private conversation; instead, it is</span> precisely the opposite, a tool for communicating with a large, public audience.
+(A) Marconi’s conception of the radio was as a substitute for the telephone, a tool for private conversation; instead, it is
+(B) Marconi conceived of the radio as a substitute for the telephone, a tool for private conversation, but which is
+(C) Marconi conceived of the radio as a tool for private conversation that could substitute for the telephone; instead, it has become
+(D) Marconi conceived of the radio to be a tool for private conversation, a substitute for the telephone, which has become
+(E) Marconi conceived of the radio to be a substitute for the telephone, a tool for private conversation, other than what it is,
+---------------------------------
+#SC#106#A#10600
+<span style="text-decoration: underline">Originally developed for detecting air pollutants, a technique called proton-induced x-ray emission, which can quickly analyze the chemical elements in almost any substance without destroying it</span>, is finding uses in medicine, archaeology, and criminology.
+(A) Originally developed for detecting air pollutants, a technique called proton-induced x-ray emission, which can quickly analyze the chemical elements in almost any substance without destroying it,
+(B) Originally developed for detecting air pollutants, having the ability to analyze the chemical elements in almost any substance without destroying it, a technique called proton induced x-ray emission
+(C) A technique originally developed for detecting air pollutants, called proton-induced x-ray emission, which can quickly analyze the chemical elements in almost any substance without destroying it,
+(D) A technique originally developed for detecting air pollutants, called proton-induced x-ray emission, which has the ability to analyze the chemical elements in almost any substance quickly and without destroying it,
+(E) A technique that was originally developed for detecting air pollutants and has the ability to analyze the chemical elements in almost any substance quickly and without destroying the substance, called proton-induced x-ray emission,
+---------------------------------
+#SC#107#B#10700
+<span style="text-decoration: underline">While it costs about the same to run nuclear plants as other types of power plants, it is the fixed costs that stem from building nuclear plants that makes it more expensive for them to generate electricity.</span>
+(A) While it costs about the same to run nuclear plants as other types of power plants, it is the fixed costs that stem from building nuclear plants that makes it more expensive for them to generate electricity.
+(B) While the cost of running nuclear plants is about the same as for other types of power plants, the fixed costs that stem from building nuclear plants make the electricity they generate more expensive.
+(C) Even though it costs about the same to run nuclear plants as for other types of power plants, it is the fixed costs that stem from building nuclear plants that makes the electricity they generate more expensive.
+(D) It costs about the same to run nuclear plants as for other types of power plants, whereas the electricity they generate is more expensive, stemming from the fixed costs of building nuclear plants.
+(E) The cost of running nuclear plants is about the same as other types of power plants, but the electricity they generate is made more expensive because of the fixed costs stemming from building nuclear plants.
+---------------------------------
+#SC#108#A#10800
+<span style="text-decoration: underline">Authoritative parents are more likely than permissive parents to have children who as adolescents are self-confident, high in self-esteem, and responsibly independent.</span>
+(A) Authoritative parents are more likely than permissive parents to have children who as adolescents are self-confident, high in self-esteem, and responsibly independent.
+(B) Authoritative parents who are more likely than permissive parents to have adolescent children that are self-confident, high in self-esteem, and responsibly independent.
+(C) Children of authoritative parents, rather than permissive parents, are the more likely to be self-confident, have a high self-esteem, and to be responsibly independent as adolescents.
+(D) Children whose parents are authoritative rather than being permissive, are more likely to have self-confidence, a high self-esteem, and be responsibly independent when they are an adolescent.
+(E) Rather than permissive parents, the children of authoritative parents are the more likely to have self-confidence, a high self-esteem, and to be responsibly independent as an adolescent.
+---------------------------------
+#SC#109#A#10900
+Among the objects found in the excavated temple were small terra-cotta effigies left by supplicants who were either asking the goddess Bona Dea's aid <span style="text-decoration: underline">in healing physical and mental ills or thanking her for such help.</span>
+(A) in healing physical and mental ills or thanking her for such help
+(B) in healing physical and mental ills and to thank her for helping
+(C) in healing physical and mental ills, and thanking her for helping
+(D) to heal physical and mental ills or to thank her for such help
+(E) to heal physical and mental ills or thanking her for such help
+---------------------------------
+#SC#110#C#11000
+<span style="text-decoration: underline">Published in Harlem, the owner and editor of <i>the Messenger</i> were two young journalists, Chandler Owen and A. Philip Randolph, who would later make his reputation as a labor leader</span>.
+(A) Published in Harlem, the owner and editor of <i>the Messenger</i> were two young journalists, Chandler Owen and A. Philip Randolph, who would later make his reputation as a labor leader.
+(B) Published in Harlem, two young journalists, Chandler Owen and A. Philip Randolph, who would later make his reputation as a labor leader, were the owner and editor of <i>the Messenger</i>.
+(C) Published in Harlem, <i>the Messenger</i> was owned and edited by two young journalists, A. Philip Randolph, who would later make his reputation as a labor leader, and Chandler Owen.
+(D) <i>The Messenger</i> was owned and edited by two young journalists, Chandler Owen and A. Philip Randolph, who would later make his reputation as a labor leader, and published in Harlem.
+(E) The owner and editor being two young journalists, Chandler Owen and A. Philip Randolph, who would later make his reputation as a labor leader, <i>the Messenger</i> was published in Harlem.
+---------------------------------
+#SC#111#A#11100
+A mutual fund having billions of dollars in assets will typically invest that money in hundreds of <span style="text-decoration: underline">companies, rarely holding more than one percent</span> of the shares of any particular corporation.
+(A) companies, rarely holding more than one percent
+(B) companies, and it is rare to hold at least one percent or more
+(C) companies and rarely do they hold more than one percent
+(D) companies, so that they rarely hold more than one percent
+(E) companies; rarely do they hold one percent or more
+---------------------------------
+#SC#112#C#11200
+Construction of the Roman Colosseum, <span style="text-decoration: underline">which was officially known as the Flavian Amphitheater, began in A.D. 69, during the reign of Vespasian</span>, was completed a decade later, during the reign of Titus, who opened the Colosseum with a one-hundred-day cycle of religious pageants, gladiatorial games, and spectacles.
+(A) which was officially known as the Flavian Amphitheater, began in A.D. 69, during the reign of Vespasian,
+(B) officially known as the Flavian Amphitheater, begun in A.D. 69, during the reign of Vespasian, and
+(C) which was officially known as the Flavian Amphitheater, began in A.D. 69, during the reign of Vespasian, and
+(D) officially known as the Flavian Amphitheater and begun in A.D. 69, during the reign of Vespasian it
+(E) officially known as the Flavian Amphitheater, which was begun in A.D. 69, during the reign of Vespasian, and
+---------------------------------
+#SC#113#D#11300
+<span style="text-decoration: underline">As a baby emerges from the darkness of the womb with a rudimentary sense of vision, it would be rated about 20/500, or legally blind if it were an adult with such vision</span>.
+(A) As a baby emerges from the darkness of the womb with a rudimentary sense of vision, it would be rated about 20/500, or legally blind if it were an adult with such vision.
+(B) A baby emerges from the darkness of the womb with a rudimentary sense of vision that would be rated about 20/500, or legally blind as an adult.
+(C) As a baby emerges from the darkness of the womb, its rudimentary sense of vision would be rated about 20/500; qualifying it to be legally blind if an adult.
+(D) A baby emerges from the darkness of the womb with a rudimentary sense of vision that would be rated about 20/500; an adult with such vision would be deemed legally blind.
+(E) As a baby emerges from the darkness of the womb, its rudimentary sense of vision, which would be deemed legally blind for an adult, would be rated about 20/500.
+---------------------------------
+#SC#114#B#11400
+Starfish, with anywhere from five to eight arms, have a strong regenerative ability, and if<span style="text-decoration: underline"> one arm is lost it quickly replaces it, sometimes by the animal overcompensating and</span> growing an extra one or two.
+(A) one arm is lost it quickly replaces it, sometimes by the animal overcompensating and
+(B) one arm is lost it is quickly replaced, with the animal sometimes overcompensating and
+(C) they lose one arm they quickly replace it, sometimes by the animal overcompensating,
+(D) they lose one arm they are quickly replaced, with the animal sometimes overcompensating,
+(E) they lose one arm it is quickly replaced, sometimes with the animal overcompensating,
+---------------------------------
+#SC#115#B#11500
+<span style="text-decoration: underline">Because there are provisions of the new maritime code that provide that even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas, they have already stimulated</span> international disputes over uninhabited islands.
+(A) Because there are provisions of the new maritime code that provide that even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas, they have already stimulated
+(B) Because the new maritime code provides that even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas, it has already stimulated
+(C) Even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas under provisions of the new maritime code, already stimulating
+(D) Because even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas under provisions of the new maritime code, this has already stimulated
+(E) Because even tiny islets can be the basis for claims to the fisheries and oil fields of large sea areas under provisions of the new maritime code, which is already stimulating
+---------------------------------
+#SC#116#C#11600
+The original building and loan associations were organized as limited life funds, whose members made monthly payments on their share <span style="text-decoration: underline">subscriptions, then taking turns drawing</span> on the funds for home mortgages.
+(A) subscriptions, then taking turns drawing
+(B) subscriptions, and then taking turns drawing
+(C) subscriptions and then took turns drawing
+(D) subscriptions and then took turns, they drew
+(E) subscriptions and then drew, taking turns
+---------------------------------
+#SC#117#C#11700
+Gall's hypothesis <span style="text-decoration: underline">of there being different mental functions localized in different parts of the brain is widely accepted today</span>.
+(A) of there being different mental functions localized in different parts of the brain is widely accepted today
+(B) of different mental functions that are localized in different parts of the brain is widely accepted today
+(C) that different mental functions are localized in different parts of the brain is widely accepted today
+(D) which is that there are different mental functions localized in different parts of the brain is widely accepted today
+(E) which is widely accepted today is that there are different mental functions localized in different parts of the brain
+---------------------------------
+#SC#118#C#11800
+Mauritius was a British colony for almost 200 years, <span style="text-decoration: underline">excepting for</span> the domains of administration and teaching, the English language was never really spoken on the island.
+(A) excepting for
+(B) except in
+(C) but except in
+(D) but excepting for
+(E) with the exception of
+---------------------------------
+#SC#119#E#11900
+George Sand (Aurore Lucile Dupin) was one of the first European writers to consider the rural poor <span style="text-decoration: underline">to be legitimate subjects for literature and portray these</span> with sympathy and respect in her novels.
+(A) to be legitimate subjects for literature and portray these
+(B) should be legitimate subjects for literature and portray these
+(C) as being legitimate subjects for literature and portraying them
+(D) as if they were legitimate subjects for literature and portray them
+(E) legitimate subjects for literature and to portray them
+---------------------------------
+#SC#120#C#12000
+The world wildlife fund has declared that global warming, <span style="text-decoration: underline">a phenomenon most scientists agree to be caused by human beings in burning fossil fuels,</span> will create havoc among migratory birds by altering the enviroment in ways harmful to their habitats.
+(A) a phenomenon most scientists agree to be caused by human beings in burning fossil fuels,
+(B) a phenomenon most scientists agree that is caused by fossil fuels burned by human beings,
+(C) a phenomenon that most scientists agree is caused by human beings' burning of fossil fuels
+(D) which most scientists agree on as phenomenon caused by human beings who burn fossil fuels,
+(E) which most scientists agree to be a phenomenon caused by fossil fuels burned by human beings
+---------------------------------
+#SC#121#B#12100
+New theories propose that catastrophic impacts of asteroids and comets may have caused reversals in the Earth’s magnetic field, the onset of ice ages, <span style="text-decoration: underline">splitting apart continents</span> 80 million years ago, and great volcanic eruptions.
+(A) splitting apart continents
+(B) the splitting apart of continents
+(C) split apart continents
+(D) continents split apart
+(E) continents that were split apart
+---------------------------------
+#SC#122#D#12200
+A firm that specializes in the analysis of handwriting claims <span style="text-decoration: underline">from a one-page writing sample that it can assess</span> more than three hundred personality traits, including enthusiasm, imagination, and ambition.
+(A) from a one-page writing sample that it can assess
+(B) from a one-page writing sample it has the ability of assessing
+(C) the ability, from a one-page writing sample, of assessing
+(D) to be able, from a one-page writing sample, to assess
+(E) being able to assess, from a one-page writing sample,
+---------------------------------
+#SC#123#A#12300
+Sales of wines declined in the late 1980s, but <span style="text-decoration: underline">they began to grow again after the 1991 report that linked moderate consumption of alcohol, and particularly of red wine, with a reduced risk of heart disease</span>.
+(A) they began to grow again after the 1991 report that linked moderate consumption of alcohol, and particularly of red wine, with a reduced risk of heart disease
+(B) after the 1991 report that linked a reduced risk of heart disease with a moderate alcohol consumption, particularly red wine, they began growing again
+(C) in a 1991 report, moderate alcohol consumption, and particularly of red wine, which was linked with a reduced risk of heart disease, caused them to begin to grow again
+(D) with a reduced risk of heart disease linked in a 1991 report with moderate alcohol consumption, in particular red wine, they began growing again
+(E) a reduced risk of heart disease linked to moderate alcohol consumption in a 1991 report, and in particular red wine, started them growing again
+---------------------------------
+#SC#124#C#12400
+<span style="text-decoration: underline">She was less successful after she had emigrated to New York compared to</span> her native Germany, photographer Lotte Jacobi nevertheless earned a small group of discerning admirers, and her photographs were eventually exhibited in prestigious galleries across the United States.
+(A) She was less successful after she had emigrated to New York compared to
+(B) Being less successful after she had emigrated to New York as compared to
+(C) Less successful after she emigrated to New York than she had been in
+(D) Although she was less successful after emigrating to New York when compared to
+(E) She had been less successful after emigrating to New York than in
+---------------------------------
+#SC#125#B#12500
+Today, because of improvements in agricultural technology, the same amount of acreage produces <span style="text-decoration: underline">double the apples that it has</span> in 1910.
+(A) double the apples that it has
+(B) twice as many apples as it did
+(C) as much as twice the apples it has
+(D) two times as many apples as there were
+(E) a doubling of the apples that it did
+---------------------------------
+#SC#126#A#12600
+The use of lie detectors is based on the assumption that lying produces emotional reactions in an individual <span style="text-decoration: underline">that, in turn, create unconscious physiological responses.</span>
+(A) that, in turn, create unconscious physiological responses
+(B) that creates unconscious physiological responses in turn
+(C) creating, in turn, unconscious physiological responses
+(D) to create, in turn, physiological responses that are unconscious
+(E) who creates unconscious physiological responses in turn
+---------------------------------
+#SC#127#D#12700
+Joan of Arc, a young Frenchwoman who claimed to be divinely inspired, turned the tide of English victories in her country by liberating the city of Orleans and <span style="text-decoration: underline">she persuaded Charles VII of France to claim his throne.</span>
+(A) she persuaded Charles VII of France to claim his throne
+(B) persuaded Charles VII of France in claiming his throne
+(C) persuading that the throne be claimed by Charles VII of France
+(D) persuaded Charles VII of France to claim his throne
+(E) persuading that Charles VII of France should claim the throne
+---------------------------------
+#SC#128#E#12800
+Australian embryologists have found evidence <span style="text-decoration: underline">that suggests that the elephant is descended from an aquatic animal, and its trunk originally evolved</span> as a kind of snorkel.
+(A) that suggests that the elephant is descended from an aquatic animal, and its trunk originally evolved
+(B) that has suggested the elephant descended from an aquatic animal, its trunk originally evolving
+(C) suggesting that the elephant had descended from an aquatic animal with its trunk originally evolving
+(D) to suggest that the elephant had descended from an aquatic animal and its trunk originally evolving
+(E) to suggest that the elephant is descended from an aquatic animal and that its trunk originally evolved
+---------------------------------
+#SC#129#C#12900
+Cajuns speak a dialect brought to southern Louisiana by the 4,000 Acadians who migrated there in 1755; their language is basically seventeenth-century French <span style="text-decoration: underline">to which has been added English, Spanish, and Italian words.</span>
+(A) to which has been added English, Spanish, and Italian words
+(B) added to which is English, Spanish, and Italian words
+(C) to which English, Spanish, and Italian words have been added
+(D) with English, Spanish, and Italian words having been added to it
+(E) and, in addition, English, Spanish, and Italian words are added
+---------------------------------
+#SC#130#C#13000
+Over 75% of the energy produced in France derives from nuclear power,<span style="text-decoration: underline"> while in Germany it is just over 33%.</span>
+(A) while in Germany it is just over 33%
+(B) compared to Germany, which uses just over 33%
+(C) whereas nuclear poweraccounts for just over 33% of the energy produced in Germany
+(D) whereas just over 33% of the energy comes from nuclear power in Germany
+(E) compared with the energy from nuclear power in Germany, where it is just over 33%
+---------------------------------
+#SC#131#D#13100
+Although the term “psychopath” is popularly applied to an especially brutal criminal, in psychology <span style="text-decoration: underline">it is someone who is</span> apparently incapable of feeling compassion or the pangs of conscience.
+(A) it is someone who is
+(B) it is a person
+(C) they are people who are
+(D) it refers to someone who is
+(E) it is in reference to people
+---------------------------------
+#SC#132#B#13200
+<span style="text-decoration: underline">Although appearing less appetizing than most of their round and red supermarket cousins, heirloom tomatoes, grown from seeds saved during the previous year</span> – they are often green and striped, or have plenty of bumps and bruises – heirlooms are more flavorful and thus in increasing demand.
+(A) Although appearing less appetizing than most of their round and red supermarket cousins, heirloom tomatoes, grown from seeds saved during the previous year
+(B) Although heirloom tomatoes, grown from seeds saved during the previous year, appear less appetizing than most of their round and red supermarket cousins
+(C) Although they appear less appetizing than most of their round and red supermarket cousins, heirloom tomatoes, grown from seeds saved during the previous year
+(D) Grown from seeds saved during the previous year, heirloom tomatoes appear less appetizing than most of their round and red supermarket cousins
+(E) Heirloom tomatoes, grown from seeds saved during the previous year, although they appear less appetizing than most of their round and red supermarket cousins
+---------------------------------
+#SC#133#B#13300
+Last week local shrimpers held a news conference to take some credit for the resurgence of the rare Kemp’s ridley turtle, saying that their compliance with laws <span style="text-decoration: underline">requiring that turtle-excluder devices be on shrimp nets protect</span> adult sea turtles.
+(A) requiring that turtle-excluder devices be on shrimp nets protect
+(B) requiring turtle-excluder devices on shrimp nets is protecting
+(C) that require turtle-excluder devices on shrimp nets protect
+(D) to require turtle-excluder devices on shrimp nets are protecting
+(E) to require turtle-excluder devices on shrimp nets is protecting
+---------------------------------
+#SC#134#C#13400
+Recently implemented "shift-work equations" based on studies of the human sleep cycle have reduced sickness, sleeping on the job, <span style="text-decoration: underline">fatigue among shift workers, and have raised </span>production efficiency in various industries.
+(A) fatigue among shift workers, and have raised
+(B) fatigue among shift workers, and raised
+(C) and fatigue among shift workers while raising
+(D) lowered fatigue among shift workers, and raised
+(E) and fatigue among shift workers was lowered while raising
+---------------------------------
+#SC#135#B#13500
+Spanning more than fifty years, Friedrich <span style="text-decoration: underline">Muller began his career in an unpromising apprenticeship as</span> a Sanskrit scholar and culminated in virtually every honor that European governments and learned societies could bestow.
+(A) Muller began his career in an unpromising apprenticeship as
+(B) Muller’s career began in an unpromising apprenticeship as
+(C) Muller’s career began with the unpromising apprenticeship of being
+(D) Muller had begun his career with the unpromising apprenticeship of being
+(E) the career of Muller has begun with an unpromising apprenticeship of
+---------------------------------
+#SC#136#A#13600
+<span style="text-decoration: underline">Whereas in mammals the tiny tubes that convey nutrients to bone cells are arrayed in parallel lines, in birds the tubes</span> form a random pattern.
+(A) Whereas in mammals the tiny tubes that convey nutrients to bone cells are arrayed in parallel lines, in birds the tubes
+(B) Whereas the tiny tubes for the conveying of nutrients to bone cells are arrayed in mammals in parallel lines, birds have tubes that
+(C) Unlike mammals, where the tiny tubes for conveying nutrients to bone cells are arrayed in parallel lines, birds’ tubes
+(D) Unlike mammals, in whom the tiny tubes that convey nutrients to bone cells are arrayed in parallel lines, the tubes in birds
+(E) Unlike the tiny tubes that convey nutrients to bone cells, which in mammals are arrayed in parallel lines, in birds the tubes
+---------------------------------
+#SC#137#C#13700
+Joachim Raff and Giacomo Meyerbeer are examples of the kind of composer who receives popular acclaim while living, <span style="text-decoration: underline">often goes into decline after death, and never regains popularity again</span>.
+(A) often goes into decline after death, and never regains popularity again
+(B) whose reputation declines after death and never regains its status again
+(C) but whose reputation declines after death and never regains its former status
+(D) who declines in reputation after death and who never regained popularity again
+(E) then has declined in reputation after death and never regained popularity
+---------------------------------
+#SC#138#E#13800
+Most efforts to combat such mosquito-borne diseases <span style="text-decoration: underline">like malaria and dengue have focused either on the vaccination of humans or on exterminating</span> mosquitoes with pesticides.
+(A) like malaria and dengue have focused either on the vaccination of humans or on exterminating
+(B) like malaria and dengue have focused either on vaccinating of humans or on the extermination of
+(C) as malaria and dengue have focused on either vaccinating humans or on exterminating
+(D) as malaria and dengue have focused on either vaccinating of humans or on extermination of
+(E) as malaria and dengue have focused on either vaccinating humans or exterminating
+---------------------------------
+#SC#139#C#13900
+In no other historical sighting did Halley’s Comet cause such a worldwide sensation as <span style="text-decoration: underline">did its return in 1910-1911</span>.
+(A) did its return in 1910–1911
+(B) had its 1910–1911 return
+(C) in its return of 1910–1911
+(D) its return of 1910–1911 did
+(E) its return in 1910–1911
+---------------------------------
+#SC#140#E#14000
+Rock samples taken from the remains of an asteroid about twice the size of the 6-mile-wide asteroid that eradicated the dinosaurs <span style="text-decoration: underline">has been dated to be 3.47 billion years old and thus is</span> evidence of the earliest known asteroid impact on Earth.
+(A) has been dated to be 3.47 billion years old and thus is
+(B) has been dated at 3.47 billion years old and thus
+(C) have been dated to be 3.47 billion years old and thus are
+(D) have been dated as being 3.47 billion years old and thus
+(E) have been dated at 3.47 billion years old and thus are
+---------------------------------

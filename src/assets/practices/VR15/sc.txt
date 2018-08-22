@@ -1,0 +1,905 @@
+####113#VR15
+#SC#1#E#100
+Like ants, termites have an elaborate social structure in which a few individuals reproduce and the rest <span style="text-decoration: underline">are serving the colony by tending juveniles, gathering food, building the nest, or they battle</span> intruders.
+(A) are serving the colony by tending juveniles, gathering food, building the nest, or they battle
+(B) are serving the colony in that they tend juveniles, gather food, build the nest, or battle
+(C) serve the colony, tending juveniles, gathering food, building the nest, or by battling
+(D) serve the colony by tending juveniles, gathering food, by building the nest, or by battling
+(E) serve the colony by tending juveniles, gathering food, building the nest, or battling
+---------------------------------
+#SC#2#B#200
+Some bat caves, like honeybee hives, have residents that take on different duties such as defending the entrance, <span style="text-decoration: underline">acting as sentinels and to sound</span> a warning at the approach of danger, and scouting outside the cave for new food and roosting sites.
+(A) acting as sentinels and to sound
+(B) acting as sentinels and sounding
+(C) to act as sentinels and sound
+(D) to act as sentinels and to sound
+(E) to act as a sentinel sounding
+---------------------------------
+#SC#3#A#300
+<span style="text-decoration: underline">However much United States voters may agree that</span> there is waste in government and that the government as a whole spends beyond its means, it is difficult to find broad support for a movement toward a minimal state.
+(A) However much United States voters may agree that
+(B) Despite the agreement among United States voters to the fact
+(C) Although United States voters agree
+(D) Even though United States voters may agree
+(E) There is agreement among United States voters that
+---------------------------------
+#SC#4#C#400
+The voluminous personal papers of Thomas Alva Edison reveal that his inventions typically <span style="text-decoration: underline">sprang to life not in a flash of inspiration but evolved slowly</span> from previous works.
+(A) sprang to life not in a flash of inspiration but evolved slowly
+(B) sprang to life not in a flash of inspiration but were slowly evolved
+(C) did not spring to life in a flash of inspiration but evolved slowly
+(D) did not spring to life in a flash of inspiration but had slowly evolved
+(E) did not spring to life in a flash of inspiration but were slowly evolved
+---------------------------------
+#SC#5#E#500
+Hundreds of species of fish generate and discharge electric currents, in bursts or as steady electric fields around their bodies, using their power <span style="text-decoration: underline">either to find and attack prey, to defend themselves, or also for communicating and navigating.</span>
+(A) either to find and attack prey, to defend themselves, or also for communicating and navigating
+(B) either for finding and attacking prey, defend themselves, or for communication and navigation
+(C) to find and attack prey, for defense, or communication and navigation
+(D) for finding and attacking prey, to defend themselves, or also for communication and navigation
+(E) to find and attack prey, to defend themselves, or to communicate and navigate
+---------------------------------
+#SC#6#D#600
+A Labor Department study states that the <span style="text-decoration: underline">numbers of women employed outside the home grew by more than a thirty-five percent increase</span> in the past decade and accounted for more than sixty-two percent of the total growth in the civilian work force.
+(A) numbers of women employed outside the home grew by more than a thirty-five percent increase
+(B) numbers of women employed outside the home grew more than thirty-five percent
+(C) numbers of women employed outside the home were raised by more than thirty-five percent
+(D) number of women employed outside the home increased by more than thirty-five percent
+(E) number of women employed outside the home was raised by more than a thirty-five percent increase
+---------------------------------
+#SC#7#A#700
+From the earliest days of the tribe, kinship determined the way in which the Ojibwa society organized its labor, provided access to its resources, <span style="text-decoration: underline">and defined rights and obligations involved in the distribution and consumption of those resources</span>.
+(A) and defined rights and obligations involved in the distribution and consumption of those resources
+(B) defining rights and obligations involved in their distribution and consumption
+(C) and defined rights and obligations as they were involved in its distribution and consumption
+(D) whose rights and obligations were defined in their distribution and consumption
+(E) the distribution and consumption of them defined by rights and obligations
+---------------------------------
+#SC#8#C#800
+As the cost of wireless service has steadily dropped over the last year and as mobile phones have become increasingly common, many people are finding that they can avoid toll charges on their home <span style="text-decoration: underline">phones, using their mobile phones for making long-distance calls at night or on weekends, at a time which</span> many wireless companies provide unlimited airtime for a small monthly fee
+(A) phones, using their mobile phones for making long-distance calls at night or on weekends, at a time which
+(B) phones, instead using mobile phones to make long-distance calls during the night of weekends, during which
+(C) phones by using their mobile phones to make long-distance calls at night or on weekends, when
+(D) phones using mobile phones for making long-distance calls during the night or weekends, when
+(E) phones when using their mobile phones to make long-distance calls at night or on weekends, a time which.
+---------------------------------
+#SC#9#C#900
+Delighted by the reported earnings for the first quarter of the fiscal year, <span style="text-decoration: underline">it was decided by the company manager to give her staff a raise</span>.
+(A) it was decided by the company manager to give her staff a raise
+(B) the decision of the company manager was to give her staff a raise
+(C) the company manager decided to give her staff a raise
+(D) the staff was given a raise by the company manager
+(E) a raise was given to the staff by the company manager
+---------------------------------
+#SC#10#C#1000
+<span style="text-decoration: underline">The rising of costs</span> of data-processing operations at many financial institutions has created a growing opportunity for independent companies to provide these services more efficiently and at lower cost．
+(A) The rising of costs
+(B) Rising costs
+(C) The rising cost
+(D) Because the rising cost
+(E) Because of rising costs
+---------------------------------
+#SC#11#C#1100
+Native to south america,<span style="text-decoration: underline"> when peanuts were introduced to Africa by portugese explorers early in the sixteenth century they were quickly adopted into Africa's agriculture, probably because of being</span> so similar to the Bambarra groundnut, a popular indigenous plant.
+(A) when peanuts were introduced to Africa by Portugese explorers early in sixteenth century they were quickly adopted into Africa's agriculture, probably because of being
+(B) peanuts having been introduced to Africa by Portugese explorers early in the sixteenth century and quickly adopted into Africa's agriculture,probably because of being
+(C) peanuts were introduced to Africa by Portugese explorers early in the sixteenth century and were quickly adopted into Africa's agriculture,probably because they were
+(D) peanuts,introduced to Africa by Portugese explorers early in the sixteenth century and quickly adopted into Africa's agriculture,probably because they were
+(E) peanuts,introduced to Africa by Portugese explorers early in the sixteenth century and having been quickly adopted into Africa's agriculture,probably because they were
+---------------------------------
+#SC#12#B#1200
+William H. Johnson’s artistic debt to Scandinavia is evident in paintings that range from sensitive portraits of citizens in his wife’s Danish home, Kerteminde, <span style="text-decoration: underline">and</span> awe-inspiring views of fjords and mountain peaks in the western and northern regions of Norway.
+(A) and
+(B) to
+(C) and to
+(D) with
+(E) in addition to
+---------------------------------
+#SC#13#A#1300
+Growing competitive pressures may be encouraging auditors to bend the rules in favor of <span style="text-decoration: underline">clients; auditors may, for instance, allow</span> a questionable loan to remain on the books in order to maintain a bank’s profits on paper.
+(A) clients; auditors may, for instance, allow
+(B) clients, as an instance, to allow
+(C) clients, like to allow
+(D) clients, such as to be allowing
+(E) clients; which might, as an instance, be the allowing of
+---------------------------------
+#SC#14#D#1400
+The themes that Rita Dove explores in her poetry <span style="text-decoration: underline">is universal, encompassing much of the human condition while occasionally she deals</span> with racial issues.
+(A) is universal, encompassing much of the human condition while occasionally she deals
+(B) is universal, encompassing much of the human condition, also occasionally it deals
+(C) are universal, they encompass much of the human condition and occasionally deals
+(D) are universal, encompassing much of the human condition while occasionally dealing
+(E) are universal, they encompass much of the human condition, also occasionally are dealing
+---------------------------------
+#SC#15#E#1500
+It is well known in the supermarket industry that how items are placed on shelves and <span style="text-decoration: underline">the frequency of inventory turnovers can be</span> crucial to profits.
+(A) the frequency of inventory turnovers can be
+(B) the frequency of inventory turnovers is often
+(C) the frequency with which the inventory turns over is often
+(D) how frequently is the inventory turned over are often
+(E) how frequently the inventory turns over can be
+---------------------------------
+#SC#16#C#1600
+Iguanas have been an important food source in Latin America since prehistoric times, and <span style="text-decoration: underline">it is still prized as a game animal</span> by the campesinos, who typically cook the meat in a heavily spiced stew.
+(A) it is still prized as a game animal
+(B) it is still prized as game animals
+(C) they are still prized as game animals
+(D) they are still prized as being a game animal
+(E) being still prized as a game animal
+---------------------------------
+#SC#17#C#1700
+Travelers to Mars would have to endure low levels of gravity for long periods of time, avoid large doses of radiation, <span style="text-decoration: underline">contend with the chemically reactive Martian soil, and perhaps even having to ward</span> off contamination by Martian life-forms.
+(A) contend with the chemically reactive Martian soil, and perhaps even having to ward
+(B) contend with the chemically reactive Martian soil, and perhaps even warding
+(C) contend with the chemically reactive Martian soil, and perhaps even ward
+(D) contending with the chemically reactive Martian soil, and perhaps even to ward
+(E) contending with the chemically reactive Martian soil, and perhaps even warding
+---------------------------------
+#SC#18#A#1800
+<span style="text-decoration: underline">Except for a concert performance that the composer himself staged</span> in 1911, Scott Joplin’s ragtime opera Treemonisha was not produced until 1972, sixty-one years after its completion.
+(A) Except for a concert performance that the composer himself staged
+(B) Except for a concert performance with the composer himself staging it
+(C) Besides a concert performance being staged by the composer himself
+(D) Excepting a concert performance that the composer himself staged
+(E) With the exception of a concert performance with the staging done by the composer himself
+---------------------------------
+#SC#19#A#1900
+Chinese, the most ancient of living writing systems, consists of tens of thousands of ideographic characters, each <span style="text-decoration: underline">character a miniature calligraphic composition inside its</span> own square frame.
+(A) each character a miniature calligraphic composition inside its
+(B) all the characters a miniature calligraphic composition inside their
+(C) all the characters a miniature calligraphic composition inside its
+(D) every character a miniature calligraphic composition inside their
+(E) each character a miniature calligraphic composition inside their
+---------------------------------
+#SC#20#E#2000
+Declining values for farm equipment and land, <span style="text-decoration: underline">the collateral against which farmers borrow to get through the harvest season, is</span> going to force many lenders to tighten or deny credit this spring.
+(A) the collateral against which farmers borrow to get through the harvest season, is
+(B) which farmers use as collateral to borrow against to get through the harvest season, is
+(C) the collateral which is borrowed against by farmers to get through the harvest season, is
+(D) which farmers use as collateral to borrow against to get through the harvest season, are
+(E) the collateral against which farmers borrow to get through the harvest season, are
+---------------------------------
+#SC#21#A#2100
+While depressed property values can hurt some large investors, <span style="text-decoration: underline">they are potentially devastating for homeowners, whose</span> equity - in many cases representing a life's savings - can plunge or even disappear.
+(A) they are potentially devastating for homeowners, whose
+(B) they can potentially devastate homeowners in that their
+(C) for homeowners they are potentially devastating, because their
+(D) for homeowners, it is potentially devastating in that their
+(E) it can potentially devastate homeowners, whose
+---------------------------------
+#SC#22#C#2200
+Japanese researchers are producing a series of robots that can identify human facial <span style="text-decoration: underline">expressions, to which they will then respond; their goal is primarily creating</span> a robot that will empathize with us.
+(A) expressions, to which they will then respond; their goal is primarily creating
+(B) expressions, then responding to them; primarily to create
+(C) expressions and then respond to them; the researchers' primary goal is to create
+(D) expressions as well as giving a response to them; their primary goal is creation of
+(E) expressions and responding to them; primarily, the researchers' goal is creating
+---------------------------------
+#SC#23#D#2300
+<span style="text-decoration: underline">Consumers may not think of household cleaning products to be</span> hazardous substances, but many of them can be harmful to health, especially if they are used improperly.
+(A) Consumers may not think of household cleaning products to be
+(B) Consumers may not think of household cleaning products being
+(C) A consumer may not think of their household cleaning products being
+(D) A consumer may not think of household cleaning products as
+(E) Household cleaning products may not be thought of, by consumers, as
+---------------------------------
+#SC#24#E#2400
+In recent years cattle breeders have increasingly used crossbreeding, <span style="text-decoration: underline">in part that their steers should acquire certain characteristics</span> and partly because crossbreeding is said to provide hybrid vigor.
+(A) in part that their steers should acquire certain characteristics
+(B) in part for the acquisition of certain characteristics in their steers
+(C) partly because of their steers acquiring certain characteristics
+(D) partly because certain characteristics should be acquired by their steers
+(E) partly to acquire certain characteristics in their steers
+---------------------------------
+#SC#25#C#2500
+<span style="text-decoration: underline">Like Auden, the language of James Merrill</span> is chatty, arch, and conversational—given to complex syntactic flights as well as to prosaic free-verse strolls.
+(A) Like Auden, the language of James Merrill
+(B) Like Auden, James Merrill’s language
+(C) Like Auden’s, James Merrill’s language
+(D) As with Auden, James Merrill’s language
+(E) As is Auden’s the language of James Merrill
+---------------------------------
+#SC#26#A#2600
+The Baldrick Manufacturing Company has for several years followed a policy <span style="text-decoration: underline">aimed at decreasing operating costs and improving</span> the efficiency of its distribution system.
+(A) aimed at decreasing operating costs and improving
+(B) aimed at the decreasing of operating costs and to improve
+(C) aiming at the decreasing of operating costs and improving
+(D) the aim of which is the decreasing of operating costs and improving
+(E) with the aim to decrease operating costs and to improve
+---------------------------------
+#SC#27#A#2700
+<span style="text-decoration: underline">Obtaining an investment-grade rating will keep the county's future borrowing costs low, protect</span> its already-tattered image, and increase its ability to buy bond insurance.
+(A) Obtaining an investment-grade rating will keep the county's future borrowing costs low, protect
+(B) To obtain an investment-grade rating will keep the county's future borrowing costs low, and protect
+(C) Having obtained an investment-grade rating will, in keeping the county's future borrowing costs low, protect
+(D) To obtain an investment-grade rating would keep the county's future borrowing costs low, protecting
+(E) Obtaining an investment-grade rating, keeping the county's borrowing costs low, would be protecting
+---------------------------------
+#SC#28#C#2800
+Eating saltwater fish may <span style="text-decoration: underline">significantly reduce the risk of heart attacks and also aid for</span> sufferers of rheumatoid arthritis and asthma, according to three research studies published in the Journal of Medicine.
+(A) significantly reduce the risk of heart attacks and also aid for
+(B) be significant in reducing the risk of heart attacks and aid for
+(C) significantly reduce the risk of heart attacks and aid
+(D) cause a significant reduction in the risk of heart attacks and aid to
+(E) significantly reduce the risk of heart attacks as well as aiding
+---------------------------------
+#SC#29#E#2900
+According to some economists, the July decrease in unemployment <span style="text-decoration: underline">so that it was the lowest in two years</span> suggests that the gradual improvement in the job market is continuing.
+(A) so that it was the lowest in two years
+(B) so that it was the lowest two-year rate
+(C) to what would be the lowest in two years
+(D) to a two-year low level
+(E) to the lowest level in two years
+---------------------------------
+#SC#30#B#3000
+Thomas Eakins’ powerful style and his choices of subject—the advances in modern surgery, the discipline of sport, the strains of individuals in tension with society or even with themselves—<span style="text-decoration: underline">was as disturbing to his own time as it is</span> compelling for ours.
+(A) was as disturbing to his own time as it is
+(B) were as disturbing to his own time as they are
+(C) has been as disturbing in his own time as they are
+(D) had been as disturbing in his own time as it was
+(E) have been as disturbing in his own time as
+---------------------------------
+#SC#31#C#3100
+Nearly two tons of nuclear-reactor fuel have already been put into orbit around the Earth, and the chances of a collision involving such material increase greatly <span style="text-decoration: underline">as the amount of both space debris and satellites continue to rise.</span>
+(A) as the amount of both space debris and satellites continue to rise
+(B) as the rise continues in both the amount of satellites and space debris
+(C) as the amount of space debris and the number of satellites continue to rise
+(D) with the continually increasing amount of space debris and the number of satellites
+(E) with the amount of space debris continuing to increase along with the number of satellites
+---------------------------------
+#SC#32#A#3200
+<span style="text-decoration: underline">Like Rousseau, Tolstoi rebelled</span> against the unnatural complexity of human relations in modern society.
+(A) Like Rousseau, Tolstoi rebelled
+(B) Like Rousseau, Tolstoi's rebellion was
+(C) As Rousseau, Tolstoi rebelled
+(D) As did Rousseau, Tolstoi's rebellion was
+(E) Tolstoi's rebellion, as Rousseau's, was
+---------------------------------
+#SC#33#D#3300
+The Wallerstein study indicates that even after a decade young men and women still experience some of the effects of a divorce <span style="text-decoration: underline">occurring when a child.</span>
+(A) occurring when a child
+(B) occurring when children
+(C) that occurred when a child
+(D) that occurred when they were children
+(E) that has occurred as each was a child
+---------------------------------
+#SC#34#D#3400
+Lacking information about energy use, people tend to overestimate the amount of energy used by <span style="text-decoration: underline">equipment, such as lights, that are visible and must be turned on and off and underestimate that</span> used by unobtrusive equipment, such as water heaters.
+(A) equipment, such as lights, that are visible and must be turned on and off and underestimate that
+(B) equipment, such as lights, that are visible and must be turned on and off and underestimate it when
+(C) equipment, such as lights, that is visible and must be turned on and off and underestimate it when
+(D) visible equipment, such as lights, that must be turned on and off and underestimate that
+(E) visible equipment, such as lights, that must be turned on and off and underestimate it when
+---------------------------------
+#SC#35#E#3500
+The rise in the Commerce Department's index of leading economic indicators <span style="text-decoration: underline">suggest that the economy should continue its expansion into the coming months, but that</span> the mixed performance of the index's individual components indicates that economic growth will proceed at a more moderate pace than in the first quarter of this year.
+(A) suggest that the economy should continue its expansion into the coming months, but that
+(B) suggest that the economy is to continue expansion in the coming months, but
+(C) suggests that the economy will continue its expanding in the coming months, but that
+(D) suggests that the economy is continuing to expand into the coming months, but that
+(E) suggests that the economy will continue to expand in the coming months, but
+---------------------------------
+#SC#36#E#3600
+<span style="text-decoration: underline">Polio, although it is eradicated in the United States, it continues elsewhere and is able to be</span> brought into the country by visitors.
+(A) Polio, although it is eradicated in the United States, it continues elsewhere and is able to be
+(B) Polio, although eradicated in the United States, it still continues elsewhere and can be
+(C) Although still continuing elsewhere, polio has been eradicated in the United States and could be
+(D) Although having been eradicated in the United States, polio still continues elsewhere and is capable of being
+(E) Although eradicated in the United States, polio continues elsewhere and could be
+---------------------------------
+#SC#37#B#3700
+<span style="text-decoration: underline">Some buildings that were destroyed and heavily damaged in the earthquake last year were</span> constructed in violation of the city's building code.
+(A) Some buildings that were destroyed and heavily damaged in the earthquake last year were
+(B) Some buildings that were destroyed or heavily damaged in the earthquake last year had been
+(C) Some buildings that were destroyed and heavily damaged in the earthquake last year have been
+(D) Last year the earthquake destroyed or heavly damaged some buildings that have been
+(E) Last year some of the buildings that were destroyed or heavily damaged in the earth quake had been.
+---------------------------------
+#SC#38#E#3800
+A study commissioned by the Department of Agriculture showed that if calves exercise and <span style="text-decoration: underline">associated with other calves, they will require less medication and gain weight quicker than do</span> those raised in confinement.
+(A) associated with other calves, they will require less medication and gain weight quicker than do
+(B) associated with other calves, they require less medication and gain weight quicker than
+(C) associate with other calves, they required less medication and will gain weight quicker than do
+(D) associate with other calves, they have required less medication and will gain weight more quickly than do
+(E) associate with other calves, they require less medication and gain weight more quickly than
+---------------------------------
+#SC#39#E#3900
+A recent study has found that within the past few years, many doctors <span style="text-decoration: underline">had elected early retirement rather than face</span> the threats of lawsuits and the rising costs of malpractice insurance.
+(A) had elected early retirement rather than face
+(B) had elected early retirement instead of facing
+(C) have elected retiring early instead of facing
+(D) have elected to retire early rather than facing
+(E) have elected to retire early rather than face
+---------------------------------
+#SC#40#C#4000
+The Gorton-Dodd bill requires <span style="text-decoration: underline">that a bank disclose to their customers how long they will delay access to funds from deposited checks.</span>
+(A) that a bank disclose to their customers how long they will delay access to funds from deposited checks
+(B) a bank to disclose to their customers how long they will delay access to funds from a deposited check
+(C) that a bank disclose to its customers how long it will delay access to funds from deposited checks
+(D) a bank that it should disclose to its customers how long it will delay access to funds from a deposited check
+(E) that banks disclose to customers how long access to funds from their deposited check is to be delayed
+---------------------------------
+#SC#41#E#4100
+Unlike a funded pension system, in which contributions are invested to pay future beneficiaries, <span style="text-decoration: underline">a pay-as-you-go approach is the foundation of Social Security.</span>
+(A) a pay-as-you-go approach is the foundation of Social Security
+(B) the foundation of Social Security is a pay-as-you-go approach
+(C) the approach of Social Security is pay-as-you-go
+(D) Social Security's approach is pay-as-you-go
+(E) Social Security is founded on a pay-as-you-go approach
+---------------------------------
+#SC#42#E#4200
+Twenty-two feet long and 10 feet in diameter, the AM-1 is one of the many new <span style="text-decoration: underline">satellites that is a part of 15 years effort of subjecting the interactions of Earth's atmosphere, oceans, and land surfaces</span> to detailed scrutiny from space.
+(A) satellites that is a part of 15 years effort of subjecting the interactions of Earth's atmosphere, oceans, and land surfaces
+(B) satellites, which is a part of a 15-year effort to subject how Earth's atmosphere, oceans, and land surfaces interact
+(C) satellites, part of 15 years effort of subjecting how Earth's atmosphere, oceans, and land surfaces are interacting
+(D) satellites that are part of an effort for 15 years that has subjected the interactions of Earth's atmosphere, oceans, and land surfaces
+(E) satellites that are part of a 15-year effort to subject the interactions of Earth's atmosphere, ocean, and land surfaces
+---------------------------------
+#SC#43#B#4300
+Though the term "graphic design" may <span style="text-decoration: underline">suggest laying out corporate brochures and annual reports, they have come to signify widely ranging</span> work, from package designs and company logotypes to signs, book jackets, computer graphics, and film titles.
+(A) suggest laying out corporate brochures and annual reports, they have come to signify widely ranging
+(B) suggest laying out corporate brochures and annual reports, it has come to signify a wide range of
+(C) suggest corporate brochure and annual report layout, it has signified a widely ranging
+(D) have suggested corporate brochure and annual report layout, it has signified a wide range of
+(E) have suggested laying out corporate brochures and annual reports, they have come to signify widely ranging
+---------------------------------
+#SC#44#D#4400
+In contrast to large steel plants that take iron ore through all the steps needed to produce several different kinds of steel, <span style="text-decoration: underline">processing steel scrap into a specialized group of products has enabled small mills to put capital into new technology and remain</span> economically viable.
+(A) processing steel scrap into a specialized group of products has enabled small mills to put capital into new technology and remain
+(B) processing steel scrap into a specialized group of products has enabled small mills to put capital into new technology, remaining
+(C) the processing of steel scrap into a specialized group of products has enabled small mills to put capital into new technology, remaining
+(D) small mills, by processing steel scrap into a specialized group of products, have been able to put capital into new technology and remain
+(E) small mills, by processing steel scrap into a specialized group of products, have been able to put capital into new technology and remained
+---------------------------------
+#SC#45#E#4500
+Under high pressure and intense heat, graphite, the most stable form of pure carbon, changes into the substance commonly referred to as diamond and <span style="text-decoration: underline">remaining this way whether or not </span>the heat and pressure are removed.
+(A) remaining this way whether or not
+(B) remaining like that even as
+(C) remaining as such whether or not
+(D) remains in this way although
+(E) remains thus even when
+---------------------------------
+#SC#46#C#4600
+The psychologist William James believed that facial expressions not only provide a visible sign of an <span style="text-decoration: underline">emotion, actually contributing to the feeling itself</span>.
+(A) emotion, actually contributing to the feeling itself
+(B) emotion but also actually contributing to the feeling itself
+(C) emotion but also actually contribute to the feeling itself
+(D) emotion; they also actually contribute to the feeling of it
+(E) emotion; the feeling itself is also actually contributed to by them
+---------------------------------
+#SC#47#C#4700
+Wisconsin, Illinois, Florida, and Minnesota have begun to enforce statewide bans <span style="text-decoration: underline">prohibiting landfills to accept leaves, brush, and grass clippings.</span>
+(A) prohibiting landfills to accept leaves, brush, and grass clippings
+(B) prohibiting that landfills accept leaves, brush, and grass clippings
+(C) prohibiting landfills from accepting leaves, brush, and grass clippings
+(D) that leaves, brush, and grass clippings cannot be accepted in landfills
+(E) that landfills cannot accept leaves, brush, and grass clippings
+---------------------------------
+#SC#48#A#4800
+Reporting that one of <span style="text-decoration: underline">its many problems had been the recent</span> extended sales slump in women's apparel, the seven-store retailer said it would start a three-month liquidation sale in all of its stores.
+(A) its many problems had been the recent
+(B) its many problems has been the recently
+(C) its many problems is the recently
+(D) their many problems is the recent
+(E) their many problems had been the recent
+---------------------------------
+#SC#49#C#4900
+In developing new facilities for the incineration of solid wastes, we must avoid the danger of shifting environmental problems from <span style="text-decoration: underline">landfills polluting the water to polluting the air with incinerators</span>.
+(A) landfills polluting the water to polluting the air with incinerators
+(B) landfills polluting the water to the air being polluted with incinerators
+(C) the pollution of water by landfills to the pollution of air by incinerators
+(D) pollution of the water by landfills to incinerators that pollute the air
+(E) water that is polluted by landfills to incinerators that pollute the air
+---------------------------------
+#SC#50#C#5000
+The bank holds $3 billion in loans that are seriously delinquent or in such trouble that <span style="text-decoration: underline">they do not expect payments when</span> due.
+(A) they do not expect payments when
+(B) it does not expect payments when it is
+(C) it does not expect payments to be made when they are
+(D) payments are not to be expected to be paid when
+(E) payments are not expected to be paid when they will be
+---------------------------------
+#SC#51#A#5100
+In a 5-to-4 decision, the Supreme Court ruled <span style="text-decoration: underline">that two upstate New York counties owed restitution to three tribes of Oneida Indians for the unlawful seizure of</span> their ancestral lands in the eighteenth century.
+(A) that two upstate New York counties owed restitution to three tribes of Oneida Indians for the unlawful seizure of
+(B) that two upstate New York counties owed restitution to three tribes of Oneida Indians because of their unlawful seizure of
+(C) two upstate New York counties to owe restitution to three tribes of Oneida Indians for their unlawful seizure of
+(D) on two upstate New York counties that owed restitution to three tribes of Oneida Indians because they unlawfully seized
+(E) on the restitution that two upstate New York counties owed to three tribes of Oneida Indians for the unlawful seizure of
+---------------------------------
+#SC#52#B#5200
+Recently discovered fossil remains strongly suggest that the Australian egg-laying mammals of today are a branch of the main stem of mammalian evolution <span style="text-decoration: underline">rather than developing independently from</span> a common ancestor of mammals more than 220 million years ago.
+(A) rather than developing independently from
+(B) rather than a type that developed independently from
+(C) rather than a type whose developments was independent of
+(D) instead of developing independently from
+(E) instead of a development that was independent of
+---------------------------------
+#SC#53#D#5300
+The normative model of strategic decision-making suggests that executives examine a firm’s external environment and internal <span style="text-decoration: underline">conditions, and in using the set of objective criteria they derive from these analyses, can decide</span> on a strategy.
+(A) conditions, and in using the set of objective criteria they derive from these analyses, can decide
+(B) conditions, and they use the set of objective criteria derived from these analyses in deciding
+(C) conditions and, in using the set of objective criteria derived from these analyses, deciding
+(D) conditions and, using the set of objective criteria derived from these analyses, decide
+(E) conditions and, in their use of the set of objective criteria they derive from these analyses, they decide
+---------------------------------
+#SC#54#C#5400
+A patient accusing a doctor of malpractice will find it difficult to prove damage <span style="text-decoration: underline">if there is a lack of some other doctor to testify </span>about proper medical procedures.
+(A) if there is a lack of some other doctor to testify
+(B) unless there will be another doctor to testify
+(C) without another doctor’s testimony
+(D) should there be no testimony from some other doctor
+(E) lacking another doctor to testify
+---------------------------------
+#SC#55#B#5500
+The energy source on Voyager 2 is not a nuclear reactor, in which atoms are actively broken <span style="text-decoration: underline">apart; rather </span>a kind of nuclear battery that uses natural radioactive decay to produce power.
+(A) apart; rather
+(B) apart, but rather
+(C) apart, but rather that of
+(D) apart, but that of
+(E) apart: it is that of
+---------------------------------
+#SC#56#B#5600
+Archaeologists in Ireland believe that a recently discovered chalice, which dates from the eighth century, was probably buried <span style="text-decoration: underline">to keep from</span> being stolen by invaders.
+(A) to keep from
+(B) to keep it from
+(C) to avoid
+(D) in order that it would avoid
+(E) in order to keep from
+---------------------------------
+#SC#57#A#5700
+<span style="text-decoration: underline">According to its proponents, a proposed new style of aircraft could, by skimming along the top of the atmosphere, fly between most points on Earth in under two hours.</span>
+(A) According to its proponents, a proposed new style of aircraft could, by skimming along the top of the atmosphere, fly between most points on Earth in under two hours.
+(B) By skimming along the top of the atmosphere, proponents of a proposed new style of aircraft say it could fly between most points on Earth in under two hours.
+(C) A proposed new style of aircraft could fly between most points on Earth in under two hours, according to its proponents, with it skimming along the top of the atmosphere.
+(D) A proposed new style of aircraft, say its proponents, could fly between most points on Earth in under two hours because of its skimming along the top of the atmosphere.
+(E) According to its proponents, skimming along the top of the atmosphere makes it possible that a proposed new style of aircraft could fly between most points on Earth in under two hours.
+---------------------------------
+#SC#58#E#5800
+Lawmakers are examining measures that would require banks to disclose all fees and account requirements in writing, <span style="text-decoration: underline">provide free cashing of government checks, and to create basic savings accounts to carry</span> minimal fees and require minimal initial deposits.
+(A) provide free cashing of government checks, and to create basic savings accounts to carry
+(B) provide free cashing of government checks, and creating basic savings accounts carrying
+(C) to provide free cashing of government checks, and creating basic savings accounts that carry
+(D) to provide free cashing of government checks, creating basic savings accounts to carry
+(E) to provide free cashing of government checks, and to create basic savings accounts that carry
+---------------------------------
+#SC#59#A#5900
+<span style="text-decoration: underline">Certain pesticides can become ineffective if used repeatedly in the same place；one reason is suggested by the finding that there are much larger populations of pesticide-degrading microbes in soils with a relatively long history of pesticide use than in soils that are free of such chemicals．</span>
+(A) Certain pesticides can become ineffective if used repeatedly in the same place；one reason is suggested by the finding that there are much larger populations of pesticide-degrading microbes in soils with a relatively long history of pesticide use than in soils that are free of such chemicals．
+(B) If used repeatedly in the same place，one reason that certain pesticides can become ineffective is suggested by the finding that there are much larger populations of pesticide-degrading microbes in soils with a relatively long history of pesticide use than in soils that are free of such chemicals．
+(C) If used repeatedly in the same place，one reason certain pesticides can become ineffective is suggested by the finding that much larger populations of pesticide-degrading microbes are found in soils with a relatively long history of pesticide use than those that are free of such chemicals．
+(D) The finding that there are much larger populations of pesticide-degrading microbes in soils with a relatively long history of pesticide use than in soils that are free of such chemicals is suggestive of one reason, if used repeatedly in the same place, certain pesticides can become ineffective.
+(E) The finding of much larger populations of pesticide-degrading microbes in soils with a relatively long history of pesticide use than in those that are free of such chemicals suggests one reason certain pesticides can become ineffective if used repeatedly in the same place.
+---------------------------------
+#SC#60#A#6000
+In the textbook publishing business, the second quarter is historically weak, because revenues are <span style="text-decoration: underline">low and marketing expenses are high as companies prepare</span> for the coming school year.
+(A) low and marketing expenses are high as companies prepare
+(B) low and their marketing expenses are high as they prepare
+(C) low with higher marketing expenses in preparation
+(D) low, while marketing expenses are higher to prepare
+(E) low, while their marketing expenses are higher in preparation
+---------------------------------
+#SC#61#C#6100
+Almost a decade after New York State passed laws to protect patients by reducing the grueling hours worked by medical residents,<span style="text-decoration: underline"> twelve hospitals have been investigated by state medical officials, finding that all twelve consistently break the laws, many residents work longer than 24 hours straight, and that more than half the surgical residents work</span> more than 95 hours a week.
+(A) twelve hospitals have been investigated by state medical officials, finding that all twelve consistently break the laws, many residents work longer than 24 hours straight, and that more than half the surgical residents work
+(B) an investigation by state medical officials of twelve hospitals have found all twelve consistently breaking the laws, that many residents work longer than 24 hours straight, with more than half the surgical residents working
+(C) an investigation of twelve hospitals by state medical officials has found that all twelve consistently break the laws, that many residents work longer than 24 hours straight, and that more than half the surgical residents work
+(D) twelve hospitals were investigated by state medical officials who found all twelve breaking the laws, with many residents working longer than 24 hours straight, and more than half the surgical residents work
+(E) an investigation by state medical officials has found that, of twelve hospitals, all twelve consistently break the laws, that many residents work longer than 24 hours straight, with more than half the surgical residents working
+---------------------------------
+#SC#62#D#6200
+Parliament did not accord full refugee benefits to twelve of the recent immigrants because it believed that <span style="text-decoration: underline">to do it rewards </span>them for entering the country illegally．
+(A) to do it rewards
+(B) doing it rewards
+(C) to do this would reward
+(D) doing so would reward
+(E) to do it would reward
+---------------------------------
+#SC#63#C#6300
+Many policy experts say that shifting a portion of health-benefit costs back to the workers <span style="text-decoration: underline">helps to control the employer’s costs, but also helps</span> to limit medical spending by making patients more careful consumers.
+(A) helps to control the employer’s costs, but also helps
+(B) helps the control of the employer’s costs, and also
+(C) not only helps to control the employer’s costs, but also helps
+(D) helps to control not only the employer’s costs, but
+(E) not only helps to control the employer’s costs, and also helps
+---------------------------------
+#SC#64#D#6400
+Ms. Chambers is among the forecasters who predict that the rate of addition to arable lands will drop while <span style="text-decoration: underline">those of loss rise.</span>
+(A) those of loss rise
+(B) it rises for loss
+(C) those of losses rise
+(D) the rate of loss rises
+(E) there are rises for the rate of loss
+---------------------------------
+#SC#65#C#6500
+The market for recycled <span style="text-decoration: underline">commodities like aluminum and other metals remain</span> strong despite economic changes in the recycling industry.
+(A) commodities like aluminum and other metals remain
+(B) commodities like those of aluminum and other metals are remaining
+(C) commodities such as aluminum and other metals remains
+(D) commodities, such as aluminum and other metals, remain
+(E) commodities, like the commodities of aluminum and other metals, remains
+---------------------------------
+#SC#66#D#6600
+<span style="text-decoration: underline">Unlike auto insurance, the frequency of claims does not affect the premiums for personal property coverage</span>, but if the insurance company is able to prove excessive loss due to owner negligence, it may decline to renew the policy.
+(A) Unlike auto insurance, the frequency of claims does not affect the premiums for personal property coverage
+(B) Unlike with auto insurance, the frequency of claims do not affect the premiums for personal property coverage
+(C) Unlike the frequency of claims for auto insurance, the premiums for personal property coverage are not affected by the frequency of claims
+(D) Unlike the premiums for auto insurance, the premiums for personal property coverage are not affected by the frequency of claims
+(E) Unlike with the premiums for auto insurance, the premiums for personal property coverage is not affected by the frequency of claims
+---------------------------------
+#SC#67#A#6700
+Faced with an estimated $2 billion budget gap, the city’s mayor <span style="text-decoration: underline">proposed a nearly 17 percent reduction in the amount allocated the previous year to maintain the city’s major cultural institutions and to subsidize</span> hundreds of local arts groups.
+(A) proposed a nearly 17 percent reduction in the amount allocated the previous year to maintain the city’s major cultural institutions and to subsidize
+(B) proposed a reduction from the previous year of nearly 17 percent in the amount it was allocating to maintain the city’s major cultural institutions and for subsidizing
+(C) proposed to reduce, by nearly 17 percent, the amount from the previous year that was allocated for the maintenance of the city’s major cultural institutions and to subsidize
+(D) has proposed a reduction from the previous year of nearly 17 percent of the amount it was allocating for maintaining the city’s major cultural institutions, and to subsidize
+(E) was proposing that the amount they were allocating be reduced by nearly 17 percent from the previous year for maintaining the city’s major cultural institutions and for the subsidization
+---------------------------------
+#SC#68#C#6800
+By offering lower prices and a menu of personal communications options, such as caller identification and voice mail, the new telecommunications company <span style="text-decoration: underline">has not only captured customers from other phone companies but also forced them</span> to offer competitive prices.
+(A) has not only captured customers from other phone companies but also forced them
+(B) has not only captured customers from other phone companies, but it also forced them
+(C) has not only captured customers from other phone companies but also forced these companies
+(D) not only has captured customers from other phone companies but also these companies have been forced
+(E) not only captured customers from other phone companies, but it also has forced them
+---------------------------------
+#SC#69#B#6900
+The Anasazi settlements at Chaco Canyon were built on a spectacular <span style="text-decoration: underline">scale with more than 75 carefully engineered structures, of up to 600 rooms each, were</span> connected by a complex regional system of roads.
+(A) scale with more than 75 carefully engineered structures, of up to 600 rooms each, were
+(B) scale with more than 75 carefully engineered structures, of up to 600 rooms each,
+(C) scale of more than 75 carefully engineered structures of up to 600 rooms, each that had been
+(D) scale of more than 75 carefully engineered structures of up to 600 rooms and with each
+(E) scale of more than 75 carefully engineered structures of up to 600 rooms each had been
+---------------------------------
+#SC#70#A#7000
+The gyrfalcon, an Arctic bird of prey, has survived a close brush with <span style="text-decoration: underline">extinction; its numbers are now five times greater than </span> when the use of DDT was sharply restricted in the early 1970's.
+(A) extinction; its numbers are now five times greater than
+(B) extinction; its numbers are now five times more than
+(C) extinction, their numbers now fivefold what they were
+(D) extinction, now with fivefold the numbers they had
+(E) extinction; its numbers are now five times greater than what they were
+---------------------------------
+#SC#71#B#7100
+Analysts blamed May's sluggish retail sales on unexciting merchandise as well as the weather, <span style="text-decoration: underline">colder and wetter than was usual in some regions, which slowed</span> sales of barbecue grills and lawn furniture.
+(A) colder and wetter than was usual in some regions, which slowed
+(B) which was colder and wetter than usual in some regions, slowing
+(C) since it was colder and wetter than usually in some regions, which slowed
+(D) being colder and wetter than usually in some regions, slowing
+(E) having been colder and wetter than was usual in some regions and slowed
+---------------------------------
+#SC#72#C#7200
+State officials report that soaring <span style="text-decoration: underline">rates of liability insurance have risen to force</span> cutbacks in the operations of everything from local governments and school districts to day-care centers and recreational facilities.
+(A) rates of liability insurance have risen to force
+(B) rates of liability insurance are a force for
+(C) rates for liability insurance are forcing
+(D) rises in liability insurance rates are forcing
+(E) liability insurance rates have risen to force
+---------------------------------
+#SC#73#A#7300
+After suffering $2 billion in losses and 25,000 layoffs, the nation’s semiconductor industry, which makes chips that run everything from <span style="text-decoration: underline">computers and spy satellites to dishwashers, appears to have</span> made a long-awaited recovery.
+(A) computers and spy satellites to dishwashers, appears to have
+(B) computers, spy satellites, and dishwashers, appears having
+(C) computers, spy satellites, and dishwashers, appears that it has
+(D) computers and spy satellites to dishwashers, appears that it has
+(E) computers and spy satellites as well as dishwashers, appears to have
+---------------------------------
+#SC#74#B#7400
+While some academicians believe that business ethics should be integrated into every business course, others say that students will take ethics seriously <span style="text-decoration: underline">only if it would be taught as a separately required course</span>.
+(A) only if it would be taught as a separately required course
+(B) only if it is taught as a separate, required course
+(C) if it is taught only as a course required separately
+(D) if it was taught only as a separate and required course
+(E) if it would only be taught as a required course, separately
+---------------------------------
+#SC#75#D#7500
+Scientists have observed large concentrations of heavy-metal deposits in the upper twenty centimeters of<span style="text-decoration: underline"> Baltic Sea sediments, which are consistent with the growth of industrial activity there.</span>
+(A) Baltic Sea sediments, which are consistent with the growth of industrial activity there
+(B) Baltic Sea sediments, where the growth of industrial activity is consistent with these findings
+(C) Baltic Sea sediments, findings consistent with its growth of industrial activity
+(D) sediments from the Baltic Sea, findings consistent with the growth of industrial activity in the area
+(E) sediments from the Baltic Sea, consistent with the growth of industrial activity there
+---------------------------------
+#SC#76#E#7600
+Under a provision of the Constitution that <span style="text-decoration: underline">was never applied, Congress has been required to call a convention for considering possible amendments to the document when formally asked to do it</span> by the legislatures of two-thirds of the states.
+(A) was never applied, Congress has been required to call a convention for considering possible amendments to the document when formally asked to do it
+(B) was never applied, there has been a requirement that Congress call a convention for consideration of possible amendments to the document when asked to do it formally
+(C) was never applied, whereby Congress is required to call a convention for considering possible amendments to the document when asked to do it formally
+(D) has never been applied, whereby Congress is required to call a convention to consider possible amendments to the document when formally asked to do so
+(E) has never been applied, Congress is required to call a convention to consider possible amendments to the document when formally asked to do so
+---------------------------------
+#SC#77#D#7700
+Geologists believe that the warning signs for a major earthquake may include sudden fluctuations in local seismic activity, tilting and other deformations of the Earth's crust, <span style="text-decoration: underline">changing the measured strain across a fault zone, and varying </span>the electrical properties of underground rocks.
+(A) changing the measured strain across a fault zone, and varying
+(B) changing measurements of the strain across a fault zone, and varying
+(C) changing the strain as measured across a fault zone, and variations of
+(D) changes in the measured strain across a fault zone, and variations in
+(E) changes in measurements of the strain across a fault zone, and variations among
+---------------------------------
+#SC#78#D#7800
+The root systems of most flowering perennials either become too crowded, <span style="text-decoration: underline">which results in loss in vigor, and spread</span> too far outward, producing a bare center.
+(A) which results in loss in vigor, and spread
+(B) resulting in loss in vigor, or spreading
+(C) with the result of loss of vigor, or spreading
+(D) resulting in loss of vigor, or spread
+(E) with a resulting loss of vigor, and spread
+---------------------------------
+#SC#79#E#7900
+The computer company has announced that it will purchase the color-printing division of a rival company for $950 <span style="text-decoration: underline">million, which is part of a deal that will make</span> it the largest manufacturer in the office color-printing market.
+(A) million, which is part of a deal that will make
+(B) million, a part of a deal that makes
+(C) million, part of a deal making
+(D) million as a part of a deal to make
+(E) million as part of a deal that will make
+---------------------------------
+#SC#80#C#8000
+Any medical test will sometimes fail to detect <span style="text-decoration: underline">a condition when it is present and indicate that there is one</span> when it is not.
+(A) a condition when it is present and indicate that there is one
+(B) when a condition is present and indicate that there is one
+(C) a condition when it is present and indicate that it is present
+(D) when a condition is present and indicate its presence
+(E) the presence of a condition when it is there and indicate its presence
+---------------------------------
+#SC#81#D#8100
+Since 1986, when the Department of Labor began to allow <span style="text-decoration: underline">investment officers' fees to be based on how the funds they manage perform, several corporations began</span> paying their investment advisers a small basic fee, with a contract promising higher fees if the managers perform well.
+(A) investment officers’ fees to be based on how the funds they manage perform, several corporations began
+(B) investment officers’ fees to be based on the performance of the funds they manage, several corporations began
+(C) that fees of investment officers be based on how the funds they manage perform, several corporations have begun
+(D) fees of investment officers to be based on the performance of the funds they manage, several corporations have begun
+(E) that investment officers' fees be based on the performance of the funds they manage, several corporations began
+---------------------------------
+#SC#82#E#8200
+Downzoning, zoning that typically results in the reduction of housing density, allows for more open space in areas where <span style="text-decoration: underline">little water or services exist</span>.
+(A) little water or services exist
+(B) little water or services exists
+(C) few services and little water exists
+(D) there is little water or services available
+(E) there are few services and little available water
+---------------------------------
+#SC#83#B#8300
+In theory, international civil servants at the United Nations are prohibited from continuing to draw salaries from their own governments; in practice, however, some governments merely substitute living allowances <span style="text-decoration: underline">for their employee's paychecks, assigned by them</span> to the United Nations.
+(A) for their employee's paychecks, assigned by them
+(B) for the paychecks of their employees who have been assigned
+(C) for the paychecks of their employees, having been assigned
+(D) in place of their employee's paychecks, for those of them assigned
+(E) in place of the paychecks of their employees to have been assigned by them
+---------------------------------
+#SC#84#D#8400
+The computer company’s present troubles are a result of technological stagnation, marketing missteps, and managerial blunders <span style="text-decoration: underline">so that several attempts to revise corporate strategies have failed to correct it</span>.
+(A) so that several attempts to revise corporate strategies have failed to correct it
+(B) so that several attempts at revising corporate strategies have failed to correct
+(C) in that several attempts at revising corporate strategies have failed to correct them
+(D) that several attempts to revise corporate strategies have failed to correct
+(E) that several attempts at revising corporate strategies have failed to correct them
+---------------------------------
+#SC#85#E#8500
+According to a study by the Carnegie Foundation for the Advancement of Teaching, companies in the United States are providing job training and general education for nearly eight million people, about <span style="text-decoration: underline">equivalent to the enrollment of </span>the nation’s four-year colleges and universities.
+(A) equivalent to the enrollment of
+(B) the equivalent of those enrolled in
+(C) equal to those who are enrolled in
+(D) as many as the enrollment of
+(E) as many as are enrolled in
+---------------------------------
+#SC#86#B#8600
+Intar, the oldest Hispanic theater company in New York, has moved away from the Spanish classics and <span style="text-decoration: underline">now it draws on the works both of contemporary Hispanic authors who live abroad and of those</span> in the United States.
+(A) now it draws on the works both of contemporary Hispanic authors who live abroad and of those
+(B) now draws on the works of contemporary Hispanic authors, both those who live abroad and those who live
+(C) it draws on the works of contemporary Hispanic authors now, both those living abroad and who live
+(D) draws now on the works both of contemporary Hispanic authors living abroad and who are
+(E) draws on the works now of both contemporary Hispanic authors living abroad and those
+---------------------------------
+#SC#87#D#8700
+Last year, land values in most parts of the pinelands rose almost <span style="text-decoration: underline">so fast. and in some parts even faster than what they did </span>outside the pinelands.
+(A) so fast, and in some parts even faster than what they did
+(B) so fast, and in some parts even faster than, those
+(C) as fast, and in some parts even faster than, those
+(D) as fast as, and in some parts even faster than, those
+(E) as fast as, and in some parts even faster than what they did
+---------------------------------
+#SC#88#C#8800
+<span style="text-decoration: underline">Clouds are formed from the evaporation of the oceans’ water that is warmed by the Sun and rises high into the atmosphere, condensing in tiny droplets on minute particles of dust.</span>
+(A) Clouds are formed from the evaporation of the oceans’ water that is warmed by the Sun and rises high into the atmosphere, condensing in tiny droplets on minute particles of dust.
+(B) Clouds form by the Sun’s warmth evaporating the water in the oceans, which rises high into the atmosphere, condensing in tiny droplets on minute particles of dust.
+(C) Warmed by the Sun, ocean water evaporates, rises high into the atmosphere, and condenses in tiny droplets on minute particles of dust to form clouds.
+(D) The water in the oceans evaporates, warmed by the Sun, rises high into the atmosphere, and condenses in tiny droplets on minute particles of dust, which forms clouds.
+(E) Ocean water, warmed by the Sun, evaporates and rises high into the atmosphere, which then condenses in tiny droplets on minute particles of dust to form as clouds.
+---------------------------------
+#SC#89#D#8900
+<span style="text-decoration: underline">If Dr. Wade was right, any apparent connection of the eating of </span>highly processed foods and excelling at sports is purely coincidental.
+(A) If Dr. Wade was right, any apparent connection of the eating of
+(B) Should Dr. Wade be right, any apparent connection of eating
+(C) IF Dr. Wade is right, any connection that is apparent between eating of
+(D) If Dr. Wade is right, any apparent connection between eating
+(E) Should Dr.Wade have been right, any connection apparent between eating.
+---------------------------------
+#SC#90#B#9000
+The commission proposed <span style="text-decoration: underline">that funding for the park's development, which could be open to the public early next year. is</span> obtained through a local bond issue.
+(A) that funding for the park's development, which could be open to the public early next year, is
+(B) that funding for development of the park, which could be open to the public early next year, be
+(C) funding for the development of the park, perhaps open to the public early next year, to be
+(D) funds for the park's development, perhaps open to the public early next year, be
+(E) development funding for the park, which could be open to the public early next year, is to be
+---------------------------------
+#SC#91#A#9100
+Seismologists studying the earthquake that struck northern California in October 1989 are still investigating some of its mysteries: the unexpected power of the seismic waves, <span style="text-decoration: underline">the upward thrust that threw one man straight into the air, and the strange electromagnetic signals detected hours before the temblor</span>.
+(A) the upward thrust that threw one man straight into the air, and the strange electromagnetic signals detected hours before the temblor
+(B) the upward thrust that threw one man straight into the air, and strange electromagnetic signals were detected hours before the temblor
+(C) the upward thrust threw one man straight into the air, and hours before the temblor strange electromagnetic signals were detected
+(D) one man was thrown straight into the air by the upward thrust, and hours before the temblor strange electromagnetic signals were detected
+(E) one man who was thrown straight into the air by the upward thrust, and strange electromagnetic signals that were detected hours before the temblor
+---------------------------------
+#SC#92#A#9200
+Schistosomiasis, a disease caused by a parasitic worm, is prevalent in hot, humid climates, and it has become more widespread as irrigation projects have enlarged the habitat of <span style="text-decoration: underline">the freshwater snails that are the parasite's hosts for part of its life cycle</span>.
+(A) the freshwater snails that are the parasite's hosts for part of its life cycle
+(B) the freshwater snails that are the parasite's hosts in part of their life cycle
+(C) freshwater snails which becomes the parasite's hosts for part of its life cycles
+(D) freshwater snails which become the hosts of the parasite during the parasite's life cycles
+(E) parasite's hosts, freshwater snails which become their hosts during their life cycles
+---------------------------------
+#SC#93#D#9300
+Two new studies indicate that many people become obese more <span style="text-decoration: underline">due to the fact that their bodies burn calories too slowly than overeating.</span>
+(A) due to the fact that their bodies burn calories too slowly than overeating
+(B) due to their bodies burning calories too slowly than to eating too much
+(C) because their bodies bum calories too slowly than that they are overeaters
+(D) because their bodies bum calories too slowly than because they eat too much
+(E) because of their bodies burning calories too slowly than because of their eating too much
+---------------------------------
+#SC#94#E#9400
+Judge Bonham denied a motion<span style="text-decoration: underline"> to allow members of the jury to go home at the end of each day instead of to confine them to</span> a hotel.
+(A) to allow members of the jury to go home at the end of each day instead of to confine them to
+(B) that would have allowed members of the jury to go home at the end of each day instead of confined to
+(C) under which memebrs of the jury are allowed to go home at the end of each day instead of confining them in
+(D) that would allow members of the jury to go home at the end of each day rather than confinement in
+(E) to allow members of the jury to go home at the end of each day rather than be confined to
+---------------------------------
+#SC#95#C#9500
+Proponents of artificial intelligence say they will be able to make computers that can understand English and other human languages, recognize objects, and reason <span style="text-decoration: underline">as an expert does--computers that will be used to diagnose equipment breakdowns, deciding whether to authorize a loan, or other purposes such as these</span>.
+(A) as an expert does--computers that will be used to diagnose equipment breakdowns, deciding whether to authorize a loan, or other purposes such as these
+(B) as an expert does, which may be used for purposes such as diagnosing equipment breakdowns or deciding whether to authorize a loan
+(C) like an expert--computers that will be used for such purposes as diagnosing equipment breakdowns or deciding whether to authorize a loan
+(D) like an expert, the use of which would be for purposes like the diagnosis of equipment breakdowns or the decision whether or not a loan should be authorized
+(E) like an expert, to be used to diagnose equipment breakdowns, deciding whether to authorize a loan or not, or the like
+---------------------------------
+#SC#96#A#9600
+Floating in the waters of the equatorial Pacific, an array of buoys collects and transmits data on long-term interactions between the ocean and the <span style="text-decoration: underline">atmosphere, interactions that affect </span>global climate.
+(A) atmosphere, interactions that affect
+(B) atmosphere, with interactions affecting
+(C) atmosphere that affects
+(D) atmosphere that is affecting
+(E) atmosphere as affects
+---------------------------------
+#SC#97#E#9700
+<span style="text-decoration: underline">Unlike the United States, where farmers can usually depend on rain or snow all year long , the rains in most parts of Sri Lanka</span> are concentrated in the monsoon months, June to September, and the skies are generally clear for the rest of the year.
+(A) Unlike the United States, where farmers can usually depend on rain or snow all year long, the rains in most parts of Sri Lanka
+(B) Unlike the United States farmers who can usually depend on rain or snow all year long, the rains in most parts of Sri Lanka
+(C) Unlike those of the United States, where farmers can usually depend on rain or snow all year long, most parts of Sri Lanka's rains
+(D) In comparison with the United States, whose farmers can usually depend on rain or snow all year long, the rains in most parts of Sri Lanka
+(E) In the United States, farmers can usually depend on rain or snow all year long, but in most parts of Sri Lanka the rains
+---------------------------------
+#SC#98#E#9800
+Although Napoleon’s army entered Russia with far more supplies than <span style="text-decoration: underline">they had in their previous campaigns</span>, it had provisions for only twenty-four days.
+(A) they had in their previous campaigns
+(B) their previous campaigns had had
+(C) they had for any previous campaign
+(D) in their previous campaigns
+(E) for any previous campaign
+---------------------------------
+#SC#99#D#9900
+After the Civil War, contemporaries of Harriet <span style="text-decoration: underline">Tubman’s maintained that she has</span> all of the qualities of a great leader, coolness in the face of danger, an excellent sense of strategy, and an ability to plan in minute detail.
+(A) Tubman’s maintained that she has
+(B) Tubman’s maintain that she had
+(C) Tubman’s have maintained that she had
+(D) Tubman maintained that she had
+(E) Tubman had maintained that she has
+---------------------------------
+#SC#100#E#10000
+Sixty-five million years ago, according to some scientists, an asteroid bigger than Mount Everest slammed into North America, <span style="text-decoration: underline">which, causing plant and animal extinctions, marks</span> the end of the geologic era known as the Cretaceous Period.
+(A) which, causing plant and animal extinctions, marks
+(B) which caused the plant and animal extinctions marking
+(C) and causing plant and animal extinctions that mark
+(D) an event that caused plant and animal extinctions, and it marks
+(E) an event that caused the plant and animal extinctions that mark
+---------------------------------
+#SC#101#B#10100
+The Federalist papers, a strong defense of the United States Constitution <span style="text-decoration: underline">and important as a body of work in political science as well, represents </span>the handiwork of three different authors.
+(A) and important as a body of work in political science as well, represents
+(B) as well as an important body of work in political science, represent
+(C) and also a body of work of importance in political science is representing
+(D) an important body of work in political science and has been representative of
+(E) and as political science an important body of work too, represent
+---------------------------------
+#SC#102#B#10200
+As business grows more complex, students <span style="text-decoration: underline">majoring in specialized areas like those of finance and marketing have been becoming increasingly</span> successful in the job market.
+(A) majoring in specialized areas like those of finance and marketing have been becoming increasingly
+(B) who major in such specialized areas as finance and marketing are becoming more and more
+(C) who majored in specialized areas such as those of finance and marketing are being increasingly
+(D) who major in specialized areas like those of finance and marketing have been becoming more and more
+(E) having majored in such specialized areas as finance and marketing are being increasingly
+---------------------------------
+#SC#103#D#10300
+Inuits of the Bering Sea were <span style="text-decoration: underline">in isolation from contact with Europeans longer than </span>Aleuts or Inuits of the North Pacific and northern Alaska.
+(A) in isolation from contact with Europeans longer than
+(B) isolated from contact with Europeans longer than
+(C) in isolation from contact with Europeans longer than were
+(D) isolated from contact with Europeans longer than were
+(E) in isolation and without contacts with Europeans longer than
+---------------------------------
+#SC#104#D#10400
+<span style="text-decoration: underline">Although the first pulsar, or rapidly spinning collapsed star, to be sighted was in the summer of 1967 by graduate student Jocelyn Bell, it had not been announced until February, 1968.</span>
+(A) Although the first pulsar, or rapidly spinning collapsed star, to be sighted was in the summer of 1967 by graduate student Jocelyn Bell, it had not been announced until February, 1968.
+(B) Although not announced until February, 1968, in the summer of 1967 graduate student Jocelyn Bell observed the first pulsar, or rapidly spinning collapsed star, to be sighted.
+(C) Although observed by graduate student Jocelyn Bell in the summer of 1967, the discovery of the first sighted pulsar, or rapidly spinning collapsed star, had not been announced before February, 1968.
+(D) The first pulsar, or rapidly spinning collapsed star, to be sighted was observed in the summer of 1967 by graduate student Jocelyn Bell, but the discovery was not announced until February, 1968.
+(E) The first sighted pulsar, or rapidly spinning collapsed star, was not announced until February, 1968, while it was observed in the summer of 1967 by graduate student Jocelyn Bell.
+---------------------------------
+#SC#105#A#10500
+The physical structure of the human eye enables it to sense light of wavelengths up to 0.0005 millimeters; <span style="text-decoration: underline">infrared radiation, however, is invisible because its wavelength—0.1 millimeters—is too long to be registered by the eye</span>.
+(A) infrared radiation, however, is invisible because its wavelength—0.1 millimeters—is too long to be registered by the eye
+(B) however, the wavelength of infrared radiation—0.1 millimeters—is too long to be registered by the eye making it invisible
+(C) infrared radiation, however, is invisible because its wavelength—0.1 millimeters—is too long for the eye to register it
+(D) however, because the wavelength of infrared radiation is 0.1 millimeters, it is too long for the eye to register and thus invisible
+(E) however, infrared radiation has a wavelength of 0.1 millimeters that is too long for the eye to register, thus making it invisible
+---------------------------------
+#SC#106#D#10600
+<span style="text-decoration: underline">As well as heat and light, the Sun is the source of a continuous stream</span> of atomic particles known as the solar wind.
+(A) As well as heat and light, the Sun is the source of a continuous stream
+(B) Besides heat and light, also the Sun is the source of a continuous stream
+(C) Besides heat and light, the Sun is also the source of a continuous streaming
+(D) The Sun is the source not only of heat and light, but also of a continuous stream
+(E) The Sun is the source of not only heat and light but, as well, of a continuous streaming
+---------------------------------
+#SC#107#B#10700
+Bluegrass musician Bill Monroe, whose repertory, views on musical collaboration, and vocal style <span style="text-decoration: underline">were influential on generations of bluegrass artists, was also an inspiration to many musicians, that included Elvis Presley and Jerry Garcia, whose music differed significantly from</span> his own.
+(A) were influential on generations of bluegrass artists, was also an inspiration to many musicians, that included Elvis Presley and Jerry Garcia, whose music differed significantly from
+(B) influenced generations of bluegrass artists, also inspired many musicians, including Elvis Presley and Jerry Garcia, whose music differed significantly from
+(C) was influential to generations of bluegrass artists, was also inspirational to many musicians, that included Elvis Presley and Jerry Garcia, whose music was different significantly in comparison to
+(D) was influential to generations of bluegrass artists, also inspired many musicians, who included Elvis Presley and Jerry Garcia, the music of whom differed significantly when compared to
+(E) were an influence on generations of bluegrass artists, was also an inspiration to many musicians, including Elvis Presley and Jerry Garcia, whose music was significantly different from that of
+---------------------------------
+#SC#108#C#10800
+Sound can travel through water for enormous distances,<span style="text-decoration: underline">prevented from dissipating its acoustic energy as a result of</span>boundaries in the ocean created by water layers of different temperatures and densities.
+(A) prevented from dissipating its acoustic energy as a result of
+(B) prevented from having its acoustic energy dissipated by
+(C) its acoustic energy prevented from dissipating by
+(D) its acoustic energy prevented from being dissipated as a result of
+(E) preventing its acoustic energy from dissipating by
+---------------------------------
+#SC#109#E#10900
+<span style="text-decoration: underline">The nephew of Pliny the Elder wrote the only eyewitness account of the great eruption of Vesuvius in two letters to the historian Tacitus.</span>
+(A) The nephew of Pliny the Elder wrote the only eyewitness account of the great eruption of Vesuvius in two letters to the historian Tacitus.
+(B) To the historian Tacitus, the nephew of Pliny the Elder wrote two letters, being the only eyewitness accounts of the great eruption of Vesuvius.
+(C) The only eyewitness account is in two letters by the nephew of Pliny the Elder writing to the historian Tacitus an account of the great eruption of Vesuvius.
+(D) Writing the only eyewitness account, Pliny the Elder’s nephew accounted for the great eruption of Vesuvius in two letters to the historian Tacitus.
+(E) In two letters to the historian Tacitus, the nephew of Pliny the Elder wrote the only eyewitness account of the great eruption of Vesuvius
+---------------------------------
+#SC#110#C#11000
+<span style="text-decoration: underline">Being a United States citizen since 1988 and born in Calcutta in 1940, author Bharati Mukherjee has</span> lived in England and Canada, and first came to the United States in 1961 to study at the Iowa Writers' Workshop.
+(A) Being a United States citizen since 1988 and born in Calcutta in 1940, author Bharati Mukherjee has
+(B) Having been a United States citizen since 1988, she was born in Calcutta in 1940; author Bharati Mukherjee
+(C) Born in Calcutta in 1940, author Bharati Mukherjee became a United States citizen in 1988; she has
+(D) Being born in Calcutta in 1940 and having been a United States citizen since 1988, author Bharati Mukherjee
+(E) Having been born in Calcutta in 1940 and being a United States citizen since 1988, author Bharati Mukherjee
+---------------------------------
+#SC#111#C#11100
+<span style="text-decoration: underline">Initiated five centuries after Europeans arrived in the New World on Columbus Day 1992, Project SETI pledged a $100 million investment in the search for extraterrestrial intelligence.</span>
+(A) Initiated five centuries after Europeans arrived in the New World on Columbus Day 1992, project SETI pledged a $100 million investment in the search for extraterrestrial intelligence.
+(B) Initiated on Columbus Day 1992, five centuries after Europeans arrived in the New World，a $100 million investment in the search for extraterrestrial intelligence was pledged by Project SETI．
+(C) Initiated on Columbus Day 1992，five centuries after Europeans arrived in the New World，Project SETI pledged a$100 million investment in the search for extraterrestrial intelligence．
+(D) Pledging a $100 million investment in the search for extraterrestrial intelligence, the initiation of Project SETI five centuries after Europeans arrived in the New World on Columbus Day 1992．
+(E) Pledging a $100 million investment in the search for extraterrestrial intelligence five centuries after Europeans arrived in the New World，on Columbus Day 1992，the initiation of Project SETI took place
+---------------------------------
+#SC#112#E#11200
+<span style="text-decoration: underline"> In the 1980s the federal government was the largest single provider of day care for children, offering</span> child care, health, and educational services to hundreds of thousands of children from poor households through the Head Start program and which supported private day-care facilities through child-care tax credits, state block grants, and tax breaks for employers who subsidized day-care services.
+(A) In the 1980s the federal government was the largest single provider of day care for children, offering
+(B) The federal government was the largest single provider of day care for children in the 1980s, which offered
+(C) In the 1980s the federal government was the largest single provider of day care for children and offered
+(D) The largest single provider of day care for children in the 1980s was the federal government, offering
+(E) In the 1980s the largest single provider of day care for children was the federal government, which offered
+---------------------------------
+#SC#113#D#11300
+In A.D. 391, <span style="text-decoration: underline">resulting from the destruction of the largest library of the ancient world at Alexandria,</span> later generations lost all but the Iliad and Odyssey among Greek epics, most of the poetry of Pindar and Sappho, and dozens of plays by Aeschylus and Euripides.
+(A) resulting from the destruction of the largest library of the ancient world at Alexandria,
+(B) the destroying of the largest library of the ancient world at Alexandria resulted and
+(C) because of the result of the destruction of the library at Alexandria, the largest of the ancient world,
+(D) as a result of the destruction of the library at Alexandria, the largest of the ancient world,
+(E) Alexandria’s largest library of the ancient world was destroyed, and the result was
+---------------------------------

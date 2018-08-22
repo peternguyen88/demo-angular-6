@@ -1,0 +1,673 @@
+####84#COMPREHENSIVE SC PART IV
+#SC#1#D#
+Broccoli thrives in moderate to cool climates and <span style="text-decoration: underline">propagated by seeds, either sown directly in the field or in plant beds designed for producing</span> transplants.
+(A) propagated by seeds, either sown directly in the field or in plant beds designed for producing
+(B) propagated by seeds, sown either directly in the field or sown in plant beds designed so as to produce
+(C) is propagated by seeds either sown directly in the field or in plant beds designed so that they produce
+(D) is propagated by seeds sown either directly in the field or in plant beds designed to produce
+(E) is propagated by seeds, sown either directly in the field or sown in plant beds designed for producing
+---------------------------------
+#SC#2#B#
+Evolutionary psychology holds that <span style="text-decoration: underline">the human mind is not a "blank slate." but instead that it comprises specialized mental mechanisms that were developed as a wav of solving</span> specific problems human ancestors faced millions of years ago.
+(A) the human mind is not a "blank slate," but instead that it comprises specialized mental mechanisms that were developed as a way of solving
+(B) the human mind is not a "blank slate" but instead comprises specialized mental mechanisms that were developed to solve
+(C) the human mind, instead of a "blank slate," it comprises specialized mental mechanisms that have been developed to solve
+(D) rather than it being a "blank slate," the human mind comprises specialized mental mechanisms that have been developed as a way of solving
+(E) rather than the human mind's being a "blank slate," that it comprises specialized mental mechanisms that were developed as a way of solving
+---------------------------------
+#SC#3#D#
+Paleontologist Stephen Jay Gould has argued that many biological traits are not the products of natural selection, favored <span style="text-decoration: underline">due to their enhancement of reproduction or survival, but that they are</span> simply random by¬products of other evolutionary developments.
+(A) due to their enhancement of reproduction or survival, but that they are
+(B) due to the reproduction or survival they enhance, but they are
+(C) because they enhance reproduction or survival, but
+(D) because they enhance reproduction or survival, but are
+(E) because of enhancing reproduction or survival, but are
+---------------------------------
+#SC#4#C#
+The soil of the Malheur National Forest in eastern Oregon, a fungus <span style="text-decoration: underline">has for centuries been slowly weaving its wav through the roots of trees, to become</span> the largest living single organism known to humans
+(A) has for centuries been slowly weaving its way through the roots of trees, to become
+(B) has slowly woven its way through the roots of trees for centuries, and so becoming
+(C) that has been slowly weaving its way through the roots of trees for centuries has become
+(D) that has for centuries slowly woven its way through the roots of trees and has become
+(E) that, having slowly woven its way through the roots of trees for centuries, to become
+---------------------------------
+#SC#5#B#
+By recording the noise of crinkled wrappers as they were slowly stretched out in an otherwise silent chamber, and then <span style="text-decoration: underline">digitizing and analyzing the sound emissions on computers, a team of scientists found the noise not</span> continuous but consisted of individual bursts or pops just thousandths of a second long.
+(A) digitizing and analyzing the sound emissions on computers, a team of scientists found the noise not
+(B) digitizing and analyzing the sound emissions on computers, a team of scientists found that the noise was not
+(C) digitizing and analyzing the sound emissions on computers, a team of scientists found the noise not to be
+(D) the sound emissions were digitized and analyzed on computers, a team of scientists found that the noise was not
+(E) the sound emissions were digitized and analyzed on computers, a team of scientists found the noise not to be
+---------------------------------
+#SC#6#C#
+Scientists have found signs that moving water changed the chemical makeup of the surface of Mars in recent <span style="text-decoration: underline">eras, therefore concluding that its crust is harboring UP to three times as much water than was</span> previously thought.
+(A) eras, therefore concluding that its crust is harboring up to three times as much water than was
+(B) eras, therefore concluding that the planet's crust harbors up to three times as much water or more as was
+(C) eras and have therefore concluded that the planet's crust harbors up to three times as much water as
+(D) eras and they have concluded, therefore, that its crust harbors up to three times as much water, or more, than
+(E) eras and concluded, therefore, that the planet's crust is harboring up to three times more water as was
+---------------------------------
+#SC#7#A#
+The cottontail rabbit population in Orange County, California, has increased unchecked in recent <span style="text-decoration: underline">years as a result of the removal of</span> the native fox population and the clearing of surrounding woodlands.
+(A) years as a result of the removal of
+(B) years as a result of removing
+(C) years, resulting from the removing of
+(D) years, which is a result of removing
+(E) years, which is a result of the removal of
+---------------------------------
+#SC#8#D#
+Changes in sea level <span style="text-decoration: underline">are not only a result of changes in water temperature, affecting water density, but of melting glaciers as well.</span>
+(A) are not only a result of changes in water temperature, affecting water density, but of melting glaciers as well
+(B) not only result from changes in water temperature, which affect water density, but also when glaciers melt
+(C) are a result not only of changes in water temperature, which affect water density, but also the melting glaciers
+(D) result not only from changes in water temperature, which affect water density, but also from the melting of glaciers
+(E) result from not only changes in water temperature, affecting water density, but as well as when glaciers melt
+---------------------------------
+#SC#9#E#
+Each year companies in the United States could save as much as $58 billion <span style="text-decoration: underline">annually by preventing illness among employees and gain as much as $200 billion through improving performance of workers if they simply provided</span> offices with cleaner air.
+(A) annually by preventing illness among employees and gain as much as $200 billion through improving performance of workers if they simply provided
+(B) annually if they prevented employee illness and gain as much as $200 billion through worker performance improved by simply providing
+(C) annually in employee illness prevention and gain as much as $200 billion through worker performance improved by simply providing
+(D) in employee illness prevention and gain as much as $200 billion through improving performance of workers if they simply provided
+(E) by preventing illness among employees and gain as much as $200 billion through improved worker performance if they simply provided
+---------------------------------
+#SC#10#B#
+Stock levels for domestic crude oil are far lower than in past years, <span style="text-decoration: underline">leaving domestic oil prices vulnerable to any hints of oil supplies being disrupted in the Middle East or to any unexpected consumer demand growth possibly</span> prompted by colder-than-normal temperatures.
+(A) leaving domestic oil prices vulnerable to any hints of oil supplies being disrupted in the Middle East or to any unexpected consumer demand growth possibly
+(B) leaving domestic oil prices vulnerable to any hints of oil supply disruptions in the Middle East or any unexpected growth in consumer demand that might be
+(C) leaving domestic oil prices vulnerable to any hints of oil supplies that are disrupted in the Middle East or to any unexpected growth in consumer demand as was possibly
+(D) resulting in the fact that domestic oil prices are vulnerable to any hints of oil supplies being disrupted in the Middle East or to any unexpected consumer demand growth possibly
+(E) resulting in the fact of domestic oil prices that are vulnerable to any hints of oil supply disruptions in the Middle East or to any unexpected growth in consumer demand that might be
+---------------------------------
+#SC#11#A#
+The Nobel Prize in chemistry was awarded to three scientists for their discovery <span style="text-decoration: underline">that plastic can be made electrically conductive—an advance that has led</span> to improvements in film, television screens, and windows.
+(A) that plastic can be made electrically conductive—an advance that has led
+(B) that plastic can be made electrically conductive—this advance leading
+(C) that plastic can be made to be electrically conductive, and this advance led
+(D) of plastic's ability to be made electrically conductive, with this advance leading
+(E) of plastic being able to be made electrically conductive—an advance that has led
+---------------------------------
+#SC#12#D#
+In 1945, after a career as First Lady in which she shattered expectations <span style="text-decoration: underline">more audaciously than either Abigail Adams or Dolly Madison ever had been. Eleanor Roosevelt was appointed a delegate to the United Nations General Assembly by President Harrv S Truman.</span>
+(A) more audaciously than either Abigail Adams or Dolly Madison ever had been, Eleanor Roosevelt was appointed a delegate to the United Nations General Assembly by President Harry S Truman
+(B) more audaciously than either Abigail Adams or Dolly Madison, President Harry S Truman had Eleanor Roosevelt appointed to be a delegate to the United Nations General Assembly
+(C) with an audacity never matched in the case of Abigail Adams or Dolly Madison, President Harry S Truman had Eleanor Roosevelt appointed as a delegate to the United Nations General Assembly
+(D) with an audacity never matched by Abigail Adams or Dolly Madison, Eleanor Roosevelt was appointed a delegate to the United Nations General Assembly by President Harry S Truman
+(E) with an audacity never matched either in the case of Abigail Adams or of Dolly Madison's, Eleanor Roosevelt was appointed to be a delegate to the United Nations General Assembly by President Harry S Truman
+---------------------------------
+#SC#13#A#
+An international team of <span style="text-decoration: underline">astronomers working at telescopes in the Canary Islands and Spain has detected at least 18 huge gas spheres estimated to have 5 to 15 times the mass of Jupiter,</span> the solar system's largest planet.
+(A) astronomers working at telescopes in the Canary Islands and Spain has detected at least 18 huge gas spheres estimated to have 5 to 15 times the mass of Jupiter
+(B) astronomers working at telescopes in the Canary Islands and Spain has detected at least 18 huge gas spheres estimated to be 5 to 15 times Jupiter's mass
+(C) astronomers is working at telescopes in the Canary Islands and Spain, having detected at least 18 huge gas spheres that are estimated at 5 to 15 times the mass of Jupiter
+(D) astronomers, working at telescopes in the Canary Islands and Spain, and has detected at least 18 huge gas spheres estimated at 5 to 15 times the mass of Jupiter
+(E) astronomers, working at telescopes in the Canary Islands and Spain, has detected at least 18 huge gas spheres they have estimated to be 5 to 15 times Jupiter's mass
+---------------------------------
+#SC#14#E#
+Results of a United States study published in the Annals of Internal Medicine have shown <span style="text-decoration: underline">college-educated women and women living in the South and West to be significantly more likely to be using supplemental hormones as women living</span> in the Northeast and Midwest.
+(A) college-educated women and women living in the South and West to be significantly more likely to be using supplemental hormones as women living
+(B) college-educated women and women living in the South and West as significantly more likely to use supplemental hormones than if they are living
+(C) college-educated women and those living in the South and West being significantly more likely to use supplemental hormones than if they lived
+(D) that college-educated women and women who live in the South and West are significantly more likely to be using supplemental hormones as were women that lived
+(E) that college-educated women and women living in the South and West are significantly more likely to use supplemental hormones than women living
+---------------------------------
+#SC#15#D#
+A recent study has found <span style="text-decoration: underline">amoxicillin, long a standard treatment for ear infections, as being about as effective as newer, more expensive antibiotics and causing</span> fewer side effects.
+(A) amoxicillin, long a standard treatment for ear infections, as being about as effective as newer, more expensive antibiotics and causing
+(B) amoxicillin, long a standard treatment for ear infections, to be about as effective compared to newer, more expensive antibiotics and with
+(C) amoxicillin, long a standard treatment for ear infections, to be about as effective as newer, more expensive antibiotics and that it causes
+(D) that amoxicillin, long a standard treatment for ear infections, is about as effective as newer, more expensive antibiotics and causes
+(E) that amoxicillin, long a standard treatment for ear infections, is about as effective compared to newer, more expensive antibiotics and with
+---------------------------------
+#SC#16#A#
+Methane, which has long been counted among the greenhouse gases <span style="text-decoration: underline">that are implicated in global warming, comes both from</span> natural sources such as bogs and from a host of human sources, including coal mines, leaking pipelines, landfills, and rice paddies.
+(A) that are implicated in global warming, comes both from
+(B) that are implicated in global warming, coming from both
+(C) being implicated in global warming, comes from both
+(D) implicated in global warming and coming both from
+(E) implicated in global warming, that come both from
+---------------------------------
+#SC#17#A#
+Archaeologists in Egypt have excavated a 5,000-year-old wooden hull that is the earliest surviving example of a "built" boat—in other words, a boat constructed out of planks fitted <span style="text-decoration: underline">together—and that thus represents</span> a major advance, in terms of boat-building technology, over the dugout logs and reed vessels of more ancient vintage.
+(A) together—and that thus represents
+(B) together—and this has represented
+(C) together, and it represents
+(D) together that was representing
+(E) together to represent
+---------------------------------
+#SC#18#E#
+Although they are more temperamental and far more expensive than transistor-driven amplifiers, <span style="text-decoration: underline">many audiophiles and audio professionals prefer the warmer, richer tones produced by vacuum-tube-driven amplifiers.</span>
+(A) many audiophiles and audio professionals prefer the warmer, richer tones produced by vacuum-tube-driven amplifiers
+(B) many audiophiles and audio professionals think the warmer, richer tones produced by vacuum-tube-driven amplifiers make them preferable
+(C) warmer, richer tones are produced by vacuum-tube-driven amplifiers and they are thus preferred by many audiophiles and audio professionals
+(D) vacuum-tube-driven amplifiers are preferred because they produce warmer, richer tones by many audiophiles and audio professionals
+(E) vacuum-tube-driven amplifiers are preferred by many audiophiles and audio professionals because these amplifiers produce warmer, richer tones
+---------------------------------
+#SC#19#A#
+Research has shown that when speaking, individuals who have been blind from birth and <span style="text-decoration: underline">have thus never seen anyone gesture nonetheless make hand motions iust as frequently and in the same wav as sighted people do. and that</span> they will gesture even when conversing with another blind person.
+(A) have thus never seen anyone gesture nonetheless make hand motions just as frequently and in the same way as sighted people do, and that
+(B) have thus never seen anyone gesture but nonetheless make hand motions just as frequently and in the same way that sighted people do, and
+(C) have thus never seen anyone gesture, that they nonetheless make hand motions just as frequently and in the same way as sighted people do, and
+(D) thus they have never seen anyone gesture, but nonetheless they make hand motions just as frequently and in the same way that sighted people do, and that
+(E) thus they have never seen anyone gesture nonetheless make hand motions just as frequently and in the same way that sighted people do, and
+---------------------------------
+#SC#20#C#
+Both the complexity of the phenomenon known as extinction <span style="text-decoration: underline">and the vastness of the biosphere, having prompted many scientists to call for a large increase in the number of biologists working both</span> in the field and in laboratories to clarify the relationships among the planet's many endangered life-forms.
+(A) and the vastness of the biosphere, having prompted many scientists to call for a large increase in the number of biologists working both
+(B) and the vastness of the biosphere has prompted many scientists calling for a large increase in the number of biologists both working
+(C) and the vastness of the biosphere have prompted many scientists to call for a large increase in the number of biologists working both
+(D) as well as the vastness of the biosphere have prompted many scientists to call for a large increase in the number of biologists who both work
+(E) as well as the vastness of the biosphere has prompted many scientists to call for a large increase in the number of biologists who work both
+---------------------------------
+#SC#21#D#
+The decline of the mountain yellow-legged frog in the high reaches of the Sierra Nevada has become <span style="text-decoration: underline">severe enough for the United States Fish and Wildlife Service quite possibly to list it</span> as an endangered species in the near future.
+(A) severe enough for the United States Fish and Wildlife Service quite possibly to list it
+(B) severe enough so that the United States Fish and Wildlife Service could well list them
+(C) severe enough for it quite possibly to be listed by the United States Fish and Wildlife Service
+(D) so severe that the United States Fish and Wildlife Service could well list it
+(E) so severe that they could well be listed by the United States Fish and Wildlife Service
+---------------------------------
+#SC#22#E#
+Unlike frogs that metamorphose from tadpoles into adults within a one-year period, <span style="text-decoration: underline">it takes three to four years for the mountain vellow-leaaed froa of the Sierra Nevada to reach adulthood, and so they are</span> restricted to deeper bodies of water that do not dry up in summer or freeze solid in winter.
+(A) it takes three to four years for the mountain yellow-legged frog of the Sierra Nevada to reach adulthood, and so they are
+(B) it takes the mountain yellow-legged frog of the Sierra Nevada three to four years until it reaches adulthood, and therefore it is
+(C) in the Sierra Nevada, mountain yellow-legged tree frogs take three to four years to reach adulthood, thus being
+(D) mountain yellow-legged frogs of the Sierra Nevada take three to four years until they reach adulthood, thus
+(E) mountain yellow-legged frogs of the Sierra Nevada take three to four years to reach adulthood, and so they are
+---------------------------------
+#SC#23#D#
+In some species of cricket, the number of chirps per minute used by the male <span style="text-decoration: underline">for attracting females rise and fall in accordance with the surrounding temperature, and they can in fact serve</span> as an approximate thermometer.
+(A) for attracting females rise and fall in accordance with the surrounding temperature, and they can in fact serve
+(B) for attracting females rises and falls in accordance with the surrounding temperature, which can in fact serve
+(C) in attracting females rise and fall in accordance with the surrounding temperature, in fact possibly serving
+(D) to attract females rises and falls in accordance with the surrounding temperature, and it can in fact serve
+(E) to attract females rises and falls in accordance with the surrounding temperature, in fact possibly serving
+---------------------------------
+#SC#24#B#
+Industrialization and modern methods of insect control have improved the standard of living around the globe <span style="text-decoration: underline">while at the same time they have introduced some 100.000 dangerous chemical pollutants, having</span> gone virtually unregulated since they were developed more than 50 years ago.
+(A) while at the same time they have introduced some 100,000 dangerous chemical pollutants, having
+(B) while at the same time introducing some 100,000 dangerous chemical pollutants that have
+(C) while they have introduced some 100,000 dangerous chemical pollutants at the same time, which have
+(D) but introducing some 100,000 dangerous chemical pollutants at the same time that have
+(E) but at the same time introducing some 100,000 dangerous chemical pollutants, having
+---------------------------------
+#SC#25#B#
+Past assessments of the Brazilian rain forest have used satellite images to tally deforested areas, where farmers and ranchers have clear-cut and burned all the trees, but such work has not addressed either logging, <span style="text-decoration: underline">which is the removal of only selected trees, as well as surface fires, burning</span> down individual trees but do not denude the forest.
+(A) which is the removal of only selected trees, as well as surface fires, burning
+(B) which removes only selected trees, or surface fires that bum
+(C) which removes only selected trees, along with surface fires that bum
+(D) removing only selected trees, or surface fires, burning
+(E) removing only selected trees, as well as surface fires that bur
+---------------------------------
+#SC#26#B#
+Since the start of the space age, <span style="text-decoration: underline">more and more littering has occurred in orbits near Earth, often because</span> the intentional discarding of lens caps, packing material, fuel tanks, and payload covers.
+(A) more and more littering has occurred in orbits near Earth, often because
+(B) orbits near Earth have become more and more littered, often from
+(C) orbits near Earth became littered more and more, often resulting from
+(D) there have been more and more littering of orbits near Earth, often because of
+(E) there had been littering more and more of orbits near Earth, often with
+---------------------------------
+#SC#27#D#
+Defying efforts by policymakers on both sides of the Atlantic <span style="text-decoration: underline">at restraining it. the United States dollar, continuing its rise, reaching</span> its highest level in six years against the German mark.
+(A) at restraining it, the United States dollar, continuing its rise, reaching
+(B) at restraining it, the rise of the United States dollar continued, to reach
+(C) at restraining it, the United States dollar continued rising, and it reached
+(D) to restrain it, the United States dollar continued its rise, reaching
+(E) to restrain it, the United States dollar is continuing its rise, and to reach
+---------------------------------
+#SC#28#E#
+Like their male counterparts, women scientists are above average in terms of intelligence and creativity, but unlike men of science, <span style="text-decoration: underline">their female counterparts have had to work</span> against the grain of occupational stereotyping to enter a "man's world."
+(A) their female counterparts have had to work
+(B) their problem is working
+(C) one thing they have had to do is work
+(D) the handicap women of science have had is to work
+(E) women of science have had to work
+---------------------------------
+#SC#29#D#
+<span style="text-decoration: underline">From studies of the bony house of the brain, which is the cranium, located in the back of the skull, come what scientists know about dinosaur brains.</span>
+(A) From studies of the bony house of the brain, which is the cranium, located in the back of the skull, come what scientists know about dinosaur brains.
+(B) The knowledge that scientists know about dinosaur brains comes from studies of the bony house of the brain, located in the back of the skull, that is, the cranium.
+(C) The knowledge of dinosaur brains that scientists have come from studies of the bony house of the brain, which is located in the back of the skull and is called the cranium.
+(D) What scientists know about dinosaur brains comes from studies of the cranium, the bony house of the brain located in the back of the skull.
+(E) Located in the back of the skull is the cranium, the bony house of the brain, and it is from studies of this that scientists know what they know about dinosaur brains.
+---------------------------------
+#SC#30#A#
+So-called green taxes, which exact a price for the use of polluting or nonrenewable fuels, are having a positive effect on the environment and natural resource base of countries <span style="text-decoration: underline">as varied as</span> China, the Netherlands, and Hungary.
+(A) as varied as
+(B) as varied as are
+(C) as varied as those of
+(D) that are as varied as
+(E) that are varied as are
+---------------------------------
+#SC#31#D#
+Ozone, a special form of oxygen that screens out harmful ultraviolet rays, reaches high concentrations twelve miles above Earth, where it <span style="text-decoration: underline">has long appeared that it was immune from</span> human influence; we have now realized, though, that emissions of industrial chlorofluorocarbons deplete the ozone layer.
+(A) has long appeared that it was immune from
+(B) has long appeared to have been immune from
+(C) has long appeared as being immune to
+(D) had long appeared immune to
+(E) had long appeared that it was immune to
+---------------------------------
+#SC#32#B#
+The Environmental Protection Agency frequently puts mandatory controls on toxic substances that present as <span style="text-decoration: underline">little risk as one in a million chances to cause</span> cancer.
+(A) as little risk as one in a million chances to cause
+(B) as little risk as one chance in a million of causing
+(C) as little risk as one chance in a million that it will cause
+(D) a risk as little as one chance in a million for causing
+(E) a risk as little as one chance in a million for it to cause
+---------------------------------
+#SC#33#B#
+The rise of the Incan empire rested not only on the Incas' military might and the ability of their rulers but also <span style="text-decoration: underline">they imposed a highly organized economic and political system on many different ethnic groups and permitting them</span> to retain many of their customs and often their own leaders.
+(A) they imposed a highly organized economic and political system on many different ethnic groups and permitting them
+(B) on their imposition of a highly organized economic and political system on many different ethnic groups, who were permitted
+(C) because of their imposition of a highly organized economic and political system on many different ethnic groups, who they permitted
+(D) on their imposing of a highly organized economic and political system on many different ethnic groups and they permitted them
+(E) imposing a highly organized economic and political system on many different ethnic groups, permitting them
+---------------------------------
+#SC#34#D#
+Nine months after the county banned jet skis and other water bikes from the tranquil waters of Puget Sound, a judge overturned the ban on the ground <span style="text-decoration: underline">of violating state laws for allowing</span> the use of personal watercraft on common waterways.
+(A) of violating state laws for allowing
+(B) of their violating state laws to allow
+(C) that it violates state laws that allowed
+(D) that it violated state laws allowing
+(E) that state laws were being violated allowing
+---------------------------------
+#SC#35#E#
+Performing a risky maneuver that required precision flying, <span style="text-decoration: underline">not only did space shuttle astronauts retrieve an orbiting satellite, it was done simultaneously while avoiding</span> being rear-ended by a passing ultraviolet telescope.
+(A) not only did space shuttle astronauts retrieve an orbiting satellite, it was done simultaneously while avoiding
+(B) not only was an orbiting satellite retrieved by space shuttle astronauts, but they also simultaneously avoided
+(C) an orbiting satellite was retrieved by space shuttle astronauts who also avoided simultaneously
+(D) space shuttle astronauts retrieved an orbiting satellite, simultaneously while avoiding
+(E) space shuttle astronauts retrieved an orbiting satellite and simultaneously avoided
+---------------------------------
+#SC#36#D#
+One of the earliest known birds with a beak and contour feathers, Confuciusornis sanctus, <span style="text-decoration: underline">with large clawlike "thumbs" on its wings, which probably helped them to climb up to</span> a launching position for flight.
+(A) with large clawlike "thumbs" on its wings, which probably helped them to
+(B) with large clawlike "thumbs" on their wings, which probably helped it to
+(C) had large clawlike "thumbs" on its wings, which probably helped them
+(D) had large clawlike "thumbs" on its wings, probably to help it
+(E) had large clawlike "thumbs" on their wings, probably to help it
+---------------------------------
+#SC#37#A#
+<span style="text-decoration: underline">Three out of every four automobile owners in the United States also own a bicycle.</span>
+(A) Three out of every four automobile owners in the United States also own a bicycle.
+(B) Out of every four, three automobile owners in the United States also owns a bicycle.
+(C) Bicycles are owned by three out of every four owners of automobiles in the United States.
+(D) In the United States, three out of every four automobile owners owns bicycles.
+(E) Out of every four owners of automobiles in the United States, bicycles are also owned by three.
+---------------------------------
+#SC#38#B#
+In the mid-1920s the Hawthorne Works of the Western Electric Company was the scene of an intensive series of experiments <span style="text-decoration: underline">that would investigate changes in working conditions as to their effects on workers' performance.</span>
+(A) that would investigate changes in working conditions as to their effects on workers' performance
+(B) investigating the effects that changes in working conditions would have on workers' performance
+(C) for investigating what the effects on workers' performance are that changes in working conditions would cause
+(D) that investigated changes in working conditions' effects on workers' performance
+(E) to investigate what the effects changes in working conditions would have on workers' performance
+---------------------------------
+#SC#39#C#
+The success of the program to eradicate smallpox has stimulated experts to pursue <span style="text-decoration: underline">what they had not previously considered possible—better control, if not eradication, of the other infections such as</span> measles and yaws.
+(A) what they had not previously considered possible—better control, if not eradication, of the other infections such as
+(B) what they had not previously considered a possibility—better control, if not eradication, of such infections like
+(C) something they had not previously considered possible-better control, if not eradication, of such infections as
+(D) something not considered a previous possibility—better control and perhaps eradication, of other infections such as
+(E) the possibility of what they had not previously considered—better control and possibly eradication of infections like
+---------------------------------
+#SC#40#C#
+Some anthropologists regard the early hominids' manner of walking <span style="text-decoration: underline">as being less efficient than in</span> modern human beings.
+(A) as being less efficient than in
+(B) as less efficient than it is in
+(C) as less efficient than that of
+(D) to be less efficient than that of
+(E) to have been less efficient than it is in
+---------------------------------
+#SC#41#C#
+<span style="text-decoration: underline">The human nervous system and a telephone system superficially resemble each other, not only because the former carries</span> information in the form of electrical impulses and because all of its neural pathways converge in the brain and spinal cord, which together form a kind of central exchange.
+(A) The human nervous system and a telephone system superficially resemble each other, not only because the former carries
+(B) The human nervous system and a telephone system bear a superficial resemblance because they both carry
+(C) The human nervous system bears a superficial resemblance to a telephone system both because the former carries
+(D) Superficially, a telephone system resembles the human nervous system both because they carry
+(E) There is a superficial resemblance between a telephone system and the human nervous system, not only because they both carry
+---------------------------------
+#SC#42#C#
+Before <span style="text-decoration: underline">scientists learned how to make a synthetic growth hormone, removing it painstakingly</span> in small amounts from the pituitary glands of human cadavers.
+(A) scientists learned how to make a synthetic growth hormone, removing it painstakingly
+(B) scientists had learned about making a synthetic growth hormone, they had to remove it painstakingly
+(C) scientists learned how to synthesize the growth hormone, it had to be painstakingly removed
+(D) learning how to make a synthetic growth hormone, scientists had to remove it painstakingly
+(E) learning how to synthesize the growth hormone, it had to be painstakingly removed by scientists
+---------------------------------
+#SC#43#D#
+The direction in which the Earth and the other solid planets—Mercury, Venus, and Mars—<span style="text-decoration: underline">spins were determined from</span> collisions with giant celestial bodies in the early history of the Solar System.
+(A) spins were determined from
+(B) spins were determined because of
+(C) spins was determined through
+(D) spin was determined by
+(E) spin was determined as a result of
+---------------------------------
+#SC#44#D#
+Scientists believe that unlike the males of most species of moth, the male whistling moths of Nambung, Australia, call female moths to them <span style="text-decoration: underline">by the use of acoustical signals, but not olfactory ones, and they attract</span> their mates during the day, rather than at night.
+(A) by the use of acoustical signals, but not olfactory ones, and they attract
+(B) by the use of acoustical signals instead of using olfactory ones, and attracting
+(C) by using acoustical signals, not using olfactory ones, and by attracting
+(D) using acoustical signals, rather than olfactory ones, and attract
+(E) using acoustical signals, but not olfactory ones, and attracting
+---------------------------------
+#SC#45#E#
+The new image of Stone Age people as systematic hunters of large animals, rather than <span style="text-decoration: underline">merely scavenging for meat, have emerged from the examination of tools found in Germany, including</span> three wooden spears that archaeologists believe to be about 400,000 years old.
+(A) merely scavenging for meat, have emerged from the examination of tools found in Germany, including
+(B) as merely scavenging for meat, have emerged from examining tools found in Germany, which include
+(C) as mere meat scavengers, has emerged from examining tools found in Germany that includes
+(D) mere scavengers of meat, has emerged from the examination of tools found in Germany, which includes
+(E) mere scavengers of meat, has emerged from the examination of tools found in Germany, including
+---------------------------------
+#SC#46#D#
+There is a widespread belief in the United States and Western Europe that young people have <span style="text-decoration: underline">a smaller commitment to work and a career than their parents and grandparents</span> and that the source of the change lies in the collapse of the "work ethic."
+(A) a smaller commitment to work and a career than their parents and grandparents
+(B) less of a commitment to work and a career than their parents and grandparents
+(C) a smaller commitment to work and a career than that of their parents and grandparents
+(D) less of a commitment to work and a career than their parents and grandparents had
+(E) a lessening of the commitment to work and a career that their parents and grandparents had
+---------------------------------
+#SC#47#E#
+A team of scientists has recently provided evidence of <span style="text-decoration: underline">Earth being bombarded daily with as many as 40.000 small comets, vaporizing in the upper atmosphere to</span> fall to Earth as rain.
+(A) of Earth being bombarded daily with as many as 40,000 small comets, vaporizing in the upper atmosphere to
+(B) of Earth's being daily bombarded with as many as 40,000 small comets, vaporizing in the upper atmosphere and that
+(C) that as much or more than 40,000 small comets daily bombard Earth, vaporizing in the upper atmosphere, and
+(D) that daily Earth is bombarded with as much or more than 40,000 small comets that vaporize in the upper atmosphere and that
+(E) that Earth is bombarded daily with as many as 40,000 small comets that vaporize in the upper atmosphere and
+---------------------------------
+#SC#48#E#
+In an effort to increase profits, the company moved <span style="text-decoration: underline">itself from emphasizing its chemicals business to expand</span> into high-growth pharmaceuticals and futuristic biotechnologies.
+(A) itself from emphasizing its chemicals business to expand
+(B) itself from emphasizing its chemicals business then to expanding
+(C) from an emphasis on its chemicals business and to expanding
+(D) from an emphasis on its chemicals business and to expand
+(E) from emphasizing its chemicals business to expanding
+---------------------------------
+#SC#49#B#
+In 1997, despite an economy that marked its sixth full year of uninterrupted expansion with the lowest jobless rate in a quarter century, the number of United States citizens <span style="text-decoration: underline">declaring themselves bankrupt has jumped by almost 20 percent, at</span> 1.34 million.
+(A) declaring themselves bankrupt has jumped by almost 20 percent, at
+(B) declaring themselves bankrupt jumped by almost 20 percent, to
+(C) who declared themselves bankrupt has jumped by almost 20 percent, to
+(D) who declared themselves bankrupt jumped almost by 20 percent, at
+(E) to declare themselves bankrupt jumped almost by 20 percent, at
+---------------------------------
+#SC#50#E#
+<span style="text-decoration: underline">Unlike many United States cities, where a river is no longer the focal point of urban life, the river in San Antonio</span> winds through the middle of the business district, and the River Walk, or Paseo del Rio, is the city's most popular attraction.
+(A) Unlike many United States cities, where a river is no longer the focal point of urban life, the river in San Antonio
+(B) Unlike the river in many cities in the United States, which is no longer the focal point of urban life, in San Antonio the river
+(C) Today the river in many cities in the United States is no longer the focal point of urban life, unlike San Antonio, where it
+(D) In few United States cities today, a river is the focal point of urban life, but the river in San Antonio
+(E) No longer do many cities in the United States have a river as the focal point of urban life, but in San Antonio the river
+---------------------------------
+#SC#51#A#
+Gone are the sharp edges and jutting planes of styles from former eras; instead, designers of everything from cars to computer monitors have adopted a cornerless style of smooth surfaces and curves that is <span style="text-decoration: underline">more ergonomic, conforming to the shape of the body rather than flaunting shape</span> for its own sake.
+(A) more ergonomic, conforming to the shape of the body rather than flaunting shape
+(B) more ergonomic, conformed to the body's shape and not to flaunting shape
+(C) ergonomic, more conformed to the shape of the body and not to shape flaunted
+(D) ergonomic, conforming more to the body's shape rather than shape flaunted
+(E) ergonomic, conforming more to the shape of the body than flaunting shape
+---------------------------------
+#SC#52#E#
+The Chicago and Calumet <span style="text-decoration: underline">Rivers originally flowed into the St. Lawrence by wav of Lake Michigan, but having been redirected by constructing</span> canals so that the water now empties into the Mississippi by way of the Illinois River.
+(A) Rivers originally flowed into the St. Lawrence by way of Lake Michigan, but having been redirected by constructing
+(B) Rivers had originally flowed into the St. Lawrence by way of Lake Michigan, but they have been redirected by constructing
+(C) Rivers, which originally flowed into the St. Lawrence by way of Lake Michigan but have been redirected by the construction of
+(D) Rivers, originally flowing into the St. Lawrence by way of Lake Michigan, but having been redirected by the construction of
+(E) Rivers, originally flowing into the St. Lawrence by way of Lake Michigan, have been redirected through the construction of
+---------------------------------
+#SC#53#D#
+<span style="text-decoration: underline">Like the great navigators who first sailed around the Earth, to gather information about its size and curvature of its surface, new observations have been made by astronomers</span> that show with startling directness the large- scale geometry of the universe.
+(A) Like the great navigators who first sailed around the Earth, to gather information about its size and curvature of its surface, new observations have been made by astronomers
+(B) Like the great navigators who first sailed around the Earth for gathering information about its size and also the curvature of its surface, new observations have been made by astronomers
+(C) Similar to the great navigators who first sailed around the Earth, where they gathered information about its size and the curvature of its surface, astronomers have made new observations
+(D) Like the great navigators who first sailed around the Earth gathering information about its size and the curvature of its surface, astronomers have made new observations
+(E) Just as with the great navigators who first sailed around the Earth, gathering information about its size and curvature of the surface, astronomers have made new observations
+---------------------------------
+#SC#54#A#
+Besides adding complementary flavors to many foods, <span style="text-decoration: underline">hot sauces stimulate the release of endorphins in the brain, just as exercise does, and these have a pain-relieving effect like morphine's.</span>
+(A) hot sauces stimulate the release of endorphins in the brain, just as exercise does, and these have a pain- relieving effect like morphine's
+(B) hot sauces stimulate the release of endorphins in the brain, like exercise, and they have a pain-relieving effect that is like morphine
+(C) hot sauces and exercise both stimulate the release of endorphins in the brain, and they have a pain-relieving effect like morphine
+(D) the release of endorphins in the brain is stimulated both by hot sauces and exercise, and they have a pain- relieving effect like morphine's
+(E) the release of endorphins in the brain is stimulated by hot sauces, just as with exercise, and these have a pain- relieving effect like that of morphine
+---------------------------------
+#SC#55#C#
+Unlike the steam locomotive, which required an hour or two of firing up before <span style="text-decoration: underline">it was possible to move under its own power, nearly full power could be summoned almost instantly from the cold engine of a diesel locomotive.</span>
+(A) it was possible to move under its own power, nearly full power could be summoned almost instantly from the cold engine of a diesel locomotive
+(B) it was possible to move under its own power, the diesel locomotive's engine, when cold, could produce nearly full power almost instantly
+(C) it could move under its own power, the diesel locomotive could summon nearly full power from a cold engine almost instantly
+(D) moving under its own power, the cold engine of the diesel locomotive could produce nearly full power almost instantly
+(E) moving under its own power, almost instantly a diesel locomotive could summon nearly full power from a cold engine
+---------------------------------
+#SC#56#D#
+A group of paleontologists recently announced that a site in Utah has yielded fossils of some of the biggest armored dinosaurs ever found, <span style="text-decoration: underline">and that they were at least 25 million years older than any similar dinosaur type previously</span> found in North America.
+(A) and that they were at least 25 million years older than any similar dinosaur type previously
+(B) and they are at least 25 million years older than those of any similar dinosaur type that previously was
+(C) and the fossils are at least 25 million years older than any similar dinosaur types that previously were
+(D) fossils that are at least 25 million years older than those of any similar dinosaur type previously
+(E) fossils at least 25 million years older than similar dinosaur types previously
+---------------------------------
+#SC#57#B#
+Using technology as new as space-age fabrics <span style="text-decoration: underline">and as ordinary as common dry-cleaning chemicals, scientists and historians, in their attempt at cleaning and preserving the American flag that flew over Fort McHenry in Baltimore in 1814. are hoping</span> that it will then last another 200 years.
+(A) and as ordinary as common dry-cleaning chemicals, scientists and historians, in their attempt at cleaning and preserving the American flag that flew over Fort McHenry in Baltimore in 1814, are hoping
+(B) and as ordinary as common dry-cleaning chemicals, scientists and historians are attempting to clean and preserve the American flag that flew over Fort McHenry in Baltimore in 1814, hoping
+(C) and as ordinary as common dry-cleaning chemicals, an attempt by scientists and historians to clean and preserve the American flag that flew over Fort McHenry in Baltimore in 1814 is being made in the hope
+(D) but also as ordinary as common dry-cleaning chemicals, scientists and historians who are attempting to clean and preserve the American flag that flew over Fort McHenry in Baltimore in 1814, hoping
+(E) but also as ordinary as common dry-cleaning chemicals, an attempt by scientists and historians at cleaning and preserving the American flag that flew over Fort McHenry in Baltimore in 1814 in hopes
+---------------------------------
+#SC#58#E#
+<span style="text-decoration: underline">Like those of the African white and black rhinos,</span> the Sumatran rhino has two horns, but the front one is generally less than a foot long and the second is so small that it often appears to be missing.
+(A) Like those of the African white and black rhinos
+(B) Similar to that of the African white and black rhinos
+(C) Like that of the African white and black rhinos
+(D) As with the African white and black rhinos'
+(E) Like the African white and black rhinos
+---------------------------------
+#SC#59#C#
+<span style="text-decoration: underline">As it is with traditional pharmacies, on-line drugstores rely on prescriptions to be successful,</span> since it is primarily prescriptions that attract the customers, who then also buy other health-related items.
+(A) As it is with traditional pharmacies, on-line drugstores rely on prescriptions to be successful
+(B) As with the case of traditional pharmacies, on-line drugstores rely on prescriptions to have success
+(C) As is the case with traditional pharmacies, prescriptions are the cornerstone of a successful on-line drugstore
+(D) As traditional pharmacies, so on-line drugstores rely on prescriptions to be successful
+(E) Like traditional pharmacies, the cornerstone of a successful on-line drugstore is prescriptions
+---------------------------------
+#SC#60#A#
+According to one expert, <span style="text-decoration: underline">the cause of genetic irregularities in many breeds of dog is not so much that doas are being bred for looks or to meet other narrow criteria</span> as that the breeds have relatively few founding members.
+(A) the cause of genetic irregularities in many breeds of dog is not so much that dogs are being bred for looks or to meet other narrow criteria
+(B) the cause of genetic irregularities in many breeds of dog is not as much their being bred for looks or meeting other narrow criteria as much
+(C) it is not so much the cause of genetic irregularities in many breeds of dog that they are being bred for looks or meeting other narrow criteria as much
+(D) it is not so much that the cause of genetic irregularities in many breeds of dog is their being bred for looks or meeting other narrow criteria so much
+(E) it is not so much the cause of genetic irregularities in many breeds of dog to be bred for looks or to meet other narrow criteria
+---------------------------------
+#SC#61#D#
+Scientific evidence suggests that the benefits arising from consumption of alcohol are greatest <span style="text-decoration: underline">with alcohol that is taken with meals on a moderate, regular basis than when it is consumed</span> on binges.
+(A) with alcohol that is taken with meals on a moderate, regular basis than when it is consumed
+(B) with taking alcohol with meals on a moderate, regular basis as opposed to its consumption
+(C) when alcohol is taken with meals on a moderate, regular basis, rather than consuming it
+(D) when alcohol is taken with meals on a moderate, regular basis rather than consumed
+(E) when alcohol, taken with meals on a moderate, regular basis, and not consumed
+---------------------------------
+#SC#62#A#
+During the same period in which the Maya were developing a hieroglyphic system of writing, the Aztec people also developed a written language, <span style="text-decoration: underline">but it was not as highly sophisticated as that of the Mava and was</span> more pictographic in nature.
+(A) but it was not as highly sophisticated as that of the Maya and was
+(B) but it was not as highly sophisticated as the Maya, being
+(C) but, not as highly sophisticated as the Maya's, was
+(D) not as highly sophisticated as that of the Maya, however, being
+(E) not as highly sophisticated as the Maya's however, it was
+---------------------------------
+#SC#63#A#
+Although ice particles in the upper atmosphere benefit Earth in that they reflect and absorb solar radiation, <span style="text-decoration: underline">acting as a global thermostat and thus keeping Earth from either burning up or freezing over, they also accelerate</span> the destruction of the ozone layer by reacting with chlorofluorocarbons (CFC's).
+(A) acting as a global thermostat and thus keeping Earth from either burning up or freezing over, they also accelerate
+(B) acting as a global thermostat and thus keeping Earth either from burning up or freezing over, while also accelerating
+(C) act as a global thermostat and thus keep Earth from either burning up or freezing over, while also accelerating
+(D) they act as a global thermostat that thus keeps Earth either from burning up or freezing over, even though it also accelerates
+(E) they act as a global thermostat to thus keep Earth from either burning up or freezing over, but they also accelerate
+---------------------------------
+#SC#64#E#
+The survival of coral colonies, which are composed of innumerable tiny polyps living in a symbiotic relationship with brilliantly colored algae, <span style="text-decoration: underline">are being threatened, experts say, not only by pollutants like</span> agricultural runoff, oil slicks, and trash, but also by dropped anchors, probing divers, and global warming.
+(A) are being threatened, experts say, not only by pollutants like
+(B) are being threatened, experts say, by not only pollutants such as
+(C) is not only being threatened, experts say, by pollutants such as
+(D) is not only being threatened, experts say, by pollutants like
+(E) is being threatened, experts say, not only by pollutants such as
+---------------------------------
+#SC#65#A#
+A recent poll indicates that many people in the United States hold a combination of conservative and liberal political views; i.e., <span style="text-decoration: underline">they denounce bio government, saving government is doing too much and has become too powerful, while at the same time supporting</span> many specific government programs for health care, education, and the environment.
+(A) they denounce big government, saying government is doing too much and has become too powerful, while at the same time supporting
+(B) they denounce big government—they say that government is doing too much and has become too powerful— but supporting at the same time
+(C) they denounce big government, they say that government is doing too much and it has become too powerful, while they support at the same time
+(D) while they denounce big government, saying that government is doing too much and has become too powerful, at the same time supporting
+(E) while they are denouncing big government—they say that government is doing too much and it has become too powerful— supporting at the same time
+---------------------------------
+#SC#66#D#
+Genetic engineering sometimes entails <span style="text-decoration: underline">plant or animal genes' getting spliced into other species' DNA. either to improve crop yields or for warding off</span> insects or disease.
+(A) plant or animal genes' getting spliced into other species' DNA, either to improve crop yields or for warding off
+(B) plant or animal genes that get spliced into the DNA of other species, either for improving crop yields or the warding off of
+(C) the splicing of plant or animal genes into other species' DNA, to either improve crop yields or to ward off
+(D) splicing plant or animal genes into the DNA of other species, either to improve crop yields or to ward off
+(E) splicing of plant or animal genes into the DNA of other species, for either the improvement of crop yields or to ward off
+---------------------------------
+#SC#67#E#
+Those skeptical of the extent of global warming argue that short-term temperature data are an inadequate means of predicting long-term trends and point out that the scientific community remains divided <span style="text-decoration: underline">on whether significant warming will occur and what impact will it have if it does.</span>
+(A) on whether significant warming will occur and what impact will it have if it does
+(B) on whether warming that occurs will be significant and the impact it would have
+(C) as to whether significant warming will occur or the impact it would have if it did
+(D) over whether there will be significant warming or the impact it will have
+(E) over whether significant warming will occur and what impact it would have
+---------------------------------
+#SC#68#B#
+Once made exclusively from the wool of sheep that roam the Isle of Lewis and Harris off the coast of Scotland, Harris tweed is now made only with wools that are imported, <span style="text-decoration: underline">sometimes from the mainland and sometimes they come</span>—as a result of a 1996 amendment to the Harris Tweed Act—from outside Scotland.
+(A) sometimes from the mainland and sometimes they come
+(B) sometimes from the mainland and sometimes
+(C) that come sometimes from the mainland or sometimes
+(D) from the mainland sometimes, or sometimes it comes
+(E) from the mainland sometimes, or sometimes coming
+---------------------------------
+#SC#69#A#
+<span style="text-decoration: underline">Since 1990 the global economy has grown more than it did during the 10.000 years from the beginning of agriculture</span> to 1950.
+(A) Since 1990 the global economy has grown more than it did during the 10,000 years from the beginning of agriculture
+(B) Since 1990 the growth of the global economy has been more than that during 10,000 years, from when agriculture began
+(C) The growth of the global economy since 1990 exceeds that which had been for 10,000 years from the beginning of agriculture
+(D) The growth of the global economy since 1990 exceeds what it has been for 10,000 years, from when agriculture began
+(E) The growth of the global economy since 1990 exceeds what it did for the 10,000 years from the beginning of agriculture
+---------------------------------
+#SC#70#C#
+<span style="text-decoration: underline">With no natural predators and expanses of green suburban neighborhoods that allow no hunting, wildlife officials estimate the New Jersey deer population to have</span> grown to exceed 175,000.
+(A) With no natural predators and expanses of green suburban neighborhoods that allow no hunting, wildlife officials estimate the New Jersey deer population to have
+(B) With no natural predators and with expanses of green suburban neighborhoods that do not allow hunting, wildlife officials' estimate of the deer population in New Jersey has
+(C) With no natural predators and with expanses of green suburban neighborhoods where there is no hunting, the deer population in New Jersey, wildlife officials estimate, has
+(D) Without natural predators and no hunting allowed in expanses of green suburban neighborhoods, New Jersey has a deer population that wildlife officials estimate to have
+(E) Without natural predators and with expanses of green suburban neighborhoods where there is no hunting, wildlife officials in New Jersey estimate a deer population that has
+---------------------------------
+#SC#71#C#
+Studies that have compared the different types of insects in coffee plantations <span style="text-decoration: underline">and tropical forests have reported either finding a similar or a</span> greater variety in plantations.
+(A) and tropical forests have reported either finding a similar or a
+(B) with those of tropical forests have either reported finding a similar or
+(C) with those in tropical forests have reported finding either a similar or a
+(D) to tropical forests have either reported finding a similar or
+(E) to those of tropical forests have reported either finding a similar or
+---------------------------------
+#SC#72#B#
+The two oil companies agreed to merge their refining and marketing operations in the Midwest and the West, <span style="text-decoration: underline">forming a new company for controlling</span> nearly fifteen percent of the nation's gasoline sales.
+(A) forming a new company for controlling
+(B) forming a new company that would control
+(C) which would form a new company that controlled
+(D) which formed a new company for controlling
+(E) which formed a new company that would control
+---------------------------------
+#SC#73#D#
+<span style="text-decoration: underline">Britain's economic growth was slower in the mid-1970's and its decline much more rapid in the subsequent recession than the United States.</span>
+(A) Britain's economic growth was slower in the mid-1970's and its decline much more rapid in the subsequent recession than the United States.
+(B) The economic growth of Britain was slower in the mid-1970's and it declined much more rapidly in the subsequent recession than the United States did.
+(C) Britain's economy, which grew more slowly in the mid-1970's, also had declined much more rapidly in the subsequent recession than the United States did.
+(D) The economy of Britain grew more slowly in the mid-1970's and declined much more rapidly in the subsequent recession than did the economy of the United States.
+(E) Britain's economy grew more slowly in the mid-1970's and its decline was much more rapid during the subsequent recession than the economy of the United States.
+---------------------------------
+#SC#74#C#
+Greatly influenced by the Protestant missionary Samuel Kirkland, the Oneida <span style="text-decoration: underline">was the only one of the five-nation Iroquois League who sided</span> with the colonists during the American Revolution.
+(A) was the only one of the five-nation Iroquois League who sided
+(B) was alone of the five-nation Iroquois League when they sided
+(C) alone among the five nations of the Iroquois League sided
+(D) were the only ones out of the five nations of the Iroquois League in siding
+(E) only of the five-nation Iroquois League had sided
+---------------------------------
+#SC#75#C#
+With a new park, stadium, and entertainment complex along the Delaware River, Trenton, New Jersey, is but one of a large number of communities that <span style="text-decoration: underline">is looking to use its waterfront as a wav for it to improve the quality of urban life and attract</span> new businesses.
+(A) is looking to use its waterfront as a way for it to improve the quality of urban life and attract
+(B) is looking at using its waterfront to improve the quality of urban life and attract
+(C) are looking to use their waterfronts to improve the quality of urban life and attract
+(D) are looking to use its waterfront as a way of improving the quality of urban life and attracting
+(E) are looking at using their waterfronts as a way of improving the quality of urban life and attract
+---------------------------------
+#SC#76#A#
+Unlike crested wheatgrass, an alien species from Siberia that forms only shallow roots and produces tall aboveground shoots, <span style="text-decoration: underline">native North American grasses develop an extensive root system, allowing for greater enrichment of the soil, but do not grow to be very</span> tall.
+(A) native North American grasses develop an extensive root system, allowing for greater enrichment of the soil, but do not grow to be very
+(B) native North American grasses develop an extensive root system, which allows for their greater enrichment of the soil, but without growing to be that
+(C) the root system of native North American grasses is extensive, allowing for greater enrichment of the soil, but they do not grow to be very
+(D) the root system of native North American grasses is more extensive, allowing for the greater enrichment of the soil, but these grasses do not grow to be very
+(E) the extensiveness of the root system of native North American grasses allows for their greater enrichment of the soil, but they do not grow to be that
+---------------------------------
+#SC#77#E#
+The ecosystems of barrier islands are extremely vulnerable <span style="text-decoration: underline">—whether from natural processes like shoreline recession, rising sea levels, and destructive hurricanes, or</span> the ever-increasing pressures of development.
+(A) whether from natural processes like shoreline recession, rising sea levels, and destructive hurricanes, or
+(B) whether from natural processes such as shoreline recession, rising sea levels, and destructive hurricanes, or also
+(C) to processes that are natural like shoreline recession, rising sea levels, and destructive hurricanes, and also
+(D) to processes that are natural ones like shoreline recession, rising sea levels, and destructive hurricanes, as well as to
+(E) to natural processes such as shoreline recession, rising sea levels, and destructive hurricanes, as well as to
+---------------------------------
+#SC#78#B#
+If current trends continue, by the year 2010 carbon emissions in the United States <span style="text-decoration: underline">will soar to a level more than one-third higher than were those</span> in 1990, according to official projections.
+(A) will soar to a level more than one-third higher than were those
+(B) will soar to a level more than one-third higher than that
+(C) would soar to a level more than one-third higher than it was
+(D) would soar to a level more than one-third higher than those
+(E) would soar to a level more than one-third higher than they were
+---------------------------------
+#SC#79#E#
+An international group of more Than 2,000 scientists <span style="text-decoration: underline">project an average global warming that will be between 1.8 and</span> 6.3 degrees Fahrenheit by the year 2000.
+(A) project an average global warming that will be between 1.8 and
+(B) project an average global warming to be from 1.8 to
+(C) project global warming that will average between 1.8 and
+(D) projects global warming to average from 1.8 to
+(E) projects an average global warming of between 1.8 and
+---------------------------------
+#SC#80#A#
+Pioneered by scientists at Los Alamos National Laboratory, <span style="text-decoration: underline">BEAM robots are not programmed to walk: instead they use brainlike circuits called neural networks to learn to walk through trial and error.</span>
+(A) BEAM robots are not programmed to walk; instead they use brainlike circuits called neural networks to learn to walk through trial and error
+(B) BEAM robots learn to walk through trial and error by using brainlike circuits called neural networks instead of by programming them
+(C) BEAM robots are not being programmed to walk but instead using brainlike circuits called neural networks and learning to walk through trial and error
+(D) brainlike circuits called neural networks are used instead of programming for BEAM robots learning to walk through trial and error
+(E) brainlike circuits called neural networks are being used for BEAM robots that learn to walk through trial and error instead of being programmed
+---------------------------------
+#SC#81#D#
+A survey of 765 working women over eighteen years of age found that 60 percent of them worked 40 or more hours a week and <span style="text-decoration: underline">for married women with children under eighteen it was more likely that they would work different shifts from their husbands.</span>
+(A) for married women with children under eighteen it was more likely that they would work different shifts from their husbands
+(B) for married women whose children were under eighteen, they were more likely than other married women to work shifts different from their husbands'
+(C) when married women had children under eighteen it was more likely for them to be working different shifts from those of their husbands'
+(D) that married women with children under eighteen were more likely than other married women to work shifts different from their husbands'
+(E) that when married women had children under eighteen they were more likely to be working shifts that differed from their husbands
+---------------------------------
+#SC#82#B#
+<span style="text-decoration: underline">Compared to those who do not, running three davs a week saves</span> an average of 14.1 percent on health-care costs each year in the United States.
+(A) Compared to those who do not, running three days a week saves
+(B) Compared with nonrunners, people who run three days a week save
+(C) Compared to not running, those running for three days a week save
+(D) When compared with those who do not, people running three days a week save
+(E) When compared to nonrunners, running three days a week saves
+---------------------------------
+#SC#83#C#
+The majority of scientists believe that to reduce and stabilize atmospheric concentrations of carbon dioxide, emissions must be cut at the source by <span style="text-decoration: underline">fossil fuels that are burned more efficiently and, in some cases, by alternatives such as hydrogen fuel cells that can replace fossil fuels altogether.</span>
+(A) fossil fuels that are burned more efficiently and, in some cases, by alternatives such as hydrogen fuel cells that can replace fossil fuels altogether
+(B) fossil fuels that are burned more efficiently and, in some cases, those that are replaced altogether with alternatives such as hydrogen fuel cells
+(C) burning fossil fuels more efficiently and, in some cases, by replacing fossil fuels altogether with alternatives such as hydrogen fuel cells
+(D) more efficiency in the burning of fossil fuels and, in some cases, by alternatives such as hydrogen fuel cells that can replace fossil fuels altogether
+(E) the more efficient burning of fossil fuels and, in some cases, by fossil fuels that are replaced altogether with alternatives such as hydrogen fuel cells
+---------------------------------
+#SC#84#C#
+A pair of architects in Britain, who say that giant arches, bridges, and walls made of artificial bone could be easier to design and <span style="text-decoration: underline">build than conventional structures, and already designed a number of structures, including a bridge, for showing</span> how their idea would work.
+(A) build than conventional structures, and already designed a number of structures, including a bridge, for showing
+(B) build than conventional structures, and they have already designed a number of structures, which includes a bridge, to show
+(C) build than conventional structures, have already designed a number of structures, including a bridge, to show
+(D) also to build than conventional structures, already designed a number of structures, including a bridge, which shows
+(E) to build than with conventional structures, have already designed a number of structures, including a bridge, which shows
+---------------------------------

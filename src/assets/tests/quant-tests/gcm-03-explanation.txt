@@ -1,0 +1,287 @@
+####31####GCM-03
+#PS#1#D#
+<div  ans="D">Since Romi can take at most 1 large book then he can take with him either 5 small books or 4 small books and 1 large book: $$C^5_8+C^4_8*C^1_2=56+140=196$$</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183500.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#2#E#
+<div  ans="E">
+      When positive integer \(p\) is divided by 7 the remainder is 2: \(p=7q+2\), so p can be: 2, 9, 16, 23, <b>30</b>, 37, 44, 51, 58, 65, <b>72</b>, ...<br>
+      (1) \(p\) is divisible by 2 and 3. This statement tells that \(p\) is a multiple of 6, so \(p\) could be 30 (answer NO) or 72 (answer YES). Not sufficient.<br>
+      (2) \(p \lt 100\). Clearly insufficient.<br>
+      (1)+(2) \(p\) can still be 30 (answer NO) or 72 (answer YES). Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m05-183679.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#3#E#
+<div  ans="E">
+      Notice that as given that \(p\) is a prime number and the only even prime is 2, then the question basically asks whether \(p=2\).<br>
+      (1) \(x^2 * y^2\) is an even number. \(x^2*y^2=\text{even}\) means that \(xy=\text{even}\) (this means that at least one of the unknowns is even). We have that some even number is divisible by prime number \(p\), not sufficient to say whether \(p=2\), for example if \(xy=6\) then \(p\) can be either 2 or 3.<br>
+      (2) \(xp = 6\). Since \(x\) is a positive integer and \(p\) is a prime number then either \(x=2\) and \(p=3\) (answer NO) or  \(x=3\) and \(p=2\) (answer YES). Not sufficient.<br>
+      (1)+(2) If \(y=6\) then \(xy=\text{even}\), so the first statement is satisfied irrespective of the value of \(x\) and thus we have no constraints on its value. So from (2) \(x\) can take any of the two values 2 or 3, which means that \(p\) can also take any of the two values 2 or 3, respectively. Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m05-183675.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#4#C#
+<div  ans="C">
+      (1) \(-m=|-m|\). First of all \(|-m|=|m|\), (for example: \(|-3|=|3|=3\)), so we have \(-m=|m|\), as the right hand side of the equation (RHS) is <b>absolute value which is always non-negative</b>, then LHS, \({-m}\) must also be non-negative: \(-m\geq 0\). Rewrite as: \(m \leq 0\), so \(m\) could be either negative or zero. Not sufficient.<br>
+      (2) \(m^2=9\). Either \(m=3=\text{positive}\) or \(m=-3=\text{negative}\). Not sufficient.<br>
+      (1)+(2) Intersection of the values from (1) and (2) is \(m=-3=negative\), hence answer to the question "is \(m \lt 0\)" is YES. Sufficient.<br>
+1</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183528.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#5#E#
+<div  ans="E">
+      Let the markup be \(x\), so \(x\) must be 25% of the selling price, which would be \(120+x\): \(x=0.25(120+x)\). Solving gives \(x=40\). Hence the selling price was \(120+40=160\)$.<br>
+      The price after the discount of 20% would be \(160*0.8=128\) and the gross profit on the sale would be: <b>final selling price - cost of the sunglasses = \(128 - 120 = 8\$\)</b>.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183767.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#6#E#
+<div  ans="E">
+      Say the # of eggs the cook originally got was \(x\);<br>
+      The price per egg then would be \(\frac{12}{x}\) and the price per dozen would be \(12*\frac{12}{x}\).<br>
+      Now, since the cook talked the seller into adding two more eggs then he finally got \(x+2\) eggs (notice that \(x+2\) is exactly what we should find);<br>
+      So, the price per egg became \(\frac{12}{x+2}\) and the price per dozen became \(12*\frac{12}{x+2}\).<br>
+      As after this the price per dozen went down by a dollar then \(12*\frac{12}{x}-12*\frac{12}{x+2}=1\), which simplifies to \(\frac{144}{x}-\frac{144}{x+2}=1\). At this point it's better to substitute the values from answer choices rather than to solve for \(x\). Answer choices E fits: if \(x+2=18\) then \(\frac{144}{16}-\frac{144}{18}=9-8=1\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183487.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#7#E#
+<div  ans="E">
+      Statement 1 is insufficient. Consider \(K=1\) (the answer is YES) and \(K=0\) (the answer is NO). Both \(K\) values hold the inequality true.<br>
+      Statement 2 is insufficient. The logic is the same as in Statement 1. Consider \(K=1\) (the answer is YES) and \(K=0\) (the answer is NO).<br>
+      Combining the two statements doesn't give us new information.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183476.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#8#C#
+<div  ans="C">
+      Sort the observations of the number of defects: 0 0 0 0 0 0 1 2 2 2 2 3 3 3 4<br>
+      The median is the middle term, which is 2.<br>
+      The average can be calculated as follows: \(\frac{0*6 + 1*1 + 2*4 + 3*3 + 4*1}{15} = \frac{22}{15}\)<br>
+      The difference between the median and the average is \(2 -\frac{22}{15} = \frac{8}{15} = 0.53\).<br>
+      <p>
+    				<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m02-183576.html"><span>Link to Forum discussion</span></a></span></div>
+                    </div>
+---------------------------------
+#PS#9#C#
+<div  ans="C">The expression \(7 + \sqrt{48}\) can be rewritten as \(4 + 4\sqrt{3} + 3\) which is the same as \((2 + \sqrt{3})^2\). Therefore,\(\sqrt{7 + \sqrt{48}} - \sqrt{3} = 2 + \sqrt{3} - \sqrt{3} = 2\).</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m11-183900.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#10#D#
+<div  ans="D">
+      A cube has 6 faces.<br>
+      The surface area of a cube with the length of the side of 4 cm is \(6*4^2=6*16\) \(cm^2\).<br>
+      Now, since the volume of the big cube is \(4^3=64\) \(cm^3\) and the volume of the smaller cubes is \(1^3=1\) \(cm^3\), then when the big cube is cut into the smaller cubes we'll get \(\frac{64}{1}=64\) little cubes. Each of those little cubes will have the surface area equal to \(6*1^2=6\) \(cm^2\), so total surface are of those 64 little cubes will be \(6*64\) \(cm^2\).<br>
+      \(6*64\) is 4 times more than \(6*16\) which corresponds to 300% increase.<br>
+      <b>Or:</b> general formula for percent increase or decrease, (percent change): \(\text{Percent} = \frac{\text{Change}}{\text{Original}}*100\)<br>
+      So the percent increase will be: \(Percent=\frac{\text{Change}}{\text{Original}}*100=\frac{6*64-6*16}{6*16}*100=300\%\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183522.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#11#C#
+<div  ans="C">
+      Step 1: Simplify. The captain and the cook together have 2 heads and 3 legs; therefore, all cats and all sailors together have 13 heads and 38 legs.<br>
+      Step 2: Express the remaining information in mathematical equations, where \(S\) is the number of sailors and \(C\) is the number of cats. Multiply \(S\) and \(C\) by the number of legs each has, and set the equation equal to the remaining number of legs.  The second equation represents the number of remaining heads:<br>
+      <s>
+        $$4C + 2S = 38$$
+        $$C + S = 13$$
+      </s>
+      Solve the second equation for \(S\), plug the answer into the first equation, and solve for \(C\).<br>
+      <d>
+        $$4C + 2(13-C) = 38$$
+        $$2C = 38 - 26 = 12$$
+        $$C = 6$$
+      </d>
+      Therefore, the ship has 6 cats on board.<br>
+      Another approach is to backsolve.  For example, if you choose Answer (B): 5 cats would mean 5 heads and 20 legs, add 2 heads and 3 legs for the captain and the cook, and the remaining 8 heads belong to the sailors who would then have 18 legs, because \(41 - (20 + 3) = 18\). 18 legs for 8 sailors would mean that each sailor has 2.25 legs, which is not reasonable. Continue backsolving until you find the correct answer.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183518.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#12#D#
+<div  ans="D">
+      Make a diagram:<br>
+      <p style="text-align: center;"><img align="middle" src="../../../assets/img/question/GMC-03-12.png"/><p>
+      Notice that the area of the blue square is \(4^2=16\) and the area of the red triangle is 16 minus the areas of 3 little triangles which are in the corners (\(2*\frac{2}{2}\), \(4*\frac{2}{2}\) and \(4*\frac{2}{2}\)). Therefore, the area of a triangle LMN is \(16-(2+4+4)=6\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m06-183706.html"><span>Link to Forum discussion</span></a></span></div>						   
+---------------------------------
+#PS#13#A#
+<div  ans="A">
+      Use plug-in method for this problem.<br>
+      Let the price in 2001 be 100 and the annual rate be 10%. Then:<br>
+      $$2001 = 100 = M$$
+      $$2002 = 110$$
+      $$2003 = 121 = N$$
+      Now, plug 100 and 121 in the answer choices to see which one gives 110:<br>
+      A. \(\sqrt{MN}=\sqrt{100*121}=10*11=110\), correct answer right away.<br>
+      P.S. For plug-in method it might happen that for some particular numbers more than one option may give "correct" answer. In this case just pick some other numbers and check again these "correct" options only.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m08-183772.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#14#C#
+<div  ans="C">
+      (1) \(p\) is a prime number. If \(p=2\) then the answer is NO but if \(p=11\) then the answer is YES. Not sufficient.<br>
+      (2) \(2p\) is divisible by 11. Given: \(\frac{2p}{11}=\text{integer}\). Multiply by 2: \(2*\frac{2p}{11}=\frac{4p}{11}=2*\text{integer}=\text{integer}\), but we don't know whether this integer is positive or not: consider \(p=0\) and \(p=11\). Not sufficient.<br>
+      (1)+(2) Since \(p\) is a prime number and \(2p\) is divisible by 11, then \(p\) must be equal to 11 (no other prime but 11 will yield integer result for \(\frac{2p}{11}\) ), therefore \(\frac{4p}{11}=4\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m05-183689.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#15#D#
+<div  ans="D">
+      <b>Finding the Number of Factors of an Integer</b><br>
+      First make prime factorization of an integer \(n=a^p*b^q*c^r\), where \(a\), \(b\), and \(c\) are prime factors of \(n\) and \(p\), \(q\), and \(r\) are their powers.<br>
+      The number of factors of \(n\) will be expressed by the formula \((p+1)(q+1)(r+1)\). <b>NOTE:</b> this will include 1 and \(n\) itself.<br>
+      <b>Example:</b> Finding the number of all factors of 450: \(450=2^1*3^2*5^2\)<br>
+      Total number of factors of 450 including 1 and 450 itself is \((1+1)*(2+1)*(2+1)=2*3*3=18\) factors.<br>
+      <b>Back to the original question:</b><br>
+      The question defines \(@x\) as the number of distinct positive divisors of \(x\). Say \(@6=4\), as 6 have 4 distinct positive divisors: 1, 2, 3, 6.<br>
+      Question: \(@(@90)=\)?<br>
+      \(90=2*3^2*5\), which means that the number of factors of 90 is: \((1+1)(2+1)(1+1)=12\). So \(@90=12\). Next, \(@(@90)=@12\). Now, since \(12=2^2*3\), then the number of factors of 12 is: \((2+1)(1+1)=6\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183546.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#16#C#
+<div  ans="C">
+      \(15!=1*2*3*...12*13*14*15\), so \(n=1*2*3*...12*13*14*15+13\). Factor out 13: \(n=13*(1*2*3*...12*14*15+1)\), hence 13 is definitely a divisor of \(n\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m03-183605.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#17#C#
+<div  ans="C"><b>Is \(x \gt y^2\)?</b><br>
+      (1) \(x \gt y+5\). Rewrite as \(x-y \gt 5\). Clearly insufficient, for example: if \(x=1\) and \(y=-10\) then the answer is NO, but if \(x=10\) and \(y=1\) then the answer is YES. Two different answers, hence not sufficient.<br>
+      (2) \(x^2-y^2=0\). Rewrite as \((x-y)(x+y)=0\): so either \(x-y=0\) or \(x+y=0\). Also insufficient: if \(x=1\) and \(y=1\), then answer is NO, buy if \(x=\frac{1}{2}\) and \(y=\frac{1}{2}\), then the answer is YES. Two different answers, hence not sufficient.<br>
+      (1)+(2) As from (1) \(x-y \gt 5 \ne 0\), then from (2) must be true that \(x+y=0\). So, \(x=-y\). Substitute \(x\) in (1): \(-y-y \gt 5\) from which we have that: \(y \lt -\frac{5}{2} \lt 0\), as \(x=-y\), then \(x \gt \frac{5}{2} \gt 0\), so \(y^2\) (or which is the same \(x^2\)) will always be more than \(x\), thus the answer to the question "Is \(x \gt y^2\)" is NO. Sufficient.<br>
+      To elaborate more as \(x=-y \gt 0\), the only chance for \(x \gt y^2\) to hold true (or which is the same for \(x \gt x^2\) to hold true) would be if \(x\) is fraction (\(0 \lt x \lt 1\)). For example if \(x=\frac{1}{2}\) and \(y=-\frac{1}{2}\) then \(x=\frac{1}{2} \gt y^2=\frac{1}{4}\). But the fact that \(x \gt \frac{5}{2} \gt 0\) rules out this option.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m02-183567.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#18#C#
+<div  ans="C">
+      Look at the diagram below:<br>
+	  <p style="text-align: center;"><img align="middle" src="../../../assets/img/question/GMC-03-18.png"/><p>      
+      Notice that vertex (x,1) will be somewhere on the green line segment and the vertex (5,y) will be somewhere on the blue line segment. So, in any case our triangle will be right angled, with a right angle at vertex (5, 1). Next, the length of the leg on the green line segment will be \(5-x\) and the length of the leg on the blue line segment will by \(y-1\). So, the area of the triangle will be: \(\text{area}=\frac{1}{2}*(5-x)*(y-1)\).<br>
+      (1) \(x=y\). Since \(x \lt 5\) and \(y \gt 1\) then both \(x\) and \(y\) are in the range (1,5): \(1 \lt (x=y) \lt 5\). If we substitute \(y\) with \(x\) we'll get: \(\text{area}=\frac{1}{2}*(5-x)*(y-1)=\frac{1}{2}*(5-x)*(x-1)\), different values of \(x\) give different values for the area (even knowing that \(1 \lt x \lt 5\)). Not sufficient.<br>
+      (2) Angle at the vertex \((x,1)\) is equal to angle at the vertex \((5,y)\). We have an isosceles right triangle: \(5-x=y-1\). Again if we substitute \(y-1\) with \(5-x\) we'll get: \(\text{area}=\frac{1}{2}*(5-x)*(y-1)=\frac{1}{2}*(5-x)*(5-x)\), different values of \(x\) give different values for the area. Not sufficient.<br>
+      (1)+(2) \(x=y\) and \(5-x=y-1\). Solve for \(x\): \(x=y=3\), so \(\text{area}=\frac{1}{2}*(5-3)*(3-1)=2\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m08-183777.html"><span>Link to Forum discussion</span></a></span></div>							
+---------------------------------
+#PS#19#B#
+<div  ans="B">
+      Solve as follows:<br>
+      $$\frac{a+ b}{a} = \frac{a}{a} + \frac{b}{a} =  1 + \frac{b}{a} = 1 + \frac{5}{4} = \frac{9}{4}$$
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m02-183582.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#20#E#
+<div  ans="E">
+      The buses travel at the same constant speed. It would take one bus to travel 4 hours to cover the distance between the cities \(M\) and \(N\) (two buses drove for 2 hours each). We need to find the speed of the bus. If the first bus was delayed by 24 minutes and the second one left 36 minutes earlier, it makes the second bus \(24+36=60\) minutes ahead of the first bus.<br>
+      The meeting point was 24 miles away on this second day. We know the distance difference between the two meeting points, but we also need to find difference in time those 24 miles were covered. If the second bus drove for 1 hour before the first one departed, each of them had to go for another 1.5 hour to meet (1.5 hour + 1.5 hour + 1 hour). The second bus traveled for 2.5 hours and the first one for 1.5 hour. Therefore the meeting point on the second day was 30 minutes away from that of the previous day.<br>
+      So the second bus covered 24 miles in 30 minutes, which gives us the speed of the bus, 48 mph. We can calculate the distance as we already know the speed:<br>
+      \(4*48=192\) miles.<br>
+      <p>
+        <b>Alternative Explanation</b>
+      </p>
+      Say the distance between the cities is \(d\) miles.<br>
+      Since both buses travel at the same constant speed and leave the cities at the same time then they meet at the halfway, so the first meeting point \(P\), is \(\frac{d}{2}\) miles away from \(M\) (and \(N\)).<br>
+      Next, since the buses meet in 2 hours then the total time to cover \(d\) miles for each bus is 4 hours.<br>
+      Now, on the second day one bus traveled alone for 1 hour (36min +24min), hence covered \(0.25d\) miles, and \(0.75d\) miles is left to cover.<br>
+      The buses meet again at the halfway of \(0.75d\), which is 24 miles from \(\frac{d}{2}\):<br>
+      Hence, \(\frac{d}{2}-24=\frac{0.75d}{2}\), which gives \(d=192\) miles.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183485.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#21#D#
+<div  ans="D">
+    Notice that \(x\) can take positive, as well as negative values to satisfy \(9 \lt x^2 \lt 99\), hence \(x\) can be: -9, -8, -7, -6, -5, -4, 4, 5, 6, 7, 8,  or 9. We are asked to find the value of x(max)-x(min), and since x(max)=9 and x(min)=-9 then x(max)-x(min)=9-(-9)=18.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183503.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#22#C#
+<div  ans="C">
+      Notice that in order to find the probability we need to know how many computers are there in the network and how many are scanned every day.<br>
+      (1) 10 computers are scanned every day. We still don't know how many computers are there in the network.<br>
+      (2) 4% of all computers in the corporate network are scanned every day. Given: \(0.04*total=scanned\). Not sufficient.<br>
+      (1)+(2) Since \(0.04*total=10\), then \(total=250\). We have all information needed: \(total=250\) and \(scanned=10\), so \(P=( \frac{C^{10}_{235}}{C^{10}_{250}} )^5\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m14-184022.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#23#B#
+<div  ans="B">
+      Only 42 does not have a square as a divisor: \(42 = 2*3*7\)<br>
+      <ul>
+        <li>\(75=3*5^2\), divisor is 25</li>
+        <li>\(32=2^5\), divisor is 4 or 16</li>
+        <li>\(25=5^2\), divisor is 25</li>
+        <li>\(12=3*2^2\), divisor is 4</li>
+      </ul>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183657.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#24#D#
+<div  ans="D">
+      Find the best common base for these expressions. <br>
+      B is \(\frac{1}{2} - \frac{1}{16}\), which gives us \(\frac{7}{16}\). <br>
+      C is \(\frac{300}{650}\) or \(\frac{30}{65}\) or \(\frac{6}{13}\).<br>
+      D is \(\frac{9}{19}\).<br>
+      E is slightly greater than 0.4, not much more to surpass A, so we can eliminate it.<br>
+      Now, let's see which of B, C, and D is the greatest. We can drop B as it does not add up to C or D - it is further away from \(\frac{1}{2}\) than C or D.<br>
+      These two fractions are very close to \(\frac{1}{2}\). If we decrease the values of the denominators of each of the fraction by 1, we'll see that they equal \(\frac{1}{2}\). For these two fractions \(\frac{6}{13}\) and \(\frac{9}{19}\), the greater the value of denominator, the closer will the fraction be to \(\frac{1}{2}\). Therefore, \(\frac{9}{19}\) is greater. This fraction property can be vividly described by two fractions \(\frac{1}{2+1}=\frac{1}{3}\) and \(\frac{50}{100+1}=\frac{50}{101}\), clearly the second one is greater.<br>
+      Now, we just need to compare it to A. \(\frac{9}{19} = 0.47...\). <br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183757.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#25#B#
+<div  ans="B">
+      Statement (1) by itself is insufficient.  We don't know anything about the number of students taking CS103.<br>
+      Statement (2) by itself is sufficient.  S2 tells us that 59 students take CS103. We know that 53 of these 59 students take  M101 as well. Thus, we find that \(59 - 53 = 6\) students are not enrolled in M101. <br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m06-183719.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#26#A#
+<div  ans="A">
+      (1) On that Saturday, the median number of flight arrivals every hour was 17. The median of a set with even number (24) of terms is the average of two middle terms when arranged in ascending/descending. So, the median of 17 means that 17 is the average of 12th and 13th greatest numbers of arrivals. Hence, at least 12 hours of arrivals (from 13th greatest to 24th greatest) had at least 17 flights, which means that the total number of arrivals on Saturday was at least \(12*17=204 \gt 180\). Sufficient.<br>
+      (2) On that Saturday, the highest number of flight arrivals in an hour was 30. Clearly insufficient: if each hour had 30 arrivals then the total number of arrivals on Saturday would be \(24*30 \gt 180\), but if 23 hours had 1 arrival and one hour had 30 arrivals then the total number of arrivals on Saturday would be \(23*1+30 \lt 180\). Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m05-183690.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#27#B#
+<div  ans="B">
+List A consist of 10 terms, each of which is a reciprocal of a prime number, is the median of the list less than 1/5?<br>
+      (1) Reciprocal of the median is a prime number. If all the terms equal 1/2, then the median=1/2 and the answer is NO but if all the terms equal 1/7, then the median=1/7 and the answer is YES. Not sufficient.<br>
+      (2) The product of any two terms of the list is a terminating decimal. This statement implies that the list must consists of 1/2 or/and 1/5. Thus the median could be 1/2, 1/5 or (1/5+1/2)/2=7/20. None of the possible values is less than 1/5. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183484.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#28#C#
+\(rate*time=job\).<br>
+We are told that \((x+y)*20=c\), where \(x\) is the rate of pump X in gallons per minute, \(y\) is the rate of pump Y in gallons per minute and \(c\) is the capacity of the pool in gallons.<br>
+The question asks to find the value of \(y\).<br>
+(1) The capacity of the pool is 900 gallons. \(c=900\), hence we have that \((x+y)*20=900\), so \(x+y=45\). Not sufficient.<br>
+(2) The rate of Pump X is 30 gallons per minute. \(x=30\), hence we have that \((30+y)*20=c\). We have two unknowns and only one equation. Not sufficient. <i>Consider this if \(c=1,000\), then \(y=20\) but if \(c=900\), then \(y=15\).</i><br>
+(1)+(2) \(x=30\) and \(x+y=45\). Solving gives \(y=15\). Sufficient.<br>				<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m30-184568.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#29#D#
+<div  ans="D">
+      To get the least value of \(x^2*y\), which obviously will be negative, try to maximize absolute value of \(x^2*y\), as the more is the absolute value of a negative number, the "more" negative it is (the smaller it is).<br>
+      To maximize \(|x^2*y|\) pick largest absolute values possible for \(x\) and \(y\): \((-\frac{1}{3})^2*(-\frac{1}{2})=-\frac{1}{18}\). Notice that: \(-\frac{1}{18} \lt -\frac{1}{36} \lt -\frac{1}{50} \lt -\frac{1}{100}\), so \(-\frac{1}{100}\) is the largest number and \(-\frac{1}{18}\) is the smallest number (we cannot obtain \(-\frac{1}{6}\) from \(x^2*y\) or else it would be the correct answer).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m26-184457.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#30#E#
+<div  ans="E">
+      Note that we are asked "which of the following MUST be true, not COULD be true. For such kind of questions if you can prove that a statement is NOT true for one particular set of numbers, it will mean that this statement is not always true and hence not a correct answer.<br>
+      If \(x=\frac{1}{4}\) then  \(a=\sqrt{x} * x - x=\frac{1}{2}*\frac{1}{4}-\frac{1}{4}=-\frac{1}{8}\). Now, \(-\frac{1}{8}\) is not an integer at all (hence not even) and also not positive, so none of the options MUST be true.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183464.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#31#B#
+<div  ans="B">
+	Given that the ratio of the number of employees is \(3x:4x:8x\), for some positive multiple \(x\).<br>
+    The questions asks whether \((average \ age)=\frac{(total \ age)}{(number \ of \ employees)} \lt 40\), or whether \(\frac{(total \ age)}{3x+4x+8x} \lt 40\), which is the same as: is \((total \ age) \lt 600x\)?<br>
+	(1) The total age of all the employees in these companies is 600. The question becomes: is \(600 \lt 600x\)? Or is \(1 \lt x\). We don't know that: if \(x=1\), then the answer is NO but if \(x \gt 1\), then the answer is YES. Not sufficient.<br>
+    (2) The average age employees in X, Y, and Z, is 40, 20, and 50, respectively. \((total \ age)=40*3x+20*4x+50*8x=600x\), so the answer to the question is NO. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m25-184420.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------

@@ -1,0 +1,156 @@
+div.correct {
+  padding-top: 15px;
+}
+
+div#questionExplanation, div#custom-page-container {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/*Round Box for explanation*/
+div.round-box {
+  border: 1px solid #ccc !important;
+  border-radius: 16px;
+  padding: 5px 10px;
+  background-color: ghostwhite;
+}
+
+pre.compare-group {
+  margin-bottom: -5px;
+}
+
+/*Table in Explanation*/
+
+table.example {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.example td, table.example th {
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+
+table.example tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table.example tr:hover {
+  background-color: #ddd;
+}
+
+table.example th {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+/*----------------- End Table in Explanation ----------------------*/
+
+/*----------------- Practice Summary Table ------------------------*/
+.practice-summary-table .ui-table .ui-table-thead > tr > th {
+  color: #ffffff;
+  background: #4dbd74;
+  height: 40px;
+}
+
+.practice-summary-table .ui-table .ui-table-thead > tr > th, .practice-summary-table .ui-table .ui-table-tbody > tr > td {
+  padding: .5em .5em;
+}
+
+tr:nth-child(odd) td.summary-correct-answer{
+  background-color: rgba(162, 221, 182, 0.8);
+}
+
+tr:nth-child(even) td.summary-correct-answer{
+  background-color: rgba(77, 189, 116, 0.8);
+}
+
+tr:nth-child(odd) td.summary-incorrect-answer{
+  background-color: rgba(255, 128, 170, 0.8);
+}
+
+tr:nth-child(even) td.summary-incorrect-answer{
+  background-color: rgba(255, 99, 132, 0.8);
+}
+
+/*----------------- End Practice Summary Table ---------------------*/
+
+/*------------------ Card Block Quote -------------------------------*/
+.card-bodyquote {
+  margin: 0;
+}
+
+/*------------------- Popup Modal --------------------------*/
+#modal_overlay, #modal_wrapper {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 12000;
+}
+
+#modal_overlay {
+  background-color: #607d8b;
+  opacity: 0.3;
+}
+
+/*------------------- Switch inside table --------------------------*/
+td .switch {
+  margin-bottom: 0;
+}
+
+td .btn {
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+
+/*--------------------Re-skin Toast Messages --------------------------*/
+.ui-toast-message-success{
+  background-color: #4dbd74;
+  color: white;
+}
+
+.ui-toast-message-error{
+  background-color: #f86c6b;
+  color: white;
+}
+
+.ui-toast-message-warn{
+  background-color: #ffc107;
+  color: white;
+}
+
+.ui-toast-message-success .ui-toast-icon.pi-check:before {
+  font-family: simple-line-icons;
+  float: left;
+  margin: 10px 0 0 -5px;
+  content: "\e080";
+}
+
+.ui-toast-message-error .ui-toast-icon.pi-times:before {
+  font-family: simple-line-icons;
+  float: left;
+  margin: 10px 0 0 -5px;
+  content: "\e082";
+}
+
+.ui-toast-message-warn .ui-toast-icon.pi-exclamation-triangle:before {
+  font-family: simple-line-icons;
+  float: left;
+  margin: 10px 0 0 -5px;
+  content: "\e01c";
+}
+
+.pi-times:before {
+  color: white;
+}
+
+/*--------------------End Re-skin Toast Messages --------------------*/

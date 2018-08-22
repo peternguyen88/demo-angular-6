@@ -1,0 +1,343 @@
+﻿####41
+#SC#
+#Q#The four-million-year-old fossilized skeleton known as Lucy is so small compared with many other skeletons <u>presumed to be of the same species, and so</u> some paleontologists have argued that Lucy represents a different lineage.
+#O#(A) presumed to be of the same species, and so
+#O#(B) presumed to be of the same species that
+#O#(C) presumed that they are of the same species, and so
+#O#(D) that they have presumed to be of the same species, so that
+#O#(E) that they have presumed are of the same species, and
+#A#B
+#SC#
+#Q#Antarctica receives more solar radiation than does any other place on Earth, yet the temperatures are so cold and the ice cap <u>is reflective, so that little polar ice melts during the summer; otherwise,</u> the water levels of the oceans would rise 250 feet and engulf most of the world&rsquo;s great cities.
+#O#(A) is reflective, so that little polar ice melts during the summer; otherwise,
+#O#(B) is so reflective that little of the polar ice melts during the summer; were it to do so,
+#O#(C) so reflective that little polar ice melts during the summer, or else
+#O#(D) reflective, so that little of the polar ice melts during the summer, or
+#O#(E) reflects so that little of the polar ice melts during the summer; if it did
+#A#B
+#CR#
+#Q#Although most smoking-related illnesses are caused by inhaling the tar in tobacco smoke, it is addiction to nicotine that prevents most smokers from quitting.  In an effort to decrease the incidence of smoking-related illnesses, lawmakers in Sandonia plan to reduce the average quantity of nicotine per cigarette by half over the next five years.  Unfortunately, smokers who are already addicted to nicotine tend to react to such reductions by smoking correspondingly more cigarettes.<br><br>The information above most strongly supports which of the following predictions about the effects of implementing the Sandonian government’s plan?
+#O#(A) The average quantity of tar inhaled by Sandonian smokers who are currently addicted to nicotine will probably not decrease during the next five years.
+#O#(B) Sandonian smokers who are not already addicted to nicotine will probably also begin to smoke more cigarettes during the next five years than they had previously.
+#O#(C) The annual number of Sandonian smokers developing smoking-related illnesses will probably decrease during the next five years.
+#O#(D) The proportion of Sandonians attempting to quit smoking who succeed in that attempt will probably decrease during the next five years.
+#O#(E) The number of Sandonians who quit smoking during the next five years will probably exceed the number who quit during the last five years.
+#A#A
+#CR#
+#Q#When a new restaurant, Martin’s Cafe, opened in Riverville last year, many people predicted that business at the Wildflower Inn, Riverville’s only other restaurant, would suffer from the competition.  Surprisingly, however, in the year since Martin’s Cafe opened, the average number of meals per night served at the Wildflower Inn has increased significantly.<br><br>Which of the following, if true, most helps to explain the increase?
+#O#(A) Unlike the Wildflower Inn, Martin’s Cafe serves considerably more meals on weekends than it does on weekdays.
+#O#(B) Most of the customers of Martin’s Cafe had never dined in Riverville before this restaurant opened, and on most days Martin’s Cafe attracts more customers than it can seat.
+#O#(C) The profit per meal is higher, on average, for meals served at Martin’s Cafe than for those served at the Wildflower Inn.
+#O#(D) The Wildflower Inn is not open on Sundays, and therefore Riverville residents who choose to dine out on that day must either eat at Martin’s Cafe or go to neighboring towns to eat.
+#O#(E) A significant proportion of the staff at Martin’s Cafe are people who formerly worked at the Wildflower Inn and were hired away by the owner of Martin’s Cafe.
+#A#B
+#RC#
+#R#Even more than mountainside slides of mud or snow, naturally occurring forest fires promote the survival of aspen trees. Aspens' need for fire may seem illogical since aspens are particularly vulnerable to fires; whereas the bark of most trees consists of dead cells, the aspen's bark is a living, functioning tissue that – along with the rest of the tree – succumbs quickly to fire.<br><br>The explanation is that each aspen, while appearing to exist separately as a single tree, is in fact only the stem or shoot of a far larger organism. A group of thousands of aspens can actually constitute a single organism, called a clone, that shares an interconnected root system and a unique set of genes. Thus, when one aspen – a single stem – dies, the entire clone is affected. While alive, a stem sends hormones into the root system to suppress formation of further stems. But when the stem dies, its hormone signal also ceases. If a clone loses many stems simultaneously, the resulting hormonal imbalance triggers a huge increase in new, rapidly growing shoots that can outnumber the ones destroyed. An aspen grove needs to experience fire or some other disturbance regularly, or it will fail to regenerate and spread. Instead, coniferous trees will invade the aspen grove's borders and increasingly block out sunlight needed by the aspens.
+#Q#The primary purpose of the passage is to explain the
+#O#(A) qualities that make a particular organism unique
+#O#(B) evolutionary change undergone by a particular organism
+#O#(C) reasons that a phenomenon benefits a particular organism
+#O#(D) way in which two particular organisms compete for a resource
+#O#(E) means by which a particular organism has been able to survive in a barren region
+#A#C
+#RC#
+#R#Even more than mountainside slides of mud or snow, naturally occurring forest fires promote the survival of aspen trees. Aspens' need for fire may seem illogical since aspens are particularly vulnerable to fires; whereas the bark of most trees consists of dead cells, the aspen's bark is a living, functioning tissue that – along with the rest of the tree – succumbs quickly to fire.<br><br>The explanation is that each aspen, while appearing to exist separately as a single tree, is in fact only the stem or shoot of a far larger organism. A group of thousands of aspens can actually constitute a single organism, called a clone, that shares an interconnected root system and a unique set of genes. Thus, when one aspen – a single stem – dies, the entire clone is affected. While alive, a stem sends hormones into the root system to suppress formation of further stems. But when the stem dies, its hormone signal also ceases. If a clone loses many stems simultaneously, the resulting hormonal imbalance triggers a huge increase in new, rapidly growing shoots that can outnumber the ones destroyed. An aspen grove needs to experience fire or some other <mark><strong>disturbance</strong></mark> regularly, or it will fail to regenerate and spread. Instead, coniferous trees will invade the aspen grove's borders and increasingly block out sunlight needed by the aspens.
+#Q#It can be inferred from the passage that when aspen groves experience a “disturbance”, such a disturbance
+#O#(A) leads to a hormonal imbalance within an aspen clone
+#O#(B) provides soil conditions that are favorable for new shoots
+#O#(C) thins out aspen groves that have become overly dense
+#O#(D) suppresses the formation of too many new aspen stems
+#O#(E) protects aspen groves by primarily destroying coniferous trees rather than aspens
+#A#A
+#RC#
+#R#Even more than mountainside slides of mud or snow, naturally occurring forest fires promote the survival of aspen trees. Aspens' need for fire may seem illogical since aspens are particularly vulnerable to fires; whereas <mark><strong>the bark of most trees</mark></strong> consists of dead cells, the aspen's bark is a living, functioning tissue that – along with the rest of the tree – succumbs quickly to fire.<br><br>The explanation is that each aspen, while appearing to exist separately as a single tree, is in fact only the stem or shoot of a far larger organism. A group of thousands of aspens can actually constitute a single organism, called a clone, that shares an interconnected root system and a unique set of genes. Thus, when one aspen – a single stem – dies, the entire clone is affected. While alive, a stem sends hormones into the root system to suppress formation of further stems. But when the stem dies, its hormone signal also ceases. If a clone loses many stems simultaneously, the resulting hormonal imbalance triggers a huge increase in new, rapidly growing shoots that can outnumber the ones destroyed. An aspen grove needs to experience fire or some other disturbance regularly, or it will fail to regenerate and spread. Instead, coniferous trees will invade the aspen grove's borders and increasingly block out sunlight needed by the aspens.
+#Q#The author of the passage refers to “the bark of most trees” most likely in order to emphasize the
+#O#(A) vulnerability of aspens to damage from fire when compared to other trees
+#O#(B) rapidity with which trees other than aspens succumb to destruction by fire
+#O#(C) relatively great degree of difficulty with which aspens catch on fire when compared to other trees
+#O#(D) difference in appearance between the bark of aspens and that of other trees
+#O#(E) benefits of fire to the survival of various types of trees
+#A#A
+#SC#
+#Q#A study by the Ocean Wildlife Campaign urged states to undertake a number of remedies to reverse a decline in the shark population, <u>which includes the establishment of size limits for shark catches, closing</u> state waters for shark fishing during pupping season, and requiring commercial fishers to have federal shark permits.
+#O#(A) which includes the establishment of size limits for shark catches, closing
+#O#(B) which includes establishing limits to the size of sharks that can be caught, closing
+#O#(C) which include the establishment of size limits for shark catches, the closing of
+#O#(D) including establishing size limits for shark catches, closing
+#O#(E) including the establishing of limits to the size of sharks that are caught, the closing of
+#A#D
+#SC#
+#Q#<u>According to its proponents, a proposed new style of aircraft could, by skimming along the top of the atmosphere, fly between most points on Earth in under two hours.</u>
+#O#(A) According to its proponents, a proposed new style of aircraft could, by skimming along the top of the atmosphere, fly between most points on Earth in under two hours.
+#O#(B) By skimming along the top of the atmosphere, proponents of a proposed new style of aircraft say it could fly between most points on Earth in under two hours.
+#O#(C) A proposed new style of aircraft could fly between most points on Earth in under two hours, according to its proponents, with it skimming along the top of the atmosphere.
+#O#(D) A proposed new style of aircraft, say its proponents, could fly between most points on Earth in under two hours because of its skimming along the top of the atmosphere.
+#O#(E) According to its proponents, skimming along the top of the atmosphere makes it possible that a proposed new style of aircraft could fly between most points on Earth in under two hours.
+#A#A
+#CR#
+#Q#Two centuries ago, Tufe Peninsula became separated form the mainland, isolating on the newly formed Tufe Island a population of Turfil sunflowers.  This population’s descendants grow to be, on average, 40 centimeters shorter than Turfil sunflowers found on the mainland.  Tufe Island is significantly drier than Tufe Peninsula was.  So the current average height of Tufe’s Turfil sunflowers is undoubtedly at least partially attributable to changes in Tufe’s environmental conditions.<br><br>Which of the following is an assumption on which the argument depends?
+#O#(A) There are no types of vegetation on Tufe Island that are known to benefit from dry conditions.
+#O#(B) There were about as many Turfil sunflowers on Tufe Peninsula two centuries ago as there are on Tufe Island today.
+#O#(C) The mainland’s environment has not changed in ways that have resulted in Turfil sunflowers on the mainland growing to be 40 centimeters taller than they did two centuries ago.
+#O#(D) The soil on Tufe Island, unlike that on the mainland, lacks important nutrients that help Turfil sunflowers survive and grow tall in a dry environment.
+#O#(E) The 40-centimeter height difference between the Turfil sunflowers on Tufe Island and those on the mainland is the only difference between the two populations.
+#A#C
+#RC#
+#R#Research data indicate that there is a great deal of poverty in the United States among single-parent families headed by women. This problem could result from the fact that women’s wages are only 60 percent of men’s. Some economists believe that rigorous enforcement of existing equal pay laws would substantially decrease this wage inequity. But equal pay laws are ineffectual when women and men are concentrated in different occupations because such laws require only that women and men doing the same jobs be paid the same. Since gender concentration exists (for example, 80 percent of clerical workers are women), other economists argue that a comparable worth standard, which would mandate that women and men in any jobs that require comparable training and responsibility be paid the same, should be applied instead. But some policy analysts assert that, although comparable worth would virtually equalize male and female wages, many single-parent families headed by women would remain in poverty because many men earn wages that are below the poverty line. These policy analysts believe that the problem is not caused primarily by wage inequity but rather by low wages coupled with single parent hood, regardless of sex. As a solution, they challenge the government’s assumption that a family’s income should depend primarily on wages and urge the government to provide generous wage supplements (child and housing allowances) to single-parents whose wages are low.
+#Q#The passage suggests that the United States government’s policy towards providing wage supplements to parents whose wages are low is
+#O#(A) considered ill advised by most economists who have studied the issue
+#O#(B) based on assumptions about the appropriate sources of family income
+#O#(C) under revision in response to criticism from some policy analysts
+#O#(D) capable of eliminating wage inequality but not of raising incomes for both women and men
+#O#(E) applicable to single-parent families headed by women but not to single-parent families headed by men
+#A#B
+#RC#
+#R#Research data indicate that there is a great deal of poverty in the United States among single-parent families headed by women. This problem could result from the fact that women’s wages are only 60 percent of men’s. Some economists believe that rigorous enforcement of existing equal pay laws would substantially decrease this wage inequity. But equal pay laws are ineffectual when women and men are concentrated in different occupations because such laws require only that women and men doing the same jobs be paid the same. Since gender concentration exists (for example, 80 percent of clerical workers are women), other economists argue that a comparable worth standard, which would mandate that women and men in any jobs that require comparable training and responsibility be paid the same, should be applied instead. But <mark><strong>some policy analysts</mark></strong> assert that, although comparable worth would virtually equalize male and female wages, many single-parent families headed by women would remain in poverty because many men earn wages that are below the poverty line. These policy analysts believe that the problem is not caused primarily by wage inequity but rather by low wages coupled with single parent hood, regardless of sex. As a solution, they challenge the government’s assumption that a family’s income should depend primarily on wages and urge the government to provide generous wage supplements (child and housing allowances) to single-parents whose wages are low.
+#Q#Which of the following is most clearly an example of the policy advocated by the policy analysts highlighted?
+#O#(A) A government provides training to women who wish to move out of occupations in which women are concentrated.
+#O#(B) A government supports research that analyzes the connection between wage inequality and poverty among single-parent families headed by women.
+#O#(C) A government surveys wages annually to make certain that women and men in the same jobs receive the same pay.
+#O#(D) A government analyzes jobs in terms of the education and responsibility they require and publishes a list of jobs that should be considered equivalent for wage purposes.
+#O#(E) A government provides large rent subsidies to single parents whose wages are less than half the average worker’s wage.
+#A#E
+#RC#
+#R#Research data indicate that there is a great deal of poverty in the United States among single-parent families headed by women. This problem could result from the fact that women’s wages are only 60 percent of men’s. Some economists believe that rigorous enforcement of existing equal pay laws would substantially decrease this wage inequity. But equal pay laws are ineffectual when women and men are concentrated in different occupations because such laws require only that women and men doing the same jobs be paid the same. Since gender concentration exists (for example, 80 percent of clerical workers are women), other economists argue that a comparable worth standard, which would mandate that women and men in any jobs that require comparable training and responsibility be paid the same, should be applied instead. But some policy analysts assert that, although comparable worth would virtually equalize male and female wages, many single-parent families headed by women would remain in poverty because many men earn wages that are below the poverty line. These policy analysts believe that the problem is not caused primarily by wage inequity but rather by low wages coupled with single parent hood, regardless of sex. As a solution, they challenge the government’s assumption that a family’s income should depend primarily on wages and urge the government to provide generous wage supplements (child and housing allowances) to single-parents whose wages are low.
+#Q#According to the passage, some economists believe that, in the United States, there would be smaller differences between the wages of women and men who do the same jobs if
+#O#(A) equal pay laws were enforced more fully
+#O#(B) more stringent equal pay laws were passed
+#O#(C) a more rigorous comparable worth standard were developed and applied
+#O#(D) more men entered the occupations in which women are concentrated
+#O#(E) women received the same kind and amount of job training that men receive
+#A#A
+#CR#
+#Q#A significant number of complex repair jobs carried out by Ace Repairs have to be reworked under the company’s warranty.  The reworked jobs are invariably satisfactory.  When initial repairs are inadequate, therefore, it is not because the mechanics lack competence; rather, there is clearly a level of focused concentration that complex repairs require that is elicited more reliably by rework jobs than by first-time jobs.<br><br>The argument above assumes which of the following?
+#O#(A) There is no systematic difference in membership between the group of mechanics who do first-time jobs and the group of those who do rework jobs.
+#O#(B) There is no company that successfully competes with Ace Repairs for complex repair jobs.
+#O#(C) Ace Repairs’ warranty is good on first-time jobs but does not cover rework jobs.
+#O#(D) Ace Repairs does not in any way penalize mechanics who have worked on complex repair jobs that later had to be reworked.
+#O#(E) There is no category of repair jobs in which Ace Repairs invariably carries out first-time jobs satisfactorily.
+#A#A
+#SC#
+#Q#Margaret Courtney-Clarke has traveled to remote dwellings in the Transvaal to photograph the art of Ndebele women, <u>whose murals are brilliantly colored, their geometrical symmetries embellished with old and new iconography and in a style that varies from woman to woman and house to house</u>.
+#O#(A) whose murals are brilliantly colored, their geometrical symmetries embellished with old and new iconography and in a style that varies from woman to woman and house to house
+#O#(B) whose murals are brilliantly colored, their geometrical symmetries are embellished with old and new iconography, and their style is varying among women and houses
+#O#(C) whose murals are brilliantly colored, their geometrical symmetries are embellished with old and new iconography, and they are in styles that vary from woman to woman and house to house
+#O#(D) with murals brilliantly colored, their geometrical symmetries embellished with old and new iconography, and their style varies among women and houses
+#O#(E) with murals that are brilliantly colored, their geometrical symmetries embellished with old and new iconography, and their styles vary among women and houses
+#A#A
+#SC#
+#Q#The coyote is one of several recent ecological success stories: along with the white-tailed deer, the moose, and other species that are enlarging their natural domains, <u>they have established themselves as supreme adapters in an era when the capability</u> to adjust to the environmental changes wrought by human beings has created a whole new class of dominant large mammals.
+#O#(A) they have established themselves as supreme adapters in an era when the capability
+#O#(B) they have established themselves as being supreme adapters in an era when being able
+#O#(C) it has established itself as a supreme adapter in an era when to be able
+#O#(D) it has established itself as being a supreme adapter in an era when its ability
+#O#(E) it has established itself as a supreme adapter in an era when the ability
+#A#E
+#RC#
+#R#One proposal for preserving rain forests is to promote the adoption of new agricultural technologies, such as improved plant varieties and use of chemical herbicides, which would increase productivity and slow deforestation by reducing demand for new cropland. Studies have shown that farmers in developing countries who have achieved certain levels of education, wealth, and security of land tenure are more likely to adopt such technologies. But these studies have focused on villages with limited land that are tied to a market economy rather than on the relatively isolated, self-sufficient communities with ample land characteristic of rain-forest regions. A recent study of the Tawahka people of the Honduran rain forest found that farmers with some formal education were more likely to adopt improved plant varieties but less likely to use chemical herbicides and that those who spoke Spanish (the language of the market economy) were more likely to adopt both technologies. Nonland wealth was also associated with more adoption of both technologies, but availability of uncultivated land reduced the incentive to employ the productivity-enhancing technologies. Researchers also measured land-tenure security: in Tawahka society, kinship ties are a more important indicator of this than are legal property rights, so researchers measured it by a household’s duration of residence in its village. They found that longer residence correlated with more adoption of improved plant varieties but less adoption of chemical herbicides.
+#Q#The primary purpose of the passage is to
+#O#(A) evaluate the likelihood that a particular proposal, if implemented, would ultimately succeed in achieving its intended result
+#O#(B) question the assumption that certain technological innovations are the most effective means of realizing a particular environmental objective
+#O#(C) discuss the progress of efforts to encourage a particular traditional society to adopt certain modern agricultural methods
+#O#(D) present the results of new research suggesting that previous findings concerning one set of conditions may not be generalizable to another set of conditions
+#O#(E) weigh the relative importance of three factors in determining whether a particular strategy will be successful
+#A#D
+#RC#
+#R#<mark><strong>One proposal for preserving</strong></mark> rain forests is to promote the adoption of new agricultural technologies, such as improved plant varieties and use of chemical herbicides, which would increase productivity and slow deforestation by reducing demand for new cropland. Studies have shown that farmers in developing countries who have achieved certain levels of education, wealth, and security of land tenure are more likely to adopt such technologies. But these studies have focused on villages with limited land that are tied to a market economy rather than on the relatively isolated, self-sufficient communities with ample land characteristic of rain-forest regions. A recent study of the Tawahka people of the Honduran rain forest found that farmers with some formal education were more likely to adopt improved plant varieties but less likely to use chemical herbicides and that those who spoke Spanish (the language of the market economy) were more likely to adopt both technologies. Nonland wealth was also associated with more adoption of both technologies, but availability of uncultivated land reduced the incentive to employ the productivity-enhancing technologies. Researchers also measured land-tenure security: in Tawahka society, kinship ties are a more important indicator of this than are legal property rights, so researchers measured it by a household’s duration of residence in its village. They found that longer residence correlated with more adoption of improved plant varieties but less adoption of chemical herbicides.
+#Q#According to the passage, the "proposal" is aimed at preserving rain forests by encouraging farmers in rain-forest regions to do each of the following EXCEPT
+#O#(A) adopt new agricultural technologies
+#O#(B) grow improved plant varieties
+#O#(C) decrease their use of chemical herbicides
+#O#(D) increase their productivity
+#O#(E) reduce their need to clear new land for cultivation
+#A#C
+#RC#
+#R#One proposal for preserving rain forests is to promote the adoption of new agricultural technologies, such as improved plant varieties and use of chemical herbicides, which would increase productivity and slow deforestation by reducing demand for new cropland. Studies have shown that farmers in developing countries who have achieved certain levels of education, wealth, and security of land tenure are more likely to adopt such technologies. But these studies have focused on villages with limited land that are tied to a market economy rather than on the relatively isolated, self-sufficient communities with ample land characteristic of rain-forest regions. <mark><strong>A recent study of the Tawahka people</strong></mark> of the Honduran rain forest found that farmers with some formal education were more likely to adopt improved plant varieties but less likely to use chemical herbicides and that those who spoke Spanish (the language of the market economy) were more likely to adopt both technologies. Nonland wealth was also associated with more adoption of both technologies, but availability of uncultivated land reduced the incentive to employ the productivity-enhancing technologies. Researchers also measured land-tenure security: in Tawahka society, kinship ties are a more important indicator of this than are legal property rights, so researchers measured it by a household’s duration of residence in its village. They found that longer residence correlated with more adoption of improved plant varieties but less adoption of chemical herbicides.
+#Q#The passage suggests that in the study highlighted the method for gathering information about security of land tenure reflects which of the following pairs of assumptions about Tawahka society?
+#O#(A) The security of a household’s land tenure depends on the strength of that household’s kinship ties, and the duration of a household’s residence in its village is an indication of the strength of that household’s kinship ties.
+#O#(B) The ample availability of land makes security of land tenure unimportant, and the lack of a need for secure land tenure has made the concept of legal property rights unnecessary.
+#O#(C) The strength of a household’s kinship ties is a more reliable indicator of that household’s receptivity to new agricultural technologies than is its quantity of nonland wealth, and the duration of a household’s residence in its village is a more reliable indicator of that household’s security of land tenure than is the strength of its kinship ties.
+#O#(D) Security of land tenure based on kinship ties tends to make farmers more receptive to the use of improved plant varieties, and security of land tenure based on long duration of residence in a village tends to make farmers more receptive to the use of chemical herbicides.
+#O#(E) A household is more likely to be receptive to the concept of land tenure based on legal property rights if it has easy access to uncultivated land, and a household is more likely to uphold the tradition of land tenure based on kinship ties if it possesses a significant degree of nonland wealth.
+#A#A
+#RC#
+#R#<mark><strong>One proposal for preserving</strong></mark> rain forests is to promote the adoption of new agricultural technologies, such as improved plant varieties and use of chemical herbicides, which would increase productivity and slow deforestation by reducing demand for new cropland. Studies have shown that farmers in developing countries who have achieved certain levels of education, wealth, and security of land tenure are more likely to adopt such technologies. But these studies have focused on villages with limited land that are tied to a market economy rather than on the relatively isolated, self-sufficient communities with ample land characteristic of rain-forest regions. <mark><strong>A recent study of the Tawahka people</strong></mark> of the Honduran rain forest found that farmers with some formal education were more likely to adopt improved plant varieties but less likely to use chemical herbicides and that those who spoke Spanish (the language of the market economy) were more likely to adopt both technologies. Nonland wealth was also associated with more adoption of both technologies, but availability of uncultivated land reduced the incentive to employ the productivity-enhancing technologies. Researchers also measured land-tenure security: in Tawahka society, kinship ties are a more important indicator of this than are legal property rights, so researchers measured it by a household’s duration of residence in its village. They found that longer residence correlated with more adoption of improved plant varieties but less adoption of chemical herbicides.
+#Q#The findings of the study highlighted, if valid for rain-forest regions in general, suggest that which of the following is an obstacle most likely to be faced by those wishing to promote rain-forest preservation by implementing the proposal highlighted?
+#O#(A) Lack of legal property rights tends to discourage local farmers from investing the time and resources required to successfully implement new agricultural technologies.
+#O#(B) The ability to evaluate the wider economic ramifications of adopting new agricultural technologies depends on a relatively high level of formal education.
+#O#(C) Isolation from the market economy tends to restrict local farmers’ access to new agricultural technologies that could help them to increase their productivity.
+#O#(D) Ready availability of uncultivated land tends to decrease local farmers’ incentive to adopt new agricultural technologies that would reduce their need to clear new land for cultivation.
+#O#(E) Traditions of self-sufficiency and reliance on kinship ties tend to diminish local farmers’ receptivity to new agricultural technologies introduced by people from outside the local community.
+#A#D
+#SC#
+#Q#Twenty-two feet long and 10 feet in diameter, the AM-1 is one of the many new <u>satellites that is a part of 15 years effort of subjecting the interactions of Earth’s atmosphere, oceans, and land surfaces</u> to detailed scrutiny from space.
+#O#(A) satellites that is a part of 15 years effort of subjecting the interactions of Earth’s atmosphere, oceans, and land surfaces
+#O#(B) satellites, which is a part of a 15-year effort to subject how Earth’s atmosphere, oceans, and land surfaces interact
+#O#(C) satellites, part of 15 years effort of subjecting how Earth’s atmosphere, oceans, and land surfaces are interacting
+#O#(D) satellites that are part of an effort for 15 years that has subjected the interactions of Earth’s atmosphere, oceans, and land surfaces
+#O#(E) satellites that are part of a 15-year effort to subject the interactions of Earth’s atmosphere, ocean, and land surfaces
+#A#E
+#SC#
+#Q#<u>In California today, Hispanics under the age of eighteen account for more than 43 percent, compared with a decade ago, when it was about 35 percent.</u>
+#O#(A) In California today, Hispanics under the age of eighteen account for more than 43 percent, compared with a decade ago, when it was about 35 percent.
+#O#(B) Of the Californians under the age of eighteen, today more than 43 percent of them are Hispanic, compared with a decade ago, when it was about 35 percent.
+#O#(C) Today, more than 43 percent of Californians under the age of eighteen are Hispanic, compared with about 35 percent a decade ago.
+#O#(D) Today, compared to a decade ago, Californians who are Hispanics under the age of eighteen account for more than 43 percent, whereas it was about 35 percent.
+#O#(E) Today, Hispanics under the age of eighteen in California account for more than 43 percent, unlike a decade ago, when it was about 35 percent.
+#A#C
+#CR#
+#Q#Five years ago, as part of a plan to encourage citizens of Levaska to increase the amount of money they put into savings, Levaska’s government introduced special savings accounts in which up to $3,000 a year can be saved with no tax due on the interest unless money is withdrawn before the account holder reaches the age of sixty-five.  Millions of dollars have accumulated in the special accounts, so the government’s plan is obviously working.<br><br>Which of the following, if true, most seriously weakens the argument?
+#O#(A) A substantial number of Levaskans have withdrawn at least some of the money they had invested in the special accounts.
+#O#(B) Workers in Levaska who already save money in long-term tax-free accounts that are offered through their workplace cannot take advantage of the special savings accounts introduced by the government.
+#O#(C) The rate at which interest earned on money deposited in regular savings accounts is taxed depends on the income bracket of the account holder.
+#O#(D) Many Levaskans who already had long-term savings have steadily been transferring those savings into the special accounts.
+#O#(E) Many of the economists who now claim that the government’s plan has been successful criticized it when it was introduced.
+#A#D
+#CR#
+#Q#It is theoretically possible that bacteria developed on Mars early in its history and that some were carried to Earth by a meteorite.  However, strains of bacteria from different planets would probably have substantial differences in protein structure that would persist over time, and no two bacterial strains on Earth are different enough to have arisen on different planets.  So, even if bacteria did arrive on Earth from Mars, they must have died out.<br><br>The argument is most vulnerable to which of the following criticisms?
+#O#(A) It fails to establish whether bacteria actually developed on Mars.
+#O#(B) It fails to establish how likely it is that Martian bacteria were transported to Earth.
+#O#(C) It fails to consider whether there were means other than meteorites by which Martian bacteria could have been carried to Earth.
+#O#(D) It fails to consider whether all bacteria now on Earth could have arisen from transported Martian bacteria.
+#O#(E) It fails to consider whether there could have been strains of bacteria that originated on Earth and later died out.
+#A#D
+#SC#
+#Q#A new hair-growing drug is being sold for three times the price, per milligram, <u>as</u> the drug’s maker charges for another product with the same active ingredient.
+#O#(A) as
+#O#(B) than
+#O#(C) that
+#O#(D) of what
+#O#(E) at which
+#A#C
+#CR#
+#Q#Political Analyst: Because our city is a border city, illegal immigration is an important issue in the current race for mayor. Of the two candidates for mayor, one supports a plan that would attempt to deport the city’s 9,000 illegal immigrants and the other does not. Surveys consistently show that about 60% of the city’s residents are opposed to the plan, while about 35% are in support of the plan. Therefore, the candidate who does not support the plan will win the election for mayor.<br><br>All of the following statements weaken the analyst’s argument, EXCEPT:
+#O#(A) In the city at issue, most voters make their voting decisions based on the candidates’ positions on abortion.
+#O#(B) Of the 35% of residents who support the plan, some are willing to consider alternate plans for addressing illegal immigration.
+#O#(C) Many of the residents who oppose the plan are not registered voters.
+#O#(D) The candidate who supports the plan is the incumbent mayor, and has been elected to four consecutive terms despite taking controversial positions on many important issues.
+#O#(E) Just under 30% of the city’s residents are illegal immigrants who cannot vote.
+#A#B
+#SC#
+#Q#<u>Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also</u> caused erosion and very quickly deforested whole regions.
+#O#(A) Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also
+#O#(B) Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast), which gave consumers relatively inexpensive houses and furniture, but also
+#O#(C) The systematic clearing of forests in the United States, creating farmland (especially in the Northeast) and giving consumers relatively inexpensive houses and furniture, but also
+#O#(D) The systematic clearing of forests in the United States created farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also
+#O#(E) The systematic clearing of forests in the United States not only created farmland (especially in the Northeast), giving consumers relatively inexpensive houses and furniture, but it
+#A#D
+#CR#
+#Q#Which of the following most logically completes the argument below?<br><br>According to promotional material published by the city of Springfield, more tourists stay in hotels in Springfield than stay in the neighboring city of Harristown.  A brochure from the largest hotel in Harristown claims that more tourists stay in that hotel than stay in the Royal Arms Hotel in Springfield.  If both of these sources are accurate, however, the county’s “Report on Tourism” must be in error in indicating that ________________.
+#O#(A) more tourists stay in hotel accommodations in Harristown than stay in the Royal Arms Hotel
+#O#(B) the Royal Arms Hotel is the only hotel in Springfield
+#O#(C) there are several hotels in Harristown that are larger than the Royal Arms Hotel
+#O#(D) some of the tourists who have stayed in hotels in Harristown have also stayed in the Royal Arms Hotel
+#O#(E) some hotels in Harristown have fewer tourist guests each year than the Royal Arms Hotel has
+#A#B
+#CR#
+#Q#Healthy lungs produce a natural antibiotic that protects them from infection by routinely killing harmful bacteria on airway surfaces.  People with cystic fibrosis, however, are unable to fight off such bacteria, even though their lungs produce normal amounts of the antibiotic.  The fluid on airway surfaces in the lungs of people with cystic fibrosis has an abnormally high salt concentration; accordingly, scientists hypothesize that the high salt concentration is what makes the antibiotic ineffective.<br><br>Which of the following, if true, most strongly supports the scientists’ hypothesis?
+#O#(A) When the salt concentration of the fluid on the airway surfaces of healthy people is raised artificially, the salt concentration soon returns to normal.
+#O#(B) A sample of the antibiotic was capable of killing bacteria in an environment with an unusually low concentration of salt.
+#O#(C) When lung tissue from people with cystic fibrosis is maintained in a solution with a normal salt concentration, the tissue can resist bacteria.
+#O#(D) Many lung infections can be treated by applying synthetic antibiotics to the airway surfaces.
+#O#(E) High salt concentrations have an antibiotic effect in many circumstances.
+#A#C
+#SC#
+#Q#<u>Unlike the conviction held by many of her colleagues that genes were relatively simple and static</u>, Barbara McClintock adhered to her own more complicated ideas about how genes might operate, and in 1983, at the age of 81, was awarded a Nobel Prize for her discovery that the genes in corn are capable of moving from one chromosomal site to another.
+#O#(A) Unlike the conviction held by many of her colleagues that genes were relatively simple and static
+#O#(B) Although many of her colleagues were of the conviction of genes being relatively simple and static
+#O#(C) Contrary to many of her colleagues being convinced that genes were relatively simple and static
+#O#(D) Even though many of her colleagues were convinced that genes were relatively simple and static
+#O#(E) Even with many of her colleagues convinced of genes being relatively simple and static
+#A#D
+#CR#
+#Q#Plant scientists have been able to genetically engineer vegetable seeds to produce crops that are highly resistant to insect damage. Although these seeds currently cost more than conventional seeds, their cost is likely to decline. Moreover, farmers planting them can use far less pesticide, and most consumers prefer vegetables grown with less pesticide, therefore, for crops for which these seeds can be developed, their use is likely to become the norm.<br><br>Which of the following would be most useful to know in evaluating the argument above?
+#O#(A) Whether plant scientists have developed insect-resistant seeds For every crop that is currently grown commercially
+#O#(B) Whether farmers typically use agricultural pesticides in larger Amounts than is necessary to prevent crop damage.
+#O#(C) Whether plants grown from the new genetically engineered seeds Can be kept completely free of insect damage.
+#O#(D) Whether seeds genetically engineered to produce insect-resistant crops generate significantly lower per acre crop yields than do currently used seeds.
+#O#(E) Whether most varieties of crops currently grown commercially have Greater natural resistance to insect damage than did similar varieties in the past.
+#A#D
+#RC#
+#R#Earth’s surface consists of rigid plates that are constantly shifting and jostling one another. Plate movements are the surface expressions of motions in the mantle – the thick shell of rock that lies between Earth’s crust and its metallic core.  Although the hot rock of the mantle is a solid, under the tremendous pressure of the crust and overlying rock of the mantle, it flows like a viscous liquid.  The mantle’s motions, analogous to those in a pot of boiling water, cool the mantle by carrying hot material to the surface and returning cooler material to the depths.  When the edge of one plate bends under another and its cooler material is consumed in the mantle, volcanic activity occurs as molten lava rises from the downgoing plate and erupts through the overlying one.<br><br>Most volcanoes occur at plate boundaries. However, certain “misplaced” volcanoes far from plate edges result from a second, independent mechanism that cools the deep interior of Earth.  Because of its proximity to Earth’s core, the rock at the base of the mantle is much hotter than rock in the upper mantle.  The hotter the mantle rock is, the less it resists flowing.  Reservoirs of this hot rock collect in the base of the mantle.  When a reservoir is sufficiently large, a sphere of this hot rock forces its way up through the upper mantle to Earth’s surface, creating a broad bulge in the topography.  The “mantle plume” thus formed, once established, continues to channel hot material from the mantle base until the reservoir is emptied. The surface mark of an established plume is a hot spot – an isolated region of volcanoes and uplifted terrain located far from the edge of a surface plate.  Because the source of a hot spot remains fixed while a surface plate moves over it, over a long period of time an active plume creates a chain of volcanoes or volcanic islands, a track marking the position of the plume relative to the moving plate.  The natural history of the Hawaiian island chain clearly shows the movement of the Pacific plate over a fixed plume.
+#Q#The passage is primarily concerned with discussing
+#O#(A) the composition of Earth’s mantle
+#O#(B) how the Hawaiian Islands were created
+#O#(C) what causes Earth’s surface plates to move
+#O#(D) two different mechanisms by which volcanoes are formed
+#O#(E) why most volcanoes occur at plate boundaries
+#A#D
+#RC#
+#R#Earth’s surface consists of rigid plates that are constantly shifting and jostling one another. Plate movements are the surface expressions of motions in the mantle – the thick shell of rock that lies between Earth’s crust and its metallic core.  Although the hot rock of the mantle is a solid, under the tremendous pressure of the crust and overlying rock of the mantle, it flows like a viscous liquid.  The mantle’s motions, analogous to those in a pot of boiling water, cool the mantle by carrying hot material to the surface and returning cooler material to the depths.  When the edge of one plate bends under another and its cooler material is consumed in the mantle, volcanic activity occurs as molten lava rises from the downgoing plate and erupts through the overlying one.<br><br>Most volcanoes occur at plate boundaries. However, certain “misplaced” volcanoes far from plate edges result from a second, independent mechanism that cools the deep interior of Earth.  Because of its proximity to Earth’s core, the rock at the base of the mantle is much hotter than rock in the upper mantle.  The hotter the mantle rock is, the less it resists flowing.  Reservoirs of this hot rock collect in the base of the mantle.  When a reservoir is sufficiently large, a sphere of this hot rock forces its way up through the upper mantle to Earth’s surface, creating a broad bulge in the topography.  The “mantle plume” thus formed, once established, continues to channel hot material from the mantle base until the reservoir is emptied. The surface mark of an established plume is a hot spot – an isolated region of volcanoes and uplifted terrain located far from the edge of a surface plate.  Because the source of a hot spot remains fixed while a surface plate moves over it, over a long period of time an active plume creates a chain of volcanoes or volcanic islands, a track marking the position of the plume relative to the moving plate.  The natural history of the Hawaiian island chain clearly shows the movement of the Pacific plate over a fixed plume.
+#Q#It can be inferred from the passage that a chain of volcanoes created by a mantle plume would most likely be characterized by
+#O#(A) a curved outline
+#O#(B) constituent volcanoes that differ from each other in age
+#O#(C) occurrence near a plate boundary where one plate bends under another
+#O#(D) appearance near many other volcanic chains
+#O#(E) rocks with a wide range of chemical composition
+#A#B
+#RC#
+#R#Earth’s surface consists of rigid plates that are constantly shifting and jostling one another. Plate movements are the surface expressions of motions in the mantle – the thick shell of rock that lies between Earth’s crust and its metallic core.  Although the hot rock of the mantle is a solid, under the tremendous pressure of the crust and overlying rock of the mantle, it flows like a viscous liquid.  The mantle’s motions, analogous to those in a pot of boiling water, cool the mantle by carrying hot material to the surface and returning cooler material to the depths.  When the edge of one plate bends under another and its cooler material is consumed in the mantle, volcanic activity occurs as molten lava rises from the downgoing plate and erupts through the overlying one.<br><br>Most volcanoes occur at plate boundaries. However, certain “misplaced” volcanoes far from plate edges result from a second, independent mechanism that cools the deep interior of Earth.  Because of its proximity to Earth’s core, the rock at the base of the mantle is much hotter than rock in the upper mantle.  The hotter the mantle rock is, the less it resists flowing.  Reservoirs of this hot rock collect in the base of the mantle.  When a reservoir is sufficiently large, a sphere of this hot rock forces its way up through the upper mantle to Earth’s surface, creating a broad bulge in the topography.  The “mantle plume” thus formed, once established, continues to channel hot material from the mantle base until the reservoir is emptied. The surface mark of an established plume is a hot spot – an isolated region of volcanoes and uplifted terrain located far from the edge of a surface plate.  Because the source of a hot spot remains fixed while a surface plate moves over it, over a long period of time an active plume creates a chain of volcanoes or volcanic islands, a track marking the position of the plume relative to the moving plate.  The natural history of the Hawaiian island chain clearly shows the movement of the Pacific plate over a fixed plume.
+#Q#The author’s reference to the Hawaiian Islands serves primarily to
+#O#(A) provide an example of a type of volcanic activity that does not occur elsewhere
+#O#(B) identify the evidence initially used to establish that the Pacific plate moves
+#O#(C) call into question a theory about the source of the volcanoes that created the Hawaiian Islands
+#O#(D) illustrate the distance from plate edges at which volcanoes typically appear
+#O#(E) provide an example of how mantle plumes manifest themselves on Earth’s surface
+#A#E
+#RC#
+#R#Earth’s surface consists of rigid plates that are constantly shifting and jostling one another. Plate movements are the surface expressions of motions in the mantle – the thick shell of rock that lies between Earth’s crust and its metallic core.  Although the hot rock of the mantle is a solid, under the tremendous pressure of the crust and overlying rock of the mantle, it flows like a viscous liquid.  The mantle’s motions, analogous to those in a pot of boiling water, cool the mantle by carrying hot material to the surface and returning cooler material to the depths.  When the edge of one plate bends under another and its cooler material is consumed in the mantle, volcanic activity occurs as molten lava rises from the downgoing plate and erupts through the overlying one.<br><br>Most volcanoes occur at plate boundaries. However, certain “misplaced” volcanoes far from plate edges result from a second, independent mechanism that cools the deep interior of Earth.  Because of its proximity to Earth’s core, the rock at the base of the mantle is much hotter than rock in the upper mantle.  The hotter the mantle rock is, the less it resists flowing.  Reservoirs of this hot rock collect in the base of the mantle.  When a reservoir is sufficiently large, a sphere of this hot rock forces its way up through the upper mantle to Earth’s surface, creating a broad bulge in the topography.  The “mantle plume” thus formed, once established, continues to channel hot material from the mantle base until the reservoir is emptied. The surface mark of an established plume is a hot spot – an isolated region of volcanoes and uplifted terrain located far from the edge of a surface plate.  Because the source of a hot spot remains fixed while a surface plate moves over it, over a long period of time an active plume creates a chain of volcanoes or volcanic islands, a track marking the position of the plume relative to the moving plate.  The natural history of the Hawaiian island chain clearly shows the movement of the Pacific plate over a fixed plume.
+#Q#According to the passage, a hot spot on Earth’s surface is an indication of which of the following?
+#O#(A) An untapped reservoir of hot rock in the base of the mantle
+#O#(B) Volcanic activity at the edge of a plate
+#O#(C) Solid mantle rock under tremendous pressure
+#O#(D) The occurrence of a phenomenon unique to the Pacific plate
+#O#(E) A plume of hot mantle rock originating near Earth’s core
+#A#E
+#SC#
+#Q#Even though more money was removed out of stock funds in July <u>as in any month since October 1987, sales of fund shares in July were not as low as</u> an industry trade group had previously estimated.
+#O#(A) as in any month since October 1987, sales of fund shares in July were not as low as
+#O#(B) as had been in any other month since October 1987, sales of fund shares in July were not as low as what
+#O#(C) than there was in any other month since October 1987, sales of fund shares in July were not as low as that which
+#O#(D) than in any month since October 1987, sales of fund shares in July were not as low as
+#O#(E) than in any other month since October 1987, sales of fund shares in July were not as low as what
+#A#E
+#SC#
+#Q#The greatest road system built in the Americas prior to the arrival of Christopher <u>Columbus was the Incan highway, which, over 2,500 miles long and extending</u> from northern Ecuador through Peru to Southern Chile.
+#O#(A) Columbus was the Incan highway, which, over 2,500 miles long and extending
+#O#(B) Columbus was the Incan highway, over 2,500 miles in length, and extended
+#O#(C) Columbus, the Incan highway, which was over 2,500 miles in length and extended
+#O#(D) Columbus, the Incan highway, being over 2,500 miles in length, was extended
+#O#(E) Columbus, the Incan highway was over 2,500 miles long, extending
+#A#E
+#SC#
+#Q#In Greek theology the supreme being was Esaugetu Emissee (Master of Breath), who dwelt in an upper realm <u>in which the sky was the floor, and who had the power to give and to take away the breath of life.
+#O#(A) in which the sky was the floor, and who had the power to give and to take
+#O#(B) where the sky was the floor, having the power to give and to take
+#O#(C) whose floor was the sky, and who has the power of giving and of taking
+#O#(D) in which the sky was the floor, with the power of giving and taking
+#O#(E) whose floor was the sky, having the power to give and take
+#A#A
+#CR#
+#Q#Magazine Publisher:  Our magazine does not have a liberal bias.  It is true that when a book review we had commissioned last year turned out to express distinctly conservative views, we did not publish it until we had also obtained a second review that took a strongly liberal position.  Clearly, however, our actions demonstrate not a bias in favor of liberal views but rather a commitment to a balanced presentation of diverse opinions.<br><br>Determining which of the following would be most useful in evaluating the cogency of the magazine publisher’s response?
+#O#(A) Whether any other magazines in which the book was reviewed carried more than one review of the book
+#O#(B) Whether the magazine publishes unsolicited book reviews as well as those that it has commissioned
+#O#(C) Whether in the event that a first review commissioned by the magazine takes a clearly liberal position the magazine would make any efforts to obtain further reviews
+#O#(D) Whether the book that was the subject of the two reviews was itself written from a clearly conservative or a clearly liberal point of view
+#O#(E) Whether most of the readers of the magazine regularly read the book reviews that the magazine publishes
+#A#C
+#CR#
+#Q#Proposal:  Carbon dioxide and methane in the atmosphere block the escape of heat into space.  So emission of these “greenhouse” gases contributes to global warming.  In order to reduce global warming, emission of greenhouse gases needs to be reduced.  Therefore, the methane now emitted from open landfills should instead be burned to produce electricity.<br><br>Objection:  The burning of methane generates carbon dioxide that is released into the atmosphere.<br><br>Which of the following, if true, most adequately counters the objection made to the proposal?
+#O#(A) Every time a human being or other mammal exhales, there is some carbon dioxide released into the air.
+#O#(B) The conversion of methane to electricity would occur at a considerable distance from the landfills.
+#O#(C) The methane that is used to generate electricity would generally be used as a substitute for a fuel that does not produce any greenhouse gases when burned.
+#O#(D) Methane in the atmosphere is more effective in blocking the escape of heat from the Earth than is carbon dioxide.
+#O#(E) The amount of methane emitted from the landfills could be reduced if the materials whose decomposition produces methane were not discarded, but recycled.
+#A#D
+#SC#
+#Q#In April 1997, Hillary Rodham Clinton hosted an all-day White House scientific conference on new findings <u>that indicates a child’s acquiring language, thinking, and emotional skills as</u> an active process that may be largely completed before age three.
+#O#(A) that indicates a child’s acquiring language, thinking, and emotional skills as
+#O#(B) that are indicative of a child acquiring language, thinking, and emotional skills as
+#O#(C) to indicate that when a child acquires language, thinking, and emotional skills, that it is
+#O#(D) indicating that a child’s acquisition of language, thinking, and emotional skills is
+#O#(E) indicative of a child’s acquisition of language, thinking, and emotional skills as
+#A#D

@@ -1,0 +1,118 @@
+<div id="test-container">
+  <div id="wrapper">
+    <div class="testForm">
+      <div id="header">
+        <h1>GMAT - Zero To Hero</h1>
+
+        <h1 style="margin-left: 150px;">{{currentPractice.practiceFullName}}</h1>
+
+        <div id="steps" class="control quizNum">
+          <i class="icon-note icons"></i>
+          <span>{{currentQuestion.question_number}} of {{currentPractice.numberOfQuestions}}</span>
+        </div>
+        <div class="control timer" *ngIf="!isReview()">
+          <span class="title">{{practiceService.isInTestMode() ? 'Time Remain' : 'Time Spent'}}</span>
+          <i class="icons icon-clock" style="padding: 0 5px 0 5px;"></i>
+          <span class="time" appDigitalTime [time]="practiceService.elapsedTime" *ngIf="!practiceService.isInTestMode()"></span>
+          <span class="time" appDigitalTime [time]="currentPractice.allowedTime - practiceService.elapsedTime" *ngIf="practiceService.isInTestMode()"></span>
+        </div>
+        <a *ngIf="!isReview()" class="nextBtn testPause" (click)="pauseOrResume()">{{practiceService.isPaused? 'RESUME' : 'PAUSE'}} <i class="fa fa-star-half-o"></i></a>
+
+      </div>
+
+      <div id="questionInfo">
+        <button type="button" class="btn btn-outline-success no-glow-button white-text" *ngIf="isReview()" (click)="showAnswer()"><i class="fa" [ngClass]="{'fa-star-o': !showCorrectAnswer, 'fa-star': showCorrectAnswer}"></i>&nbsp; Show Answer</button>
+        <p class="question-time">Current Question Time: <span appDigitalTime [time]="practiceService.currentQuestionTime"></span></p>
+      </div>
+
+
+      <div class="whiteBG" [style.bottom]="isShowingNote || isShowingExplanation ? '330px' : '62px'">
+        <div id="section">
+          <div class="content" style="display: inline-block">
+            <div class="passage" [innerHTML]="currentQuestion.reading_passage | safeHtml" *ngIf="currentQuestion.isReadingComprehension()" style="width: 50%;">
+            </div>
+            <div class="questionWrap" [ngClass]="{halfWidth: currentQuestion.isReadingComprehension(), fullWidth : !currentQuestion.isReadingComprehension()}">
+              <div class="question">
+                <div [innerHTML]="currentQuestion.question_stem | safeHtml"></div>
+              </div>
+
+              <div style="margin-top: 10px;">
+                <div class="option">
+                  <div class="radio">
+                    <input type="radio" name="option" id="option_A" value="A" [(ngModel)]="currentQuestion.selected_answer" [disabled]="isReview()">
+                  </div>
+                  <label for="option_A" [attr.class]="isReview()? currentQuestion.getLabelClass('A', showCorrectAnswer): ''" [innerHTML]="currentQuestion.option_A| safeHtml"></label>
+                </div>
+
+                <div style="clear: both"></div>
+
+                <div class="option">
+                  <div class="radio">
+                    <input type="radio" name="option" id="option_B" value="B" [(ngModel)]="currentQuestion.selected_answer" [disabled]="isReview()">
+                  </div>
+                  <label for="option_B" [attr.class]="isReview()? currentQuestion.getLabelClass('B', showCorrectAnswer): ''" [innerHTML]="currentQuestion.option_B| safeHtml"></label>
+                </div>
+
+                <div class="option">
+                  <div class="radio">
+                    <input type="radio" name="option" id="option_C" value="C" [(ngModel)]="currentQuestion.selected_answer" [disabled]="isReview()">
+                  </div>
+                  <label for="option_C" [attr.class]="isReview()? currentQuestion.getLabelClass('C', showCorrectAnswer): ''" [innerHTML]="currentQuestion.option_C| safeHtml"></label>
+                </div>
+
+                <div class="option">
+                  <div class="radio">
+                    <input type="radio" name="option" id="option_D" value="D" [(ngModel)]="currentQuestion.selected_answer" [disabled]="isReview()">
+                  </div>
+                  <label for="option_D" [attr.class]="isReview()? currentQuestion.getLabelClass('D', showCorrectAnswer): ''" [innerHTML]="currentQuestion.option_D| safeHtml"></label>
+                </div>
+
+                <div class="option">
+                  <div class="radio">
+                    <input type="radio" name="option" id="option_E" value="E" [(ngModel)]="currentQuestion.selected_answer" [disabled]="isReview()">
+                  </div>
+                  <label for="option_E" [attr.class]="isReview()? currentQuestion.getLabelClass('E', showCorrectAnswer): ''" [innerHTML]="currentQuestion.option_E| safeHtml"></label>
+                </div>
+              </div>
+
+              <div style="clear: both"></div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div id="questionNote" *ngIf="isShowingNote">
+        <textarea style="height:255px; width: 100%;resize:horizontal; padding: 0 5px;" rows="5" (blur)="enableHotKey()" (focus)="disableHotKey()" [(ngModel)]="currentQuestion.remarks" maxlength="800"></textarea>
+      </div>
+
+      <div id="questionExplanation" *ngIf="isShowingExplanation">
+        <div class="content" style="height:243px; width: 100%;resize:horizontal; padding: 5px 5px;" [innerHTML]="currentQuestion.question_explanation | safeHtml"></div>
+      </div>
+
+      <div id="setUp">
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" (click)="currentQuestion.toggleBookmark()"><i class="fa" [ngClass]="{'fa-flag-o': !currentQuestion.bookmarked, 'fa-flag': currentQuestion.bookmarked}"></i>&nbsp; Favorite</button>
+
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="reportQuestion()"><i class="fa fa-exclamation-circle"></i>&nbsp; Report</button>
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="toggleNote()" *ngIf="isReview()" [class.hasNote]="currentQuestion.hasNote()"
+                [disabled]="!currentQuestion.selected_answer"><i class="fa fa-pencil-square-o"></i>&nbsp; Note</button>
+
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="toggleExplanation()" *ngIf="isReview() && currentPractice.hasExplanation">
+                <i class="fa fa-file-text-o"></i>&nbsp; Show Explanation</button>
+      </div>
+
+      <div id="footer">
+        <a class="endExamBtn" (click)="end()" *ngIf="isReview()"><i class="fa fa-close"></i> End Review</a>
+        <a class="endExamBtn" (click)="end()" *ngIf="!isReview()"><i class="fa fa-close"></i> End Practice</a>
+
+        <div class="nextBtn">
+          <a (click)="prev()" [ngClass]="{disabled: practiceService.isFirstQuestion() || isInTestMode()}" style="margin-right: 10px;"><i class="fa fa-arrow-left"> Previous</i></a>
+          <a (click)="next()" [ngClass]="{disabled: isReview() && practiceService.isLastQuestion()}">{{!isReview() && practiceService.isLastQuestion() ? 'Finish' : 'Next'}} <i class="fa fa-arrow-right"></i></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<app-confirm-dialog [popupMessage]="popupMessage" (close)="popupMessage = null;"></app-confirm-dialog>

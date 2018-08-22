@@ -1,0 +1,14 @@
+<div *ngIf="isSelectStage()">
+  <app-gmat-practice-list></app-gmat-practice-list>
+</div>
+
+<!--Due to a strange bug when update to Angular 6, need to keep the component alive to prevent scroll to top-->
+<div *ngIf="isSummaryStage() || isPracticeStage()">
+  <app-gmat-practice-summary></app-gmat-practice-summary>
+</div>
+
+<div *ngIf="isPracticeStage()">
+  <app-gmat-practice-screen></app-gmat-practice-screen>
+</div>
+
+<p-toast [style]="{marginTop: '60px'}"></p-toast>

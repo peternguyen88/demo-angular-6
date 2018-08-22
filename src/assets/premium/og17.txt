@@ -1,0 +1,510 @@
+####61####OG17
+#RC#1 (P1-1)#C#
+Much research has been devoted to investigating what motivates consumers to try new products. Previous consumer research suggests that both the price of a new product and the way it is advertised affect consumers’ perceptions of the product’s performance risk (the possibility that the product will not function as consumers expect and/or will not provide the desired benefits). Some of this research has concluded that a relatively high price will reduce  a consumer’s perception of the performance risk associated with purchasing a particular product, while other <span style="background:yellow;"><strong>studies</span></strong> have reported that price has little or no effect on perceived performance risk. These conflicting findings may simply be due to the nature of product advertisements: a recent study indicates that the presentation of an advertised message has a marked effect on the relationship between price and perceived performance risk.<br><br>Researchers have identified consumers’ perception of the credibility of the source of an advertised message—i.e., the manufacturer—as another factor affecting perceived performance risk: one study found that the greater the source credibility, the lower the consumer’s perception of the risk of purchasing an advertised new product. However, past research suggests that the relationship between source credibility and perceived performance risk may be more complex: source credibility may interact with price in a subtle way to affect consumers’ judgments of the performance risk associated with an advertised product.
+According to the passage, the studies referred to in line 12 reported which of the following about the effect of price on consumers’ perception of the performance risk associated with a new product?
+(A)	Although most consumers regard price as an important factor, their perception of the performance risk associated with a new product is ultimately determined by the manufacturer’s reputation.
+(B)	Price interacts with the presentation of an advertised message to affect perceived performance risk.
+(C)	Price does not significantly affect consumers’ perception of the performance risk associated with a new product.
+(D)	Consumers tend to regard price as more important than the manufacturer’s credibility when they are buying from that manufacturer for the first time.
+(E)	Consumers are generally less concerned about a new product’s performance risk when that product is relatively expensive.
+---------------------------------
+#RC#2 (P1-2)#C#
+Much research has been devoted to investigating what motivates consumers to try new products. Previous consumer research suggests that both the price of a new product and the way it is advertised affect consumers’ perceptions of the product’s performance risk (the possibility that the product will not function as consumers expect and/or will not provide the desired benefits). Some of this research has concluded that a relatively high price will reduce  a consumer’s perception of the performance risk associated with purchasing a particular product, while other studies have reported that price has little or no effect on perceived performance risk. These conflicting findings may simply be due to the nature of product advertisements: a recent study indicates that the presentation of an advertised message has a marked effect on the relationship between price and perceived performance risk.<br><br>Researchers have identified consumers’ perception of the credibility of the source of an advertised message—i.e., the manufacturer—as another factor affecting perceived performance risk: one study found that the greater the source credibility, the lower the consumer’s perception of the risk of purchasing an advertised new product. However, <span style="background:yellow;"><strong>past research</span></strong> suggests that the relationship between source credibility and perceived performance risk may be more complex: source credibility may interact with price in a subtle way to affect consumers’ judgments of the performance risk associated with an advertised product.
+The “past research” mentioned in line 25 suggests which of the following about perceived performance risk?
+(A)	The more expensive a new product is, the more likely consumers may be to credit advertised claims about that product.
+(B)	The more familiar consumers are with a particular manufacturer, the more willing they may be to assume some risk in the purchase of a new product being advertised by that manufacturer.
+(C)	Consumers’ perception of the performance risk associated with a new product being advertised may be influenced by an interplay between the product’s price and the manufacturer’s credibility.
+(D)	Consumers may be more likely to believe that a product will function as it is advertised to do when they have bought products from a particular manufacturer before.
+(E)	The price of a particular advertised product may have less impact than the manufacturer’s credibility on consumers’ assessment of the performance risk associated with that product.
+---------------------------------
+#RC#3 (P1-3)#E#
+Much research has been devoted to investigating what motivates consumers to try new products. Previous consumer research suggests that both the price of a new product and the way it is advertised affect consumers’ perceptions of the product’s performance risk (the possibility that the product will not function as consumers expect and/or will not provide the desired benefits). Some of this research has concluded that a relatively high price will reduce  a consumer’s perception of the performance risk associated with purchasing a particular product, while other studies have reported that price has little or no effect on perceived performance risk. These conflicting findings may simply be due to the nature of product advertisements: a recent study indicates that the presentation of an advertised message has a marked effect on the relationship between price and perceived performance risk.<br><br>Researchers have identified consumers’ perception of the credibility of the source of an advertised message—i.e., the manufacturer—as another factor affecting perceived performance risk: one study found that the greater the source credibility, the lower the consumer’s perception of the risk of purchasing an advertised new product. However, past research suggests that the relationship between source credibility and perceived performance risk may be more complex: source credibility may interact with price in a subtle way to affect consumers’ judgments of the performance risk associated with an advertised product.
+The passage is primarily concerned with
+(A)	challenging the implications of previous research into why consumers try new products
+(B)	suggesting new marketing strategies for attracting consumers to new products
+(C)	reconciling two different views about the effect of price on consumers’ willingness to try new products
+(D)	describing a new approach to researching why consumers try new products
+(E)	discussing certain findings regarding why consumers try new products
+---------------------------------
+#RC#4 (P1-4)#A#
+Much research has been devoted to investigating what motivates consumers to try new products. Previous consumer research suggests that both the price of a new product and the way it is advertised affect consumers’ perceptions of the product’s performance risk (the possibility that the product will not function as consumers expect and/or will not provide the desired benefits). <span style="background:yellow;"><strong>Some of this research</span></strong> has concluded that a relatively high price will reduce  a consumer’s perception of the performance risk associated with purchasing a particular product, while other studies have reported that price has little or no effect on perceived performance risk. These conflicting findings may simply be due to the nature of product advertisements: a recent study indicates that the presentation of an advertised message has a marked effect on the relationship between price and perceived performance risk.<br><br>Researchers have identified consumers’ perception of the credibility of the source of an advertised message—i.e., the manufacturer—as another factor affecting perceived performance risk: one study found that the greater the source credibility, the lower the consumer’s perception of the risk of purchasing an advertised new product. However, past research suggests that the relationship between source credibility and perceived performance risk may be more complex: source credibility may interact with price in a subtle way to affect consumers’ judgments of the performance risk associated with an advertised product.
+Which of the following, if true, would most tend to weaken the conclusions drawn from “some of this research” (see line 8)?
+(A)	In a subsequent study, consumers who were asked to evaluate new products with relatively low prices had the same perception of the products’ performance risk as did consumers who were shown the same products priced more expensively.
+(B)	In a subsequent study, the quality of the advertising for the products that consumers perceived as having a lower performance risk was relatively high, while the quality of the advertising for the products that consumers perceived as having a higher performance risk was relatively poor.
+(C)	In a subsequent study, the products that consumers perceived as having a lower performance risk were priced higher than the highest priced products in the previous research.
+(D)	None of the consumers involved in this research had ever before bought products from the manufacturers involved in the research.
+(E)	Researchers found that the higher the source credibility for a product, the more consumers were willing to pay for it.
+---------------------------------
+#RC#5 (P2-1)#C#
+Historians remain divided over the role of banks in facilitating economic growth in the United States in the late eighteenth and early nineteenth centuries. Some scholars contend that banks played a minor role in the nation’s growing economy. Financial institutions, they argue, appeared only after the economy had begun to develop, and once organized, followed conservative lending practices, providing aid to established commercial enterprises but shunning those, such as manufacturing and transportation projects, that were more uncertain and capital-intensive (i.e., requiring greater expenditures in the form of capital than in labor).<br><br>A growing number of historians argue, in contrast, that banks were crucial in transforming the early national economy. When state legislatures began granting more bank charters in the 1790s and early 1800s, the supply of credit rose accordingly. Unlike the earliest banks, which had primarily provided short-term loans to well-connected merchants, the banks of the early nineteenth century issued credit widely. As Paul Gilje asserts, the expansion and democratization of credit in the early nineteenth century became the driving force of the American economy, as banks began furnishing large amounts of capital to transportation and industrial enterprises. The exception, such historians argue, was in the South; here, the overwhelmingly agrarian nature of the economy generated outright opposition to banks, which were seen as monopolistic institutions controlled by an elite group of planters.
+The primary purpose of the passage is to
+(A)	compare the economic role played by southern banks with the economic role played by banks in the rest of the United States during the late eighteenth and early nineteenth centuries
+(B)	reevaluate a conventional interpretation of the role played by banks in the American economy during the late eighteenth and early nineteenth centuries
+(C)	present different interpretations of the role played by banks in the American economy during the late eighteenth and early nineteenth centuries
+(D)	analyze how the increasing number of banks in the late eighteenth and early nineteenth centuries affected the American economy
+(E)	examine how scholarly opinion regarding the role played by banks in the American economy during the late eighteenth and early nineteenth centuries has changed over
+---------------------------------
+#RC#6 (P2-2)#B#
+Historians remain divided over the role of banks in facilitating economic growth in the United States in the late eighteenth and early nineteenth centuries. Some <span style="background:yellow;"><strong>scholars</span></strong> contend that banks played a minor role in the nation’s growing economy. Financial institutions, they argue, appeared only after the economy had begun to develop, and once organized, followed conservative lending practices, providing aid to established commercial enterprises but shunning those, such as manufacturing and transportation projects, that were more uncertain and capital-intensive (i.e., requiring greater expenditures in the form of capital than in labor).<br><br>A growing number of historians argue, in contrast, that banks were crucial in transforming the early national economy. When state legislatures began granting more bank charters in the 1790s and early 1800s, the supply of credit rose accordingly. Unlike the earliest banks, which had primarily provided short-term loans to well-connected merchants, the banks of the early nineteenth century issued credit widely. As Paul Gilje asserts, the expansion and democratization of credit in the early nineteenth century became the driving force of the American economy, as banks began furnishing large amounts of capital to transportation and industrial enterprises. The exception, such historians argue, was in the South; here, the overwhelmingly agrarian nature of the economy generated outright opposition to banks, which were seen as monopolistic institutions controlled by an elite group of planters.
+The passage suggests that the scholars mentioned in line 4 would argue that the reason banks tended not to fund manufacturing and transportation projects in the late eighteenth and early nineteenth centuries was that
+(A)	these projects, being well established and well capitalized, did not need substantial long-term financing from banks
+(B)	these projects entailed a level of risk that was too great for banks’ conservative lending practices
+(C)	banks preferred to invest in other, more speculative projects that offered the potential for higher returns
+(D)	bank managers believed that these projects would be unlikely to contribute significantly to economic growth in the new country
+(E)	bank managers believed funding these projects would result in credit being extended to too many borrowers
+---------------------------------
+#RC#7 (P2-3)#B#
+Historians remain divided over the role of banks in facilitating economic growth in the United States in the late eighteenth and early nineteenth centuries. Some scholars contend that banks played a minor role in the nation’s growing economy. Financial institutions, they argue, appeared only after the economy had begun to develop, and once organized, followed conservative lending practices, providing aid to established commercial enterprises but shunning those, such as manufacturing and transportation projects, that were more uncertain and capital-intensive (i.e., requiring greater expenditures in the form of capital than in labor).<br><br>A growing number of historians argue, in contrast, that banks were crucial in transforming the early national economy. When state legislatures began granting more bank charters in the 1790s and early 1800s, the supply of credit rose accordingly. Unlike the <span style="background:yellow;"><strong>earliest banks</span></strong>, which had primarily provided short-term loans to well-connected merchants, the banks of the early nineteenth century issued credit widely. As Paul Gilje asserts, the expansion and democratization of credit in the early nineteenth century became the driving force of the American economy, as banks began furnishing large amounts of capital to transportation and industrial enterprises. The exception, such historians argue, was in the South; here, the overwhelmingly agrarian nature of the economy generated outright opposition to banks, which were seen as monopolistic institutions controlled by an elite group of planters.
+The passage suggests that Paul Gilje would be most likely to agree with which of the following claims about the lending practices of the “earliest banks” (see line 21)?
+(A)	These lending practices were unlikely to generate substantial profits for banks.
+(B)	These lending practices only benefited a narrow sector of the economy.
+(C)	The restrictive nature of these lending practices generated significant opposition outside of the South.
+(D)	The restrictive nature of these lending practices forced state legislatures to begin granting more bank charters by the early nineteenth century.
+(E)	These lending practices were likely to be criticized by economic elites as being overly restrictive.
+---------------------------------
+#RC#8 (P2-4)#A#
+Historians remain divided over the role of banks in facilitating economic growth in the United States in the late eighteenth and early nineteenth centuries. Some scholars contend that banks played a minor role in the nation’s growing economy. Financial institutions, they argue, appeared only after the economy had begun to develop, and once organized, followed conservative lending practices, providing aid to established commercial enterprises but shunning those, such as manufacturing and transportation projects, that were more uncertain and capital-intensive (i.e., requiring greater expenditures in the form of capital than in labor).<br><br>A growing number of historians argue, in contrast, that banks were crucial in transforming the early national economy. When state legislatures began granting more bank charters in the 1790s and early 1800s, the supply of credit rose accordingly. Unlike the earliest banks, which had primarily provided short-term loans to well-connected merchants, the banks of the early nineteenth century issued credit widely. As Paul Gilje asserts, the expansion and democratization of credit in the early nineteenth century became the driving force of the American economy, as banks began furnishing large amounts of capital to transportation and industrial enterprises. The exception, such historians argue, was in the South; here, the overwhelmingly agrarian nature of the economy generated outright opposition to banks, which were seen as monopolistic institutions controlled by an elite group of planters.
+The passage suggests that the opposition to banks in the South in the early nineteenth century stemmed in part from the perception that banks
+(A)	did not benefit more than a small minority of the people
+(B)	did not support the interests of elite planters
+(C)	were too closely tied to transportation and industrial interests
+(D)	were unwilling to issue the long-term loans required by agrarian interests
+(E)	were too willing to lend credit widely
+---------------------------------
+#RC#9 (P2-5)#D#
+Historians remain divided over the role of banks in facilitating economic growth in the United States in the late eighteenth and early nineteenth centuries. Some scholars contend that banks played a minor role in the nation’s growing economy. Financial institutions, they argue, appeared only after the economy had begun to develop, and once organized, followed conservative lending practices, providing aid to established commercial enterprises but shunning those, such as manufacturing and transportation projects, that were more uncertain and capital-intensive (i.e., requiring greater expenditures in the form of capital than in labor).<br><br>A growing number of historians argue, in contrast, that banks were crucial in transforming the early national economy. When state legislatures began granting more bank charters in the 1790s and early 1800s, the supply of credit rose accordingly. Unlike the earliest banks, which had primarily provided short-term loans to well-connected merchants, the banks of the early nineteenth century issued credit widely. As Paul Gilje asserts, the expansion and democratization of credit in the early nineteenth century became the driving force of the American economy, as banks began furnishing large amounts of capital to transportation and industrial enterprises. The exception, such historians argue, was in the South; here, the overwhelmingly agrarian nature of the economy generated outright opposition to banks, which were seen as monopolistic institutions controlled by an elite group of planters.
+Which of the following statements best describes the function of the last sentence of the passage?
+(A)	It provides evidence tending to undermine the viewpoint of the scholars mentioned in line 5.
+(B)	It resolves a conflict over the role of banks summarized in the first paragraph.
+(C)	It clarifies some of the reasons state legislatures began granting more bank charters.
+(D)	It qualifies a claim made earlier in the passage about the impact of banks on the American economy in the early nineteenth century.
+(E)	It supports a claim made earlier in the passage about how the expansion of credit affected the economy.
+---------------------------------
+#RC#10 (P3-1)#C#
+In an effort to explain why business acquisitions often fail, scholars have begun to focus on the role of top executives of acquired companies. Acquired companies that retain their top executives tend to have more successful outcomes than those that do not. Furthermore, existing <span style="background:yellow;"><strong>research</span></strong> suggests that retaining the highest-level top executives, such as the CEO (chief executive officer) and COO (chief operating officer), is related more positively to post acquisition success than retaining lower-ranked top executives. However, this explanation, while insightful, suffers from two limitations. First, the focus on positional rank does not recognize the variation in length of service that may exist in top executive posts across companies, nor does it address which particular top executives (with respect to length of service) should be retained to achieve a successful acquisition outcome. Second, the relationship between retained top executives and acquisition outcomes offered by existing research is subject to opposing theoretical explanations related to length of service. The resource-based view (RBV) suggests that keeping acquired company top executives with longer organizational tenure would lead to more successful outcomes, as those executives have idiosyncratic and nontransferable knowledge of the acquired company that would be valuable for the effective implementation of the acquisition. The opposing position, offered by the upper echelons perspective (UEP), suggests that retaining top executives having short organizational tenure would lead to more successful outcomes, as they would have the adaptability to manage most effectively during the uncertainty of the acquisition process.<br><br>Responding to these limitations, Bergh conducted a study of executive retention and acquisition outcome that focused on the organizational tenure of retained company top executives in 104 acquisitions, followed over 5 years. Bergh considered the acquisition successful if the acquired company was retained and unsuccessful if it was divested. Bergh’s findings support the RBV position. Apparently, the benefits of long organizational tenure lead to more successful outcomes than the benefits of short organizational tenure. While longer tenured top executives may have trouble adapting to change, it appears that their perspectives and knowledge bases offer unique value after the acquisition. Although from the UEP position it seems sensible to retain less tenured executives and allow more tenured ones to leave, such a strategy appears to lower the probability of acquisition success.
+According to the passage, the research mentioned in line 6 suggests which of the following about lower-ranked top executives and postacquisition success?
+(A)	Given that these executives are unlikely to contribute to postacquisition success, little effort should be spent trying to retain them.
+(B)	The shorter their length of service, the less likely it is that these executives will play a significant role in postacquisition success.
+(C)	These executives are less important to postacquisition success than are more highly ranked top executives.
+(D)	If they have long tenures, these executives may prove to be as important to postacquisition success as are more highly ranked top executives.
+(E)	Postacquisition success is unlikely if these executives are retained.
+---------------------------------
+#RC#11 (P3-2)#B#
+In an effort to explain why business acquisitions often fail, scholars have begun to focus on the role of top executives of acquired companies. Acquired companies that retain their top executives tend to have more successful outcomes than those that do not. Furthermore, existing research suggests that retaining the highest-level top executives, such as the CEO (chief executive officer) and COO (chief operating officer), is related more positively to post acquisition success than retaining lower-ranked top executives. However, this explanation, while insightful, suffers from two limitations. First, the focus on positional rank does not recognize the variation in length of service that may exist in top executive posts across companies, nor does it address which particular top executives (with respect to length of service) should be retained to achieve a successful acquisition outcome. Second, the relationship between retained top executives and acquisition outcomes offered by existing research is subject to opposing theoretical explanations related to length of service. The resource-based view (RBV) suggests that keeping acquired company top executives with longer organizational tenure would lead to more successful outcomes, as those executives have idiosyncratic and nontransferable knowledge of the acquired company that would be valuable for the effective implementation of the acquisition. The opposing position, offered by the upper echelons perspective (UEP), suggests that retaining top executives having short organizational tenure would lead to more successful outcomes, as they would have the adaptability to manage most effectively during the uncertainty of the acquisition process.<br><br>Responding to these limitations, Bergh conducted a study of executive retention and acquisition outcome that focused on the organizational tenure of retained company top executives in 104 acquisitions, followed over 5 years. Bergh considered the acquisition successful if the acquired company was retained and unsuccessful if it was divested. Bergh’s findings support the RBV position. Apparently, the benefits of long organizational tenure lead to more successful outcomes than the benefits of short organizational tenure. While longer tenured top executives may have trouble adapting to change, it appears that their perspectives and knowledge bases offer unique value after the acquisition. Although from the UEP position it seems sensible to retain less tenured executives and allow more tenured ones to leave, such a strategy appears to lower the probability of acquisition success.
+The resource-based view, as described in the passage, is based on which of the following ideas?
+(A)	The managerial skills of top executives become strongest after the first five years of their tenure.
+(B)	Company-specific knowledge is an important factor in the success of an acquisition process.
+(C)	The amount of nontransferable knowledge possessed by long-tenured top executives tends to be underestimated.
+(D)	Effective implementation of an acquisition depends primarily on the ability of executives to adapt to change.
+(E)	Short-tenured executives are likely to impede the implementation of a successful acquisition strategy.
+---------------------------------
+#RC#12 (P3-3)#D#
+In an effort to explain why business acquisitions often fail, scholars have begun to focus on the role of top executives of acquired companies. Acquired companies that retain their top executives tend to have more successful outcomes than those that do not. Furthermore, existing research suggests that retaining the highest-level top executives, such as the CEO (chief executive officer) and COO (chief operating officer), is related more positively to post acquisition success than retaining lower-ranked top executives. However, this explanation, while insightful, suffers from two limitations. First, the focus on positional rank does not recognize the variation in length of service that may exist in top executive posts across companies, nor does it address which particular top executives (with respect to length of service) should be retained to achieve a successful acquisition outcome. Second, the relationship between retained top executives and acquisition outcomes offered by existing research is subject to opposing theoretical explanations related to length of service. The resource-based view (RBV) suggests that keeping acquired company top executives with longer organizational tenure would lead to more successful outcomes, as those executives have idiosyncratic and nontransferable knowledge of the acquired company that would be valuable for the effective implementation of the acquisition. The opposing position, offered by the upper echelons perspective (UEP), suggests that retaining top executives having short organizational tenure would lead to more successful outcomes, as they would have the adaptability to manage most effectively during the uncertainty of the acquisition process.<br><br>Responding to these limitations, Bergh conducted a study of executive retention and acquisition outcome that focused on the organizational tenure of retained company top executives in 104 acquisitions, followed over 5 years. Bergh considered the acquisition successful if the acquired company was retained and unsuccessful if it was divested. Bergh’s findings support the RBV position. Apparently, the benefits of long organizational tenure lead to more successful outcomes than the benefits of short organizational tenure. While longer tenured top executives may have trouble adapting to change, it appears that their perspectives and knowledge bases offer unique value after the acquisition. Although from the UEP position it seems sensible to retain less tenured executives and allow more tenured ones to leave, such a strategy appears to lower the probability of acquisition success.
+The passage suggests that Bergh and a proponent of the upper echelons perspective would be most likely to disagree over which of the following?
+(A)	Whether there is a positive correlation between short organizational tenure and managerial adaptability
+(B)	Whether there is a positive correlation between long organizational tenure and the acquisition of idiosyncratic and nontransferable knowledge
+(C)	Whether adaptability is a useful trait for an executive who is managing an acquisition process
+(D)	Whether retaining less-tenured top executives of an acquired company is an optimal strategy for achieving postacquisition success
+(E)	Whether retaining highest-level top executives of acquired companies is more important than retaining lower-ranked top executives
+---------------------------------
+#RC#13 (P3-4)#A#
+In an effort to explain why business acquisitions often fail, scholars have begun to focus on the role of top executives of acquired companies. Acquired companies that retain their top executives tend to have more successful outcomes than those that do not. Furthermore, existing research suggests that retaining the highest-level top executives, such as the CEO (chief executive officer) and COO (chief operating officer), is related more positively to post acquisition success than retaining lower-ranked top executives. However, this explanation, while insightful, suffers from two limitations. First, the focus on positional rank does not recognize the variation in length of service that may exist in top executive posts across companies, nor does it address which particular top executives (with respect to length of service) should be retained to achieve a successful acquisition outcome. Second, the relationship between retained top executives and acquisition outcomes offered by existing research is subject to opposing theoretical explanations related to length of service. The resource-based view (RBV) suggests that keeping acquired company top executives with longer organizational tenure would lead to more successful outcomes, as those executives have idiosyncratic and nontransferable knowledge of the acquired company that would be valuable for the effective implementation of the acquisition. The opposing position, offered by the upper echelons perspective (UEP), suggests that retaining top executives having short organizational tenure would lead to more successful outcomes, as they would have the adaptability to manage most effectively during the uncertainty of the acquisition process.<br><br>Responding to these limitations, Bergh conducted a study of executive retention and acquisition outcome that focused on the organizational tenure of retained company top executives in 104 acquisitions, followed over 5 years. Bergh considered the acquisition successful if the acquired company was retained and unsuccessful if it was divested. Bergh’s findings support the RBV position. Apparently, the benefits of long organizational tenure lead to more successful outcomes than the benefits of short organizational tenure. While longer tenured top executives may have trouble adapting to change, it appears that their perspectives and knowledge bases offer unique value after the acquisition. Although from the UEP position it seems sensible to retain less tenured executives and allow more tenured ones to leave, such a strategy appears to lower the probability of acquisition success.
+According to the passage, prior to Bergh’s study, research on the role of top executives of acquired companies in business acquisition success was limited in which of the following ways?
+(A)	It did not address how the organizational tenure of top executives affects postacquisition success.
+(B)	It did not address why some companies have longer-tenured CEOs than others.
+(C)	It did not consider strategies for retaining long-tenured top executives of acquired companies.
+(D)	It failed to differentiate between the contribution of highest-level top executives to postacquisition success and that of lower-ranked top executives.
+(E)	It underestimated the potential contribution that lower-level top executives can make to postacquisition success.
+---------------------------------
+#RC#14 (P4-1)#D#
+During the 1980s, many economic historians studying Latin America focused on the impact of the Great Depression of the 1930s. Most of these historians argued that although the Depression began earlier in Latin America than in the United States, it was less severe in Latin America and did not significantly impede industrial growth there. The historians’ argument was grounded in national government records concerning tax revenues and exports and in government-sponsored industrial censuses, from which historians have drawn conclusions about total manufacturing output and profit levels across Latin America. However, economic statistics published by Latin American governments in the early twentieth century are neither reliable nor consistent; this is especially true of manufacturing data, which were gathered from factory owners for taxation purposes and which therefore may well be distorted. Moreover, one cannot assume a direct correlation between the output level and the profit level of a given industry as these variables often move in opposite directions. Finally, national and regional economies are composed of individual firms and industries, and relying on general, sweeping economic indicators may mask substantial variations among these different enterprises. For example, recent analyses of previously unexamined data on textile manufacturing in Brazil and Mexico suggest that the Great Depression had a more severe impact on this Latin American industry than scholars had recognized.
+The primary purpose of the passage is to
+(A)	compare the impact of the Great Depression on Latin America with its impact on the United States
+(B)	criticize a school of economic historians for failing to analyze the Great Depression in Latin America within a global context
+(C)	illustrate the risks inherent in comparing different types of economic enterprises to explain economic phenomena
+(D)	call into question certain scholars’ views concerning the severity of the Great Depression in Latin America
+(E)	demonstrate that the Great Depression had a more severe impact on industry in Latin America than in certain other regions
+---------------------------------
+#RC#15 (P4-2)#D#
+During the 1980s, many economic historians studying Latin America focused on the impact of the Great Depression of the 1930s. Most of these historians argued that although the Depression began earlier in Latin America than in the United States, it was less severe in Latin America and did not significantly impede industrial growth there. The historians’ argument was grounded in national government records concerning tax revenues and exports and in government-sponsored industrial censuses, from which historians have drawn conclusions about total manufacturing output and profit levels across Latin America. However, economic statistics published by Latin American governments in the early twentieth century are neither reliable nor consistent; this is especially true of manufacturing data, which were gathered from factory owners for taxation purposes and which therefore may well be distorted. Moreover, one cannot assume a direct correlation between the output level and the profit level of a given industry as these variables often move in opposite directions. Finally, national and regional economies are composed of individual firms and industries, and relying on general, sweeping economic indicators may mask substantial variations among these different enterprises. For example, recent analyses of previously unexamined data on textile manufacturing in Brazil and Mexico suggest that the Great Depression had a more severe impact on this Latin American industry than scholars had recognized.
+Which of the following conclusions about the Great Depression is best supported by the passage?
+(A)	It did not impede Latin American industrial growth as much as historians had previously thought.
+(B)	It had a more severe impact on the Brazilian and the Mexican textile industries than it had on Latin America as a region.
+(C)	It affected the Latin American textile industry more severely than it did any other industry in Latin America.
+(D)	The overall impact on Latin American industrial growth should be reevaluated by economic historians.
+(E)	Its impact on Latin America should not be compared with its impact on the United States
+---------------------------------
+#RC#16 (P4-3)#B#
+During the 1980s, many economic historians studying Latin America focused on the impact of the Great Depression of the 1930s. Most of these historians argued that although the Depression began earlier in Latin America than in the United States, it was less severe in Latin America and did not significantly impede industrial growth there. The historians’ argument was grounded in national government records concerning tax revenues and exports and in government-sponsored industrial censuses, from which historians have drawn conclusions about total manufacturing output and profit levels across Latin America. However, economic statistics published by Latin American governments in the early twentieth century are neither reliable nor consistent; this is especially true of manufacturing data, which were gathered from factory owners for taxation purposes and which therefore may well be distorted. Moreover, one cannot assume a direct correlation between the output level and the profit level of a given industry as these variables often move in opposite directions. Finally, national and regional economies are composed of individual firms and industries, and relying on general, sweeping <span style="background:yellow;"><strong>economic indicators</span></strong> may mask substantial variations among these different enterprises. For example, recent analyses of previously unexamined data on textile manufacturing in Brazil and Mexico suggest that the Great Depression had a more severe impact on this Latin American industry than scholars had recognized.
+Which of the following, if true, would most strengthen the author’s assertion regarding economic indicators in lines 25–27 ?
+(A)	During an economic depression, European textile manufacturers’ profits rise while their industrial output remains steady.
+(B)	During a national economic recession, United States microchips manufacturers’ profits rise sharply while United States steel manufacturers’ profits plunge.
+(C)	During the years following a severe economic depression, textile manufacturers’ output levels and profit levels increase in Brazil and Mexico but not in the rest of Latin America.
+(D)	Although Japanese industry as a whole recovers after an economic recession, it does not regain its previously high levels of production.
+(E)	While European industrial output increases in the years following an economic depression, total output remains below that of Japan or the United States.
+---------------------------------
+#RC#17 (P5-1)#A#
+Because the framers of the United States Constitution (written in 1787) believed that protecting property rights relating to inventions would encourage the new nation’s economic growth, they gave Congress—the national legislature—a constitutional mandate to grant patents for inventions. The resulting patent system has served as a model for those in other nations. Recently, however, scholars have questioned whether the American system helped achieve the framers’ goals. These scholars have contended that from 1794 to roughly 1830, American inventors were unable to enforce property rights because judges were “antipatent” and routinely invalidated patents for arbitrary reasons. This argument is based partly on examination of court decisions in cases where patent holders (“patentees”) brought suit alleging infringement of their patent rights. In the 1820s, for instance, 75 percent of verdicts were decided against the patentee. The proportion of verdicts for the patentee began to increase in the 1830s, suggesting to these scholars that judicial attitudes toward patent rights began shifting then. <br><br>Not all patent disputes in the early nineteenth century were litigated, however, and litigated cases were not drawn randomly from the population of disputes. Therefore the rate of verdicts in favor of patentees cannot be used by itself to gauge changes in judicial attitudes or enforceability of patent rights. If early judicial decisions were prejudiced against patentees, one might expect that subsequent courts—allegedly more supportive of patent rights—would reject the former legal precedents. But pre-1830 cases have been cited as frequently as later decisions, and they continue to be cited today, suggesting that the early decisions, many of which clearly declared that patent rights were a just recompense for inventive ingenuity, provided a lasting foundation for patent law. The proportion of judicial decisions in favor of patentees began to increase during the 1830s because of a change in the underlying population of cases brought to trial. This change was partly due to an 1836 revision to the patent system: an examination procedure, still in use today, was instituted in which each application is scrutinized for its adherence to patent law. Previously, patents were automatically granted upon payment of a $30 fee.
+The passage implies that which of the following was a reason that the proportion of verdicts in favor of patentees began to increase in the 1830s?
+(A)	Patent applications approved after 1836 were more likely to adhere closely to patent law.
+(B)	Patent laws enacted during the 1830s better defined patent rights.
+(C)	Judges became less prejudiced against patentees during the 1830s.
+(D)	After 1836, litigated cases became less representative of the population of patent disputes.
+(E)	The proportion of patent disputes brought to trial began to increase after 1836.
+---------------------------------
+#RC#18 (P5-2)#E#
+Because the framers of the United States Constitution (written in 1787) believed that protecting property rights relating to inventions would encourage the new nation’s economic growth, they gave Congress—the national legislature—a constitutional mandate to grant patents for inventions. The resulting patent system has served as a model for those in other nations. Recently, however, <span style="background:yellow;"><strong>scholars</span></strong> have questioned whether the American system helped achieve the framers’ goals. These scholars have contended that from 1794 to roughly 1830, American inventors were unable to enforce property rights because judges were “antipatent” and routinely invalidated patents for arbitrary reasons. This argument is based partly on examination of court decisions in cases where patent holders (“patentees”) brought suit alleging infringement of their patent rights. In the 1820s, for instance, 75 percent of verdicts were decided against the patentee. The proportion of verdicts for the patentee began to increase in the 1830s, suggesting to these scholars that judicial attitudes toward patent rights began shifting then. <br><br>Not all patent disputes in the early nineteenth century were litigated, however, and litigated cases were not drawn randomly from the population of disputes. Therefore the rate of verdicts in favor of patentees cannot be used by itself to gauge changes in judicial attitudes or enforceability of patent rights. If early judicial decisions were prejudiced against patentees, one might expect that subsequent courts—allegedly more supportive of patent rights—would reject the former legal precedents. But pre-1830 cases have been cited as frequently as later decisions, and they continue to be cited today, suggesting that the early decisions, many of which clearly declared that patent rights were a just recompense for inventive ingenuity, provided a lasting foundation for patent law. The proportion of judicial decisions in favor of patentees began to increase during the 1830s because of a change in the underlying population of cases brought to trial. This change was partly due to an 1836 revision to the patent system: an examination procedure, still in use today, was instituted in which each application is scrutinized for its adherence to patent law. Previously, patents were automatically granted upon payment of a $30 fee.
+The passage implies that the scholars mentioned in line 8 would agree with which of the following criticisms of the American patent system before 1830?
+(A)	Its definition of property rights relating to inventions was too vague to be useful.
+(B)	Its criteria for the granting of patents were not clear.
+(C)	It made it excessively difficult for inventors to receive patents.
+(D)	It led to excessive numbers of patent-infringement suits.
+(E)	It failed to encourage national economic growth.
+---------------------------------
+#RC#19 (P5-3)#B#
+Because the framers of the United States Constitution (written in 1787) believed that protecting property rights relating to inventions would encourage the new nation’s economic growth, they gave Congress—the national legislature—a constitutional mandate to grant patents for inventions. The resulting patent system has served as a model for those in other nations. Recently, however, scholars have questioned whether the American system helped achieve the framers’ goals. These scholars have contended that from 1794 to roughly 1830, American inventors were unable to enforce property rights because judges were “antipatent” and routinely invalidated patents for arbitrary reasons. This argument is based partly on examination of court decisions in cases where patent holders (“patentees”) brought suit alleging infringement of their patent rights. In the 1820s, for instance, 75 percent of verdicts were decided against the patentee. The proportion of verdicts for the patentee began to increase in the 1830s, suggesting to these scholars that judicial attitudes toward patent rights began shifting then. <br><br>Not all patent disputes in the early nineteenth century were litigated, however, and litigated cases were not drawn randomly from the population of disputes. Therefore the rate of verdicts in favor of patentees cannot be used by itself to gauge changes in judicial attitudes or enforceability of patent rights. If early judicial decisions were prejudiced against patentees, one might expect that subsequent courts—allegedly more supportive of patent rights—would reject the former legal precedents. But pre-1830 cases have been cited as frequently as later decisions, and they continue to be cited today, suggesting that the early decisions, many of which clearly declared that patent rights were a just recompense for inventive ingenuity, provided a lasting foundation for patent law. The proportion of judicial decisions in favor of patentees began to increase during the 1830s because of a change in the underlying population of cases brought to trial. This change was partly due to an 1836 revision to the patent system: an examination procedure, still in use today, was instituted in which each application is scrutinized for its adherence to patent law. Previously, patents were automatically granted upon payment of a $30 fee.
+It can be inferred from the passage that the frequency with which pre-1830 cases have been cited in court decisions is an indication that
+(A)	judicial support for patent rights was strongest in the period before 1830
+(B)	judicial support for patent rights did not increase after 1830
+(C)	courts have returned to judicial standards that prevailed before 1830
+(D)	verdicts favoring patentees in patent-infringement suits did not increase after 1830
+(E)	judicial bias against patentees persisted after 1830
+---------------------------------
+#RC#20 (P5-4)#D#
+Because the framers of the United States Constitution (written in 1787) believed that protecting property rights relating to inventions would encourage the new nation’s economic growth, they gave Congress—the national legislature—a constitutional mandate to grant patents for inventions. The resulting patent system has served as a model for those in other nations. Recently, however, scholars have questioned whether the American system helped achieve the framers’ goals. These scholars have contended that from 1794 to roughly 1830, American inventors were unable to enforce property rights because judges were “antipatent” and routinely invalidated patents for arbitrary reasons. This argument is based partly on examination of court decisions in cases where patent holders (“patentees”) brought suit alleging infringement of their patent rights. In the 1820s, for instance, 75 percent of verdicts were decided against the patentee. The proportion of verdicts for the patentee began to increase in the 1830s, suggesting to these <span style="background:yellow;"><strong>scholars</span></strong> that judicial attitudes toward patent rights began shifting then. <br><br>Not all patent disputes in the early nineteenth century were litigated, however, and litigated cases were not drawn randomly from the population of disputes. Therefore the rate of verdicts in favor of patentees cannot be used by itself to gauge changes in judicial attitudes or enforceability of patent rights. If early judicial decisions were prejudiced against patentees, one might expect that subsequent courts—allegedly more supportive of patent rights—would reject the former legal precedents. But pre-1830 cases have been cited as frequently as later decisions, and they continue to be cited today, suggesting that the early decisions, many of which clearly declared that patent rights were a just recompense for inventive ingenuity, provided a lasting foundation for patent law. The proportion of judicial decisions in favor of patentees began to increase during the 1830s because of a change in the underlying population of cases brought to trial. This change was partly due to an 1836 revision to the patent system: an examination procedure, still in use today, was instituted in which each application is scrutinized for its adherence to patent law. Previously, patents were automatically granted upon payment of a $30 fee.
+It can be inferred from the passage that the author and the scholars referred to in line 21 disagree about which of the following aspects of the patents defended in patent-infringement suits before 1830 ?
+(A)	Whether the patents were granted for inventions that were genuinely useful
+(B)	Whether the patents were actually relevant to the growth of the United States economy
+(C)	Whether the patents were particularly likely to be annulled by judges
+(D)	Whether the patents were routinely invalidated for reasons that were arbitrary
+(E)	Whether the patents were vindicated at a significantly lower rate than patents in later suits
+---------------------------------
+#RC#21 (P5-5)#C#
+Because the framers of the United States Constitution (written in 1787) believed that protecting property rights relating to inventions would encourage the new nation’s economic growth, they gave Congress—the national legislature—a constitutional mandate to grant patents for inventions. The resulting patent system has served as a model for those in other nations. Recently, however, scholars have questioned whether the American system helped achieve the framers’ goals. These scholars have contended that from 1794 to roughly 1830, American inventors were unable to enforce property rights because judges were “antipatent” and routinely invalidated patents for arbitrary reasons. <span style="background:yellow;"><strong>This argument</span></strong> is based partly on examination of court decisions in cases where patent holders (“patentees”) brought suit alleging infringement of their patent rights. In the 1820s, for instance, 75 percent of verdicts were decided against the patentee. The proportion of verdicts for the patentee began to increase in the 1830s, suggesting to these scholars that judicial attitudes toward patent rights began shifting then. <br><br>Not all patent disputes in the early nineteenth century were litigated, however, and litigated cases were not drawn randomly from the population of disputes. Therefore the rate of verdicts in favor of patentees cannot be used by itself to gauge changes in judicial attitudes or enforceability of patent rights. If early judicial decisions were prejudiced against patentees, one might expect that subsequent courts—allegedly more supportive of patent rights—would reject the former legal precedents. But pre-1830 cases have been cited as frequently as later decisions, and they continue to be cited today, suggesting that the early decisions, many of which clearly declared that patent rights were a just recompense for inventive ingenuity, provided a lasting foundation for patent law. The proportion of judicial decisions in favor of patentees began to increase during the 1830s because of a change in the underlying population of cases brought to trial. This change was partly due to an 1836 revision to the patent system: an examination procedure, still in use today, was instituted in which each application is scrutinized for its adherence to patent law. Previously, patents were automatically granted upon payment of a $30 fee.
+The author of the passage cites which of the following as evidence challenging the argument referred to in lines 14–15 ?
+(A)	The proportion of cases that were decided against patentees in the 1820s
+(B)	The total number of patent disputes that were litigated from 1794 to 1830
+(C)	The fact that later courts drew upon the legal precedents set in pre-1830 patent cases
+(D)	The fact that the proportion of judicial decisions in favor of patentees began to increase during the 1830s
+(E)	The constitutional rationale for the 1836 revision of the patent system
+---------------------------------
+#CR#22 (546)#A#
+Candle Corporation’s television stations are likely to have more income from advertisers than previously. This is because advertisers prefer to reach people in the 18- to 49-year-old age group and the number of people in the group watching Candle television is increasing. Furthermore, among Candle viewers, the percentage of viewers 18 to 49 years old is increasing.<br><br>Which of the following, if true, would most strengthen the argument that Candle Corporation will receive more income from advertisers?
+(A)	Advertisers carefully monitor the demographic characteristics of television audiences and purchase advertising time to reach the audiences they prefer to reach.
+(B)	Among people over 49 years old, fewer viewers of Candle stations buy products advertised on television than do viewers of other stations.
+(C)	There will be increasingly more advertisements on television that are directed at viewers who are over 49 years old.
+(D)	Candle stations plan to show reruns of television shows during hours when other stations run shows for the first time.
+(E)	People 18 to 49 years old generally have less disposable income to spend than do people over 49 years old.
+---------------------------------
+#CR#23 (549)#E#
+During the earliest period of industrialization in Britain, steam engines were more expensive to build and operate than either windmills or water mills, the other practicable sources of power for factories. Yet despite their significant cost disadvantages, steam-powered factories were built in large numbers well before technical improvements brought their cost down. Furthermore, they were built even in regions where geographical conditions permitted the construction of wind- and water-powered factories close to major markets.<br><br>Which of the following, if true, most helps to explain the proliferation of steam-powered factories during the earliest period of industrialization in Britain?
+(A)	In many areas of Britain, there were fewer steam-powered factories than wind- or water-powered factories in the earliest period of industrialization.
+(B)	Unlike wind- or water-powered factories, steam-powered factories were fueled with coal, which sometimes had to be transported significant distances from the mine to the site of the factory.
+(C)	It was both difficult and expensive to convert a factory from wind power or water power to steam power.
+(D)	In the early period of industrialization, many goods sold in towns and cities could not be mass-produced in factories.
+(E)	In Britain, the number of sites where a wind or water-powered factory could be built was insufficient to provide for all of the demand for factory-produced goods at the time.
+---------------------------------
+#CR#24 (562)#C#
+Which of the following most logically completes the argument?<br><br>In a typical year, Innovair’s airplanes are involved in 35 collisions while parked on being towed in airports, with a resulting yearly cost of $1,000,000 for repairs. To reduce the frequency of ground collisions, Innovair will begin giving its ground crews additional training, at an annual cost of $500,000. Although this will cut the number of ground collisions by about half at best, the drop in repair costs can be expected to be much greater, since ______________
+(A)	most ground collisions happen when ground crews are rushing to minimize the time a delayed plane spends on the ground.
+(B)	a ground collision typically occurs when there are no passengers on the airplane.
+(C)	the additional training will focus on helping ground crews avoid those kinds of ground collisions that cause the most costly damage.
+(D)	the $500,000 cost figure for the additional training of ground crews includes the wages that those crews will earn during the time spent in actual training.
+(E)	most ground collisions have been caused by the least experienced ground-crew members
+---------------------------------
+#CR#25 (571)#E#
+The air quality board recently informed Coffee Roast, a small coffee roasting firm, of a complaint regarding the smoke from its roaster. Recently enacted air quality regulations requires machine roasting more than 10 pounds of coffee to be equipped with expensive smoke-dissipating afterburners. The firm, however, roasts only 8 pounds of coffee at a time. Nevertheless, the company has decided to purchase and install an afterburner.<br><br>Which of the following, if true, most strongly supports the firm’s decision?
+(A)	Until setting on the new air quality regulations, the board had debated whether to require afterburners for machines roasting more than 5 pounds of coffee at a time.
+(B)	Coffee roasted in a machine equipped with an afterburner has its flavor subtly altered.
+(C)	The cost to the firm of an afterburner is less than the cost of replacing its roaster with a smaller one.
+(D)	Fewer complaints are reported in areas that maintain strict rules regarding afterburners.
+(E)	The firm has reason to fear that negative publicity regarding the complaints could result in lost sales.
+---------------------------------
+#CR#26 (582)#A#
+Many athletes inhale pure oxygen after exercise in an attempt to increase muscular re-absorption of oxygen. Measured continuously after exercise, however, the blood lactate levels of athletes who inhale pure oxygen are practically identical, on average, to those of athletes who breathe normal air. The lower the blood lactate level is, the higher the muscular re-absorption of oxygen is.<br><br>If the statements above are all true, they most strongly support which of the following conclusions?
+(A)	Athletes' muscular re-absorption of oxygen is not increased when they inhale pure oxygen instead of normal air.
+(B)	High blood lactate levels cannot be reduced.
+(C)	Blood lactate levels are a poor measure of oxygen re-absorption by muscles.
+(D)	The amount of oxygen reabsorbed by an athlete’s muscles always remains constant.
+(E)	The inhaling of pure oxygen has no legitimate role in athletics.
+---------------------------------
+#CR#27 (587)#D#
+Rainwater contains hydrogen of a heavy form called deuterium. The deuterium content of wood reflects the deuterium content of rainwater available to trees during their growth. Wood from trees that grew between 16,000 and 24,000 years ago in North America contains significantly more deuterium than wood from trees growing today. But water trapped in several North American caves that formed during that same early period contains significantly less deuterium than rainwater in North America today.<br><br>Which of the following, if true, most helps to reconcile the two findings?
+(A)	There is little deuterium in the North American caves than the deuterium in the water trapped there.
+(B)	Exposure to water after a tree has died does not change the deuterium content of the wood.
+(C)	Industrialization in North America over the past 100 years has altered the deuterium content of rain.
+(D)	Trees draw on shallow groundwater from rain that falls during their growth, whereas water trapped in caves may have fallen as rainwater thousands of years before the caves formed.
+(E)	Wood with high deuterium content is no more likely to remain preserved for long periods than is wood with a low deuterium content.
+---------------------------------
+#CR#28 (592)#D#
+Many industrialized nations are trying to reduce atmospheric concentrations of carbon dioxide, a gas released by the burning of fossil fuels. One proposal is to replace conventional cement, which is made with calcium carbonate, by a new “eco-cement.” This new cement, made with magnesium carbonate, absorbs large amount of carbon dioxide when exposed to the atmosphere. Therefore, using eco-cement for new concrete building projects will significantly help reduce atmospheric concentrations of carbon dioxide.<br><br>Which of the following, if true, most strengthens the argument?
+(A)	The cost of magnesium carbonate, currently greater than the cost of calcium carbonate, probably will fall as more magnesium carbonate is used in cement manufacture.
+(B)	Eco-cement is strengthened when absorbed carbon dioxide reacts with the cement.
+(C)	Before the development of eco-cement, magnesium-based cement was considered too susceptible to water erosion to be of practical use.
+(D)	The manufacture of eco-cement uses considerably less fossil fuel per unit of cement than the manufacture of conventional cement does.
+(E)	Most building-industry groups are unaware of the development or availability of eco-cement.
+---------------------------------
+#CR#29 (599)#C#
+Petrochemical industry officials have said that the extreme pressure exerted on plant managers during the last five years to improve profits by cutting costs has done nothing to impair the industry’s ability to operate safely. However, environmentalists contend that the recent rash of serious oil spills and accidents at petrochemical plants is traceable to cost-cutting measures.<br><br>Which of the following, if true, would provide the strongest support for the position held by industry officials?
+(A)	The petrochemical industry benefits if accidents do not occur, since accidents involve risk of employee injury as well as loss of equipment and product.
+(B)	Petrochemical industry unions recently demanded that additional money be spent on safety and environment protection measures, but the unions readily abandoned those demands in exchange for job security.
+(C)	Despite major cutbacks in most other areas of operation, the petrochemical industry has devoted more of its resources to environmental and safety measures in the last five years than in the preceding five years.
+(D)	There is evidence that the most damaging of the recent oil spills would have been prevented had cost-cutting measures not been instituted.
+(E)	Both the large fines and adverse publicity generated by the most recent oil spills have prompted the petrochemical industry to increase the resources devoted to oil-spill prevention.
+---------------------------------
+#CR#30 (607)#C#
+Birds have been said to be descended from certain birdlike dinosaur species with which they share distinctive structural features. The fossil record, however, shows that this cannot be so, since there are bird fossils much older than the earliest birdlike dinosaur fossils that have been found.<br><br>Which of the following is an assumption on which the argument relies?
+(A)	The birdlike dinosaurs have no descendants.
+(B)	There are no flightless dinosaur species that have the distinctive structural features shred by birds and birdlike dinosaurs.
+(C)	There are no birdlike dinosaur fossils that are older that the bird fossils but have nit yet been unearthed.
+(D)	It could not have been the case that some birds were descendant from one of the bird like dinosaur species and other birds from another.
+(E)	Birds cannot have been descended from dinosaur species with which the birds do not share the distinctive structural features.
+---------------------------------
+#CR#31 (610)#E#
+Previously, Autoco designed all of its cars itself and then contracted with specialized parts suppliers to build parts according to its specifications. Now it plans to include its suppliers in designing the parts they are to build. Since many parts suppliers have more designers with specialized experience than Autoco has, Autoco expects this shift to reduce the overall time and cost of the design of its next new car.<br><br>Which of the following, if true, most strongly supports Autoco’s expectation?
+(A)	When suppliers provide their own designs, Autoco often needs to modify its overall design.
+(B)	In order to provide designs for Autoco, several of the parts suppliers will have to add to their existing staffs of designers.
+(C)	Parts and services provided by outside suppliers account for more than 50 percent of Autoco’s total costs.
+(D)	When suppliers built parts according to specifications provided by Autoco, the suppliers competed to win contracts.
+(E)	Most of the Autoco’s suppliers have on hand a wide range of previously prepared parts designs that can readily be modified for a new car.
+---------------------------------
+#CR#32 (612)#A#
+In Stenland, many workers have been complaining that they cannot survive on minimum wage, the lowest wage an employer is permitted to pay. The government is proposing to raise the minimum wage. Many employers who pay their workers the current minimum wage argue that if it is raised, unemployment will increase because they will no longer be able to afford to employ as many workers.<br><br>Which of the following, if true in Stenland, most strongly supports the claim that raising the minimum wage there will not have the effects that the employers predict?
+(A)	For any position with wages below a living wage, the difficulty of finding and retaining employees adds as much to employment costs as would raising wages.
+(B)	Raising the minimum wage does not also increase the amount employers have to contribute in employee benefits.
+(C)	When inflation is taken into account, the proposed new minimum wage is not high as the current one was when it was introduced.
+(D)	Many employees currently being paid wages at the level of the proposed new minimum wage will demand significant wage increases.
+(E)	Many employers who pay some workers only the minimum wage also pay other workers wages that are much higher than the minimum.
+---------------------------------
+#CR#33 (616)#C#
+Infotek, a computer manufacturer in Katrovia, has just introduced a new personal computer model that sells for significantly less than any other model. Market research shows, however, that very few Katrovian households without personal computers would buy a computer, regardless of its price. Therefore, introducing the new model is unlikely to increase the number of computers in Katrovian homes.<br><br>Which of the following is an assumption on which the argument depends?
+(A)	Infotek achieved the lower price of the new model by using components of lower quality than those used by other manufacturers.
+(B)	The main reason cited by consumers in Katrovia for replacing a personal computer is the desire to have an improved model.
+(C)	Katrovians in households that already have computers are unlikely to purchase the new Infotek model as an additional computer for home use.
+(D)	The price of other personal computers in Karovia is unlikely to drop below the price of Infotek’s new model in the near future.
+(E)	Most personal computers purchased in Katrovia are intended for home use.
+---------------------------------
+#CR#34 (617)#D#
+Fast-food restaurants make up 45 percent of all restaurants in Cantaria. Customers at these restaurants tend to be young; in fact, studies have shown that the older people get, the less likely they are to eat in fast-food restaurants. Since the average age of the Canatrian population is gradually rising and will continue to do so, the number of fast-food restaurants is likely to decrease.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A)	Fast-food restaurants in Canatria are getting bigger, so each one can serve more customers.
+(B)	Some older people eat at fast-food restaurants more frequently than the average young person.
+(C)	Many people who rarely eat in fast-food restaurants nevertheless eat regularly in restaurants.
+(D)	The overall population of Canatria is growing steadily.
+(E)	As the population of Canatria gets older, more people are eating at home.
+---------------------------------
+#CR#35 (618)#D#
+Last year a chain of fast-food restaurants, whose menu had always centered on hamburger, added its first vegetarian sandwich, much lower in fat than the chain’s other offerings. Despite heavy marketing, the new sandwich accounts for a very small proportion of the chain’s sales. The sandwich’s sales would have to quadruple to cover the costs associated with including it on the menu. Since such an increase is unlikely, the chain would be more profitable if it dropped the sandwich.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A)	Although many of the chain’s customers have never tried the vegetarian sandwich, in a market research survey most of those who had tried it reported that they were very satisfied with it.
+(B)	Many of the people who eat at the chain’s restaurants also eat at the restaurants of competing chains and report no strong preference among the competitors.
+(C)	Among fast-food chains in general, there has been little or no growth in hamburger sales over the past several years as the range of competing offerings at other restaurants has grown.
+(D)	When even one member of group of diner’s is a vegetarian or has a preference for low-fat food, the group tends to avoid restaurants that lack vegetarian or low-fat menu options.
+(E)	An attempt by the chain to introduce a lower-fat hamburger failed several years ago, since it attracted few new customers and most of the chain’s regular customers greatly preferred the taste of the regular hamburger.
+---------------------------------
+#CR#36 (619)#D#
+Transportation expenses accounted for a large portion of the total dollar amount spent on trips for pleasure by residents of the United States in 1997, and about half of the total dollar amount spent on the transportation was airfare. However, the large majority of United States residents who took trips for pleasure in 1997 did not travel by airplane but used other means of transportation.<br><br>If the statements above are true, which of the following must also be true about United States residents who took trips for pleasure in 1997?
+(A)	Most of those who traveled by airplane did so because the airfare to their destination was lower than the cost of other available means of transportation.
+(B)	Most of those who traveled by airplane did so because other means of transportation to their destinations were unavailable.
+(C)	Per mile traveled, those who traveled by airplane tended to spend more on transportation to their destination than did those who used other means of transportation.
+(D)	Overall, people who did not travel by airplane had lower average transportation expenses than people who did.
+(E)	Those who traveled by airplane spent about as much, on average, on other means of transportation as they did on airfare.
+---------------------------------
+#CR#37 (627)#A#
+The difference in average annual income in favor of employees who have college degrees, compared with those who do not have such degrees, doubled between 1980 and 1990. Some analysts have hypothesized that increased competition between employers for employees with college degrees drove up income for such employees.<br><br>Which of the following, if true, most seriously undermines the explanation described above?
+(A)	During the 1980s a growing percentage of college graduates, unable to find jobs requiring a college degree, took unskilled jobs.
+(B)	The average age of all employees increased slightly during the 1980s.
+(C)	The unemployment rate changed very little throughout the 1980s.
+(D)	From 1980 to 1990 the difference in average income between employees with advanced degrees and those with bachelor’s degrees also increased.
+(E)	During the 1980s there were some employees with no college degree who earned incomes comparable to the top incomes earned by employees with a college degree.
+---------------------------------
+#CR#38 (629)#E#
+The introduction of new drugs into the market is frequently prevented by a shortage of human subjects for the clinical trials needed to show that the drugs are safe and effective. Since the lives and health of people in future generations may depend on treatments that are currently experimental, practicing physicians are morally in the wrong when, in the absence of any treatment proven to be effective, they fail to encourage suitable patients to volunteer for clinical trials.<br><br>Which of the following, if true, casts most doubt on the conclusion of the argument?
+(A)	Many drugs undergoing clinical trials ate intended for the treatment of conditions for which there is currently no effective treatment.
+(B)	Patients do not share the physician’s professional concern for public health, but everyone has a moral obligation to alleviate suffering when able to do so.
+(C)	Usually, half the patients in a clinical trial serve as a control group and receive a nonactive drug in place of the drug being tested.
+(D)	An experimental drug cannot legally be made available to patients unless those patients are subjects in clinical trials of the drug.
+(E)	Physicians have an overriding moral and legal duty to care for the health and safety of their current patients.
+---------------------------------
+#CR#39 (661)#D#
+In the country of Marut, the Foreign Trade agency's records were reviewed in 1994 in light of information then newly available about neighboring Goro. The review revealed that in every year since 1963, the agency's projection of what Goro's gross national product (GNP) would be five years later was a serious underestimate. The review also revealed that in every year since 1963, the agency estimated Goro's GNP for the previous year—a Goro state secret—very accurately.<br><br>Of the following claims, which is most strongly supported by the statements given ?
+(A)	Goro's GNP fluctuated greatly between 1963 and 1994.
+(B)	Prior to 1995, Goro had not released data intended to mislead the agency in making its five-year projections.
+(C)	The amount by which the agency underestimated the GNP it projected for Goro tended to increase over time.
+(D)	Even before the new information came to light, the agency had reason to think that at least some of the five-year projections it had made were inaccurate.
+(E)	The agency's five year projections of Goro's GNP had no impact on economic planning in Marut.
+---------------------------------
+#CR#40 (666)#A#
+With seventeen casinos, Moneyland operates the most casinos in a certain state. Although intent on expanding, it was outmaneuvered by Apex Casinos in negotiations to acquire the Eldorado chain. To complete its acquisition of Eldorado, Apex must sell five casinos to comply with a state law forbidding any owner to operate more than one casino per county. Since Apex will still be left operation twenty casinos in the state, it will then have the most casinos in the state.<br><br>Which of the following, if true, most seriously undermines the prediction?
+(A)	Apex, Eldorado, and Moneyland are the only organizations licensed to operate casinos in the state.
+(B)	The majority of Eldorado's casinos in the state will need extensive renovations if they are to continue to operate profitably.
+(C)	Some of the state's counties do not permit casinos.
+(D)	Moneyland already operates casinos in the majority of the state's counties.
+(E)	Apex will use funds it obtains from the sale of the five casinos to help fund its acquisition of the Eldorado chain.
+---------------------------------
+#SC#41 (668)#B#
+Recent interdisciplinary studies advance the argument that emotions, including those deemed personal or <span style="text-decoration: underline">private is a social phenomenon, though one inseparable</span> from bodily response.
+(A)	private is a social phenomenon, though one inseparable
+(B)	private, are social phenomena that are inseparable
+(C)	private are a social phenomenon but are not those inseparable
+(D)	private—are social phenomena but not separable
+(E)	also as private emotions, are social phenomena not inseparable
+---------------------------------
+#SC#42 (669)#D#
+In her presentation, the head of the Better Business Bureau emphasized that companies should think of the cost of conventions and other similar gatherings <span style="text-decoration: underline">as not an expense, but as</span> an investment in networking that will pay dividends.
+(A)	as not an expense, but as
+(B)	as not expense, but
+(C)	not an expense, rather
+(D)	not as an expense, but as
+(E)	not in terms of expense, but
+---------------------------------
+#SC#43 (683)#E#
+The Life and Casualty Company hopes that by increasing its environmental fund revenues to $1.2 billion, <span style="text-decoration: underline">that it has set aside enough to pay for environmental claims and no longer has</span> to use its profits and capital to pay those claims bit by bit, year by year.
+(A)	that it has set aside enough to pay for environmental claims and no longer has
+(B)	enough has been set aside with which environmental claims can be paid and it will have no longer
+(C)	it has set aside enough for payment of environmental claims and thus no longer having
+(D)	enough has been set aside to pay for environmental claims, thus no longer having
+(E)	it has set aside enough to pay for environmental claims and will no longer have
+---------------------------------
+#SC#44 (684)#C#
+<span style="text-decoration: underline">Like ancient Egyptian architectural materials that were recycled in the construction of</span> ancient Greek Alexandria, so ancient Greek materials from the construction of the that city were reused in subsequent centuries by Roman, Muslim, and modern builders.
+(A)	Like ancient Egyptian architectural materials that were recycled in the construction of
+(B)	Like recycling ancient Egyptian architectural materials to construct
+(C)	Just as ancient Egyptian architectural materials were recycled in the construction of
+(D)	Just as they recycled ancient Egyptian architectural materials in constructing
+(E)	Just like ancient Egyptian architectural materials that were recycled in constructing
+---------------------------------
+#SC#45 (685)#B#
+Especially in the early years, new entrepreneurs may need to find resourceful ways, like renting temporary office space or using answering services, <span style="text-decoration: underline">that make their company seem large</span> and more firmly established than they may actually be.
+(A)	that make their company seem large
+(B)	to make their companies seem larger
+(C)	thus making their companies seem larger
+(D)	so that the companies seem larger
+(E)	of making their company seem large
+---------------------------------
+#SC#46 (688)#D#
+Turtles, like other reptiles, can endure long <span style="text-decoration: underline">fasts, in their ability to survive</span> on weekly or even monthly feedings; however, when food is readily available, they may eat frequently and grow very fat.
+(A)	fasts, in their ability to survive
+(B)	fasts, having their ability to survive
+(C)	fasts, due to having the ability of surviving
+(D)	fasts because they are able to survive
+(E)	fasts because of having the ability of surviving
+---------------------------------
+#SC#47 (696)#B#
+The foundation works to strengthen local and regional agricultural markets and <span style="text-decoration: underline">cooperating with governments, improving access for farmers for</span> productive resources such as land and credit.
+(A)	cooperating with governments, improving access for farmers for
+(B)	cooperates with governments to improve access for farmers to
+(C)	cooperate with governments for improvements of access for farmers to
+(D)	cooperate with governments and improve accessibility for farmers for their
+(E)	in cooperation with governments to improve access for farmers for
+---------------------------------
+#SC#48 (697)#E#
+A professor at the university has taken a sabbatical to research <span style="text-decoration: underline">on James Baldwin's books that Baldwin wrote in France while he was living there.</span>
+(A)	on James Baldwin's books that Baldwin wrote in France while he was living there
+(B)	about the books James Baldwin wrote in France
+(C)	into James Baldwin's books written while in France
+(D)	on the books of James Baldwin, written while he lived in France
+(E)	the books James Baldwin wrote while he lived in France
+---------------------------------
+#SC#49 (703)#C#
+Written early in the French Revolution, <span style="text-decoration: underline">Mary Wollstonecraft's <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792) attributed Europe's social and political ills to be the result of</span> the dominance of aristocratic values and patriarchal hereditary privilege.
+(A)	Mary Wollstonecraft's <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792) attributed Europe's social and political ills to be the result of
+(B)	Mary Wollstonecraft's <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792) attributed Europe's social and political ills to result from
+(C)	Mary Wollstonecraft's <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792) attributed Europe's social and political ills to
+(D)	in <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792), Mary Wollstonecraft attributed Europe's social and political ills to have been the result of
+(E)	Mary Wollstonecraft, in <i>A Vindication of the Rights of Man</i> (1790) and <i>A Vindication of the Rights of Woman</i> (1792), attributed Europe's social and political ills to
+---------------------------------
+#SC#50 (704)#B#
+Using study groups managed by the principal popular organizations and political parties, <span style="text-decoration: underline">the Swedish public was informed by the government about energy and nuclear power.</span>
+(A)	the Swedish public was informed by the government about energy and nuclear power
+(B)	the government informed the Swedish public about energy and nuclear power
+(C)	energy and nuclear power information was given to the Swedish public by the government
+(D)	information about energy and nuclear power was given to the Swedish public by the government
+(E)	the public of Sweden was given energy and nuclear power information by the government
+---------------------------------
+#SC#51 (705)#D#
+The use of the bar code, or Universal Product Code, which was created in part to enable supermarkets to process customers at a faster rate, has expanded beyond supermarkets to other retail outlets and <span style="text-decoration: underline">have become readily accepted despite some initial opposition when it was first introduced in 1974.</span>
+(A)	have become readily accepted despite some initial opposition when it was first introduced in 1974
+(B)	has become readily accepted despite some initial opposition when they were first introduced in 1974
+(C)	have become readily accepted despite some initial opposition when first introduced in 1974
+(D)	has become readily accepted despite some initial opposition when the bar code was first introduced in 1974
+(E)	bar codes have become readily accepted despite initial opposition when it was first introduced in 1974
+---------------------------------
+#SC#52 (724)#E#
+At the end of 2001, motion picture industry representatives said that there were about a million copies of Hollywood movies available <span style="text-decoration: underline">online and expected piracy to increase with high-speed Internet connections that become more widely available.</span>
+(A)	online and expected piracy to increase with high-speed Internet connections that become more widely available
+(B)	online and expect the increase of piracy with the wider availability of high-speed Internet connections
+(C)	online, and they expect more piracy to increase with the wider availability of high-speed Internet connections
+(D)	online, and that they expected the increase of piracy as high-speed Internet connections would become more widely available
+(E)	online, and that they expected piracy to increase as high-speed Internet connections became more widely available
+---------------------------------
+#SC#53 (725)#D#
+Making things even more difficult <span style="text-decoration: underline">has been general market inactivity lately, if not paralysis, which has provided</span> little in the way of pricing guidance.
+(A)	has been general market inactivity lately, if not paralysis, which has provided
+(B)	there is general market inactivity, if not paralysis, lately it has provided
+(C)	general market inactivity, if not paralysis, has lately provided
+(D)	lately, general market inactivity, if not paralysis, has provided
+(E)	is that lately general market inactivity, if not paralysis, which provides
+---------------------------------
+#SC#54 (738)#B#
+Foraging at all times of the day and night, but interspersing their feeding with periods of rest that last <span style="text-decoration: underline">between one and eight hours, a sperm whale could eat so</span> much as a ton of squid a day.
+(A)	between one and eight hours, a sperm whale could eat so
+(B)	between one and eight hours, sperm whales can eat as
+(C)	between one and eight hours, sperm whales could eat as
+(D)	from one to eight hours, sperm whales could eat so
+(E)	from one to eight hours, a sperm whale can eat so
+---------------------------------
+#SC#55 (739)#A#
+In some types of pine tree, <span style="text-decoration: underline">a thick layer of needles protects the buds from which new growth proceeds; consequently they are able to withstand forest fires relatively well.</span>
+(A)	a thick layer of needles protects the buds from which new growth proceeds; consequently they are able to withstand forest fires relatively well
+(B)	a thick needle layer protects buds from where new growth proceeds, so that they can withstand forest fires relatively well
+(C)	a thick layer of needles protect the buds from which new growth proceeds; thus, they are able to withstand relatively well any forest fires
+(D)	since the buds from which new growth proceeds are protected by a thick layer needle layer, consequently they can therefore withstand forest fires relatively well
+(E)	because the buds where new growth happens are protected by a thick layer of needles, they are able to withstand forest fires relatively easily as a result
+---------------------------------
+#SC#56 (740)#E#
+The tourism commission has conducted surveys of hotels in the most popular resorts, <span style="text-decoration: underline">with the ultimate goal of reducing the guests who end up expressing overall dissatisfaction with the service in the hotels.</span>
+(A)	with the ultimate goal of reducing the guests who end up expressing overall dissatisfaction with the service in the hotels
+(B)	with the goal to ultimately reduce the number of guests who end up expressing overall dissatisfaction with the hotels' service
+(C)	ultimately with the goal to reduce expressions of overall dissatisfaction by the guests with the hotel service
+(D)	in an ultimate attempt to reduce the number of guests that ends up expressing overall dissatisfaction with the hotels' service
+(E)	with the ultimate goal of reducing the number of guests who express overall dissatisfaction with the hotels' service
+---------------------------------
+#SC#57 (747)#D#
+In California, a lack of genetic variation in the Argentine ant has allowed the species to spread widely; <span style="text-decoration: underline">due to their being so genetically similar to one another, the ants consider all their fellows to be a close relative and thus do not engage in the kind of fierce intercolony struggles that limits</span> the spread of this species in its native Argentina.
+(A)	due to their being so genetically similar to one another, the ants consider all their fellows to be a close relative and thus do not engage in the kind of fierce intercolony struggles that limits
+(B)	due to its being so genetically similar the ant considers all its fellows to be a close relative and thus does not engage in the kind of fierce intercolony struggles that limit
+(C)	because it is so genetically similar, the ant considers all its fellows to be a close relative and thus does not engage in the kind of fierce intercolony struggles that limits
+(D)	because they are so genetically similar to one another, the ants consider all their fellows to be close relatives and thus do not engage in the kind of fierce intercolony struggles that limit
+(E)	because of being so genetically similar to one another, the ants consider all their fellows to be a close relative and thus do not engage in the kind of fierce intercolony struggles that limits
+---------------------------------
+#SC#58 (762)#C#
+<span style="text-decoration: underline">The eyes of the elephant seal adapt to darkness more quickly than any other animal yet tested, thus allowing it</span> to hunt efficiently under the gloomy conditions at its feeding depths of between 300 and 700 meters.
+(A)	The eyes of the elephant seal adapt to darkness more quickly than any other animal yet tested, thus allowing it
+(B)	The eyes of the elephant seal adapt to darkness more quickly than any other animal yet tested, allowing them
+(C)	The eyes of the elephant seal adapt to darkness more quickly than do those of any other animal yet tested, allowing it
+(D)	Because they adapt to darkness more quickly than any other animal yet tested, the eyes of the elephant seal allow it
+(E)	Because the eyes of the elephant seal adapt to darkness more quickly than do those of any other animal yet tested, it allows them
+---------------------------------
+#SC#59 (771)#E#
+The absence <span style="text-decoration: underline">from business and financial records of the nineteenth century of statistics about women leave us with no record of the jobs that were performed by women and</span> how they survived economically.
+(A)	from business and financial records of the nineteenth century of statistics about women leave us with no record of the jobs that were performed by women and
+(B)	from business and financial records of statistics about women from the nineteenth century leave us with no records of what jobs women performed or
+(C)	of statistics for women from business and financial records in the nineteenth century leaves us with no record of either the jobs that women were performing and of
+(D)	of statistics on women from business and financial records of the nineteenth century leave us with no record of the jobs that women performed or of
+(E)	of statistics about women from business and financial records of the nineteenth century leaves us with no record of either what jobs women performed or
+---------------------------------
+#SC#60 (799)#A#
+As criminal activity on the Internet becomes more and more sophisticated, not only are thieves able to divert cash from company bank accounts, <span style="text-decoration: underline">they can also pilfer valuable information such as business development strategies, new product specifications, and contract bidding plans, and sell</span> the data to competitors.
+(A)	they can also pilfer valuable information such as business development strategies, new product specifications, and contract bidding plans, and sell
+(B)	they can also pilfer valuable information that includes business development strategies, new product specifications, and contract bidding plans, and selling
+(C)	also pilfering valuable information including business development strategies, new product specifications, and contract bidding plans, selling
+(D)	but also pilfer valuable information such as business development strategies, new product specifications, and contract bidding plans to sell
+(E)	but also pilfering valuable information such as business development strategies, new product specifications, and contract bidding plans and selling
+---------------------------------
+#SC#61 (803)#A#
+In the major cities of industrialized countries at the end of the nineteenth century, important public places such as theaters, restaurants, shops, and banks had installed electric lighting, but <span style="text-decoration: underline"> electricity was in less than one percent of homes, where lighting was still</span> provided mainly by candles or gas.
+(A)	electricity was in less than one percent of homes, where lighting was still
+(B)	electricity was in less than one percent of homes and lighting still
+(C)	there were less than one percent of homes with electricity, where lighting was still being
+(D)	there was less than one percent of homes that had electricity, having lighting that was still
+(E)	less than one percent of homes had electricity, where lighting had still been
+---------------------------------

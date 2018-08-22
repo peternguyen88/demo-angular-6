@@ -1,0 +1,86 @@
+<button class="btn btn-primary" style="margin-bottom: 20px;" (click)="backToSelection()"><i class="fa fa-arrow-left"></i> Back</button>
+<button class="btn btn-outline-success" style="margin: 0 10px 20px 10px;" (click)="startPractice()">Start {{!currentPractice.isTest() ? 'Practice' : 'Test'}}</button>
+<button class="btn btn-outline-danger" style="margin: 0 10px 20px 0;" (click)="resumePractice()" [ngClass]="{disabled: !resumable}">Resume {{!currentPractice.isTest() ? 'Practice' : 'Test'}}</button>
+<button class="btn btn-outline-dark" style="margin-bottom: 20px;" (click)="startReview()">Review All</button>
+
+<div class="card">
+  <div class="card-header">
+    Performance Summary
+    <div class="card-header-actions">
+      <i [ngClass]="isCollapsed ? 'fa fa-plus' : 'fa fa-minus'" (click)="isCollapsed = !isCollapsed" style="cursor: pointer;"></i>
+    </div>
+  </div>
+  <div class="card-body" [collapse]="isCollapsed">
+    <div class="container" *ngIf="chartVisibility">
+      <div class="row">
+        <div class="col-sm">
+          <p-chart type="doughnut" [data]="doughnutData" *ngIf="doughnutData.datasets[0].data.length" [options]="doughnutOption"></p-chart>
+        </div>
+        <div class="col-sm">
+          <p-chart type="bar" [data]="barData" [options]="timeAxisOption" *ngIf="doughnutData.datasets[0].data.length"></p-chart>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card card-accent-warning">
+  <div class="card-header">
+    Practice Summary - {{currentPractice.practiceName}}
+    <span class="badge badge-info float-right">{{currentPractice.numberOfQuestions}}</span>
+    <span class="badge badge-danger float-right">{{currentPractice.getNumberOfIncorrectAnswers()}}</span>
+    <span class="badge badge-success float-right">{{currentPractice.getNumberOfCorrectAnswers()}}</span>
+  </div>
+  <div class="card-body">
+    <!--Showing custom information-->
+    <alert type="info" dismissible="true" *ngIf="currentPractice.isTest()">
+      <strong>Note:</strong> You can use the Start/Resume Test buttons to activate Test Mode with countdown timer!
+    </alert>
+
+    <alert type="info" dismissible="true" *ngIf="currentPractice.practiceName === 'OG15-SC'">
+      <strong>Note: </strong>This package comes with detailed explanations. Please read this to understand the structure of the explanation.
+      <a routerLink="/custom-pages/og15-sc-explanation-instruction" style="text-decoration: underline; cursor: pointer; color: red;">Read Me</a>
+    </alert>
+
+    <!--Summary Table-->
+    <p-table [value]="currentPractice.questions" class="practice-summary-table">
+      <ng-template pTemplate="header">
+        <tr>
+          <th style="width: 140px;">No.</th>
+          <th style="width: 45px;">Type</th>
+          <!--<th style="width: 65px;">Answer</th>-->
+          <th style="width: 50px;">Time</th>
+          <!--<th style="width: 75px;">Result</th>-->
+          <th style="width: 60px;">History</th>
+          <th style="width: 65px;">Favorite</th>
+          <th style="width: 66px;">Practice</th>
+          <th style="width: 60px;">Review</th>
+          <th>Remarks</th>
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-question>
+        <tr>
+          <td>{{question.question_number}}</td>
+          <td align="center">{{question.question_type}}</td>
+          <!--<td align="center">{{question.selected_answer}}</td>-->
+          <td [ngClass]="question.getSummaryClass()">
+            <span appDigitalTime [time]="question.question_time" *ngIf="question.question_time" popover={{question.selected_answer}} popoverTitle="Latest Answer"
+                  triggers="mouseenter:mouseleave"></span>
+          </td>
+          <!--<td><span *ngIf="question.selected_answer">{{question.selected_answer == question.correct_answer ? 'Correct' : 'Incorrect'}}</span></td>-->
+          <td align="center" [ngClass]="question.getFirstAnswerSummaryClass()">
+            <ng-template #popTemplateHtml>
+              <div [innerHtml]="question.getHistoryHtml()"></div>
+            </ng-template>
+            <span appDigitalTime [time]="question.first.time" *ngIf="question.first && question.history.length > 1"
+                  [popover]="popTemplateHtml" popoverTitle="Answer History" triggers="mouseenter:mouseleave"></span>
+          </td>
+          <td align="center"><i class="fa fa-flag-checkered fa-lg mt-2" *ngIf="question.bookmarked" style="margin-left: 5px;"></i></td>
+          <td><a (click)="startPracticeAt(question)" style="text-decoration: underline; cursor: pointer; color: blue;">Practice</a></td>
+          <td><a (click)="startReviewAt(question)" style="text-decoration: underline; cursor: pointer; color: blue;">Review</a></td>
+          <td>{{question.remarks | truncate}}</td>
+        </tr>
+      </ng-template>
+    </p-table>
+  </div>
+</div>

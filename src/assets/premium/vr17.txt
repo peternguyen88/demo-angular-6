@@ -1,0 +1,376 @@
+####45####VR17
+#RC#1 (P1-1)#D#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br>Researchers initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago. They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+The passage is primarily concerned with
+(A)	explaining why one method of earthquake prediction has proven more practicable than an alternative method
+(B)	suggesting that accurate earthquake forecasting must combine elements of long-term and short-term prediction
+(C)	challenging the usefulness of dilatancy theory for explaining the occurrence of precursory phenomena
+(D)	discussing the deficiency of two methods by which researchers have attempted to predict the occurrence of earthquakes
+(E)	describing the development of methods for establishing patterns in the occurrence of past earthquakes
+---------------------------------
+#RC#2 (P1-2)#B#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br>Researchers initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago. They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+According to the passage, laboratory evidence concerning the effects of stress on rocks might help account for
+(A)	differences in magnitude among earthquakes
+(B)	certain phenomena that occur prior to earthquakes
+(C)	variations in the intervals between earthquakes in a particular area
+(D)	differences in the frequency with which earthquakes occur in various areas
+(E)	the unreliability of short-term earthquake predictions
+---------------------------------
+#RC#3 (P1-3)#E#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br>Researchers initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago. They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+It can be inferred from the passage that one problem with using precursory phenomena to predict earthquakes is that minor tremors
+(A)	typically occur some distance from the sites of the large earthquakes that follow them
+(B)	are directly linked to the mechanisms that cause earthquakes
+(C)	are difficult to distinguish from major tremors
+(D)	have proven difficult to measure accurately
+(E)	are not always followed by large earthquakes
+---------------------------------
+#RC#4 (P1-4)#C#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br>Researchers initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago. They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+According to the passage, some researchers based their research about long-term earthquake prediction on which of the following facts?
+(A)	The historical record confirms that most earthquakes have been preceded by minor tremors.
+(B)	The average interval between earthquakes in one region of the San Andreas Fault is 132 years.
+(C)	Some regions tend to be the site of numerous earthquakes over the course of many years.
+(D)	Changes in the volume of rock can occur as a result of building stress and can lead to the weakening of rock.
+(E)	Paleoseismologists have been able to unearth and date geological features caused by past earthquakes.
+---------------------------------
+#RC#5 (P1-5)#D#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br>Researchers initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. <span style="background:yellow;"><strong>Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago.</span></strong> They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+The passage suggests which of the following about the paleoseismologists’ findings described in lines 42–50?
+(A)	They suggest that the frequency with which earthquakes occurred at a particular site decreased significantly over the past two millennia.
+(B)	They suggest that paleoseismologists may someday be able to make reasonably accurate long-term earthquake predictions.
+(C)	They suggest that researchers may someday be able to determine which past occurrences of minor tremors were actually followed by large earthquakes.
+(D)	They suggest that the recurrence of earthquakes in earthquake-prone sites is too irregular to serve as a basis for earthquake prediction.
+(E)	They indicate that researchers attempting to develop long-term methods of earthquake prediction have overlooked important evidence concerning the causes of earthquakes.
+---------------------------------
+#RC#6 (P1-6)#C#
+In 1971 researchers hoping to predict earthquakes in the short term by identifying precursory phenomena (those that occur a few days before large quakes but not otherwise) turned their attention to changes in seismic waves that had been detected prior to earthquakes. An explanation for such changes was offered by “dilatancy theory,” based on a well-known phenomenon observed in rocks in the laboratory: as stress builds, microfractures in rock close, decreasing the rock’s volume. But as stress continues to increase, the rock begins to crack and expand in volume, allowing groundwater to seep in, weakening the rock. According to this theory, such effects could lead to several precursory phenomena in the field, including a change in the velocity of seismic waves, and an increase in small, nearby tremors. <br><br><span style="background:yellow;"><strong>Researchers</span></strong> initially reported success in identifying these possible precursors, but subsequent analyses of their data proved disheartening. Seismic waves with unusual velocities were recorded before some earthquakes, but while the historical record confirms that most large earthquakes are preceded by minor tremors, these foreshocks indicate nothing about the magnitude of an impending quake and are indistinguishable from other minor tremors that occur without large earthquakes. <br><br>In the 1980s, some researchers turned their efforts from short-term to long-term prediction. Noting that earthquakes tend to occur repeatedly in certain regions, Lindh and Baker attempted to identify patterns of recurrence, or earthquake cycles, on which to base predictions. In a study of earthquake-prone sites along the San Andreas Fault, they determined that quakes occurred at intervals of approximately 22 years near one site and concluded that there was a 95 percent probability of an earthquake in that area by 1992. The earthquake did not occur within the time frame predicted, however. Evidence against the kind of regular earthquake cycles that Lindh and Baker tried to establish has come from a relatively new field, paleoseismology. Paleoseismologists have unearthed and dated geological features such as fault scarps that were caused by earthquakes thousands of years ago. They have determined that the average interval between ten earthquakes that took place at one site along the San Andreas Fault in the past two millennia was 132 years, but individual intervals ranged greatly, from 44 to 332 years.
+The author implies which of the following about the ability of the researchers mentioned in line 18 to predict earthquakes?
+(A)	They can identify when an earthquake is likely to occur but not how large it will be.
+(B)	They can identify the regions where earthquakes are likely to occur but not when they will occur.
+(C)	They are unable to determine either the time or the place that earthquakes are likely to occur.
+(D)	They are likely to be more accurate at short-term earthquake prediction than at long-term earthquake prediction.
+(E)	They can determine the regions where earthquakes have occurred in the past but not the regions where they are likely to occur in the future.
+---------------------------------
+#RC#7 (P2-1)#A#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+The author of the passage draws conclusions about the fur trade in North America from all of the following sources EXCEPT
+(A)	Cartier’s accounts of trading with Native Americans
+(B)	a seventeenth-century account of European settlements
+(C)	a sixteenth-century account written by a sailing vessel captain
+(D)	archaeological observations of sixteenth-century Native American sites
+(E)	a sixteenth-century account of Native Americans in what is now New England
+---------------------------------
+#RC#8 (P2-2)#B#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+The passage suggests that which of the following is partially responsible for the difficulty in establishing the precise date when the fur trade in North America began?
+(A)	A lack of written accounts before that of Nicolas Denys in 1672
+(B)	A lack of written documentation before 1501
+(C)	Ambiguities in the evidence from Native American sources
+(D)	Uncertainty about Native American trade networks
+(E)	Uncertainty about the origin of artifacts supposedly traded by European fishing crews for furs
+---------------------------------
+#RC#9 (P2-3)#D#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+Which of the following, if true, most strengthens the author’s assertion in the first sentence of the second paragraph?
+(A)	When Europeans retraced Cartier’s voyage in the first years of the seventeenth century, they frequently traded with Native Americans.
+(B)	Furs from beavers, which were plentiful in North America but nearly extinct in Europe, became extremely fashionable in Europe in the final decades of the sixteenth century.
+(C)	Firing arms were rarely found on sixteenth-century Native American sites or on European lists of trading goods since such arms required frequent maintenance and repair.
+(D)	Europeans and Native Americans had established trade protocols, such as body language assuring one another of their peaceful intentions, that antedate the earliest records of trade.
+(E)	During the first quarter of the sixteenth century, an Italian explorer recorded seeing many Native Americans with what appeared to be copper beads, though they may have been made of indigenous copper.
+---------------------------------
+#RC#10 (P2-4)#B#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. <span style="background:yellow;"><strong>Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.</span></strong><br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+Which of the following best describes the primary function of lines 11–16?
+(A)	It offers a reconsideration of a claim made in the preceding sentence.
+(B)	It reveals how archaeologists arrived at an interpretation of the evidence mentioned in the preceding sentence.
+(C)	It shows how scholars misinterpreted the significance of certain evidence mentioned in the preceding sentence.
+(D)	It identifies one of the first significant accounts of seventeenth-century European settlements in North America.
+(E)	It explains why Denys’s account of seventeenth-century European settlements is thought to be significant.
+---------------------------------
+#RC#11 (P2-5)#A#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+It can be inferred from the passage that the author would agree with which of the following statements about the fur trade between Native Americans and Europeans in the early modern era?
+(A)	This trade may have begun as early as the 1480s.
+(B)	This trade probably did not continue much beyond the 1530s.
+(C)	This trade was most likely at its peak in the mid-1520s.
+(D)	This trade probably did not begin prior to 1500.
+(E)	There is no written evidence of this trade prior to the seventeenth century.
+---------------------------------
+#RC#12 (P2-6)#E#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that <span style="background:yellow;"><strong>Native Americans</span></strong> living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+Which of the following can be inferred from the passage about the Native Americans mentioned in line 25?
+(A)	They had little use for decorative objects such as earrings.
+(B)	They became increasingly dependent on fishing between 1501 and 1524.
+(C)	By 1524, only certain groups of Europeans were willing to trade with them.
+(D)	The selectivity of their trading choices made it difficult for them to engage in widespread trade with Europeans.
+(E)	The selectivity of their trading choices indicates that they had been trading with Europeans for a significant period of time prior to 1524.
+---------------------------------
+#RC#13 (P2-7)#C#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+The passage supports which of the following statements about sixteenth-century European fishing crews working the waters off Newfoundland?
+(A)	They wrote no accounts of their fishing voyages.
+(B)	They primarily sailed under the flag of Portugal.
+(C)	They exchanged ship parts with Native Americans for furs.
+(D)	They commonly traded jewelry with Native Americans for furs.
+(E)	They carried surplus metal implements to trade with Native Americans for furs.
+---------------------------------
+#RC#14 (P2-8)#D#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+Which of the following can be inferred from the passage about evidence pertaining to the fur trade between Native Americans and Europeans in the early modern era?
+(A)	A lack of written evidence has made it difficult to establish which Europeans first participated in this trade.
+(B)	In general, the physical evidence pertaining to this trade has been more useful than the written evidence has been.
+(C)	There is more written evidence pertaining to this trade from the early part of the sixteenth century than from later in that century.
+(D)	The earliest written evidence pertaining to this trade dates from a time when the trade was already well established.
+(E)	Some important pieces of evidence pertaining to this trade, such as Denys’s 1672 account, were long overlooked by archaeologists.
+---------------------------------
+#RC#15 (P2-9)#A#
+Exactly when in the early modern era Native Americans began exchanging animal furs with Europeans for European-made goods is uncertain. What is fairly certain, even though they left no written evidence of having done so, is that the first Europeans to conduct such trade during the modern period were fishing crews working the waters around Newfoundland. Archaeologists had noticed that sixteenth-century Native American sites were strewn with iron bolts and metal pins. Only later, upon reading Nicolas Denys’s 1672 account of seventeenth-century European settlements in North America, did archaeologists realize that sixteenth-century European fishing crews had dismantled and exchanged parts of their ships for furs.<br><br>By the time Europeans sailing the Atlantic coast of North America first documented the fur trade, it was apparently well underway. The first to record such trade—the captain of a Portuguese vessel sailing from Newfoundland in 1501—observed that a Native American aboard the ship wore Venetian silver earrings. Another early chronicler noted in 1524 that Native Americans living along the coast of what is now New England had become selective about European trade goods: they accepted only knives, fishhooks, and sharp metal. By the time Cartier sailed the Saint Lawrence River ten years later, Native Americans had traded with Europeans for more than thirty years, perhaps half a century.
+The passage suggests which of the following about the sixteenth-century Native Americans who traded with Europeans on the coast of what is now called New England?
+(A)	By 1524 they had become accustomed to exchanging goods with Europeans.
+(B)	They were unfamiliar with metals before encountering Europeans.
+(C)	They had no practical uses for European goods other than metals and metal implements.
+(D)	By 1524 they had become disdainful of European traders because such traders had treated them unfairly in the past.
+(E)	By 1524 they demanded only the most prized European goods because they had come to realize how valuable furs were on European markets.
+---------------------------------
+#CR#16 (106)#C#
+PhishCo runs a number of farms in the arid province of Nufa, depending largely on the irrigation. Now, as a part of a plan to efficiently increase the farms' total production, it plans to drill down to an aquifer containing warm, slightly salty water that will be used to raise fish in ponds. The water from the ponds will later be used to supplement piped-in irrigation water for PhishCo's vegetable fields, and the ponds and accompanying vegetation should help reduce the heat in the area of the farms.<br><br>Which of the following would, if true, most strongly suggest that the plan, if implemented, would increase the overall efficiency of PhishCo's farms?
+(A)	Most of the vegetation to be placed around the ponds is native to Nufa.
+(B)	Fish raised on PhishCo's farms are likely to be saleable in the nearest urban areas.
+(C)	Organic waste from fish in the pond water will help to fertilize fields where it is used for irrigation.
+(D)	The govt of Nufa will help to arrange loan financing to partially cover the costs of drilling.
+(E)	Ponds will be located on low-lying land now partially occupied by grain crops.
+---------------------------------
+#CR#17 (110)#D#
+The rate at which a road wears depends on various factors, including climate, amount of traffic, and the size and weight of the vehicles using it. The only land transportation to Rittland’s seaport is via a divided highway, one side carrying traffic to the seaport and one carrying traffic away from it. The side leading to the seaport has worn faster, even though each side has carried virtually the same amount of traffic, consisting mainly of large trucks.<br><br>Which of the following, if true, most helps to explain the difference in the rate of wear?
+(A)	The volume of traffic to and from Rittland’s seaport has increased beyond the intended capacity of the highway that serves it.
+(B)	Wear on the highway that serves Rittland’s seaport is considerably greater during the cold winter months.
+(C)	Wear on the side of the highway that leads to Rittland’s seaport has encouraged people to take buses to the seaport rather than driving there in their own automobiles.
+(D)	A greater tonnage of goods is exported from Rittland’s seaport than is imported through it.
+(E)	All of Rittland’s automobiles are imported by ship.
+---------------------------------
+#CR#18 (117)#E#
+Many leadership theories have provided evidence that leaders affect group success rather than the success of particular individuals. So it is irrelevant to analyze the effects of supervisor traits on the attitudes of individuals whom they supervise. Instead, assessment of leadership effectiveness should occur only at the group level.<br><br>Which of the following would it be most useful to establish in order to evaluate the argument?
+(A)	Whether supervisors’ documentation of individual supervisees’ attitudes toward them is usually accurate
+(B)	Whether it is possible to assess individual supervisees’ attitudes toward their supervisors without thereby changing those attitudes
+(C)	Whether any of the leadership theories in question hold that leaders should assess other leaders’ attitudes
+(D)	Whether some types of groups do not need supervision in order to be successful in their endeavors
+(E)	Whether individuals’ attitudes toward supervisors affect group success
+---------------------------------
+#CR#19 (124)#A#
+Newsletter: <strong>A condominium generally offers more value for its cost than an individual house because of economies of scale.</strong> The homeowners in a condominium association can collectively buy products and services that they could not afford on their own. And since a professional management company handles maintenance of common areas, <strong>condominium owners spend less time and money on maintenance than individual homeowners do.</strong><br><br>The two portions in boldface play which of the following roles in the newsletter’s argument?
+(A)	The first is the argument’s main conclusion; the second is another conclusion supporting the first.
+(B)	The first is a premise, for which no evidence is provided; the second is the argument’s only conclusion.
+(C)	The first is a conclusion supporting the second; the second is the argument’s main conclusion.
+(D)	The first is the argument’s only conclusion; the second is a premise, for which no evidence is provided.
+(E)	Both are premises, for which no evidence is provided, and both support the argument’s only conclusion.
+---------------------------------
+#CR#20 (133)#C#
+Which of the following most logically completes the argument?<br><br>When officials in Tannersburg released their plan to widen the city’s main roads, environmentalists protested that widened roads would attract more traffic and lead to increased air pollution. In response, city officials pointed out that today’s pollution-control devices are at their most effective in vehicles traveling at higher speeds and that widening roads would increase the average speed of traffic. However, this effect can hardly be expected to offset the effect pointed out by environmentalists, since __________.
+(A)	increases in traffic volume generally produce decreases in the average speed of traffic unless roads are widened
+(B)	several of the roads that are slated for widening will have to be closed temporarily while construction is underway
+(C)	most of the air pollution generated by urban traffic comes from vehicles that do not have functioning pollution-control devices
+(D)	the newly widened roads will not have increased traffic volume if the roads that must be used to reach them are inadequate
+(E)	a vehicle traveling on a route that goes through Tannersburg will spend less time on Tannersburg’s roads once the roads are widened
+---------------------------------
+#CR#21 (139)#B#
+Conventional wisdom suggests vaccinating elderly people first in flu season, because they are at greatest risk of dying if they contract the virus. This year’s flu virus poses particular risk to elderly people and almost none at all to younger people, particularly children. Nevertheless, health professionals are recommending vaccinating children first against the virus rather than elderly people.<br><br>Which of the following, if true, provides the strongest reason for the health professionals’ recommendation?
+(A)	Children are vulnerable to dangerous infections when their immune systems are severely weakened by other diseases.
+(B)	Children are particularly unconcerned with hygiene and therefore are the group most responsible for spreading the flu virus to others.
+(C)	The vaccinations received last year will confer no immunity to this year’s flu virus.
+(D)	Children who catch one strain of the flu virus and then recover are likely to develop immunity to at least some strains with which they have not yet come in contact.
+(E)	Children are no more likely than adults to have immunity to a particular flu virus if they have never lived through a previous epidemic of the same virus.
+---------------------------------
+#CR#22 (146)#D#
+Which of the following most logically completes the passage?<br><br>Leaf beetles damage willow trees by stripping away their leaves, but a combination of parasites and predators generally keeps populations of these beetles in check. Researchers have found that severe air pollution results in reduced predator populations. The parasites, by contrast, are not adversely affected by pollution; nevertheless, the researchers’ discovery probably does explain why leaf beetles cause particularly severe damage to Willows in areas with severe air pollution, since ________.
+(A)	neither the predators nor the parasites of leaf beetles themselves attack willow trees
+(B)	the parasites that attack leaf beetles actually tend to be more prevalent in areas with severe air pollution than they are elsewhere
+(C)	the damage caused by leaf beetles is usually not enough to kill a willow tree outright
+(D)	where air pollution is not especially severe, predators have much more impact on leaf-beetle populations than parasites do
+(E)	willows often grow in areas where air pollution is especially severe
+---------------------------------
+#CR#23 (153)#B#
+In setting environmental standards for industry and others to meet, it is inadvisable to require the best results that state-of-the-art technology can achieve. Current technology is able to detect and eliminate even extremely minute amounts of contaminants, but at a cost that is exorbitant relative to the improvement achieved. So it would be reasonable instead to set standards by taking into account all of the current and future risks involved.<br><br>The argument given concerning the reasonable way to set standards presupposes that
+(A)	industry currently meets the standards that have been set by environmental authorities
+(B)	there are effective ways to take into account all of the relevant risks posed by allowing different levels of contaminants
+(C)	the only contaminants worth measuring are generated by industry
+(D)	it is not costly to prevent large amounts of contaminants from entering the environment
+(E)	minute amounts of some contaminants can be poisonous
+---------------------------------
+#CR#24 (158)#B#
+Most scholars agree that King Alfred (A.D 849 - 899) personally translated a number of Latin texts into Old English. One historian contends that Alfred also personally penned his own law code, arguing that the numerous differences between the language of the law code and Alfred's translation of Latin texts are overweighted by the even more numerous similarities. Linguistic similarities, however, are what one expects in texts from the same language, the same time, and the same region. Apart from Alfred's surviving trasnlation and law code, there are only two other extant works from the same dialect and milieu, so it is risky to assume here that linguistic similarities point to common authorship.<br><br>The passage above proceeds by:
+(A)	Providing examples that underscore another argument's conclusion.
+(B)	questioning the plausibility of an assumption on which another argument depends.
+(c) showing that a principle if generally applied would have anomalous consequences.
+(D)	showing that the premises of another argument are mutually inconsistent.
+(E)	using argument by analogy to undermine a principle implicit in another argument.
+---------------------------------
+#CR#25 (166)#B#
+The Sumpton town council recently voted to pay a prominent artist to create an abstract sculpture for the town square. Critics of this decision protested that town residents tend to dislike most abstract art, and any art in the town square should reflect their tastes. But a town council spokesperson dismissed this criticism, pointing out that other public abstract sculptures that the same sculptor has installed in other cities have been extremely popular with those cities’ local residents.<br><br>The statements above most strongly suggest that the main point of disagreement between the critics and the spokesperson is whether
+(A)	it would have been reasonable to consult town residents on the decision
+(B)	most Sumpton residents will find the new sculpture to their taste
+(C)	abstract sculptures by the same sculptor have truly been popular in other cities
+(D)	a more traditional sculpture in the town square would be popular among local residents
+(E)	public art that the residents of Sumpton would find desirable would probably be found desirable by the residents of other cities
+---------------------------------
+#CR#26 (172)#B#
+Microbiologist: A lethal strain of salmonella recently showed up in a European country, causing an outbreak of illness that killed two people and infected twenty-seven others. Investigators blame the severity of the outbreak on the overuse of antibiotics, since the salmonella bacteria tested were shown to be drug-resistant. But this is unlikely because patients in the country where the outbreak occurred cannot obtain antibiotics to treat illness without a prescription, and the country’s doctors prescribe antibiotics less readily than do doctors in any other European country.<br><br>Which of the following, if true, would most weaken the microbiologist’s reasoning?
+(A)	Physicians in the country where the outbreak occurred have become hesitant to prescribe antibiotics since they are frequently in short supply.
+(B)	People in the country where the outbreak occurred often consume foods produced from animals that eat antibiotics-laden livestock feed.
+(C)	Use of antibiotics in two countries that neighbor the country where the outbreak occurred has risen over the past decade.
+(D)	Drug-resistant strains of salmonella have not been found in countries in which antibiotics are not generally available.
+(E)	Salmonella has been shown to spread easily along the distribution chains of certain vegetables, such as raw tomatoes.
+---------------------------------
+#CR#27 (180)#B#
+In an experiment, volunteers walked individually through a dark, abandoned theater. Half of the volunteers had been told that the theater was haunted and the other half that it was under renovation. The first half reported significantly more unusual experiences than the second did. The researchers concluded that reports of encounters with ghosts and other supernatural entities generally result from prior expectations of such experiences.<br><br>Which of the following, if true, would most seriously weaken the researchers’ reasoning?
+(A)	None of the volunteers in the second half believed that the unusual experiences they reported were supernatural.
+(B)	All of the volunteers in the first half believed that the researchers’ statement that the theater was haunted was a lie.
+(C)	Before being told about the theater, the volunteers within each group varied considerably in their prior beliefs about supernatural experiences.
+(D)	Each unusual experience reported by the volunteers had a cause that did not involve the supernatural.
+(E)	The researchers did not believe that the theater was haunted.
+---------------------------------
+#CR#28 (188)#B#
+Commemorative plaques cast from brass are a characteristic art form of the Benin culture of West Africa. Some scholars, noting that the oldest surviving plaques date to the 1400s, hypothesize that brass-casting techniques were introduced by the Portuguese, who came to Benin in 1485 A.D. But Portuguese records of that expedition mention cast-brass jewelry sent to Benin’s king from neighboring Ife. So it is unlikely that Benin’s knowledge of brass casting derived from the Portuguese.<br><br>Which of the following, if true, most strengthens the argument?
+(A)	The Portuguese records do not indicate whether their expedition of 1485 included metalworkers.
+(B)	The Portuguese had no contact with Ife until the 1500s.
+(C)	In the 1400s the Portuguese did not use cast brass for commemorative plaques.
+(D)	As early as 1500 A.D., Benin artists were making brass plaques incorporating depictions of Europeans.
+(E)	Copper, which is required for making brass, can be found throughout Benin territory.
+---------------------------------
+#SC#29 (189)#A#
+Using digital enhancements of skull fragments from five prehistoric hominids dating to more than 350,000 years ago, <span style="text-decoration: underline">anthropologists argue that these human ancestors</span> probably had hearing similar to that of people today.
+(A)	anthropologists argue that these human ancestors
+(B)	anthropologists argue, so these human ancestors
+(C)	anthropologists argue, these human ancestors
+(D)	these human ancestors, anthropologists argue,
+(E)	these human ancestors are argued by anthropologists to have
+---------------------------------
+#SC#30 (190)#C#
+The interior minister explained that <span style="text-decoration: underline">one of the village planning proposal’s best characteristics was their not detracting</span> from the project’s overall benefit by being a burden on the development budget.
+(A)	one of the village planning proposal’s best characteristics was their not detracting
+(B)	one of the village’s planning proposal’s best characteristics were its not taking
+(C)	one of the best characteristics of the village’s planning proposal was that it did not detract
+(D)	a best characteristic of the village planning proposal was, it did not take
+(E)	among the village planning proposal’s best characteristics, one was, it did not detract
+---------------------------------
+#SC#31 (200)#B#
+Despite a growing population, in 1998 the United States used 38 billion fewer gallons of water a <span style="text-decoration: underline">day when comparing it to the period of all-time highest consumption almost 20 years earlier.</span>
+(A)	day when comparing it to the period of all-time highest consumption almost 20 years earlier
+(B)	day than it did during the period of all-time highest consumption almost 20 years earlier
+(C)	day than were used almost 20 years earlier, which had been the all-time high consumption
+(D)	day, compared to almost 20 years earlier, that having been the all-time high consumption
+(E)	day, which is in comparison to the period of all-time highest consumption almost 20 years earlier
+---------------------------------
+#SC#32 (210)#B#
+Nearly unrivaled in their biological diversity, <span style="text-decoration: underline">coral reefs provide a host of benefits that includes the supply of protein for people, protecting shorelines,</span> and they contain biochemical sources for new life-saving medicines.
+(A)	coral reefs provide a host of benefits that includes the supply of protein for people, protecting shorelines,
+(B)	coral reefs provide a host of benefits: they supply people with protein, they protect the shorelines,
+(C)	coral reefs provide a host of benefits that include supplying protein for people, as well as shoreline protection,
+(D)	a coral reef provides a host of benefits; they supply protein for people, the protecting of shorelines,
+(E)	a coral reef provides a host of benefits, including protein for people, protecting shorelines,
+---------------------------------
+#SC#33 (211)#B#
+Literacy opened up entire realms of verifiable knowledge to ordinary men and women <span style="text-decoration: underline">having been previously considered incapable of discerning truth for themselves.</span>
+(A)	having been previously considered incapable of discerning truth for themselves
+(B)	who had previously been considered incapable of discerning truth for themselves
+(C)	previously considered incapable of discerning truth for himself or herself
+(D)	of whom it had previously been considered they were incapable of discerning truth for themselves
+(E)	who had previously been considered incapable of discerning truth for himself or herself
+---------------------------------
+#SC#34 (216)#A#
+An analysis of tree bark all over the globe shows <span style="text-decoration: underline">that chemical insecticides have often spread thousands of miles from where they were originally used.</span>
+(A)	that chemical insecticides have often spread thousands of miles from where they were originally used
+(B)	that chemical insecticides have spread, often thousands of miles from their original use
+(C)	chemical insecticides, having often spread thousands of miles from where they were used originally
+(D)	chemical insecticides, often spreading thousands of miles from where their original use
+(E)	chemical insecticides, often spreading thousands of miles from where they were originally used
+---------------------------------
+#SC#35 (241)#A#
+<span style="text-decoration: underline">Of all the record companies involved in early jazz, the three most prominent were Columbia, Victor, and OKeh.</span>
+(A)	Of all the record companies involved in early jazz, the three most prominent were Columbia, Victor, and OKeh.
+(B)	Three most prominent record companies of all the ones that were involved in early jazz were Columbia, Victor, and OKeh.
+(C)	Columbia, Victor, and OKeh were, of all the record companies involved in early jazz, the three of them that were most prominent.
+(D)	Columbia, Victor, and OKeh were three most prominent of all the record companies involved in early jazz.
+(E)	Out of all the record companies that were involved in early jazz, three of them that were the most prominent were Columbia, Victor, and OKeh.
+---------------------------------
+#SC#36 (243)#E#
+On the tournament roster are listed several tennis students, <span style="text-decoration: underline">most all of which play as good</span> as their instructor
+(A)	most all of which play as good
+(B)	most all of whom play as good
+(C)	almost all of which play as well
+(D)	almost all of whom play as good
+(E)	almost all of whom play as well
+---------------------------------
+#SC#37 (245)#C#
+In 1974 a large area of the surface of Mercury was photographed from varying distances, <span style="text-decoration: underline">which revealed a degree of cratering similar to that of the Moon’s.</span>
+(A)	which revealed a degree of cratering similar to that of the Moon’s
+(B)	to reveal a degree of cratering similar to the Moon
+(C)	revealing a degree of cratering similar to that of the Moon
+(D)	and revealed cratering similar in degree to the Moon
+(E)	that revealed cratering similar in degree to that of the Moon
+---------------------------------
+#SC#38 (250)#A#
+<span style="text-decoration: underline">Whether they will scale back their orders to pre-2003 levels or stop doing business with us altogether depends on whether the changes that their management has proposed will be fully implemented.</span>
+(A)	Whether they will scale back their orders to pre-2003 levels or stop doing business with us altogether depends on whether the changes that their management has proposed will be fully implemented.
+(B)	Whether they scale back their orders to pre-2003 levels or whether they discontinue their business with us altogether depends on the changes their management has proposed, if fully implemented or not.
+(C)	Their either scaling back their orders in the future to pre-2003 levels, or their outright termination of business with us, depends on their management’s proposed changes being fully implemented or not.
+(D)	Whether they will scale back their orders to pre-2003 levels or stop doing business with us altogether depends if the changes that their management has proposed become fully implemented.
+(E)	They will either scale back their orders to pre-2003 levels, or they will stop doing business with us altogether dependent on whether the changes their management has proposed will be fully implemented, or not.
+---------------------------------
+#SC#39 (254)#E#
+<span style="text-decoration: underline">Over a range of frequencies from 100 to 5,000 hertz, monkeys and marmosets have a hearing sensitivity remarkably similar to humans</span>, above which the sensitivity begins to differ.
+(A)	Over a range of frequencies from 100 to 5,000 hertz, monkeys and marmosets have a hearing sensitivity remarkably similar to humans
+(B)	Compared to humans, the hearing sensitivity of monkeys and marmosets are remarkably similar over a range of frequencies from 100 to 5,000 hertz
+(C)	Compared to humans over a range of frequencies from 100 to 5,000 hertz, the hearing sensitivity of monkeys and marmosets is remarkably similar
+(D)	The hearing sensitivity of monkeys and marmosets, when compared to humans over a range of frequencies from 100 to 5,000 hertz, is remarkably similar
+(E)	The hearing sensitivity of monkeys, marmosets, and humans is remarkably similar over a range of frequencies from 100 to 5,000 hertz
+---------------------------------
+#SC#40 (258)#A#
+Even though the overall consumer price index did not change in <span style="text-decoration: underline">April, indicating the absence of any general inflation or deflation, prices in several categories of merchandise have fallen</span> over the last several months.
+(A)	April, indicating the absence of any general inflation or deflation, prices in several categories of merchandise have fallen
+(B)	April, indicating that any general inflation or deflation were absent, prices in several categories of merchandise fell
+(C)	April and indicated that absence of any general inflation or deflation, prices in several categories of merchandise fell
+(D)	April, having indicated the absence of any general inflation or deflation, prices in several categories of merchandise fell
+(E)	April, which indicated that any general inflation or deflation were absent, prices in several categories of merchandise have fallen
+---------------------------------
+#SC#41 (260)#A#
+Despite <span style="text-decoration: underline">Japan’s relative isolation from world trade at the time, the prolonged peace during the Tokugawa shogunate</span> produced an almost explosive expansion of commerce.
+(A)	Japan’s relative isolation from world trade at the time, the prolonged peace during the Tokugawa shogunate
+(B)	the relative isolation of japan from world trade at the time and the Tokugawa shogunate’s prolonged peace, it
+(C)	being relatively isolated from world trade at the time, the prolonged peace during Japan’s Tokugawa shogunate
+(D)	Japan’s relative isolation from world trade at the time during the Tokugawa shogunate, prolonged peace
+(E)	its relative isolation from world trade then, prolonged peace in Japan during the Tokugawa shogunate
+---------------------------------
+#SC#42 (279)#B#
+Sor Juana Inés de la Cruz was making the case for women’s equality long before the cause had a name: Born in the mid-seventeenth century in San Miguel Nepantla, Mexico, <span style="text-decoration: underline">the convent was the perfect environment for Sor Juana to pursue intellectual pursuits, achieving</span> renown as a mathematician, poet, philosopher, and playwright.
+(A)	the convent was the perfect environment for Sor Juana to pursue intellectual pursuits, achieving
+(B)	Sor Juana found that the convent provided the perfect environment for intellectual pursuits, and she went on to achieve
+(C)	the convent provided the perfect environment for intellectual pursuits for Sor Juana; going on to achieve
+(D)	Sor Juana found that the convent provided the perfect environment for intellectual pursuits; achieving
+(E)	the convent was, Sor Juana found, the perfect environment for intellectual pursuits, and she went on to achieve
+---------------------------------
+#SC#43 (281)#E#
+<span style="text-decoration: underline">By devising an instrument made from a rod, wire, and lead balls, and employing uncommonly precise measurements, in 1797–1798 Henry Cavendish’s apparatus enabled him</span> to arrive at an astonishingly accurate figure for the weight of the earth.
+(A)	By devising an instrument made from a rod, wire, and lead balls, and employing uncommonly precise measurements, in 1797–1798 Henry Cavendish’s apparatus enabled him
+(B)	In 1797–1798, by devising an instrument made from a rod, wire, and lead balls, and employing uncommonly precise measurements, Henry Cavendish’s apparatus enabled him
+(C)	Henry Cavendish devised an instrument made from a rod, wire, and lead balls, and employed uncommonly precise measurements, and in 1797–1798 was able
+(D)	Having devised an instrument from a rod, wire, and lead balls, and employment of uncommonly precise measurements, Henry Cavendish in 1797–1798 was able
+(E)	By devising an instrument made from a rod, wire, and lead balls, and employing uncommonly precise measurements, Henry Cavendish was able in 1797–1798
+---------------------------------
+#SC#44 (296)#D#
+The type of behavior exhibited when an animal recognizes itself in a mirror comes within the domain <span style="text-decoration: underline">of "theory of mind," thus is best</span> studied as part of the field of animal cognition.
+(A)	of "theory of mind," thus is best
+(B)	"theory of mind," and so is best to be
+(C)	of a "theory of mind," thus it is best
+(D)	of "theory of mind" and thus is best
+(E)	of the "theory of mind," and so it is best to be
+---------------------------------
+#SC#45 (299)#E#
+Once numbering in the millions worldwide, <span style="text-decoration: underline">it is estimated that the wolf has declined to 200,000 in 57 countries, some</span> 11,000 of them to be found in the lower 48 United States and Alaska.
+(A)	it is estimated that the wolf has declined to 200,000 in 57 countries, some
+(B)	the wolf is estimated to have declined to 200,000 in 57 countries, with approximately
+(C)	the wolf has declined to an estimate of 200,000 in 57 countries, some
+(D)	wolves have declined to an estimate of 200,000 in 57 countries, with approximately
+(E)	wolves have declined to an estimated 200,000 in 57 countries, some
+---------------------------------

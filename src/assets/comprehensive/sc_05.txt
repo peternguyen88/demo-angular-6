@@ -1,0 +1,665 @@
+####83#COMPREHENSIVE SC PART V
+#SC#1#C#
+<span style="text-decoration: underline">Whereas heat transferred between the ocean and the atmosphere occurs more rapidly when the ocean is warmer than the air, it is slow when the ocean is colder.</span>
+(A) Whereas heat transferred between the ocean and the atmosphere occurs more rapidly when the ocean is warmer than the air, it is slow when the ocean is colder.
+(B) Unlike the slow process of heat transfer between the ocean and the atmosphere when the ocean is colder than the air, heat transfers more rapidly when the ocean is warmer.
+(C) The transfer of heat between the ocean and the atmosphere is slow when the ocean is colder than the air and more rapid when the ocean is warmer.
+(D) Transferring heat between the ocean and the atmosphere occurs slowly when the ocean is colder than the air and more rapidly when it is warmer.
+(E) When the ocean is colder than the atmosphere, heat transferred between them occurs slowly, unlike the more rapid transfer occurring when the ocean is warmer.
+---------------------------------
+#SC#2#E#
+Results from the 1998 National Demographic and Health Survey confirm that, even when compared with densely populated countries <span style="text-decoration: underline">like Thailand and Indonesia, the Philippine nation's fertility rates consistently exceed all of</span> its Southeast Asian neighbors.
+(A) like Thailand and Indonesia, the Philippine nation's fertility rates consistently exceed all of
+(B) like Thailand and Indonesia, the Philippine nation consistently exhibits fertility rates exceeding all
+(C) such as Thailand and Indonesia, the fertility rates exhibited by the Philippine nation are consistently exceeding those of all
+(D) such as Thailand and Indonesia, the Philippine nation's fertility rates consistently exceed all those of
+(E) such as Thailand and Indonesia, the Philippine nation consistently exhibits fertility rates that exceed those of all
+---------------------------------
+#SC#3#E#
+Unlike other Mayan cities, <span style="text-decoration: underline">Cancun's commercial power throughout the lowlands seems to be from using its strategic position at the foot of the highlands, which were a source of iade. obsidian, and other valuable commodities.</span>
+(A) Cancun's commercial power throughout the lowlands seems to be from using its strategic position at the foot of the highlands, which were a source of jade, obsidian, and other valuable commodities
+(B) Cancun's commercial power throughout the lowlands seems to have come from using its strategic position at the foot of the highlands, a source of jade, obsidian, and other valuable commodities
+(C) the commercial power of Cancun throughout the lowlands seemed to have come from using its strategic position at the foot of the highlands, a source of jade, obsidian, and other valuable commodities
+(D) Cancun seemed to be using its strategic position at the foot of the highlands, which was a source of jade, obsidian, and other valuable commodities, in becoming a commercial power throughout the lowlands
+(E) Cancun seems to have used its strategic position at the foot of the highlands, a source of jade, obsidian, and other valuable commodities, to become a commercial power throughout the lowlands
+---------------------------------
+#SC#4#E#
+Several educational research groups are denouncing the mayor's proposal of a system by which individual teachers would be given raises or bonuses <span style="text-decoration: underline">should it be that test scores show their students' mastery of reading skills having</span> improved over a nine-month period.
+(A) should it be that test scores show their students' mastery of reading skills having
+(B) should it be that test scores show their students' mastery of reading skills have
+(C) should test scores showing their students' mastery of reading skills has
+(D) if test scores showing their students' mastery of reading skills having
+(E) if test scores show that their students' mastery of reading skills has
+---------------------------------
+#SC#5#C#
+Radiocarbon dating of fossils taken from caves on islands along southeastern Alaska's coast <span style="text-decoration: underline">suggest that at least a portion of the area was remaining</span> ice-free during the last ice age.
+(A) suggest that at least a portion of the area was remaining
+(B) suggest at least a portion of the area remaining
+(C) suggests that a least a portion of the area remained
+(D) suggests at least a portion of the area that had remained
+(E) suggests at least a portion of the area to have remained
+---------------------------------
+#SC#6#C#
+Thirteen states from all regions of the country announced a plan <span style="text-decoration: underline">to impose new controls on pollution from truck and bus engines in that they will jointly adopt</span> emission limits that would be far stricter than the federal rules.
+(A) to impose new controls on pollution from truck and bus engines in that they will jointly adopt
+(B) to impose new controls on truck and bus engines' pollution by the joint adoption of
+(C) to impose new controls on pollution from truck and bus engines by jointly adopting
+(D) for imposing new controls on pollution from truck and bus engines, and jointly adopting
+(E) for imposing new controls on truck and bus engine pollution in the joint adoption of
+---------------------------------
+#SC#7#A#
+Some patients who do not respond to therapies for depression may simply have received inadequate treatment, <span style="text-decoration: underline">having, for example, been prescribed a drug at a dosage too low to be effective or having been</span> taken off a drug too soon.
+(A) having, for example, been prescribed a drug at a dosage too low to be effective or having been
+(B) having, for example, a drug prescription that was ineffective because the dosage was too low, or being
+(C) as, for example, having too low of a dosage of a prescribed drug for it to be effective, or being
+(D) when they have, for example, been prescribed too low a drug dosage for it to be effective, or were
+(E) for example, when they have a drug prescription with a dosage too low to be effective, or been
+---------------------------------
+#SC#8#E#
+<span style="text-decoration: underline">Unlike battery-powered electric cars, automakers say that cars with fuel cells, which supply them with electricity, can provide driving range and performance similar to</span> the internal combustion engine.
+(A) Unlike battery-powered electric cars, automakers say that cars with fuel cells, which supply them with electricity, can provide driving range and performance similar to
+(B) Unlike battery-powered electric cars, automakers say that cars with electricity supplied by fuel cells can exhibit driving range and performance similar to those provided by
+(C) Unlike battery-powered electric cars, fuel cells that supply cars with electricity can provide driving range and performance that automakers say is similar to
+(D) Automakers say that unlike battery-powered electric cars, fuel cells that supply cars with electricity can provide driving range and performance similar to
+(E) Automakers say that unlike battery-powered electric cars, cars with electricity supplied by fuel cells can exhibit driving range and performance similar to those provided by
+---------------------------------
+#SC#9#D#
+<span style="text-decoration: underline">Although at one time children's programming had been limited to a few hours a week, now, however, there are at least four cable networks that dedicate themselves</span> entirely to shows produced specifically for children.
+(A) Although at one time children's programming had been limited to a few hours a week, now, however, there are at least four cable networks that dedicate themselves
+(B) With children's programming having been limited at one time to a few hours a week, now at least four cable networks have dedicated themselves
+(C) Once limited to a few hours a week, there are now at least four cable networks with children's programming that dedicate themselves
+(D) Children's programming was once limited to a few hours a week, but now there are at least four cable networks dedicated
+(E) While children's programming had once been limited to a few hours a week, at least four cable networks are now dedicated
+---------------------------------
+#SC#10#A#
+Both the caribou and the reindeer <span style="text-decoration: underline">belong to the species Ranaifer tarandus, but after 7.000 years of domestication in Eurasia, reindeer have developed a tendency to circle in tight groups, while caribou tend</span> to spread far and wide.
+(A) belong to the species Rangifer tarandus, but after 7,000 years of domestication in Eurasia, reindeer have developed a tendency to circle in tight groups, while caribou tend
+(B) belong to the same species, Rangifer tarandus, but about 7,000 years of domestication in Eurasia have developed reindeer's tendency to circle in tight groups, which is different from caribou that tend
+(C) belong to the species Rangifer tarandus, but being domesticated in Eurasia for about 7,000 years has developed reindeer's tendency to circle in tight groups, and that is different from caribou tending
+(D) are the same species, Rangifer tarandus, but about 7,000 years of domestication in Eurasia have developed reindeer's tendency to circle in tight groups, while the tendency is for caribou
+(E) are the same species, Rangifer tarandus, but being domesticated in Eurasia for about 7,000 years has developed the reindeer's tendency to circle in tight groups, which differs from caribou tending
+---------------------------------
+#SC#11#D#
+In a blow to those <span style="text-decoration: underline">who still harbored the illusion that E-mail exchanges are private, a watchdog group recently uncovered a trick for enabling an interloper to rig an E-mail message so that this person will be privy to any comments that a recipient had added</span> as the message is forwarded to others or sent back and forth.
+(A) who still harbored the illusion that E-mail exchanges are private, a watchdog group recently uncovered a trick for enabling an interloper to rig an E-mail message so that this person will be privy to any comments that a recipient had added
+(B) who had still been harboring the illusion that E-mail exchanges are private, a watchdog group recently uncovered a trick for enabling an interloper to rig an E-mail message so that this person was privy to any comments that a recipient might have added
+(C) who still were harboring the illusion that E-mail exchanges are private, a watchdog group recently uncovered a trick enabling an interloper to rig an E-mail message so that this person is privy to any comments that a recipient would add
+(D) still harboring the illusion that E-mail exchanges are private, a watchdog group recently uncovered a trick that enables an interloper to rig an E-mail message so that this person will be privy to any comments that a recipient might add
+(E) still harboring the illusion that E-mail exchanges had been private, a watchdog group recently uncovered a trick that will enable an interloper to rig an E-mail message so that this person was privy to any comments that a recipient might add
+---------------------------------
+#SC#12#A#
+The number of plant and animal species that <span style="text-decoration: underline">humans are known to have forced to extinction</span> in the last half millennium is over 800.
+(A) humans are known to have forced to extinction
+(B) humans are known as having forced to become extinct
+(C) humans are known for forcing to become extinct
+(D) are known that humans forced to become extinct
+(E) are known as having been forced to extinction by humans
+---------------------------------
+#SC#13#D#
+Critics of the research study claimed that monkeys are <span style="text-decoration: underline">different enough from human beings that comparing the two species can</span> be as questionable—or as useless—as comparisons between humans and mice.
+(A) different enough from human beings that comparing the two species can
+(B) different enough from human beings so that comparing the two species can
+(C) different enough from human beings for comparing the two species to
+(D) so different from human beings that comparisons between the two species can
+(E) so different from human beings for comparisons between the two species to
+---------------------------------
+#SC#14#A#
+Now that so much data travels via light—i.e., is carried in glass fibers rather than by electrical current—one goal of semiconductor research is <span style="text-decoration: underline">to develop a silicon chip that can transmit and receive light signals directly, a development that mav one dav lead</span> to smaller, faster semiconductors.
+(A) to develop a silicon chip that can transmit and receive light signals directly, a development that may one day lead
+(B) to develop a silicon chip with the capability of transmitting and receiving light signals directly, which may one day lead
+(C) the development of a silicon chip that has the capability of transmitting and receiving light signals directly, a development maybe one day leading
+(D) developing a silicon chip that can transmit and receive light signals directly, which may one day lead
+(E) developing a silicon chip with the ability to transmit and receive light signals directly, with this development maybe one day leading
+---------------------------------
+#SC#15#A#
+Just <span style="text-decoration: underline">as the free computer operating system Linux has of late become even more crash resistant, so</span> support for it within the computer industry has been growing.
+(A) as the free computer operating system Linux has of late become even more crash resistant, so
+(B) as with the free computer operating system Linux that has of late become even more crash resistant, so the
+(C) as the free computer operating system Linux has of late become even more crash resistant, so it has been that
+(D) like with the free computer operating system Linux becoming even more crash resistant of late, so
+(E) like the free computer operating system Linux that has of late become even more crash resistant, so it is that
+---------------------------------
+#SC#16#E#
+Exceeding even the figures predicted by the most optimistic financial analysts, the automobile <span style="text-decoration: underline">company had earnings in the first quarter that more than doubled</span> the previous quarter.
+(A) company had earnings in the first quarter that more than doubled
+(B) company earned more than double in the first quarter what they were in
+(C) company had first quarter earnings that more than doubled those in
+(D) company's earnings in the first quarter were more than double
+(E) company's earnings in the first quarter were more than double those of
+---------------------------------
+#SC#17#E#
+Because Miranda, the smallest moon of Uranus, has a large number of different surface features, including craters, mountains, valleys, and fractures, some astronomers suggest that at one time <span style="text-decoration: underline">repeated impacts broke the surface apart, and after which the fragments were subsequently rejoined because of</span> mutual gravitational attraction.
+(A) repeated impacts broke the surface apart, and after which the fragments were subsequently rejoined because of
+(B) repeated impacts on the surface broke it apart, after which the fragments having rejoined with
+(C) through repeated impacts that the surface broke apart, after which the fragments subsequently rejoined by
+(D) the surface broke apart with repeated impacts, after which the fragments having rejoined through
+(E) the surface broke apart as a result of repeated impacts, after which the fragments rejoined through
+---------------------------------
+#SC#18#A#
+Complex human traits <span style="text-decoration: underline">such as artistic talent or social skill are likely to be shaped bv thousands, if not tens of thousands, of the 80.000 or so</span> genes in the human genome.
+(A) such as artistic talent or social skill are likely to be shaped by thousands, if not tens of thousands, of the 80,000 or so
+(B) such as artistic talent or social skill are likely shaped by thousands, if not tens of thousands, of 80,000 or so of the
+(C) such as artistic talent or social skill is likely to be shaped by thousands, if not tens of thousands, of 80,000 or so of the
+(D) like artistic talent or social skill is likely to be shaped by thousands, if not tens of thousands, of the 80,000 or so
+(E) like artistic talent or social skill are likely shaped by thousands, if not tens of thousands, of the 80,000 or so
+---------------------------------
+#SC#19#A#
+Diesel engines burn as much as 30 percent less fuel than gasoline engines <span style="text-decoration: underline">of comparable size, as well as emitting far less carbon dioxide oas and far fewer of the other oases that have</span> been implicated in global warming.
+(A) of comparable size, as well as emitting far less carbon dioxide gas and far fewer of the other gases that have
+(B) of comparable size, as well as emit far less carbon dioxide gas and far fewer of the other gases having
+(C) of comparable size, and also they emit far fewer carbon dioxide and other gases that have
+(D) that have a comparable size, and also they emit far less carbon dioxide gas and other gases that have
+(E) that have a comparable size, as well as emitting far fewer carbon dioxide and other gases having
+---------------------------------
+#SC#20#A#
+<span style="text-decoration: underline">The spectacular disintegration of a comet last year in full view of ground- and space-based telescopes provided new insights into how comets form and may thus force</span> a rethinking of the role of comets in the delivery of organic compounds to the evolving Earth.
+(A) The spectacular disintegration of a comet last year in full view of ground- and space-based telescopes provided new insights into how comets form and may thus force
+(B) The spectacular disintegration of a comet last year in full view of ground- as well as space-based telescopes, provided new insights into how comets form and thus possibly forcing
+(C) When a comet's spectacular disintegration occurred in full view of ground- and space-based telescopes last year, it provided new insights into how comets form and thus may possibly force
+(D) Last year, in full view of ground- and space-based telescopes, a comet's spectacular disintegration provided new insights into how comets form and thus possibly forcing
+(E) Last year, in full view of ground- as well as space-based telescopes, the spectacular disintegration of a comet has provided new insights into how comets form and may thus force
+---------------------------------
+#SC#21#C#
+<span style="text-decoration: underline">Strawberries, unlike picking bananas that are green and can be ripened artificially, must be picked</span> when they are fully ripe, and they remain at peak flavor for only four or five days after that.
+(A) Strawberries, unlike picking bananas that are green and can be ripened artificially, must be picked
+(B) Picking strawberries, unlike with green bananas that can be ripened artificially, must be done
+(C) Unlike bananas, which can be picked green and ripened artificially, strawberries must be picked
+(D) Unlike with green bananas, which can be picked and ripened artificially, strawberry picking must be done
+(E) Unlike picking bananas, strawberries cannot be picked green and ripened artificially, but must be picked
+---------------------------------
+#SC#22#C#
+A study on couples' retirement transitions found that, <span style="text-decoration: underline">different from</span> men who took new jobs after retiring from their primary careers, women who did so were more likely than those who retired completely to report high marital satisfaction.
+(A) different from
+(B) unlike with
+(C) unlike
+(D) unlike the results for
+(E) compared to the results for
+---------------------------------
+#SC#23#A#
+Even <span style="text-decoration: underline">though her career was cut short when she was in her prime and the fifteen recordings she made were</span> disappointing artistically as well as technically, Olive Fremstad (1871-1951) has never been entirely forgotten by opera aficionados.
+(A) though her career was cut short when she was in her prime and the fifteen recordings she made were
+(B) though her career was cut short while in her prime, with the fifteen recordings she made
+(C) as her career had been cut short when she was in her prime, with the fifteen recordings she had made
+(D) with her career having been cut short when she was in her prime, and the fifteen recordings she made were
+(E) with her career cut short while in her prime, and that the fifteen recordings she made were
+---------------------------------
+#SC#24#D#
+Officials in Atlanta's public schools, <span style="text-decoration: underline">as do</span> many districts across the United States, have eliminated recess in the elementary grades, calling it a waste of time that would be better spent on academics.
+(A) as do
+(B) as with
+(C) similar to
+(D) like those in
+(E) as they have in
+---------------------------------
+#SC#25#C#
+There are hopeful signs that we are shifting away from our heavy reliance on fossil fuels: more than ten times as much energy is <span style="text-decoration: underline">generated through wind power now than it was</span> in 1990.
+(A) generated through wind power now than it was
+(B) generated through wind power now as it was
+(C) generated through wind power now as was the case
+(D) now generated through wind power as it was
+(E) now generated through wind power than was the case
+---------------------------------
+#SC#26#C#
+The arrest of a programmer accused of violating an American digital copyright law has stirred significant opposition, <span style="text-decoration: underline">against both the law itself and against the software company that had</span> initiated the case.
+(A) against both the law itself and against the software company that had
+(B) against both the law itself and also the software company having
+(C) against both the law itself and the software company that
+(D) both against the law itself and the software company that had
+(E) both against the law itself and also against the software company having
+---------------------------------
+#SC#27#A#
+Born into poverty and sent by her father into servitude at the age of seven, <span style="text-decoration: underline">Martha Matilda Harper created America's first retail franchise network, a radical new business model that enabled women in the late nineteenth and early twentieth centuries to own</span> their own businesses and gain financial independence.
+(A) Martha Matilda Harper created America's first retail franchise network, a radical new business model that enabled women in the late nineteenth and early twentieth centuries to own
+(B) Martha Matilda Harper created America's first retail franchise network, a radical new business model that enabled ownership by women in the late nineteenth and early twentieth centuries of
+(C) Martha Matilda Harper's creation of America's first retail franchise network was a radical new business model that enabled women in the late nineteenth and early twentieth centuries to own
+(D) America's first retail franchise network was created by Martha Matilda Harper, a radical new business model that enabled women in the late nineteenth and early twentieth centuries to own
+(E) America's first retail franchise network was created by Martha Matilda Harper, a radical new business model that enabled ownership by women in the late nineteenth and early twentieth centuries of
+---------------------------------
+#SC#28#D#
+Frederick Winslow Taylor, a machinist and engineer who worked in the early twentieth century, believed that the productivity of a job could be improved <span style="text-decoration: underline">if one were to separate the components of a task into its individual motions and found the best wav to perform each motion, then redesign</span> the job so that each motion could be done as efficiently as possible.
+(A) if one were to separate the components of a task into its individual motions and found the best way to perform each motion, then redesign
+(B) if one separated the components of a task into individual motions, found the best way to perform the motions, and then redesigning
+(C) if the components of a task were separated into individual motions, finding the best way of performing the motions, and then redesigned
+(D) by separating the components of a task into individual motions, finding the best way to perform each motion, and then redesigning
+(E) by separating the components of a task into individual motions, finding the best way of performing each motion, then redesign
+---------------------------------
+#SC#29#E#
+Patience Lovell Wright, whose traveling waxworks exhibit preceded Madame Tussaud's work by 30 years, became <span style="text-decoration: underline">well known as much because of having an eccentric personality as for having skillfully rendered popular public figures in wax</span>.
+(A) well known as much because of having an eccentric personality as for having skillfully rendered popular public figures in wax
+(B) well known as much for having an eccentric personality as for her skillful wax renderings of popular public figures
+(C) well known as much because of her eccentric personality as she was for her skillful wax renderings of popular public figures
+(D) as well known for having an eccentric personality as having skillfully rendered popular public figures in wax
+(E) as well known for her eccentric personality as for her skillful wax renderings of popular public figures
+---------------------------------
+#SC#30#D#
+The parachutelike membranes of Africa's scaly-tailed flying squirrels differ from those of the flying squirrels in the family Sciuridae <span style="text-decoration: underline">because they are attached to a cartilage rod at the elbow instead of</span> the wrist.
+(A) because they are attached to a cartilage rod at the elbow instead of
+(B) because of being attached to a cartilage rod at the elbow rather than at
+(C) in their attachment to a cartilage rod at the elbow instead of being attached at
+(D) in that they are attached to a cartilage rod at the elbow rather than at
+(E) in their being attached to a cartilage rod at the elbow instead of
+---------------------------------
+#SC#31#C#
+The yield per acre of coffee berries varies <span style="text-decoration: underline">enormously in that a single tree, depending on both its size and on climate and altitude, could produce</span> enough berries to make between one and twelve pounds of dried beans a year.
+(A) enormously in that a single tree, depending on both its size and on climate and altitude, could produce
+(B) enormously in that a single tree, dependent on its size and also on climate and altitude, is able to produce
+(C) enormously, because a single tree, depending on its size and on climate and altitude, is able to produce
+(D) enormously, because a single tree, being dependent on its size, climate, and altitude, is capable of producing
+(E) enormously, because a single tree, dependent both on its size as well as on climate and altitude, could produce
+---------------------------------
+#SC#32#C#
+2001 proved to be the automaker's first losing year since 1992, <span style="text-decoration: underline">when the company had lost $7.4 billion, which was primarily because of</span> almost $7 billion in accounting charges.
+(A) when the company had lost $7.4 billion, which was primarily because of
+(B) when the company had lost $7.4 billion, primarily resulting from
+(C) when the company lost $7.4 billion, primarily because of
+(D) which is when the company lost $7.4 billion, and that was primarily because of
+(E) which is when the company lost $7.4 billion, primarily resulting from
+---------------------------------
+#SC#33#E#
+<span style="text-decoration: underline">As with those of humans, the DNA of grape plants contains sites where</span> certain unique sequences of nucleotides are repeated over and over.
+(A) As with those of humans, the DNA of grape plants contains sites where
+(B) As human DNA, the DNA of grape plants contain sites in which
+(C) As it is with human DNA, the DNA of grape plants, containing sites in which
+(D) Like humans, the DNA of grape plants contain sites where
+(E) Like human DNA, the DNA of grape plants contains sites in which
+---------------------------------
+#SC#34#E#
+In the United States, while the number of foreign-born residents and their children is higher than ever, the percentage of the population they represent is not; in 1910 this group made up 35 percent of the <span style="text-decoration: underline">population when compared to 20 percent in 2000</span>.
+(A) population when compared to 20 percent in 2000
+(B) population as compared to 2000, when it was 20 percent
+(C) population, comparing it with 20 percent in 2000
+(D) population, unlike 2000, with 20 percent
+(E) population, compared with 20 percent in 2000
+---------------------------------
+#SC#35#B#
+Unlike psychiatrists, who are trained as medical doctors, <span style="text-decoration: underline">psychologists have historically been forbidden from prescribing their patients drugs, but in 2002 New Mexico began to grant the privilege of prescribing</span> to licensed, doctoral level psychologists who complete an additional training and certification program.
+(A) psychologists have historically been forbidden from prescribing their patients drugs, but in 2002 New Mexico began to grant the privilege of prescribing
+(B) psychologists have historically been forbidden to prescribe drugs for their patients, but in 2002 New Mexico began granting prescribing privileges
+(C) psychologists have historically been forbidden to prescribe their patients drugs, but in 2002 in New Mexico, the privilege to prescribe began to be granted
+(D) historically psychologists have been forbidden from prescribing their patients drugs, but in 2002 New Mexico began to grant the privilege of prescribing
+(E) historically psychologists have been forbidden from prescribing drugs for their patients, but in 2002 in New Mexico, they began granting prescribing privileges
+---------------------------------
+#SC#36#D#
+The ivory-billed woodpecker, once the largest woodpecker in North America at a striking 20 inches tall, has moved in and out of the extinct category, with scientists consistently unable to find solid proof <span style="text-decoration: underline">for the bird to still exist</span>.
+(A) for the bird to still exist
+(B) for the bird as still existing
+(C) for the bird's continued existence
+(D) that the bird still exists
+(E) of the bird and its continued existence
+---------------------------------
+#SC#37#B#
+Astronomers have uncovered evidence <span style="text-decoration: underline">that a star that was as bright as the full moon exploding into view 340.000 years ago. emitting</span> dazzling radiation that could have disrupted Earth's protective ozone layer and sunburned our Stone Age ancestors.
+(A) that a star that was as bright as the full moon exploding into view 340,000 years ago, emitting
+(B) that a star as bright as the full moon exploded into view 340,000 years ago, emitting
+(C) of a star that was as bright as the full moon exploding into view 340,000 years ago and that it emitted
+(D) of a star as bright as the full moon, exploding into view 340,000 years ago and emitting
+(E) of a star as bright as the full moon that exploded into view 340,000 years ago and that emitted
+---------------------------------
+#SC#38#E#
+<span style="text-decoration: underline">In hoping to restrain economic growth, interest rates were raised by British policymakers, making it more expensive to borrow for businesses and consumers</span>.
+(A) In hoping to restrain economic growth, interest rates were raised by British policymakers, making it more expensive to borrow for businesses and consumers.
+(B) Making it more expensive for businesses and consumers to borrow, interest rates were raised by British policymakers, in hopes of their restraining economic growth.
+(C) In making borrowing for businesses and consumers more expensive, British policymakers, in hopes they will restrain economic growth, had raised interest rates.
+(D) Hopefully restraining economic growth, British policymakers raised interest rates, making more expensive borrowing by businesses and consumers.
+(E) Hoping to restrain economic growth, British policymakers raised interest rates, making it more expensive for businesses and consumers to borrow.
+---------------------------------
+#SC#39#C#
+During the last interglacial period, the climate on the Earth was warmer than it is today, and the consequent melting of the polar ice caps caused the <span style="text-decoration: underline">sea level to raise about 60 feet over and above what its height presently is now</span>.
+(A) sea level to raise about 60 feet over and above what its height presently is now
+(B) sea level to be raised over its height presently about 60 feet
+(C) sea level to rise about 60 feet above its present height
+(D) level of the seas to rise over and above its present height about 60 feet
+(E) level of the seas to be raised over their height, now about 60 feet
+---------------------------------
+#SC#40#C#
+While Hans Holbein the Younger is most often identified with his English portraits, scholars have long <span style="text-decoration: underline">been recognizing him as a superb draftsman and a remarkably versatile artist and who</span> was fundamental in synthesizing the novelties of the Italian Renaissance with the rational tradition of Northern Europe.
+(A) been recognizing him as a superb draftsman and a remarkably versatile artist and who
+(B) been recognizing him for being a superb draftsman and a remarkably versatile artist and he
+(C) recognized him as a superb draftsman and a remarkably versatile artist who
+(D) recognized him as a superb draftsman and a remarkably versatile artist and he
+(E) recognized him for being a superb draftsman and a remarkably versatile artist and who
+---------------------------------
+#SC#41#C#
+George Washington Carver dedicated his life to <span style="text-decoration: underline">the economic strengthening of the South with improvement of soil and diversification of crops</span>.
+(A) the economic strengthening of the South with improvement of soil and diversification of crops
+(B) strengthening the economy in the South with soil improvement and the diversification of crops
+(C) strengthening the economy of the South through soil improvement and crop diversification
+(D) the strengthening of the economy of the South through improving soil and crop diversifying
+(E) the economic strengthening in the South with improving soil and diversifying crops
+---------------------------------
+#SC#42#B#
+<span style="text-decoration: underline">Constructed at least as early as the Sui dynasty (A.D. 581-618) the Altar of Heaven is the oldest known altar used in Chinese state religious practice, more than 1.000 years older than a similar one in Beiiina. it is</span> the only altar found so far that predates the Qing dynasty (A.D. 1644-1912).
+(A) Constructed at least as early as the Sui dynasty (A.D. 581-618), the Altar of Heaven is the oldest known altar used in Chinese state religious practice, more than 1,000 years older than a similar one in Beijing, it is
+(B) Constructed at least as early as the Sui dynasty (A.D. 581-618), the Altar of Heaven, the oldest known altar used in Chinese state religious practice, is more than 1,000 years older than a similar one in Beijing and is
+(C) The Altar of Heaven, having been constructed at least as early as the Sui dynasty (A.D. 581-618) and the oldest known altar used in Chinese state religious practice, is more than 1,000 years older than a similar one in Beijing and
+(D) The Altar of Heaven, which was constructed at least as early as the Sui dynasty (A.D. 581-618) and is the oldest known altar used in Chinese state religious practice, more than 1,000 years older than a similar one in Beijing and is
+(E) The oldest known altar used in Chinese state religious practice, more than 1,000 years older than a similar one in Beijing, the Altar of Heaven, which was constructed at least as early as the Sui dynasty (A.D. 581-618) and is
+---------------------------------
+#SC#43#C#
+Scientists have found new evidence <span style="text-decoration: underline">of people initially registering emotions like sadness or anger in much the same wav as</span> heartburn—by monitoring what's going on within their bodies.
+(A) of people initially registering emotions like sadness or anger in much the same way as
+(B) of people initially registering emotions such as sadness or anger much the same as experiencing
+(C) that people initially register emotions such as sadness or anger in much the same way as they experience
+(D) that a person initially registers emotions such as sadness or anger much the same way as experiencing
+(E) that a person initially registers emotions like sadness or anger much the same as
+---------------------------------
+#SC#44#A#
+After determining the levels of calcium carbonate and <span style="text-decoration: underline">the types of fossilized alaae present in core samples taken from the bottom of Lake Titicaca in the Andes, a group of scientists was able</span> to reconstruct the history of precipitation in tropical South America over the past 25,000 years.
+(A) the types of fossilized algae present in core samples taken from the bottom of Lake Titicaca in the Andes, a group of scientists was able
+(B) the types of fossilized algae that are present in core samples taken from the bottom of Lake Titicaca in the Andes, it was possible for a group of scientists
+(C) the types of fossilized algae that had been present in core samples taken from the bottom of Lake Titicaca in the Andes, that made it possible for a group of scientists
+(D) what types of fossilized algae had been present in core samples taken from the bottom of Lake Titicaca in the Andes, it was possible for a group of scientists
+(E) what the types of fossilized algae were that were present in core samples taken from the bottom of Lake Titicaca in the Andes, a group of scientists was able
+---------------------------------
+#SC#45#E#
+Although the turtle has been toothless for more than 150 million years, in some contemporary turtle species the moderately sharp and jagged edges of <span style="text-decoration: underline">their horny jaws function for teeth</span>.
+(A) their horny jaws function for teeth
+(B) its horny jaws function for teeth
+(C) its horny jaws function as do teeth
+(D) the horny jaws function as teeth do
+(E) the horny jaws function as teeth
+---------------------------------
+#SC#46#E#
+Changes in the composition of the light of a supernova—an exploding star—<span style="text-decoration: underline">reveals not only the chemical elements in the explosion but also the speed of expanding the outer layers of stellar aas</span>.
+(A) reveals not only the chemical elements in the explosion but also the speed of expanding the outer layers of stellar gas
+(B) reveals not only what chemical elements are in the explosion but also the speed at which the outer layers of stellar gas are expanding
+(C) not only reveal the chemical elements in the explosion but also the speed of the expanding outer layers of stellar gas
+(D) not only reveal what chemical elements are in the explosion but also the speed of the outer layers of stellar gas when they are expanding
+(E) reveal not only the chemical elements in the explosion but also the speed at which the outer layers of stellar gas are expanding
+---------------------------------
+#SC#47#D#
+The features of the floor of the Kasei Valles on Mars look just like those at the base of Antarctic ice streams, <span style="text-decoration: underline">so it suggests that possibly it was flowing ice that</span> carved the giant Martian channels previously attributed to cataclysmic floods.
+(A) so it suggests that possibly it was flowing ice that
+(B) a suggestion that flowing ice may have
+(C) to suggest flowing ice as possibly having
+(D) suggesting that flowing ice may have
+(E) which is suggestive of flowing ice having possibly
+---------------------------------
+#SC#48#B#
+Ranked among great mathematical scientists such as Archimedes, Kepler, and Newton, Abu Ali al-Hasan ibn <span style="text-decoration: underline">al- Haytham. who was born in Iraq in 965 C.E.. had experimented extensively with light and vision, laving the foundation for modern optics and also the notion of science being based on experiment as well as</span> on philosophical arguments.
+(A) al-Haytham, who was born in Iraq in 965 C.E., had experimented extensively with light and vision, laying the foundation for modern optics and also the notion of science being based on experiment as well as
+(B) al-Haytham, born in Iraq in 965 C.E., experimented extensively with light and vision, laying the foundation for modern optics and for the notion that science should be based on experiment as well as
+(C) al-Haytham, born in Iraq in 965 C.E. and who experimented extensively with light and vision, thereby laid the foundation for modern optics and also for the notion that science should be based on not only experiment but also
+(D) al-Haytham was born in Iraq in 965 C.E. and had experimented extensively with light and vision, laying the foundation for modern optics and for the notion that science should be based on not only experiment but also
+(E) al-Haytham was born in Iraq in 965 C.E., experimenting extensively with light and vision and laying the foundation for modern optics and for the notion of science being based on experiment as well as
+---------------------------------
+#SC#49#E#
+Because she knew many of the leaders of colonial America and the American Revolution personally, Mercy Otis Warren was continually at or near the center of political events from 1765 to 1789, <span style="text-decoration: underline">a vantage point combining with her talent for writing to make</span> her one of the most valuable historians of the era.
+(A) a vantage point combining with her talent for writing to make
+(B) a vantage point, when combined with her talent for writing, that made
+(C) a vantage point that combined with her talent for writing, and it made
+(D) and this vantage point, which combined with her talent for writing to make
+(E) and this vantage point, combined with her talent for writing, made
+---------------------------------
+#SC#50#E#
+The army cutworm moth is a critical source of fat for as many as a third of Yellowstone National Park's grizzly <span style="text-decoration: underline">bears: they overturn rocks to find them, as many as</span> 40,000 per bear in a single day.
+(A) bears; they overturn rocks to find them, as many as
+(B) bears; overturning rocks to find the insects, up to
+(C) bears, overturning rocks to find them, as many as
+(D) bears, and they overturn rocks to find them, up to
+(E) bears, which overturn rocks to find the insects, as many as
+---------------------------------
+#SC#51#C#
+A Food and Drug Administration rule implemented in December 2000 mandates that any new <span style="text-decoration: underline">drug that they intend to be used both by adults and children must</span> undergo pediatric study and that its manufacturers list children's doses on the label.
+(A) drug that they intend to be used both by adults and children must
+(B) drug whose intended use is for adults and children as well
+(C) drug intended for use by both adults and children
+(D) drug, if they intend that it be used by adults and also children, must
+(E) drug, if intended for use both by adults and children, must
+---------------------------------
+#SC#52#C#
+The 151 member governments of the World Bank are expected to increase the bank's funding by $75 billion, though some United States legislators cite <span style="text-decoration: underline">an obstacle to congressional passage being the concern</span> that the bank's loans will help foreign producers compete with American businesses.
+(A) an obstacle to congressional passage being the concern
+(B) a concern as an obstacle to congressional passage
+(C) as an obstacle to congressional passage the concern
+(D) the concern, an obstacle to congressional passage,
+(E) as an obstacle for Congress to pass it the concern
+---------------------------------
+#SC#53#E#
+A study published in the British Medical Journal showed that women who ate nuts more than five times a week were about one third less likely to suffer from coronary heart disease <span style="text-decoration: underline">as those who ate</span> no nuts at all.
+(A) as those who ate
+(B) as women who ate
+(C) as those eating
+(D) than women eating
+(E) than were those who ate
+---------------------------------
+#SC#54#E#
+A recently published report indicates that the salaries of teachers continue to lag far behind <span style="text-decoration: underline">other college- educated professionals, because they make an average of nearly $8.000 a year less at the start of their careers and almost $24.000 less</span> a year by the time they reach the age of 50.
+(A) other college-educated professionals, because they make an average of nearly $8,000 a year less at the start of their careers and almost $24,000 less
+(B) other college-educated professionals, by an average of nearly $8,000 a year at the start of their careers, to almost $24,000
+(C) what other college-educated professionals are paid—making an average of nearly $8,000 a year less at the start of their careers and almost $24,000 less
+(D) those of other college-educated professionals—by an average of nearly $8,000 a year at the start of their careers to almost $24,000 less
+(E) those of other college-educated professionals—by an average of nearly $8,000 a year at the start of their careers, and by almost $24,000
+---------------------------------
+#SC#55#A#
+If a drug that is already on the market has the potential to help adults and children who have the same disease, or if it is widely used in children and the absence of labeling seems dangerous, the FDA can require <span style="text-decoration: underline">that the drug undergo</span> pediatric study.
+(A) that the drug undergo
+(B) that the drug undergoes
+(C) that the drug is to undergo
+(D) the drug undergoing
+(E) the drug to have to undergo
+---------------------------------
+#SC#56#B#
+<span style="text-decoration: underline">Whereas high speeds generally cannot be achieved by ramjets without their initially being assisted by</span> a rocket, a scramjet, or supersonic combustion ramjet, can attain high speeds by reducing airflow compression at the entrance of the engine and letting air pass through at supersonic speeds.
+(A) Whereas high speeds generally cannot be achieved by ramjets without their initially being assisted by
+(B) Whereas a ramjet generally cannot achieve high speeds without the initial assistance of
+(C) With ramjets, high speeds generally are not able to be achieved without initially being assisted by
+(D) Unlike with ramjets, generally unable to achieve high speeds without the initial assistance of
+(E) Although a ramjet generally does not have the capability of achieving high speeds without the initial assistance from
+---------------------------------
+#SC#57#A#
+Blaming its recent troubles on a widening recession and slow rate of technology spending, the computer <span style="text-decoration: underline">company announced that it would cut 10 percent of its workforce—more than 2.000 jobs—and expected to report a</span> loss in its third quarter.
+(A) company announced that it would cut 10 percent of its workforce—more than 2,000 jobs—and expected to report a
+(B) company announced that there would be a cut—10 percent of its workforce, which was more than 2,000 jobs— and expected a reported
+(C) company announced the cutting of its workforce by 10 percent, more than 2,000 jobs, and it expected a reported
+(D) company's announcement included the cutting of its workforce by 10 percent, or more than 2,000 jobs, and expecting to report a
+(E) company's announcement included cutting its workforce—which is more than 2,000 jobs—and expecting there to be a reported
+---------------------------------
+#SC#58#C#
+A middleweight black hole weighs in at roughly 500 solar masses, hundreds of times more massive than the lightweight black holes produced by the collapse of individual stars, but <span style="text-decoration: underline">thousands or even millions of times less in its mass as</span> the heavyweight giants that lurk in the centers of galaxies.
+(A) thousands or even millions of times less in its mass as
+(B) it is thousands or even millions of times less massive as
+(C) thousands or even millions of times less massive than
+(D) yet it is thousands or even millions times less massive than
+(E) yet it is thousands or even millions of times less in its mass than
+---------------------------------
+#SC#59#C#
+Taste buds are onion-shaped structures with between 50 and 100 taste cells, each of <span style="text-decoration: underline">them has finaerlike projections poking through the opening located at the top of the taste bud called the taste pore</span>.
+(A) them has fingerlike projections poking through the opening located at the top of the taste bud called the taste pore
+(B) them that have fingerlike projections that poke through an opening located at the top of the taste bud, which they call the taste pore
+(C) which has fingerlike projections poking through the opening, called the taste pore, located at the top of the taste bud
+(D) which having fingerlike projections that poke through an opening, which is called the taste pore, located at the top of the taste bud
+(E) which have fingerlike projections that are poking through an opening located at the top of the taste bud called the taste pore
+---------------------------------
+#SC#60#C#
+Lenders and building managers in the southwestern section of the city report that because <span style="text-decoration: underline">of the rental market in the area being renewed, as well as the willingness of the banks to lend money being increased</span>, apartment buildings are being rehabilitated at a pace unseen for a decade.
+(A) of the rental market in the area being renewed, as well as the willingness of the banks to lend money being increased
+(B) of the renewed rental market in the area, as well as the willingness of banks to lend money increasing
+(C) of the renewed rental market in the area and the increased willingness of banks to lend money
+(D) the rental market in the area renewed and the willingness of banks to lend money increased, therefore
+(E) the rental market in the area was being renewed and banks were increasingly willing to lend money, so
+---------------------------------
+#SC#61#C#
+<span style="text-decoration: underline">The ability of scientists to provide models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions, have become ever more accurate</span>.
+(A) The ability of scientists to provide models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions, have become ever more accurate.
+(B) The ability of scientists has become ever more accurate in providing models of the atmosphere's complex responses to changing conditions, such as seasonal and daily cycles or different planetary conjunctions.
+(C) Scientists have become able to provide ever more accurate models of the atmosphere's complex responses to such changing conditions as seasonal and daily cycles or different planetary conjunctions.
+(D) Scientists have become ever more accurate in their ability for providing models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions.
+(E) Scientists' ability to provide models of the atmosphere's complex responses to such changing conditions as seasonal and daily cycles or different planetary conjunctions have become ever more accurate.
+---------------------------------
+#SC#62#A#
+Although the vast constellation of small islands that dot the South <span style="text-decoration: underline">Pacific has a population of only a few million people, it is</span> home to about a sixth of the world's 6,000 or so languages.
+(A) Pacific has a population of only a few million people, it is
+(B) Pacific has a population of only a few million people, they are
+(C) Pacific is populated by a only a few million people, and it is
+(D) Pacific, having a population of only a few million people, is nonetheless
+(E) Pacific, populated by only a few million people, yet they are
+---------------------------------
+#SC#63#B#
+Meteor showers and individual streaks of light that flash across the sky every night are generated when tiny flecks of celestial detritus, often no larger than <span style="text-decoration: underline">grains of sand or of pebbles, burn up speeding</span> through the atmosphere.
+(A) grains of sand or of pebbles, burn up speeding
+(B) grains of sand or pebbles, burn up while speeding
+(C) grains of sand or pebbles, which burn up while speeding
+(D) a grain of sand or pebble, which burns up as it speeds
+(E) a grain of sand or a pebble, burns up when it speeds
+---------------------------------
+#SC#64#C#
+The Kwakiutl recognized one social unit larger than the tribe—the confederacy, which was a cluster of loosely knit, informally related neighboring <span style="text-decoration: underline">tribes who interacted with themselves more often than between</span> other tribes.
+(A) tribes who interacted with themselves more often than between
+(B) tribes who interacted among each other more often than among
+(C) tribes who interacted with one another more often than with
+(D) tribes, interacting among each other more often than between
+(E) tribes, interacting among one another more often than with
+---------------------------------
+#SC#65#A#
+<span style="text-decoration: underline">The United States will be affected by whether Taiwan develops a closer relationship with mainland China or preserves the status quo</span>, since the island nation is the United States' seventh-largest trading partner.
+(A) The United States will be affected by whether Taiwan develops a closer relationship with mainland China or preserves the status quo
+(B) Whether or not Taiwan develops a closer relationship with mainland China or preserves the status quo affecting the United States
+(C) Whether or not Taiwan develops a closer relationship with mainland China or the status quo is preserved, it will affect the United States
+(D) It affects the United States whether Taiwan will develop a closer relationship with mainland China or preserves the status quo
+(E) It affects the United States whether or not Taiwan will develop a closer relationship with mainland China or preserve the status quo
+---------------------------------
+#SC#66#E#
+Hydrocarbons, with which fruit flies perfume themselves in species-specific blends, are known to be important in courtship, <span style="text-decoration: underline">and apparently this assists flies that taste the hydrocarbons on prospective mates to distinguish their own species from that of</span> others.
+(A) and apparently this assists flies that taste the hydrocarbons on prospective mates to distinguish their own species from that of
+(B) and apparently this assists flies when they taste the hydrocarbons on prospective mates in distinguishing their own species from those of
+(C) which apparently assists flies that taste the hydrocarbons on prospective mates in being able to distinguish their own species from
+(D) apparently assisting flies to taste the hydrocarbons on prospective mates to distinguish their own species from those of
+(E) apparently assisting flies that taste the hydrocarbons on prospective mates in distinguishing their own species from
+---------------------------------
+#SC#67#D#
+A new study finds that the more hostility people show in their behavior and attitudes, <span style="text-decoration: underline">then calcium deposits are more likely to be</span> in the arteries of their hearts.
+(A) then calcium deposits are more likely to be
+(B) then the more likely calcium deposits are
+(C) the more there are likely to be calcium deposits
+(D) the more likely they are to have calcium deposits
+(E) the more likely there are to be calcium deposits
+---------------------------------
+#SC#68#C#
+Unlike <span style="text-decoration: underline">Schoenberg's 12-tone system that dominated</span> the music of the postwar period, Bartok founded no school and left behind only a handful of disciples.
+(A) Schoenberg's 12-tone system that dominated
+(B) Schoenberg and his 12-tone system which dominated
+(C) Schoenberg, whose 12-tone system dominated
+(D) the 12-tone system of Schoenberg that has dominated
+(E) Schoenberg and the 12-tone system, dominating
+---------------------------------
+#SC#69#C#
+For centuries, people on sea voyages washed their clothes by placing the dirty laundry in a strong cloth bag, <span style="text-decoration: underline">then toss it overboard, and let</span> the ship drag the bag for hours.
+(A) then toss it overboard, and let
+(B) then toss them overboard, and they let
+(C) tossing it overboard, and letting
+(D) tossing them overboard, and let
+(E) tossing it overboard, and let
+---------------------------------
+#SC#70#D#
+<span style="text-decoration: underline">There is nowhere in early American literature where the influence of Jane Austen is so apparent as</span> the novels of James Fenimore Cooper.
+(A) There is nowhere in early American literature where the influence of Jane Austen is so apparent as
+(B) In early American literature, nowhere is Jane Austen's influence so apparent than in
+(C) It is nowhere more apparent in early American literature that Jane Austen was an influence as in
+(D) Nowhere in early American literature is the influence of Jane Austen more apparent than in
+(E) Nowhere in early American literature is it more apparent that Jane Austen had an influence than
+---------------------------------
+#SC#71#B#
+With surface temperatures estimated at minus 230 degrees Fahrenheit, Jupiter's moon <span style="text-decoration: underline">Europa has Iona been considered far too cold to support life, and with</span> 60 square miles of water thought to be frozen from top to bottom.
+(A) Europa has long been considered far too cold to support life, and with
+(B) Europa has long been considered far too cold to support life, its
+(C) Europa has long been considered as far too cold to support life and has
+(D) Europa, long considered as far too cold to support life, and its
+(E) Europa, long considered to be far too cold to support life, and to have
+---------------------------------
+#SC#72#D#
+Deborah Aguiar-Velez, founder of Sistemas Corporation, has written a computer textbook in Spanish <span style="text-decoration: underline">for people who speak Spanish and so then</span> do not have to rely on translations from English.
+(A) for people who speak Spanish and so then
+(B) for people who speak Spanish, and then they
+(C) for people speaking Spanish who
+(D) so that people who speak Spanish
+(E) so that people can speak Spanish and then
+---------------------------------
+#SC#73#A#
+The striking differences between the semantic organization of Native American languages and <span style="text-decoration: underline">that of European languages, in both grammar and vocabulary, have</span> led scholars to think about the degree to which differences in language may be correlated with nonlinguistic differences.
+(A) that of European languages, in both grammar and vocabulary, have
+(B) that of European languages, including grammar and vocabulary, has
+(C) those of European languages, which include grammar and vocabulary, have
+(D) those of European languages, in grammar as well as vocabulary, has
+(E) those of European languages, both in grammar and vocabulary, has
+---------------------------------
+#SC#74#C#
+The first detailed study of magpie attacks in Australia indicates that <span style="text-decoration: underline">by the time they had reached adulthood. 98 percent of men and 75 percent of women born in the country have been attacked by the birds</span>.
+(A) by the time they had reached adulthood, 98 percent of men and 75 percent of women born in the country have been attacked by the birds
+(B) by the time they reach adulthood, 98 percent of men and 75 percent of women, who were born in the country, had been attacked by the birds
+(C) by the time they reached adulthood, 98 percent of men and 75 percent of women born in the country had been attacked by the birds
+(D) 98 percent of men and 75 percent of women were born in the country that were attacked by the birds by the time they reach adulthood
+(E) 98 percent of men and 75 percent of women who were born in the country, by the time they reached adulthood had been attacked by the birds
+---------------------------------
+#SC#75#C#
+<span style="text-decoration: underline">In a previous design, the weight of the discus used in track competition is concentrated in a metal center, but now it is</span> lined with lead around the perimeter, thereby improving stability in flight and resulting in longer throws.
+(A) In a previous design, the weight of the discus used in track competition is concentrated in a metal center, but now it is
+(B) According to a previous design, the weight of the discus used in track competition was concentrated in a metal center, but now it is
+(C) Once designed with its weight concentrated in a metal center, the discus used in track competition is now
+(D) This discus used in track competition, once designed with its weight concentrated in a metal center, but now
+(E) The discus used in track competition was once designed having its weight concentrated in a metal center and now
+---------------------------------
+#SC#76#C#
+Desert are inhabited <span style="text-decoration: underline">with several distinct animal species, with each their</span> own method of adapting to long periods of moisture shortage.
+(A) with several distinct animal species, with each their
+(B) with distinctly several animal species, each with its
+(C) by several distinct animal species, each with its
+(D) by several distinct animal species, having each its
+(E) by several distinct animal species, that each has their
+---------------------------------
+#SC#77#D#
+<span style="text-decoration: underline">Such orb-weaving spiders like the araiope build webs in an essentially wheel-like structure</span>, with an outer rim and a number of spokes emanating from the hub.
+(A) Such orb-weaving spiders like the argiope build webs in an essentially wheel-like structure
+(B) Such orb-weaving spiders as the argiope builds webs with what is essentially a wheel-like structure
+(C) The argiope spider, in the same way as other orb-weaving spiders, build webs in a structure that is essentially wheel-like
+(D) Orb-weaving spiders such as the argiope build webs that are essentially wheel-like
+(E) Like other orb-weaving spiders do, the argiope builds webs as essentially wheel-like
+---------------------------------
+#SC#78#A#
+Mixed with an equal Part of water, ethylene glycol, a compound commonly used as an Automotive antifreeze, is effective at <span style="text-decoration: underline">temperatures as low</span> as -30 degrees Fahrenheit.
+(A) temperatures as low
+(B) temperatures so low
+(C) temperatures enough low
+(D) temperatures as few
+(E) temperatures as little
+---------------------------------
+#SC#79#E#
+Some scientists have been critical of the laboratory tests conducted by the Federal Drug Administration on the grounds that the amounts of suspected carcinogens fed to animals <span style="text-decoration: underline">far exceeds those that humans could consume</span>.
+(A) far exceeds those that humans could consume
+(B) exceeds by far those humans can consume
+(C) far exceeds those humans are able to consume
+(D) exceed by far those able to be consumed by humans
+(E) far exceed those that humans could consume
+---------------------------------
+#SC#80#B#
+The period when the great painted caves at Lascaux and Altamira were occupied by Upper Paleolithic people <span style="text-decoration: underline">has been established by carbon-14 dating, but what is much more difficult to determine are</span> the reason for their decoration, the use to which primitive people put the caves, and the meaning of the magnificently depicted animals.
+(A) has been established by carbon-14 dating, but what is much more difficult to determine are
+(B) has been established by carbon-14 dating, but what is much more difficult to determine is
+(C) have been established by carbon-14 dating, but what is much more difficult to determine is
+(D) have been established by carbon-14 dating, but what is much more difficult to determine are
+(E) are established by carbon-14 dating, but that which is much more difficult to determine is
+---------------------------------
+#SC#81#C#
+On August 13, 1868, the warship U. S. S. Wateree, anchored in the harbor of Arica, off the coast of what is now northern <span style="text-decoration: underline">Chile, rode on the crest of a tsunami fseismic sea wave! and coming to rest in the Atacama Desert, it was</span> some three miles up the coast and almost two miles inland from its initial anchorage.
+(A) rode on the crest of a tsunami (seismic sea wave) and coming to rest in the Atacama Desert, it was
+(B) rode on the crest of a tsunami (seismic sea wave), while it came to rest in the Atacama Desert,
+(C) rode on the crest of a tsunami (seismic sea wave) and came to rest in the Atacama Desert,
+(D) riding on the crest of a tsunami (seismic sea wave), to come to rest in the Atacama Desert
+(E) riding on the crest of a tsunami (seismic sea wave), it had come to rest in the Atacama Desert, which is
+---------------------------------
+#SC#82#E#
+The first Shots of the American Revolution, fired at Lexington and Concord, Massachusetts, were, according to Legend, heard around the world, but news of these <span style="text-decoration: underline">shots, which were sent by SWIFT Messenger, took four days in reaching New York City as well as another additional eleven days</span> to reach Charleston, South Carolina.
+(A) shots, which were sent by SWIFT Messenger, took four days in reaching New York City as well as another additional eleven days
+(B) shots that was sent by SWIFT Messenger took four days in order to reach New York City, and also another eleven days
+(C) shots that were sent by SWIFT Messenger took four days to reach New York City and another eleven days
+(D) shots took four days by SWIFT Messenger in order to reach New York City and another eleven days in addition
+(E) shots took four days by SWIFT Messenger to reach New York City and another eleven days
+---------------------------------
+#SC#83#A#
+<span style="text-decoration: underline">Between 1990 and 2000 the global economy grew more than it did during the 10.000 years from the beginning of agriculture</span> to 1950.
+(A) Between 1990 and 2000 the global economy grew more than it did during the 10,000 years from the beginning of agriculture
+(B) Between 1990 and 2000 the growth of the global economy was more than that during 10,000 years, from when agriculture began
+(C) The growth of the global economy between 1990 and 2000 exceeds that which had been for 10,000 years from the beginning of agriculture
+(D) The growth of the global economy between 1990 and 2000 exceeds what it has been for 10,000 years, from when agriculture began
+(E) The growth of the global economy between 1990 and 2000 exceeded what it did for the 10,000 years from the beginning of agriculture
+---------------------------------

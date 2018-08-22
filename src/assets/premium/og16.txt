@@ -1,0 +1,848 @@
+####102####OG16
+#RC#1 (P3 - 8)#D#100
+Scientist long believed that two nerve cluster in the human hypothalamus, called suprachiasmatic nuclei (SCNs), were what controlled our circadian rhythms. Those rhythms are the biological cycles that recur approximately every 24 hours in synchronization with the cycle of sunlight and darkness caused by Earth's rotation. Studies have demonstrated that in some animals, the SCNs control daily fluctuations in blood pressure, body temperature, activity level, and alertness, as well as the nighttime release of the sleep-promoting agent melatonin. Furthermore, cells in the human retina dedicated to transmitting information about light level to the SCNs have recently been discovered.<br><br>Four critical genes governing circadian cycles have been found to be active in every tissue, however, not just the SCNs, of flies, mice, and humans. In addition, when laboratory rats that usually ate at will were fed only once a day, peak activity of a clock gene in their livers shifted by 12 hours, whereas the same clock gene in the SCNs remained synchronized with light cycles. While scientists do not dispute the role of the SCNs in controlling core functions such as the regulation of body temperature and blood pressure, scientists now believe that circadian clocks in other organs and tissues may respond to external cues other than light–including temperature changes–that recur regularly 24 hours.
+The primary purpose of the passage is to
+(A)	challenge recent findings that appear to contradict earlier findings
+(B)	present two sides of an ongoing scientific debate
+(C)	report answers to several questions that have long puzzled researchers
+(D)	discuss evidence that has caused a longstanding belief to be revise
+(E)	attempt to explain a commonly misunderstood biological phenomenon
+---------------------------------
+#RC#2 (P3 - 9)#D#200
+Scientist long believed that two nerve cluster in the human hypothalamus, called suprachiasmatic nuclei (SCNs), were what controlled our circadian rhythms. Those rhythms are the biological cycles that recur approximately every 24 hours in synchronization with the cycle of sunlight and darkness caused by Earth's rotation. Studies have demonstrated that in some animals, the SCNs control daily fluctuations in blood pressure, body temperature, activity level, and alertness, as well as the nighttime release of the sleep-promoting agent melatonin. Furthermore, cells in the human retina dedicated to transmitting information about light level to the SCNs have recently been discovered.<br><br>Four critical genes governing circadian cycles have been found to be active in every tissue, however, not just the SCNs, of flies, mice, and humans. In addition, when laboratory rats that usually ate at will were fed only once a day, peak activity of a clock gene in their livers shifted by 12 hours, whereas the same clock gene in the SCNs remained synchronized with light cycles. While scientists do not dispute the role of the SCNs in controlling core functions such as the regulation of body temperature and blood pressure, scientists now believe that circadian clocks in other organs and tissues may respond to external cues other than light–including temperature changes–that recur regularly 24 hours.
+The passage mentions each of the following as a function regulated by SCNs in same animals EXCEPT
+(A)	activity level
+(B)	blood pressure
+(C)	alertness
+(D)	vision
+(E)	temperature
+---------------------------------
+#RC#3 (P3 - 10)#B#300
+Scientist long believed that two nerve cluster in the human hypothalamus, called suprachiasmatic nuclei (SCNs), were what controlled our circadian rhythms. Those rhythms are the biological cycles that recur approximately every 24 hours in synchronization with the cycle of sunlight and darkness caused by Earth's rotation. Studies have demonstrated that in some animals, the SCNs control daily fluctuations in blood pressure, body temperature, activity level, and alertness, as well as the nighttime release of the sleep-promoting agent melatonin. Furthermore, cells in the human retina dedicated to transmitting information about light level to the SCNs have recently been discovered.<br><br>Four critical genes governing circadian cycles have been found to be active in every tissue, however, not just the SCNs, of flies, mice, and humans. In addition, when laboratory rats that usually ate at will were fed only once a day, peak activity of a clock gene in their livers shifted by 12 hours, whereas the same clock gene in the SCNs remained synchronized with light cycles. While scientists do not dispute the role of the SCNs in controlling core functions such as the regulation of body temperature and blood pressure, scientists now believe that circadian clocks in other organs and tissues may respond to external cues other than light–including temperature changes–that recur regularly 24 hours.
+The author of the passage would probably agree with which of the following statement about the SCNs?
+(A)	The SCNs are found in other organs and tissues of the body besides the hypothalamus.
+(B)	The SCNs play a critical but not exclusive role in regulating circadian rhythms.
+(C)	The SCNs control clock genes in a number of tissues and organs throughout the body.
+(D)	The SCNs are a less significant factor in regulating blood pressure than scientists once believed.
+(E)	The SCNs are less strongly affected by changes in light levels than are by other external cues.
+---------------------------------
+#RC#4 (P10 - 42)#C#400
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites. <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+The primary purpose of the passage is to
+(A)	describe the development of new techniques that may help to determine the driving force behind population cycles in lepidoptera
+(B)	present evidence that refutes a particular theory about the driving force behind population cycles in lepidoptera
+(C)	present a hypothesis about the driving force behind population cycles in lepidoptera
+(D)	describe the fluctuating patterns of population cycles in Lepidoptera
+(E)	question the idea that a single driving force is behind population cycles in Lepidoptera
+---------------------------------
+#RC#5 (P10 - 43)#A#500
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites. <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+It can be inferred from the passage that the mortality caused by agents such as predatory birds or parasites was measured in an attempt to
+(A)	develop an explanation for the existence of lepidoptera population cycles
+(B)	identify behavioral factors in lepidoptera that affect survival rates
+(C)	identify possible methods for controlling Lepidoptera population growth
+(D)	provide evidence that lepidoptera populations are self-regulating
+(E)	determine the life stages of lepidoptera at which mortality rates are highest
+---------------------------------
+#RC#6 (P10 - 44)#B#600
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. <span style="background:yellow;"><strong>In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites.</span></strong> <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+Which of the following, if true, would most weaken the author's conclusion in lines 25-30 (bold lines)?
+(A)	New research reveals that the number of species of birds and parasites that prey on lepidoptera has dropped significantly in recent years.
+(B)	New experiments in which the habitats of lepidoptera are altered in previously untried ways result in the shortening of lepidoptera population cycles.
+(C)	Recent experiments have revealed that the nuclear polyhedrosis virus is present in a number of predators and parasites of lepidoptera.
+(D)	Differences among the habitats of lepidoptera species make it difficult to assess the effects of weather on lepidoptera population cycles.
+(E)	Viral disease is typically observed in a large proportion of the lepidoptera population.
+---------------------------------
+#RC#7 (P10 - 45)#D#700
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites. <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+According to the passage, before the discovery of new techniques for detecting viral DNA, population ecologists believed that viral diseases
+(A)	were not widely prevalent among insect populations generally
+(B)	affected only the caterpillar life stage of lepidoptera
+(C)	were the driving force behind Lepidoptera population cycles
+(D)	attacked already declining caterpillar populations
+(E)	infected birds and parasites that prey on various species of lepidoptera
+---------------------------------
+#RC#8 (P10 - 46)#E#800
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites. <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+According to the passage, nuclear polyhedrosis viruses can remain virulent in the environment only when
+(A)	the polyhedrin protein crystals dissolve
+(B)	caterpillar population are in decline
+(C)	they are present in large numbers
+(D)	their concentration in a particular area remains low
+(E)	they are sheltered from direct sunlight
+---------------------------------
+#RC#9 (P10 - 47)#C#900
+A small number of the forest species of lepidoptera (moths and butterflies, which exist as caterpillars Line during most of their life cycle) exhibit regularly recurring patterns of population growth and decline—such fluctuations in population are known as population cycles. Although many different variables influence population levels, a regular pattern such as a population cycle seems to imply a dominant, driving force. Identification of that driving force, however, has proved surprisingly elusive despite considerable research. The common approach of studying causes of population cycles by measuring the mortality caused by different agents, such as predatory birds or parasites, has been unproductive in the case of lepidoptera. Moreover, population ecologists' attempts to alter cycles by changing the caterpillars' habitat and by reducing caterpillar populations have not succeeded. In short, the evidence implies that these insect populations, if not self-regulating, may at least be regulated by an agent more intimately connected with the insect than are predatory birds or parasites. <br><br>Recent work suggests that this agent may be a virus. For many years, viral disease had been reported in declining populations of caterpillars, but population ecologists had usually considered viral disease to have contributed to the decline once it was underway rather than to have initiated it. The recent work has been made possible by new techniques of molecular biology that allow viral DNA to be detected at low concentrations in the environment. Nuclear polyhedrosis viruses are hypothesized to be the driving force behind population cycles in lepidoptera in part because the viruses themselves follow an infectious cycle in which, if protected from direct sun light, they may remain virulent for many years in the environment, embedded in durable crystals of polyhedrin protein. Once ingested by a caterpillar, the crystals dissolve, releasing the virus to infect the insect's cells.Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedrin crystals. These crystals reenter the environment after the insect dies and decomposes, thus becoming available to infect other caterpillars. One of the attractions of this hypothesis is its broad applicability. Remarkably, despite significant differences in habitat and behavior, many species of lepidoptera have population cycles of similar length, between eight and eleven years. Nuclear polyhedrosis viral infection is one factor these disparate species share.
+It can be inferred from the passage that while inside its polyhedrin protein crystals, the nuclear polyhedrosis virus
+(A)	is exposed to direct sunlight
+(B)	is attractive to predators
+(C)	cannot infect caterpillars' cells
+(D)	cannot be ingested by caterpillars
+(E)	cannot be detected by new techniques of molecular biology
+---------------------------------
+#RC#10 (P20 - 96)#D#1000
+It is an odd but indisputable fact that the seventeenth-century English women who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than a satellite orbiting a dominant male planet. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+The author of the passage refers to Robert Filmer primarily in order to
+(A)	show that Royalist ideology was somewhat more radical than most historians appear to realize
+(B)	qualify the claim that patriarchalism formed the basis of Royalist ideology
+(C)	question the view that most early feminists were associated with the Royalist faction
+(D)	highlight an apparent tension between Royalists ideology and the ideas of early feminists
+(E)	argue that Royalists held conflicting opinions on issues of family organization and women's political rights
+---------------------------------
+#RC#11 (P20 - 97)#E#1100
+It is an odd but indisputable fact that <span style="background:yellow;"><strong>the seventeenth-century English women</span></strong> who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than a satellite orbiting a dominant male planet. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+The passage suggests which of the following about the seventeenth-century English women mentioned in line 2?
+(A)	Their status as forerunners of modern feminists is not entirely justified
+(B)	They did not openly challenge the radical patriarchalism of Royalist Filmerian ideology
+(C)	Cavendish was the first among these women to criticize women's subordination in marriage and assert women equality with men
+(D)	Their views on family organization and women's political rights were diametrically opposed to those of both Royalist and Parliamentarian ideology
+(E)	Historians would be less puzzled if more of them were identified with the Patriarchalism side in the English Civil Wars
+---------------------------------
+#RC#12 (P20 - 98)#E#1200
+It is an odd but indisputable fact that the seventeenth-century English women who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than a satellite orbiting a dominant male planet. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+The passage suggests that Margaret Cavendish's decision to become an author was motivated, at least in part, by a desire to
+(A)	Justify her support for the Royalist cause
+(B)	Encourage her readers to work toward eradicating Filmer Patriarchalism
+(C)	Persuade other women to break free from their political and social isolation
+(D)	Analyze the cause for women's exclusion from the pursuit of power
+(E)	Create a world over which she could exercise total control
+---------------------------------
+#RC#13 (P20 - 99)#D#1300
+It is an odd but indisputable fact that the seventeenth-century English women who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than <span style="background:yellow;"><strong>a satellite orbiting a dominant male planet</span></strong>. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+The Phrase "a satellite orbiting a dominant male planet" refers most directly to
+(A)	Cavendish's concept that each woman is a sovereign self
+(B)	the complete political and social isolation of absolute singularity
+(C)	the immaterial world that a writer can create on paper
+(D)	the absolute subordination of women in a patriarchal society
+(E)	the metaphorical figure of the absolute monarch
+---------------------------------
+#RC#14 (P20 - 100)#C#1400
+It is an odd but indisputable fact that the seventeenth-century English women who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than a satellite orbiting a dominant male planet. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+Which of the following, if true, would most clearly undermine Gallagher`s explanation of the link between Royalism and feminism?
+(A)	Because of their privileged backgrounds, Royalist women were generally better educated than were their Parliamentarians counterparts
+(B)	Filmer himself had read some Cavendish's early writings and was highly critical of her ideas
+(C)	Cavendish's views were highly individual and were not shared by other Royalist women who wrote early feminist works
+(D)	The Royalist and Parliamentarian ideologies were largely in agreement on issues of family organization and women's political rights
+(E)	The Royalists side included a sizable minority faction that was opposed to the more radical tendencies of Filmerian patriarchalism
+---------------------------------
+#RC#15 (P20 - 101)#B#1500
+It is an odd but indisputable fact that the seventeenth-century English women who are generally regarded as among the forerunners of modern feminism are almost all identified with the Royalist side in the conflict between Royalist and Parliamentarians known as the English Civil Wars. Since Royalist ideology is often associated with the radical patriarchalism of seventeenth-century political theorist Robert Filmer—a patriarchalism that equates family and kingdom and asserts the divinely ordained absolute power of the king and, by analogy, of the male head of the household—historians have been understandably puzzled by the fact that Royalist women wrote the earliest extended criticism of the absolute systematic assertions of women's rational and moral equality with men. Some historians have questioned the facile equation of Royalist ideology with Filmerian patriarchalism; and indeed, there may have been no consistent differences between Royalist and Parliamentarians on issues of family organization and women's political rights, but in that case one would expect early feminists to be equally divided between the two sides.<br><br>Catherine Gallagher argues that Royalism engendered feminism because the ideology of absolute monarchy provided a transition to an ideology of the absolute self. She cites the example of the notoriously eccentric author Margaret Cavendish (1626-1673), duchess of Newcastle. Cavendish claimed to be as ambitious as any woman could be, but knowing that as a woman she was excluded from the pursuit of power in the real world, she resolved to be mistress of her own world, the “immaterial world” that any person can create within her own mind—and, as a writer, on paper. In proclaiming what she called her “singularity,” Cavendish insisted that she was a self-sufficient being within her mental empire, the center of her own subjective universe rather than a satellite orbiting a dominant male planet. In justifying this absolute singularity, Cavendish repeatedly invoked the model of the absolute monarch, a figure that became a metaphor for the self-enclose, autonomous nature of the individual person. Cavendish's successors among early feminists retained her notion of woman's sovereign self, but they also sought to break free isolation that her absolute singularity entailed.
+The primary purpose of the passage is to:
+(A)	trace the historical roots of modern sociopolitical movement
+(B)	present one scholar's explanation for a puzzling historical phenomenon
+(C)	contrast two interpretations of the ideological origins of a political conflict
+(D)	establish a link between the ideology of an influential political theorist and that of a notoriously eccentric writer
+(E)	call attention to some points of agreement between opposing sides in an ideological debate
+---------------------------------
+#RC#16 (P22 - 107)#A#1600
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many environmentalists have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.<br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+The primary purpose of the passage is to
+(A)	assess the validity of a certain view
+(B)	distinguish between two phenomena
+(C)	identify the causes of a problem
+(D)	describe a disturbing trend
+(E)	allay concern about a particular phenomenon
+---------------------------------
+#RC#17 (P22 - 108)#D#1700
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many <span style="background:yellow;"><strong>environmentalists</span></strong> have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.<br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+It can be inferred from the passage that the author believes which of the following to be true of the environmentalists mentioned in lines 5-6?
+(A)	They have wrongly chosen to focus on anecdotal reports rather than on the long-term data that are currently available concerning amphibians.
+(B)	Their recommendations are flawed because their research focuses too narrowly on a single category of animal species.
+(C)	Their certainty that population declines in general are caused by environmental degradation is not warranted.
+(D)	They have drawn premature conclusions concerning a crisis in amphibian populations from recent reports of declines.
+(E)	They have overestimated the effects of chance events on trends in amphibian populations.
+---------------------------------
+#RC#18 (P22 - 109)#E#1800
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many environmentalists have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.<br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+It can be inferred from the passage that the author believes which of the following to be true of the amphibian extinctions that have recently been reported?
+(A)	They have resulted primarily from human activities causing environmental degradation.
+(B)	They could probably have been prevented if timely action had been taken to protect the habitats of amphibian species.
+(C)	They should not come as a surprise, because amphibian populations generally have been declining for a number of years.
+(D)	They have probably been caused by a combination of chance events.
+(E)	They do not clearly constitute evidence of general environmental degradation.
+---------------------------------
+#RC#19 (P22 - 110)#D#1900
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many environmentalists have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.<br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+According to the passage, each of the following is true of endangered amphibian species EXCEPT:
+(A)	They are among the rarest kinds of amphibians.
+(B)	They generally have populations that are small in size.
+(C)	They are in constant danger of extinction.
+(D)	Those with decreasing populations are the most likely candidates for immediate extinction.
+(E)	The are in danger of extinction due to events that sometimes have nothing to do with human activities.
+---------------------------------
+#RC#20 (P22 - 111)#B#2000
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many environmentalists have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.<br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+Which of the following most accurately describes the organization of the passage?
+(A)	A question is raised, a distinction regarding it is made, and the question is answered.
+(B)	An interpretation is presented, its soundness is examined, and a warning is given.
+(C)	A situation is described, its consequences are analyzed, and a prediction is made.
+(D)	Two interpretations of a phenomenon are described, and one of them is rejected as invalid.
+(E)	Two methods for analyzing a phenomenon are compared, and further study of the phenomenon is recommended.
+---------------------------------
+#RC#21 (P22 - 112)#C#2100
+There are recent reports of apparently drastic declines in amphibian populations and of extinctions of a number of the world's endangered amphibian species. These declines, if real, may be signs of a general trend toward extinction, and many environmentalists have claimed that immediate environmental action is necessary to remedy this "amphibian crisis", which, in their view, is an indicator of general and catastrophic environmental degradation due to human activity.<br><br>To evaluate these claims, it is useful to make a preliminary distinction that is far too often ignored. A declining population should not be confused with an endangered one. An endangered population is always rare, almost always small, and, by definition, under constant threat of extinction even without a proximate cause in human activities. Its disappearance, however unfortunate, should come as no great surprise. Moreover, chance events - which may indicate nothing about the direction of trends in population size - may lead to its extinction. The probability of extinction due to such random factors depends on the population size and is independent of the prevailing direction of change in that size.<br><br>For biologists, population declines are potentially more worrisome than extinctions. Persistent declines, especially in large populations, indicate a changed ecological context. Even here, distinctions must again be made among declines that are only apparent (in the sense that they are part of habitual cycles or of normal fluctuations), declines that take a population to some lower but still acceptable level, and those that threaten extinction (e.g., by taking the number of individuals below the minimum viable population). <span style="background:yellow;"><strong>Anecdotal reports of population decreases cannot distinguish among these possibilities, and some amphibian populations have shown strong fluctuations in the past.</span></strong><br><br>It is Indisputably true that there is simply not enough long-term scientific data on amphibian populations to enable researches to identify real declines in amphibian populations. Many fairly common amphibian species declared all but extinct after severe declines in the 1950s and 1960s have subsequently recovered, and so might the apparently declining populations that have generated the current appearance of an amphibian crisis. Unfortunately, long-term data will not soon be forthcoming, and postponing environmental action while we wait for it may doom species and whole ecosystems to extinction.
+Which of the following best describes the function of the sentence in lines 35-38?
+(A)	To give an example of a particular kind of study
+(B)	To cast doubt on an assertion made in the previous sentence
+(C)	To raise an objection to a view presented in the first paragraph
+(D)	To provide support for a view presented in the first paragraph
+(E)	To introduce an idea that will be countered in the following paragraph
+---------------------------------
+#RC#22 (P26 - 130)#D#2200
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among feminist scholars has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+The author of the passage discusses Krontiris primarily to provide an example of a writer who
+(A)	is highly critical of the writings of certain Renaissance women
+(B)	supports Kelly's view of women's status during the Renaissance
+(C)	has misinterpreted the works of certain Renaissance women
+(D)	has rejected the views of both Burckhardt and Kelly
+(E)	has studied Renaissance women in a wide variety of social and religious contexts
+---------------------------------
+#RC#23 (P26 - 131)#E#2300
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among <span style="background:yellow;"><strong>feminist scholars</span></strong> has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+According to the passage, Krontiris's work differs from that of the scholars mentioned in highlight text in which of the following ways?
+(A)	Krontiris's work stresses the achievements of Renaissance women rather than the obstacles to their success.
+(B)	Krontiris's work is based on a reinterpretation of the work of earlier scholars.
+(C)	Krontiris's views are at odds with those of both Kelly and Burkhardt.
+(D)	Krontiris's work focuses on the place of women in Renaissance society.
+(E)	Krontiris's views are based exclusively on the study of a privileged group of women.
+---------------------------------
+#RC#24 (P26 - 132)#C#2400
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among feminist scholars has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+According to the passage, feminist scholars cite Burckhardt's view of Renaissance women primarily for which of the following reasons?
+(A)	Burckhardt's view forms the basis for most arguments refuting Kelly's point of view.
+(B)	Burckhardt's view has been discredited by Kelly.
+(C)	Burckhardt's view is one that many feminist scholars wish to refute.
+(D)	Burckhardt's work provides rich historical evidence of inequality between Renaissance women and men.
+(E)	Burckhardt's work includes historical research supporting the arguments of the feminist scholars.
+---------------------------------
+#RC#25 (P26 - 133)#B#2500
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among <span style="background:yellow;"><strong>feminist scholars</span></strong> has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+It can be inferred that both Burckhardt and Kelly have been criticized by the scholars mentioned in highlight text for which of the following?
+(A)	Assuming that women writers of the Renaissance are representative of Renaissance women in general
+(B)	Drawing conclusions that are based on the study of an atypical group of women
+(C)	Failing to describe clearly the relationship between social status and literacy among Renaissance women
+(D)	Failing to acknowledge the role played by Renaissance women in opposing cultural stereotypes
+(E)	Failing to acknowledge the ways in which social status affected the creative activities of Renaissance women
+---------------------------------
+#RC#26 (P26 - 134)#A#2600
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among feminist scholars has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+The author of the passage suggests that Krontiris incorrectly assumes that
+(A)	social differences among Renaissance women are less important than the fact that they were women
+(B)	literacy among Renaissance women was more prevalent than most scholars today acknowledge
+(C)	during the Renaissance, women were able to successfully oppose cultural stereotypes relating to gender
+(D)	Renaissance women did not face many difficult social obstacles relating to their gender
+(E)	in order to attain power, Renaissance women attacked basic assumptions in the ideologies that oppressed them
+---------------------------------
+#RC#27 (P26 - 135)#C#2700
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among feminist scholars has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+The last sentence in the passage serves primarily to
+(A)	suggest that Krontiris's work is not representative of recent trends among feminist scholars
+(B)	undermine the argument that literate women of the Renaissance sought to oppose social constraints imposed on them
+(C)	show a way in which Krontiris's work illustrates a “cautiously optimistic" assessment of Renaissance women's achievements
+(D)	summarize Krontiris's view of the effect of literacy on the lives of upper- and middle-class Renaissance women
+(E)	illustrate the way in which Krontiris's study differs from the studies done by Burckhardt and Kelly
+---------------------------------
+#RC#28 (P26 - 136)#D#2800
+Jacob Burckhardt's view that Renaissance European women “stood on a footing of perfect equality” with Renaissance men has been repeatedly cited by feminist scholars as a prelude to their presentation of rich historical evidence of women's inequality. In striking contrast to Burckhardt, Joan Kelly in her famous 1977 essay, “Did Women Have a Renaissance?” argued that the Renaissance was a period of economic and social decline for women relative both to Renaissance men and to medieval women. Recently, however, a significant trend among feminist scholars has entailed a rejection of both Kelly's dark vision of the Renaissance and Burckhardt's rosy one. Many recent works by these scholars stress the ways in which differences among Renaissance women—especially in terms of social status and religion—work to complicate the kinds of generalizations both Burckhardt and Kelly made on the basis of their observations about upper-class Italian women.<br><br>The trend is also evident, however, in works focusing on those middle- and upper-class European women whose ability to write gives them disproportionate representation in the historical record. Such women were, simply by virtue of their literacy, members of a tiny minority of the population, so it is risky to take their descriptions of their experiences as typical of “female experience” in any general sense. Tina Krontiris, for example, in her fascinating study of six Renaissance women writers, does tend at times to conflate “women” and“women writers,” assuming that women's gender, irrespective of other social differences, including literacy, allows us to view women as a homogeneous social group and make that group an object of analysis. Nonetheless, Krontiris makes a significant contribution to the field and is representative of those authors who offer what might be called a cautiously optimistic assessment of Renaissance women's achievements, although she also stresses the social obstacles Renaissance women faced when they sought to raise their “oppositional voices.” Krontiris is concerned to show women intentionally negotiating some power for themselves (at least in the realm of public discourse) against potentially constraining ideologies, but in her sober and thoughtful concluding remarks, she suggests that such verbal opposition to cultural stereotypes was highly circumscribed; women seldom attacked the basic assumptions in the ideologies that oppressed them.
+The author of the passage implies that the women studied by Krontiris are unusual in which of the following ways?
+(A)	They faced obstacles less formidable than those faced by other Renaissance women.
+(B)	They have been seen by historians as more interesting than other Renaissance women.
+(C)	They were more concerned about recording history accurately than were other Renaissance women.
+(D)	Their perceptions are more likely to be accessible to historians than are those of most other Renaissance women.
+(E)	Their concerns are likely to be of greater interest to feminist scholars than are the ideas of most other Renaissance women.
+---------------------------------
+#RC#29 (P27 - 137)#E#2900
+Most attempts by physicists to send particles faster than the speed of light involve a remarkable phenomenon called quantum tunneling, in which particles travel through solid barriers that appear to be impenetrable.If you throw a ball at a wall, you expect it to bounce back, not to pass straight through it. Yet subatomic particles perform the equivalent feat. Quantum theory says that there is a distinct, albeit small, probability that such a particle will tunnel its way through a barrier;the probability declines exponentially as the thickness of the barrier increases.Though the extreme rapidity of quantum tunneling was noted as early as 1932, not until 1955 was it hypothesized—by Wigner and Eisenbud—that tunneling particles sometimes travel faster than light. Their grounds were calculations that suggested that the time it takes a particle to tunnel through a barrier increases with the thickness of the barrier until tunneling time reaches a maximum; beyond that maximum, tunneling time stays the same regardless of barrier thickness. This would imply that once maximum tunneling time is reached, tunneling speed will increase without limit as barrier thickness increases. Several recent experiments have supported this hypothesis that tunneling particles sometimes reach superluminal speed. According to measurements performed by Raymond Chiao and colleagues, for example, photons can pass through an optical filter at 1.7 times the speed of light.
+The Author of the passage mentions calculations about tunneling time and barrier thickness in order to
+(A)	suggest that tunneling time is unrelated to barrier thickness
+(B)	explain the evidence by which Winger and Eisenbud discovered the phenomenon of tunneling
+(C)	describe data recently challenged by Raymond Chiao and colleagues
+(D)	question why particles engaged in quantum tunneling rarely achieve extremely high speeds
+(E)	explain the basis for Winger and Eisenbud's hypothesis
+---------------------------------
+#RC#30 (P27 - 138)#D#3000
+Most attempts by physicists to send particles faster than the speed of light involve a remarkable phenomenon called quantum tunneling, in which particles travel through solid barriers that appear to be impenetrable.If you throw a ball at a wall, you expect it to bounce back, not to pass straight through it. Yet subatomic particles perform the equivalent feat. Quantum theory says that there is a distinct, albeit small, probability that such a particle will tunnel its way through a barrier;the probability declines exponentially as the thickness of the barrier increases.Though the extreme rapidity of quantum tunneling was noted as early as 1932, not until 1955 was it hypothesized—by Wigner and Eisenbud—that tunneling particles sometimes travel faster than light. Their grounds were calculations that suggested that the time it takes a particle to tunnel through a barrier increases with the thickness of the barrier until tunneling time reaches a maximum; beyond that maximum, tunneling time stays the same regardless of barrier thickness. This would imply that once maximum tunneling time is reached, tunneling speed will increase without limit as barrier thickness increases. Several recent experiments have supported this hypothesis that tunneling particles sometimes reach superluminal speed. According to measurements performed by Raymond Chiao and colleagues, for example, photons can pass through an optical filter at 1.7 times the speed of light.
+The passage implies that if tunneling time reached no maximum in increasing with barrier thickness, then
+(A)	Tunneling speed would increase with barrier thickness
+(B)	Tunneling speed would decline with barrier thickness
+(C)	Tunneling speed would vary with barrer thickness
+(D)	Tunneling speed would not be expected to increase without limit
+(E)	Successful tunneling would occur even less frequently than it does
+---------------------------------
+#RC#31 (P27 - 139)#C#3100
+Most attempts by physicists to send particles faster than the speed of light involve a remarkable phenomenon called quantum tunneling, in which particles travel through solid barriers that appear to be impenetrable.If you throw a ball at a wall, you expect it to bounce back, not to pass straight through it. Yet subatomic particles perform the equivalent feat. Quantum theory says that there is a distinct, albeit small, probability that such a particle will tunnel its way through a barrier;the probability declines exponentially as the thickness of the barrier increases.Though the extreme rapidity of quantum tunneling was noted as early as 1932, not until 1955 was it hypothesized—by Wigner and Eisenbud—that tunneling particles sometimes travel faster than light. Their grounds were calculations that suggested that the time it takes a particle to tunnel through a barrier increases with the thickness of the barrier until tunneling time reaches a maximum; beyond that maximum, tunneling time stays the same regardless of barrier thickness. This would imply that once maximum tunneling time is reached, tunneling speed will increase without limit as barrier thickness increases. Several recent experiments have supported this hypothesis that tunneling particles sometimes reach superluminal speed. According to measurements performed by Raymond Chiao and colleagues, for example, photons can pass through an optical filter at 1.7 times the speed of light.
+Which of the following statements about the earliest scientific investigators of quantum tunneling can be inferred from the passage?
+(A)	They found it difficult to increase barrier thickness continually.
+(B)	They anticipated the later results of Chiao and his colleagues.
+(C)	They did not suppose that tunneling particles could travel faster than light.
+(D)	They were unable to observe instances of successful tunneling.
+(E)	They made use of photons to study the phenomenon of tunneling.
+---------------------------------
+#CR#32 (1 Easy)#E#100
+Neuroscientist: Memory evolved to help animals react appropriately to situations they encounter by drawing on the past experience of similar situations. But this does not require that animals perfectly recall every detail of all their experiences. Instead, to function well, memory should generalize from past experiences that are similar to the current one.<br><br>The neuroscientist's statements, if true, most strongly support which of the following conclusions?
+(A)	At least some animals perfectly recall every detail of at least some past experiences.
+(B)	Perfectly recalling every detail of all their past experiences could help at least some animals react more appropriately than they otherwise would to new situations they encounter.
+(C)	Generalizing from past experiences requires clear memories of most if not all the details of those experiences.
+(D)	Recalling every detail of all past experiences would be incompatible with any ability to generalize from those experiences.
+(E)	Animals can often react more appropriately than they otherwise would to situations they encounter if they draw on generalizations from past experiences of similar situations.
+---------------------------------
+#CR#33 (2 Easy)#C#200
+Astronomer: Most stars are born in groups of thousands, each star in a group forming from the same parent cloud of gas. Each cloud has a unique homogeneous chemical composition. Therefore whenever two stars have the same chemical composition as each other, they must have originated from the same cloud of gas.<br><br>Which of the following, if true, would most strengthen the astronomer's argument?
+(A)	In some groups of stars, not every star originated from the same parent cloud of gas.
+(B)	Clouds of gas of similar or identical chemical composition may be remote from each other.
+(C)	Whenever a star forms, it inherits the chemical composition of its parent cloud of gas.
+(D)	Many stars in vastly different parts of the universe are quite similar in their chemical compositions.
+(E)	Astronomers can at least sometimes precisely determine whether a star has the same chemical composition as its parent cloud of gas.
+---------------------------------
+#CR#34 (3 Easy)#A#300
+A provincial government plans to raise the gasoline tax to give people an incentive to drive less, reducing traffic congestion in the long term. However, skeptics point out that most people in the province live in areas where cars are the only viable transportation to jobs and stores and therefore cannot greatly change their driving habits in response to higher gasoline prices.<br><br>In light of the skeptics' objection, which of the following, if true, would most logically support the prediction that the government's plan will achieve its goal of reducing traffic congestion?
+(A)	The revenue from the tax will be used to make public transportation a viable means of transportation to jobs and stores for far more people.
+(B)	The tax will encourage many residents to switch to more fuel-efficient cars, reducing air pollution and other problems.
+(C)	Because gasoline has been underpriced for decades, the province has many neighborhoods where cars are the only viable means of transportation
+(D)	Most residents who cannot greatly change their driving habits could compensate for high gasoline prices by reducing other expenses.
+(E)	Traffic congestion is an especially serious problem for people for whom cars are the only viable means of transportation.
+---------------------------------
+#CR#35 (4 Easy)#A#400
+Editorial: The roof of Northtown Council's equipment-storage building collapsed under the weight of last week's heavy snowfall. The building was constructed recently and met local building-safety codes in every particular, except that the nails used for attaching roof supports to the building's columns were of a smaller size than the codes specify for this purpose. Clearly, this collapse exemplifies how even a single, apparently insignificant, departure from safety standards can have severe consequences.<br><br>Which of the following, if true, most strongly supports the editorial's argument?
+(A)	The only other buildings whose roofs collapsed from the weight of the snowfall were older buildings constructed according to less exacting standards than those in the safety codes.
+(B)	Because of the particular location of the equipment-storage building, the weight of snow on its roof was greater than the maximum weight allowed for in the safety codes.
+(C)	Because the equipment-storage building was not intended for human occupation, some safety-code provisions that would have applied to an office building did not apply to it.
+(D)	The columns of the building were no stronger than the building-safety codes required for such a building.
+(E)	Because the equipment-storage building was where the council kept snow-removal equipment, the building was almost completely empty when the roof collapsed.
+---------------------------------
+#CR#36 (8 Medium)#A#500
+A newly discovered painting seems to be the work of one of two seventeenth-century artists, either the northern German Johannes Drechen or the Frenchman Louis Birelle, who sometimes painted in the same style as Drechen. Analysis of the carved picture frame, which has been identified as the painting's original seventeenth-century frame, showed that it is made of wood found widely in northern Germany at the time, but rare in the part of France where Birelle lived. This shows that the painting is most likely the work of Drechen. <br><br>Which of the following is an assumption that the argument requires?
+(A)	The frame was made from wood local to the region where the picture was painted.
+(B)	Drechen is unlikely to have ever visited the home region of Birelle in France.
+(C)	Sometimes a painting so resembles others of its era that no expert is able to confidently decide who painted it.
+(D)	The painter of the picture chose the frame for the picture.
+(E)	The carving style of the picture frame is not typical of any specific region of Europe.
+---------------------------------
+#CR#37 (10 Easy)#B#600
+In order to reduce the number of items damaged while in transit to customers, packaging consultants recommended that the TrueSave mail-order company increase the amount of packing material so as to fill any empty spaces in its cartons. Accordingly, TrueSave officials instructed the company's packers to use more packing material than before, and the packers zealously acted on these instructions and used as much as they could. Nevertheless, customer reports of damaged items rose somewhat.<br><br>Which of the following, if true, most helps to explain why acting on the consultants' recommendation failed to achieve its goal?
+(A)	The change in packing policy led to an increase in expenditure on packing material and labor.
+(B)	When packing material is compressed too densely, it loses some of its capacity to absorb shock.
+(C)	The amount of packing material used in a carton does not significantly influence the ease with which a customer can unpack the package.
+(D)	Most of the goods that TrueSave ships are electronic products that are highly vulnerable to being damaged in transit.
+(E)	TrueSave has lost some of its regular customers as a result of the high number of damaged items they received.
+---------------------------------
+#CR#38 (21 Medium)#E#700
+Many agricultural intensive areas of the world are beginning to encounter water scarcity problems. As a result, many farmers in these areas are likely to reduce their output as the water supply they need in order to maintain production shrinks. However, one group of farmers in such a region plans to increase their production by implementing techniques for water conservation.<br><br>Which of the following, if true, would most strongly support the prediction that the group's plan will succeed?
+(A)	Farmers that can gain a larger share of the food market in their regions will be better positioned to control more water resources.
+(B)	Most agricultural practices in areas with water shortages are water- intensive.
+(C)	Other regions of the world not facing water shortages are likely to make for the reduction in agricultural output.
+(D)	Demand for agricultural products in the group's region is not expected to decline.
+(E)	More than half of the water used for agriculture in the farmers' region is lost to evaporation or leakage from irrigation channels.
+---------------------------------
+#CR#39 (30 Medium)#D#800
+People who do regular volunteer work tend to live longer, on average, than people who do not. It has been found that ‘doing good', a category that certainly includes volunteer work, releases endorphins, the brain's natural opiates, which induce in people a feeling of well-being. Clearly, there is a connection: Regular releases of endorphins must in some way help to extend people's lives.<br><br>Which of the following, it true most seriously undermine the force of the evidence given as support the hypothesis that endorphins promote longevity
+(A)	People who do regular volunteer work are only somewhat more likely than others to characterize the work they do for as a ‘doing good.'
+(B)	Although extremely high levels of endorphins could be harmful to health, such levels are never reached as a result of the natural release of endorphins.
+(C)	There are many people who have done some volunteer work but who do not do such work regularly.
+(D)	People tend not to become involved in regular volunteer work unless they are healthy and energetic to begin with.
+(E)	Releases of endorphins are responsible for the sense of well-being experienced by many long-distance runners while running.
+---------------------------------
+#CR#40 (37 Medium)#A#900
+Although the school would receive financial benefits if it had soft drink vending machines in the cafeteria, we should not allow them. Allowing soft drink machines there would not be in our students' interest. If our students start drinking more soft drinks, they will be less healthy.<br><br>The argument depends on which of the following?
+(A)	If the soft drink vending machines were placed in the cafeteria, students would consume more soft drinks as a result.
+(B)	The amount of soft drinks that most students at the school currently drink is not detrimental to their health.
+(C)	Students are apt to be healthier if they do not drink soft drinks at all than if they just drink small amounts occasionally.
+(D)	Students will not simply bring soft drinks from home if the soft drink vending machines are not placed in the cafeteria.
+(E)	The school's primary concern should be to promote good health among its students.
+---------------------------------
+#CR#41 (39 Medium)#D#1000
+A study of ticket sales at a summer theater festival found that people who bought tickets to individual plays had a no-show rate of less than 1 percent, while those who paid in advance for all ten plays being performed that summer had a no-show rate of nearly 30 percent. This may be at least in part because the greater the awareness customers retain about the cost of an item, the more likely they are to use it.<br><br>Which of the following would, if true, best serve as an alternative explanation of the results of the study?
+(A)	The price per ticket was slightly cheaper for those who bought all ten tickets in advance.
+(B)	Many people who attended the theater festival believed strongly that they should support it financially.
+(C)	Those who attended all ten plays became eligible for a partial refund.
+(D)	Usually, people who bought tickets to individual plays did so immediately prior to each performance that they attended.
+(E)	People who arrived just before the performance began could not be assured of obtaining seats in a preferred location.
+---------------------------------
+#CR#42 (41 Medium)#E#1100
+Although there is no record of poet Edmund Spenser's parentage, we do know that as a youth Spenser attended the Merchant Tailors' School in London for a period between 1560 and 1570. Records from this time indicate that the Merchant Tailors' Guild then had only three members named Spenser: Robert Spenser, listed as a gentleman; Nicholas Spenser, elected the Guild's Warden in 1568; and John Spenser, listed as a "journeyman cloth-maker." Of these, the last was likely the least affluent of the three—and most likely Edmund's father, since school accounting records list Edmund as a scholar who attended the school at a reduced fee.<br><br>Which of the following is an assumption on which the argument depends?
+(A)	Anybody in sixteenth century London who made clothing professionally would have had to be a member of the Merchant Tailors' Guild.
+(B)	The fact that Edmund Spenser attended the Merchant Tailors' School did not necessarily mean that he planned to become a tailor.
+(C)	No member of the Guild could become Guild warden in sixteenth century London unless he was a gentleman.
+(D)	Most of those whose fathers were members of the Merchant Tailors' Guild were students at the Merchant Tailors' School.
+(E)	The Merchant Tailors' School did not reduce its fees for the children of the more affluent Guild members.
+---------------------------------
+#CR#43 (43 Medium)#C#1200
+Which of the following most logically completes the argument below?<br><br>NowNews, although still the most popular magazine covering cultural events in Kalopolis, has recently suffered a significant drop in advertising revenue because of falling circulation. Many readers have begun buying a competing magazine that, at 50 cents per copy, costs less than NowNews at $1.50 per copy. In order to boost circulation and thus increase advertising revenue, NowNews's publisher has proposed making it available at no charge, but this proposal has a serious drawback, since _______.
+(A)	Those Kalopolis residents with the greatest interest in cultural events are regular readers of both magazines.
+(B)	One reason NowNews's circulation fell was that its competitor's reporting on cultural events was superior.
+(C)	The newsstands and stores that currently sell NowNews will no longer carry it if it is being given away for free.
+(D)	At present, 10 percent of the total number of copies of each issue of NowNews are distributed free to students on college campuses in the Kalopolis area.
+(E)	NowNews's competitor would begin to lose large amounts of money if it were forced to lower its cover price.
+---------------------------------
+#CR#44 (48 Medium)#D#1300
+Archaeologist: Researchers excavating a burial site in Cyprus found a feline skeleton lying near a human skeleton. Both skeletons were in the same sediment at the same depth and equally well-preserved, suggesting that the feline and human were buried together about 9,500 years ago. This shows that felines were domesticated around the time farming began, when they would have been useful in protecting stores of grain from mice.<br><br>Which of the following, if true, would most seriously weaken the archaeologist's argument?
+(A)	Archaeologists have not found any remains of stores of grain in the immediate vicinity of the burial site.
+(B)	The burial site in Cyprus is substantially older than any other known burial site in which a feline skeleton and a human skeleton appear to have been buried together.
+(C)	Paintings found near the burial site seem to show people keeping felines as domestic companions, but do not show felines hunting mice.
+(D)	In Cyprus, there are many burial sites dating from around 9,500 years ago in which the remains of wild animals appear to have been buried alongside human remains.
+(E)	Before felines were domesticated, early farmers had no effective way to protect stores of grain from mice.
+---------------------------------
+#CR#45 (49 Easy)#E#1400
+Economist: The most economically efficient way to reduce emissions of air pollutants is to tax them in proportion to the damage they are likely to cause. But in Country Y, many serious pollutants are untaxed and unregulated, and policy makers strongly oppose new taxes. Therefore, the best way to achieve a reduction in air pollutant emissions in Country Y would be to institute fixed upper limits on them.<br><br>Which of the following is an assumption of the economist's argument?
+(A)	Policy makers in Country Y oppose all new taxes equally strongly, regardless of any benefits they may provide.
+(B)	Country Y's air pollutant emissions would not fall significantly if they were taxed in proportion to the damage they are likely to cause.
+(C)	Policy makers in Country Y strongly favor reductions in air pollutant emissions.
+(D)	Country Y's policy makers believe that air pollutant emissions should be reduced with maximum economic efficiently
+(E)	Policy makers in Country Y do not oppose setting fixed upper limits on air pollutant emissions as strongly as they oppose new taxes.
+---------------------------------
+#CR#46 (53 Easy)#C#1500
+Humans get Lyme disease from infected ticks. Ticks get infected by feeding on animals with Lyme disease, but the ease of transmission from host animal to tick varies. With most species of host animal, transmission of Lyme disease to ticks is extremely rare, but white-footed mice are an exception, readily passing Lyme disease to ticks. And white-footed mouse populations greatly expand, becoming the main food source for ticks, in areas where biodiversity is in decline.<br><br>The information in the passage most strongly supports which of the following?
+(A)	In areas where many humans are infected with Lyme disease, the proportion of ticks infected with Lyme disease is especially high.
+(B)	Very few animals that live in areas where there are no white-footed mice are infected with Lyme disease.
+(C)	Humans are less at risk of contracting Lyme disease in areas where biodiversity is high.
+(D)	Ticks feed on white-looted mice only when other host species are not available to them.
+(E)	The greater the biodiversity of an area, the more likely any given host animal in that area is to pass Lyme disease to ticks.
+---------------------------------
+#CR#47 (55 Medium)#A#1600
+Advertisement: When your car's engine is running at its normal operating temperature, any major brand of motor oil will protect it about as well as Tuff does. When the engine is cold, it is a different story: Tuff motor oil flows better at lower temperatures than its major competitors do. So, if you want your car's engine to have maximum protection, you should use Tuff.<br><br>Which of the following, if true, most strengthens the argument in the advertisement?
+(A)	Tuff motor oil provides above-average protection for engines that happen to overheat.
+(B)	Tuff motor oil is periodically supplied free of charge to automobile manufacturers to use in factory-new cars.
+(C)	Tuff motor oil's share of the engine oil market peaked three years ago.
+(D)	Tuff motor oil, like any motor oil, is thicker and flows less freely at cold temperatures than at hot temperatures.
+(E)	Tuff motor oil is manufactured at only one refinery and shipped from there to all markets.
+---------------------------------
+#CR#48 (57 Easy)#D#1700
+The Testament of William Thorpe was published around 1530 as an appendix to Thorpe's longer Examination. Many scholars, however, doubt the attribution of the Testament to Thorpe because, whereas the Examination is dated 1406, the Testament is dated 1460. One scholar has recently argued that the 1460 date be amended to 1409, based on the observation that when these numbers are expressed as Roman numerals, MCCCCLX and MCCCCIX, it becomes easy to see how the dates might have become confused through scribal error.<br><br>Which of the following, if true, would most support the scholar's hypothesis concerning the date of the Testament?
+(A)	The sole evidence that historians have had that William Thorpe died no earlier than 1460 was the presumed date of publication of the Testament.
+(B)	In the preface to the 1530 publication, the editor attributes both works to William Thorpe.
+(C)	Few writers in fifteenth-century England marked dates in their works using only Roman numerals.
+(D)	The Testament alludes to a date, "Friday, September 20," as apparently contemporaneous with the writing of the Testament, and September 20 fell on a Friday in 1409 but not in 1460.
+(E)	The Testament contains few references to historical events that occurred later than 1406.
+---------------------------------
+#CR#49 (58 Medium)#C#1800
+To reduce productivity losses from employees calling in sick. Corporation X implemented a new policy requiring employees to come into work unless they were so sick that they had to go to a doctor. But a year after the policy was implemented, a study found that Corporation X's overall productivity losses due to reported employee illnesses had increased.<br><br>Which of the following, if true, world best explain why the policy produced the reverse of its intended effect?
+(A)	After the policy was implemented, employees more frequently went to the doctor when they felt sick
+(B)	Before the policy was implemented, employees who were not sick at all often called in sick
+(C)	Employees coming into work when sick often infect many of their coworkers
+(D)	Unusually few employees became genuinely sick during the year after the policy was implemented
+(E)	There are many other factors besides employee illness that can adversely affect productivity
+---------------------------------
+#CR#50 (60 Medium)#E#1900
+Advertising by mail has become much less effective, with fewer consumers responding. Because consumers are increasingly overwhelmed by the sheer amount of junk mail they receive, most discard almost all offers without considering them. Thus, an effective way tor corporations to improve response rates would be to more carefully target the individuals to whom they mail advertising, thereby cutting down on the amount oi junk mail each consumer receives.<br><br>Which of the following, if true, would most support this recommendation?
+(A)	There are cost effective means by which corporations that currently advertise by mail could improve response rates.
+(B)	Many successful corporations are already carefully targeting the individuals to whom they mail advertising.
+(C)	Any consumer who, immediately alter receiving an advertisement by mail, merely glances at it is very likely to discard it.
+(D)	Improvements in the quality of the advertising materials used in mail that is carefully targeted to individuals can improve the response rate for such mail.
+(E)	Response rates to carefully targeted advertisements by mail are considerably higher, on average, than response rates to most other forms of advertising.
+---------------------------------
+#CR#51 (63 Medium)#A#2000
+Politician: Hybrid cars use significantly less fuel per kilometer than nonhybrids. And fuel produces air pollution, which contributes to a number of environmental problems. Motorists can save money by driving cars that are more fuel efficient, and they will be encouraged to drive hybrid cars if we make them aware of that fact. Therefore, we can help reduce the total amount of pollution emitted by cars in this country by highlighting this advantage of hybrid cars.<br><br>Which of the following, if true, would most indicate a vulnerability of the politician's argument?
+(A)	People with more fuel-efficient cars typically drive more than do those with less fuel-efficient cars.
+(B)	Not all air pollution originates from automobiles.
+(C)	Hybrid cars have already begun to gain popularity.
+(D)	Fuel-efficient alternatives to hybrid cars will likely become available in the future.
+(E)	The future cost of gasoline and other fuel cannot be predicted with absolute precision or certainty.
+---------------------------------
+#CR#52 (65 Easy)#D#2100
+One summer, floods covered low-lying garlic ﬁelds situated in a region with a large mosquito population. Since mosquitoes lay their eggs in standing water, ﬂooded ﬁelds would normally attract mosquitoes, yet no mosquitoes were found in the ﬁelds. Diallyl sulﬁde, a major component of garlic, is known to repel several species of insects, including mosquitoes, so it is likely that diallyl sulﬁde from the garlic repelled the mosquitoes.<br><br>Which of the following, if true, most strengthens the argument?
+(A)	Diallyl sulﬁde is also found in onions but at concentrations lower than in garlic.
+(B)	The mosquito population of the region as a whole was significantly smaller during the year in which the flooding took place than it had been in previous years.
+(C)	By the end of the summer, most of the garlic plants in the flooded fields had been killed by waterborne fungi.
+(D)	Many insect species not repelled by diallyl sulﬁde were found in the flooded garlic fields throughout the summer.
+(E)	Mosquitoes are known to be susceptible to toxins in plants other than garlic, such as marigolds.
+---------------------------------
+#CR#53 (67 Medium)#D#2200
+Coffee shop owner: A large number of customers will pay at least the fair market value for a cup of coffee, even if there is no formal charge. Some will pay more than this out of appreciation of the trust that is placed in them. And our total number of customers is likely to increase. We could therefore improve our net cash flow by implementing an honor system in which customers pay what they wish for coffee by depositing money in a can.<br><br>Manager: We're likely to lose money on this plan. Many customers would cheat the system, paying a very small sum or nothing at all.<br><br>Which of the following, if true, would best support the owner's plan, in light of the manager's concern?
+(A)	The new system if implemented, would increase the number of customers.
+(B)	By roasting its own coffee, the shop has managed to reduce the difficulties and cost of maintaining an inventory of freshly roasted coffee.
+(C)	Many customers stay in the cafe for long stretches of time.
+(D)	The shop makes a substantial profit from pastries and other food bought by the coffee drinkers.
+(E)	No other coffee shop in the area has such a system.
+---------------------------------
+#CR#54 (70 Easy)#A#2300
+City council member: Demand for electricity has been increasing by 1.5 percent a year, and there simply is no more space to build additional power plants to meet future demand increases. We must therefore begin to curtail usage, which is why I propose passing ordinances requiring energy-conservation measures in all city departments. <br><br>The city council member's proposal assumes which of the following?
+(A)	Existing power plants do not have capacity to handle all of the projected increase in demand for electricity.
+(B)	No city departments have implemented energy-conservation measures voluntarily.
+(C)	Passing ordinances designed to curtail electricity usage will not have negative economic consequences for the city.
+(D)	Residential consumers are not responsible for the recent increases in demand for electricity.
+(E)	City departments that successfully conserve energy will set a good example for residential and industrial consumers of electricity.
+---------------------------------
+#CR#55 (76 Hard)#A#2400
+Voters commonly condemn politicians for being insincere, but politicians often must disguise their true feelings when they make public statements. If they expressed their honest views - about, say, their party's policies - then achieving politically necessary compromises would be much more difficult. Clearly, the very insincerity that people decry shows that our government is functioning well.<br><br>Which of the following, if true, most seriously undermines this reasoning?
+(A)	Achieving political compromises is not all that is necessary for the proper functioning of a government.
+(B)	Some political compromises are not in the best long-term interest of the government.
+(C)	Voters often judge politicians by criteria other than the sincerity with which they express their views.
+(D)	A political party's policies could turn out to be detrimental to the functioning of a government.
+(E)	Some of the public statements made by politicians about their party's policies could in fact be sincere.
+---------------------------------
+#CR#56 (77 Hard)#A#2500
+To reduce waste of raw materials, the government of Sperland is considering requiring household appliances to be broken down for salvage when discarded. To cover the cost of salvage, the government is planning to charge a fee, which would be imposed when the appliance is first sold. Imposing the fee at the time of salvage would reduce waste more effectively, however, because consumers tend to keep old appliances longer if they are faced with a fee for discarding them.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A)	Increasing the cost of disposing of an appliance properly increases the incentive to dispose it improperly.
+(B)	The fee provides manufacturers with no incentive to produce appliances that are more durable.
+(C)	For people who have bought new appliances recently, the salvage fee would not need to be paid for a number of years.
+(D)	People who sell their used, working appliances to others would not need to pay the salvage fee.
+(E)	Many nonfunctioning appliances that are currently discarded could be repaired at relatively little expense.
+---------------------------------
+#CR#57 (79 Hard)#A#2600
+Increased use of incineration is sometimes advocated as a safe way to dispose of chemical waste. But opponents of incineration point to the 40 incidents involving unexpected releases of dangerous chemical agents that were reported just last year at two existing incinerators commissioned to destroy a quantity of chemical waste material. Since designs for proposed new incinerators include no additional means of preventing such releases, leaks will only become more prevalent if use of incineration increases.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A)	At the two incinerators at which leaks were reported, staff had had only cursory training on the proper procedures for incinerating chemical waste.
+(B)	Other means of disposing of chemical waste, such as chemical neutralization processes, have not been proven safer than incineration.
+(C)	The capacity of existing incinerators is sufficient to allow for increased incineration of chemical waste without any need for new incinerators.
+(D)	The frequency of reports of unexpected releases of chemical agents at newly built incinerators is about the same as the frequency at older incinerators.
+(E)	ln only three of the reported incidents of unexpected chemical leaks did the releases extend outside the property on which the incinerators were located.
+---------------------------------
+#CR#58 (81 Hard)#E#2700
+Public health expert: <span style="font-weight: bold">Increasing the urgency of a public health message may be counterproductive.</span> In addition to irritating the majority who already behave responsibly, <span style="font-weight: bold">it may undermine all government pronouncements on health by convincing people that such messages are overly cautious.</span> And there is no reason to believe that those who ignore measured voices will listen to shouting.<br><br>The two sections in boldface play which of the following roles in the public health expert's argument?
+(A)	The first is a conclusion for which support is provided. but is not the argument's main conclusion; the second is an unsupported premise supporting the arguments main conclusion.
+(B)	The first is a premise supporting the only explicit conclusion; so is the second.
+(C)	The first is the argument's main conclusion; the second supports that conclusion and is itself a conclusion for which support is provided.
+(D)	The first is a premise supporting the argument's only conclusion; the second is that conclusion.
+(E)	The first is the argument‘s only explicit conclusion; the second is a premise supporting that conclusion.
+---------------------------------
+#CR#59 (84 Hard)#E#2800
+Proposed new safety rules for the Beach City airport would lengthen considerably the minimum time between takeoffs from the airport. In consequence, the airport would be able to accommodate 10 percent fewer flights than currently use the airport daily. The city's operating budget depends heavily on taxes generated by tourist spending, and most of the tourists come by plane. Therefore, the proposed new safety rules, if adopted, will reduce the revenue available for the operating budget.<br><br>The argument depends on assuming which of the following?
+(A)	There are no periods of the day during which the interval between flights taking off from the airport is significantly greater than the currently allowed
+(B)	Few, if any, of the tourists who use the Beach City airport do so when their main destination is a neighboring community and not Beach City itself.
+(C)	If the proposed safety rules are adopted, the reduction in tourist numbers will not result mainly from a reduction in the number of tourists who spend relatively little in Beach City.
+(D)	Increasing the minimum time between takeoffs is the only way to achieve necessary safety improvements without a large expenditure by the city government on airport enhancements.
+(E)	The response to the adoption of the new safety rules would not include an increase in the number of passengers per flight.
+---------------------------------
+#CR#60 (94 Hard)#A#2900
+Last year a global disturbance of weather patterns disrupted harvests in many of the world's important agricultural areas. Worldwide production of soybeans, an important source of protein for people and livestock alike, was not adversely affected, however. Indeed, last year's soybean crop was actually slightly larger than average. Nevertheless, the weather phenomenon is probably responsible for a recent increase in the world price of soybeans.<br><br>Which of the following, if true, provides the strongest justification for the attribution of the increase in soybean prices to the weather phenomenon?
+(A)	Last year's harvest of anchovies, which provide an important protein source for livestock, was disrupted by the effects of the weather phenomenon.
+(B)	Most countries that produce soybeans for export had above-average harvests of a number of food crops other than soybeans last year.
+(C)	The world price of soybeans also rose several years ago, immediately after an earlier occurrence of similar global weather disturbance.
+(D)	Heavy rains attributable to the weather phenomenon improved grazing pastures last year, allowing farmers in many parts of the world to reduce their dependence on supplemental feed.
+(E)	Prior to last year, soybean prices had been falling for several years.
+---------------------------------
+#CR#61 (97 Medium)#C#3000
+Most of the year, the hermit thrush, a North American songbird, eats a diet consisting mainly of insects, but in autumn, as the thrushes migrate to their Central and South American wintering grounds, they feed almost exclusively on wild berries. Wild berries, however, are not as rich in calories as insects, yet thrushes need to consume plenty of calories in order to complete their migration. One possible explanation is that berries contain other nutrients that thrushes need for migration and that insects lack.<br><br>Which of the following, if true, most seriously calls into question the explanation given for the thrush's diet during migration‘?
+(A)	Hermit thrushes, if undernourished, are unable to complete their autumn migration before the onset of winter.
+(B)	Insect species contain certain nutrients that are not found in Wild berries.
+(C)	For songbirds, catching insects requires the expenditure of significantly more calories than eating wild berries does.
+(D)	Along the hermit thrushes' migration routes, insects are abundant throughout the migration season.
+(E)	There are some species of wild berries that hermit thrushes generally do not eat, even though these berry species are exceptionally rich in calories.
+---------------------------------
+#CR#62 (100 Very Hard)#B#3100
+A certain cultivated herb is one of a group of closely related plants that thrive in soil with high concentrations of metals that are toxic to most other plants. Agronomists studying the growth of this herb have discovered that it produces large amounts of histidine, an amino acid that, in test - tube solutions, renders these metals chemically inert. Hence, the herb's high histidine production must be the key feature that allows it to grow in metal-rich soils.<br><br>In evaluating the argument, it would be most important to determine which of the following?
+(A)	Whether the herb can thrive in soil that does not have high concentrations of the toxic metals.
+(B)	Whether others of the closely related group of plants also produce histidine in large quantities.
+(C)	Whether the herb's high level of histidine production is associated with an unusually low level of production of some other amino acid
+(D)	Whether growing the herb in soil with high concentrations of the metals will, over time, reduce their concentrations in the soil.
+(E)	Whether the concentration of histidine in the growing herb declines as the plant approaches maturity
+---------------------------------
+#CR#63 (106 Very Hard)#C#3200
+Between 1980 and 2000 the sea otter population of the Aleutian Islands declined precipitously. There were no signs of disease or malnutrition, so there was probably an increase in the number of otters being eaten by predators. Orcas will eat otters when seals, their normal prey, are unavailable, and the Aleutian Islands seal population declined dramatically in the 1980s. Therefore, orcas were most likely the immediate cause of the otter population decline.<br><br>Which of the following, if true, most strengthens the argument‘?
+(A)	The population of sea urchins, the main food of sea otters, has increased since the sea otter population declined.
+(B)	Seals do not eat sea otters, nor do they compete with sea otters for food.
+(C)	Most of the surviving sea otters live in a bay that is inaccessible to orcas.
+(D)	The population of orcas in the Aleutian Islands has declined since the 1980s.
+(E)	An increase in commercial fishing near the Aleutian Islands in the 1980s caused a slight decline in the population of the ?sh that seals use for food.
+---------------------------------
+#CR#64 (109 Very Hard)#A#3300
+In an experiment, each volunteer was allowed to choose between an easy task and a hard task and was told that another volunteer would do the other task. Each volunteer could also choose to have a computer assign the two tasks randomly. Most volunteers chose the easy task for themselves and under questioning later said they had acted fairly. But when the scenario was described to another group of volunteers, almost all said choosing the easy task would be unfair. This shows that most people apply weaker moral standards to themselves than to others.<br><br>Which of the following is an assumption required by this argument?
+(A)	At least some volunteers who said they had acted fairly in choosing the easy task would have said that it was unfair for someone else to do so.
+(B)	The most moral choice for the volunteers would have been to have the computer assign the two tasks randomly.
+(C)	There were at least some volunteers who were assigned to do the hard task and felt that the assignment was unfair.
+(D)	On average, the volunteers to whom the scenario was described were more accurate in their moral judgments than the other volunteers were.
+(E)	At least some volunteers given the choice between assigning the tasks themselves and having the computer assign them felt that they had made the only fair choice available to them.
+---------------------------------
+#CR#65 (121 Very Hard)#E#3400
+In Colorado subalpine meadows, nonnative dandelions co-occur with a native flower, the larkspur. Bumblebees visit both species, creating the potential for interactions between the two species with respect to pollination. In a recent study, researchers selected 16 plots containing both species; all dandelions were removed rom eight plots; the remaining eight control plots were left undisturbed. The control plots yielded significantly more larkspur seeds than the dandelion-free plots, leading the researchers to conclude that the presence of dandelions facilitates pollination (and hence seed production) in the native species by attracting more pollinators to the mixed plots.<br><br>Which of the following, if true, most seriously undermines the researchers' reasoning?
+(A)	Bumblebees preferentially visit dandelions over larkspurs in mixed plots.
+(B)	In mixed plots, pollinators can transfer pollen from one species to another to augment seed production.
+(C)	If left unchecked, nonnative species like dandelions quickly crowd out native species.
+(D)	Seed germination is a more reliable measure of a species' fitness than seed production.
+(E)	Soil disturbances can result in fewer blooms, and hence lower seed production.
+---------------------------------
+#CR#66 (124 Very Hard)#B#3500
+It is widely assumed that people need to engage in intellectual activities such as solving crossword puzzles or mathematics problems in order to maintain mental sharpness as they age. In fact, however, simply talking to other people—that is, participating in social interaction, which engages many mental and perceptual skills—suffices. Evidence to this effect comes from a study showing that the more social contact people report, the better their mental skills.<br><br>Which of the following, if true, most seriously weakens the force of the evidence cited?
+(A)	As people grow older, they are often advised to keep exercising their physical and mental capacities in order to maintain or improve them.
+(B)	Many medical conditions and treatments that adversely affect a person's mental sharpness also tend to increase that person's social isolation.
+(C)	Many people are proficient both in social interactions and in solving mathematical problems.
+(D)	The study did not itself collect data but analyzed data bearing on the issue from prior studies.
+(E)	The tasks evaluating mental sharpness for which data were compiled by the study were more akin to mathematics problems than to conversation.
+---------------------------------
+#SC#67 (2 Easy)#B#100
+<span style="text-decoration: underline">Hurricanes at first begin traveling from east to west, because that direction is the way the prevailing winds in the tropics blow, but</span> they then veer off toward higher latitudes, in many cases changing direction toward the east before dissipating over the colder, more northerly waters or over land.
+(A)	Hurricanes at first begin traveling from east to west, because that direction is the way the prevailing winds in the tropics blow, but
+(B)	At first, hurricanes travel from east to west, because that is the direction of the prevailing winds in the tropics, but
+(C)	While hurricanes travel from east to west at first, the direction of the prevailing winds blowing in the tropics, and
+(D)	Because hurricanes at first travel from east to west, since it is the direction of the prevailing winds in the tropics,
+(E)	Hurricanes, beginning by traveling from east to west, because this is the direction of the prevailing winds in the tropics,
+---------------------------------
+#SC#68 (4 Easy)#C#200
+While Noble Sissle may be best known for his collaboration with Eubie Blake, as both a vaudeville performer <span style="text-decoration: underline">and as a lyricist for songs and Broadway musicals, also enjoying</span> an independent career as a singer with such groups as Hahn's Jubilee Singers.
+(A)	and as a lyricist for songs and Broadway musicals, also enjoying
+(B)	and writing lyrics for songs and Broadway musicals, also enjoying
+(C)	and a lyricist for songs and Broadway musicals, he also enjoyed
+(D)	as well as writing lyrics for songs and Broadway musicals, he also enjoyed
+(E)	as well as a lyricist for songs and Broadway musicals, he had also enjoyed
+---------------------------------
+#SC#69 (7 Easy)#D#300
+From an experiment using special extrasensory perception cards, each bearing one of a set of symbols, parapsychologist Joshep Banks Rhine claimed statistical proof <span style="text-decoration: underline">for subjects who could use thought transference to identify a card in the dealer's hand.</span>
+(A)	for subjects who could use thought transference to identify a card in the dealer's hand
+(B)	for a card in the dealer's hand to be identified by subjects with thought transference
+(C)	of subjects able to identify with thought transference a card in the dealer's hand
+(D)	that subjects could identify a card in the dealer's hand by using thought transference
+(E)	that subjects are capable to use thought transference for identifying a card in the dealer's hand
+---------------------------------
+#SC#70 (10 Easy)#D#400
+A long-term study of some 1,000 physicians indicates that the more coffee these doctors drank, the <span style="text-decoration: underline">more they had a likelihood of coronary disease.</span>
+(A)	more they had a likelihood of coronary disease
+(B)	more was their likelihood of having coronary disease
+(C)	more they would have a likelihood to have coronary disease
+(D)	greater was their likelihood of having coronary disease
+(E)	greater was coronary disease likely
+---------------------------------
+#SC#71 (13 Easy)#C#500
+Although Alice Walker published a number of essays, poetry collections, and stories during the 1970s, her third novel, The Color Purple, <span style="text-decoration: underline">which was published in 1982, brought her the widest acclaim in that it won both the National Book Award as well as the Pulitzer Prize.</span>
+(A)	which was published in 1982, brought her the widest acclaim in that it won both the National Book Award as well as the Pulitzer Prize
+(B)	published in 1982, bringing her the widest acclaim by winning both the National Book Award and the Pulitzer Prize
+(C)	published in 1982, brought her the widest acclaim, winning both the National Book Award and the Pulitzer Prize
+(D)	was published in 1982 and which, winning both the National Book Award and the Pulitzer Prize, brought her the widest acclaim
+(E)	was published in 1982, winning both the National Book Award as well as the Pulitzer Prize, and bringing her the widest acclaim
+---------------------------------
+#SC#72 (18 Easy)#C#600
+Unlike <span style="text-decoration: underline">the nests of leaf cutters and most other ants</span>, situated underground or in pieces of wood, raider ants make a portable nest by entwining their long legs to form "curtains" of ants that hang from logs or boulders, providing protection for the queen and the colony larvae and pupae.
+(A)	the nests of leaf cutters and most other ants
+(B)	the nests of leaf cutters and most other ants, which are
+(C)	leaf cutters and most other ants, whose nests are
+(D)	leaf cutters and most other ants in having nests
+(E)	those of leaf cutters and most other ants with nests
+---------------------------------
+#SC#73 (20 Easy)#D#700
+The commission has directed advertisers to restrict the use of the word natural to foods that do not contain color or flavor additives, chemical preservatives, <span style="text-decoration: underline">or nothing that has been</span> synthesized.
+(A)	or nothing that has been
+(B)	or that has been
+(C)	and nothing that is
+(D)	or anything that has been
+(E)	and anything
+---------------------------------
+#SC#74 (21 Easy)#E#800
+Thai village crafts, <span style="text-decoration: underline">as with</span> other cultures, have developed through the principle that form follows function and incorporate readily available materials fashioned using traditional skills
+(A)	as with
+(B)	as did those of
+(C)	as they have in
+(D)	like in
+(E)	like those of
+---------------------------------
+#SC#75 (23 Easy)#C#900
+<span style="text-decoration: underline">Discussion of greenhouse effects have usually had as a focus the possibility of Earth growing warmer and to what extent it might,</span> but climatologists have indicated all along that precipitation, storminess, and temperature extremes are likely to have the greatest impact on people.
+(A)	Discussion of greenhouse effects have usually had as a focus the possibility of Earth growing warmer and to what extent it might,
+(B)	Discussion of greenhouse effects has usually had as its focus whether Earth would get warmer and what the extent would be,
+(C)	Discussion of greenhouse effects has usually focused on whether Earth would grow warmer and to what extent,
+(D)	The discussion of greenhouse effects have usually focused on the possibility of Earth getting warmer and to what extent it might,
+(E)	The discussion of greenhouse effects has usually focused on whether Earth would grow warmer and the extent that is,
+---------------------------------
+#SC#76 (27 Easy)#A#1000
+In the seventh century B.C., the Roman alphabet was adapted from the Etruscan alphabet, which in turn had been adapted in the previous century from a western Greek alphabet, <span style="text-decoration: underline">which itself had been adapted earlier</span> in the same century from the Phoenician alphabet.
+(A)	which itself had been adapted earlier
+(B)	adapting itself earlier
+(C)	itself being adapted earlier
+(D)	having been earlier adapted itself
+(E)	earlier itself having been adapted
+---------------------------------
+#SC#77 (28 Easy)#C#1100
+With corn, soybean, and wheat reserves <span style="text-decoration: underline">being low enough so</span> a poor harvest would send prices skyrocketing, grain futures brokers and their clients are especially interested in weather that could affect crops.
+(A)	being low enough so
+(B)	so low such that
+(C)	so low that
+(D)	that are low enough so
+(E)	that are so low such that
+---------------------------------
+#SC#78 (31 Medium)#D#1200
+<span style="text-decoration: underline">The remarkable similarity of Thule artifacts throughout a vast region can, in part, be explained as</span> a very rapid movement of people from one end of North America to the other.
+(A)	The remarkable similarity of Thule artifacts throughout a vast region can, in part, be explained as
+(B)	Thule artifacts being remarkably similar throughout a vast region, one explanation is
+(C)	That Thule artifacts are remarkably similar throughout a vast region is, in part, explainable as
+(D)	One explanation for the remarkable similarity of Thule artifacts throughout a vast region is that there was
+(E)	Throughout a vast region Thule artifacts are remarkably similar, with one explanation for this being
+---------------------------------
+#SC#79 (35 Hard)#E#1300
+Traffic safety officials predict that drivers will be <span style="text-decoration: underline">equally likely to exceed the proposed speed limit as</span> the current one.
+(A)	equally likely to exceed the proposed speed limit as
+(B)	equally likely to exceed the proposed speed limit as they are
+(C)	equally likely that they will exceed the proposed speed limit as
+(D)	as likely that they will exceed the proposed speed limit as
+(E)	as likely to exceed the proposed speed limit as they are
+---------------------------------
+#SC#80 (37 Medium)#E#1400
+Not trusting themselves to choose wisely among the wide array of investment opportunities on the market, <span style="text-decoration: underline">stockbrokers are helping many people who turn to them to buy stocks that could be easily</span> bought directly.
+(A)	stockbrokers are helping many people who turn to them to buy stocks that could be easily
+(B)	stockbrokers are helping many people who are turning to them for help in buying stocks that they could easily have
+(C)	many people are turning to stockbrokers for help from them to buy stocks that could be easily
+(D)	many people are turning to stockbrokers for help to buy stocks that easily could have been
+(E)	many people are turning to stockbrokers for help in buying stocks that could easily be
+---------------------------------
+#SC#81 (42 Medium)#E#1500
+In the early part of the twentieth century, many vacationers found that driving automobiles and sleeping in tents allowed them to enjoy nature close at hand and tour at their own pace, <span style="text-decoration: underline">with none of the restrictions of passenger trains and railroad timetables or with the</span> formalities, expenses, and impersonality of hotels.
+(A)	with none of the restrictions of passenger trains and railroad timetables or with the
+(B)	with none of the restrictions of passenger trains, railroad timetables, nor
+(C)	without the restrictions of passenger trains and railroad timetables nor
+(D)	without the restrictions of passenger trains and railroad timetables or with the
+(E)	without the restrictions of passenger trains and railroad timetables or the
+---------------------------------
+#SC#82 (46 Medium)#D#1600
+Over the next few years, increasing demands on the Chattahoochee River, which flows into the Apalachicola River, could alter the saline content of Apalachicola Bay, <span style="text-decoration: underline">which would rob the oysters there of their flavor, and to make them decrease in size,</span> less distinctive, and less in demand.
+(A)	which would rob the oysters there of their flavor, and to make them decrease in size,
+(B)	and it would rob the oysters there of their flavor, make them smaller,
+(C)	and rob the oysters there of their flavor, making them decrease in size,
+(D)	robbing the oysters there of their flavor and making them smaller,
+(E)	robbing the oysters there of their flavor, and making them decrease in size,
+---------------------------------
+#SC#83 (52 Medium)#C#1700
+According to a recent study of consumer spending on prescription medications, increases in the sales of the 50 drugs that were advertised most <span style="text-decoration: underline">heavily accounts for almost half of the $20.8 billion increase in drug spending last year, the remainder of which came</span> from sales of the 9,850 prescription medicines that companies did not advertise or advertised very little.
+(A)	heavily accounts for almost half of the $20.8 billion increase in drug spending last year, the remainder of which came
+(B)	heavily were what accounted for almost half of the $20.8 billion increase in drug spending last year; the remainder of the increase coming
+(C)	heavily accounted for almost half of the $20.8 billion increase in drug spending last year, the remainder of the increase coming
+(D)	heavily, accounting for almost half of the $20.8 billion increase in drug spending last year, while the remainder of the increase came
+(E)	heavily, which accounted for almost half of the $20.8 billion increase in drug spending last year, with the remainder of it coming
+---------------------------------
+#SC#84 (63 Medium)#B#1800
+<span style="text-decoration: underline">Having been named for a mythological nymph who cared for the infant Jupiter, the asteroid named Ida, in the middle of the belt of asteroids that orbit the Sun between Mars and Jupiter, was discovered in 1884.</span>
+(A)	Having been named for a mythological nymph who cared for the infant Jupiter, the asteroid named Ida, in the middle of the belt of asteroids that orbit the Sun between Mars and Jupiter, was discovered in 1884.
+(B)	Discovered in 1884, the asteroid lda, named for a mythological nymph who cared for the infant Jupiter, is in the middle of the belt of asteroids that orbit the Sun between Mars and Jupiter.
+(C)	In the middle of the belt of asteroids that orbit the Sun between Mars and Jupiter, the asteroid lda, discovered in 1884 and named for a mythological nymph who cared for the infant Jupiter.
+(D)	The asteroid Ida, named for a mythological nymph who cared for the infant Jupiter and discovered in 1884, is in the middle of the belt of asteroids to orbit the Sun between Mars and Jupiter.
+(E)	Ida, an asteroid discovered in 1884 and which was named for a mythological nymph who cared for the infant Jupiter, is in the middle of the belt of asteroids to orbit the Sun between Mars and Jupiter.
+---------------------------------
+#SC#85 (66 Medium)#A#1900
+<span style="text-decoration: underline">Covering 71 percent of Earth's surface, the oceans play an essential role in maintaining the conditions for human existence on land, moderating</span> temperature by the absorption of heat and carbon dioxide, and giving pure water back to the atmosphere through evaporation
+(A) Covering 71 percent of Earth's surface, the oceans play an essential role in maintaining the conditions for human existence on land, moderating
+(B)	Covering 71 percent of Earth's Earth's surface and playing an essential role in maintaining the conditions for human existence on land, the oceans moderate
+(C)	The oceans cover 71 percent of Earth's surface and play an essential role in maintaining conditions for human existence on land, and by moderating
+(D)	The oceans cover 71 percent of Earth's surface, play an essential role in mandating the conditions for human existence on land, and moderate
+(E)	The oceans cover 71 percent of Earth's surface, playing an essential role in maintaining the conditions for human existence on land, and they moderate
+---------------------------------
+#SC#86 (73 Medium)#A#2000
+Researchers studying <span style="text-decoration: underline">the brain scans of volunteers who pondered ethical dilemmas have found that the basis for making tough moral judgments is</span> emotion, not logic or analytical reasoning.
+(A)	the brain scans of volunteers who pondered ethical dilemmas have found that the basis for making tough moral judgments is
+(B)	the brain scans of volunteers who pondered ethical dilemmas and found the basis to make tough moral decisions to be
+(C)	the brain scans of volunteers pondering ethical dilemmas and found that the basis for making tough moral decisions is
+(D)	volunteers' brain scans while pondering ethical dilemmas have found the basis to make tough moral judgments to be
+(E)	volunteers' brain scans while they pondered ethical dilemmas have found that the basis for making tough moral judgments is
+---------------------------------
+#SC#87 (80 Medium)#A#2100
+Companies are relying more and more on networked computers for such critical tasks as inventory management, electronic funds transfer, and electronic data interchange, <span style="text-decoration: underline">in which standard business transactions are handled via computer rather than on paper</span>.
+(A)	in which standard business transactions are handled via computer rather than on paper
+(B)	where computers handle standard business transactions rather than on paper
+(C)	in which computers handle standard business transactions instead of on paper
+(D)	where standard business transactions are handled, not with paper, but instead via computer
+(E)	in which standard business transactions are being handled via computer, in place of on paper
+---------------------------------
+#SC#88 (86 Medium)#C#2200
+To map Earth's interior, geologists use a network of seismometers to chart seismic waves that originate in the earth's crust and ricochet around its <span style="text-decoration: underline">interior, most rapidly traveling through cold, dense regions and slower</span> through hotter rocks.
+(A)	interior, most rapidly traveling through cold, dense regions and slower
+(B)	interior, which travel most rapidly through cold, dense regions, and more slowly
+(C)	interior, traveling most rapidly through cold, dense regions and more slowly
+(D)	interior and most rapidly travel through cold, dense regions, and slower
+(E)	interior and that travel most rapidly through cold, dense regions and slower
+---------------------------------
+#SC#89 (90 Hard)#B#2300
+Prices at the producer level are only 1.3 percent higher now <span style="text-decoration: underline">than a year ago and are going down, even though floods in the Midwest and drought in the south are hurting crops and therefore raised</span> corn and soybean prices.
+(A)	than a year ago and are going down, even though floods in the Midwest and drought in the south are hurting crops and therefore raised
+(B)	than those of a year ago, and are going down, even though floods in the Midwest and drought in the south are hurting crops and therefore raising
+(C)	than a year ago and are going down, despite floods in the Midwest and drought in the south, and are hurting crops and therefore raising
+(D)	as those of a year ago and are going down, even though floods in the Midwest and drought in the south hurt crops and therefore raise
+(E)	as they were a year ago and are going down, despite floods in the Midwest and drought in the south, and are hurting crops and therefore raising
+---------------------------------
+#SC#90 (97 Medium)#D#2400
+The 19-year-old pianist and composer performed his most recent work all over Europe, Asia, and North America last year, <span style="text-decoration: underline">winning prestigious awards in both London as well as Tokyo for his achievement at so young an age, and he is hoping</span> to continue composing now that he has returned to Chicago.
+(A)	winning prestigious awards in both London as well as Tokyo for his achievement at so young an age, and he is hoping
+(B)	winning prestigious awards both in London and Tokyo for his achievement at such a young age, and hoping
+(C)	having won prestigious awards both in London and Tokyo for his achievement at so young an age, hoping
+(D)	winning prestigious awards in both London and Tokyo for his achievement at such a young age, and he hopes
+(E)	having won prestigious awards both in London as well as Tokyo for his achievement at so young an age, and he hopes
+---------------------------------
+#SC#91 (101 Easy)#E#2500
+<span style="text-decoration: underline">Similar to other Mississippi Delta blues singers, the music of Robert Johnson arose from an oral tradition beginning with</span> a mixture of chants, fiddle tunes, and religions music and only gradually evolved into the blues.
+(A)	Similar to other Mississippi Delta blues singers, the music of Robert Johnson arose from an oral tradition beginning with
+(B)	Similar to that of other early Mississippi Delta blues singers, Robert Johnson made music that arose from oral tradition that began with
+(C)	As with other early Mississippi Delta blues singers, Robert Johnson made music that arose from an oral tradition beginning as
+(D)	Like other early Mississippi Delta blues singers, Robert Johnson's music arose from an oral tradition beginning with
+(E)	Like the music of other early Mississippi Delta blues singers , the music of Robert Johnson arose from an oral tradition that began as
+---------------------------------
+#SC#92 (111 Hard)#B#2600
+According to recent studies comparing the nutritional value of meat from wild animals and meat from domesticated animals, <span style="text-decoration: underline">wild animals have less total fat than do livestock fed on grain and more of a kind of fat they think is</span> good for cardiac health.
+(A)	wild animals have less total fat than do livestock fed on grain and more of a kind of fat they think is
+(B)	wild animals have less total fat than livestock fed on grain and more of a kind of fat thought to be
+(C)	wild animals have less total fat than that of livestock fed on grain and have more fat of a kind thought to be
+(D)	total fat of wild animals is less than livestock fed on grain and they have more fat of a kind thought to be
+(E)	total fat is less in wild animals than that of livestock fed on grain and more of their fat is of a kind they think is
+---------------------------------
+#SC#93 (116 Medium)#A#2700
+November is traditionally the strongest month for sales of light trucks, <span style="text-decoration: underline">but sales this past November, even when compared with sales in previous Novembers,</span> accounted for a remarkably large share of total vehicle sales.
+(A)	but sales this past November, even when compared with sales in previous Novembers,
+(B)	but even when it is compared with previous Novembers, this past November's sales
+(C)	but even when they are compared with previous Novembers, sales of light trucks this past November
+(D)	so that compared with previous Novembers, sales of light trucks this past November
+(E)	so that this past November's sales, even compared with previous Novembers' sales,
+---------------------------------
+#SC#94 (120 Hard)#D#2800
+The largest of all the planets, <span style="text-decoration: underline">not only is Jupiter three times so massive as Saturn, the next larger</span> planet, but also possesses four of the largest satellites, or moons, in our solar system.
+(A)	not only is Jupiter three times so massive as Saturn, the next larger
+(B)	not only is Jupiter three times as massive as Saturn, the next largest
+(C)	Jupiter, not only three times as massive as Saturn, the next largest
+(D)	Jupiter not only is three times as massive as Saturn, the next largest
+(E)	Jupiter is not only three times so massive as Saturn, the next larger
+---------------------------------
+#SC#95 (124 Hard)#D#2900
+While many of the dinosaur fossils found recently in northeast China seem to provide evidence of the kinship between dinosaurs and birds, the wealth of enigmatic fossils <span style="text-decoration: underline">seem more likely at this stage that they will inflame debates over the origin of birds rather than</span> settle them.
+(A)	seem more likely at this stage that they will inflame debates over the origin of birds rather than
+(B)	seem more likely that it will inflame debates over the origin of birds at this stage than
+(C)	seems more likely to inflame debates on the origin of birds at this stage rather than
+(D)	seems more likely at this stage to inflame debates over the origin of birds than to
+(E)	seems more likely that it will inflame debates on the origin of birds at this stage than to
+---------------------------------
+#SC#96 (126 Hard)#B#3000
+<span style="text-decoration: underline">Found only in the Western Hemisphere and surviving through extremes of climate, hummingbirds' range extends</span> from Alaska to Tierra del Fuego, from sealevel rain forests to the edges of Andean snowfields and ice fields at altitudes of 15,000 feet.
+(A)	Found only in the Western Hemisphere and surviving through extremes of climate, hummingbirds' range extends
+(B)	Found only in the Western Hemisphere, hummingbirds survive through extremes of climate, their range extending
+(C)	Hummingbirds, found only in the Western Hemisphere and surviving through extremes of climate, with their range extending
+(D)	Hummingbirds, found only in the Western Hemisphere and surviving through extremes of climate, their range extends
+(E)	Hummingbirds are found only in the Western Hemisphere, survive through extremes of climate, and their range extends
+---------------------------------
+#SC#97 (128 Hard)#B#3100
+Scientists have recently found evidence that black holes—regions of space in which matter is so concentrated and the pull of gravity so powerful that nothing, not even light, can emerge from them—probably <span style="text-decoration: underline">exist at the core of nearly all galaxies and the mass of each black hole is proportional to its</span> host galaxy.
+(A)	exist at the core of nearly all galaxies and the mass of each black hole is proportional to
+(B)	exist at the core of nearly all galaxies and that the mass of each black hole is proportional to that of
+(C)	exist at the core of nearly all galaxies, and that the mass of each black hole is proportional to
+(D)	exists at the core of nearly all galaxies, and that the mass of each black hole is proportional to that of
+(E)	exists at the core of nearly all galaxies and the mass of each black hole is proportional to that of
+---------------------------------
+#SC#98 (132 Hard)#E#3200
+Almost like clones in their similarity to one another, <span style="text-decoration: underline">the cheetah species' homogeneity makes them especially vulnerable to disease</span>.
+(A)	the cheetah species' homogeneity makes them especially vulnerable to disease
+(B)	the cheetah species is especially vulnerable to disease because of its homogeneity
+(C)	the homogeneity of the cheetah species makes it especially vulnerable to disease
+(D)	homogeneity makes members of the cheetah species especially vulnerable to disease
+(E)	members of the cheetah species are especially vulnerable to disease because of their homogeneity
+---------------------------------
+#SC#99 (133 Hard)#D#3300
+As sources of electrical power, windmills now account for only about 2,500 megawatts nationwide, but production is <span style="text-decoration: underline">almost expected to double by the end of the year, which would provide</span> enough electricity for 1.3 million households.
+(A)	almost expected to double by the end of the year, which would provide
+(B)	almost expected that it will double by the end of the year, thus providing
+(C)	expected that it will almost double by the end of the year to provide
+(D)	expected almost to double by the end of the year and thus to provide
+(E)	expected almost to double by the end of the year, which would thus be providing
+---------------------------------
+#SC#100 (136 Very Hard)#E#3400
+<span style="text-decoration: underline">A ruined structure found at Aqaba, Jordan, was probably a church as indicated in its eastward orientation and by its overall plan, as well as</span> artifacts, such as glass-oil lamp fragments, found at the site.
+(A)	A ruined structure found at Aqaba, Jordan, was probably a church, as indicated in its eastward orientation and by its overall plan, as well as
+(B)	A ruined structure found at Aqaba, Jordan, once probably being a church, was indicated by its eastward orientation, overall plan, and
+(C)	Indicating that a ruined structure found at Aqaba, Jordan, was probably a church were its eastward orientation and overall plan, but also the
+(D)	A ruined structure found at Aqaba, Jordan, was probably a church, as indicates its eastward orientation and overall plan, as well as the
+(E)	That a ruined structure found at Aqaba, Jordan, was probably a church is indicated by its eastward orientation and overall plan, as well as by the
+---------------------------------
+#SC#101 (137 Very Hard)#A#3500
+By 1999, astronomers <span style="text-decoration: underline">had discovered 17 nearby stars that are orbited by planets</span> about the size of Jupiter
+(A)	had discovered 17 nearby stars that are orbited by planets
+(B)	had discovered 17 nearby stars with planets orbiting them that were
+(C)	had discovered that there were 17 nearby stars that were orbited by planets
+(D)	have discovered 17 nearby stars with planets orbiting them that are
+(E)	have discovered that 17 nearby stars are orbited by planets
+---------------------------------
+#SC#102 (138 Very Hard)#D#3600
+<span style="text-decoration: underline">Although she was considered among her contemporaries to be the better poet than her husband, later Elizabeth Barrett Browning was overshadowed by his success.</span>
+(A)	Although she was considered among her contemporaries to be the better poet than her husband, later Elizabeth Barrett Browning was overshadowed by his success.
+(B)	Although Elizabeth Barrett Brwoning was considered among her contemporaries as a better poet than her husband, she was later overshadowed by his success.
+(C)	Later overshadowed by the success of her husband, Elizabeth Barrett Brwoning's poetry had been considered among her contemporaries to be better than that of her husband.
+(D)	Although Elizabeth Barrett Browning's success was later overshadowed by that of her husband, among her contemporaries she was considered the better poet.
+(E)	Elizabeth Barrett Browning's poetry was considered among her contemporaries as better than her husband, but her success was later overshadowed by his.
+---------------------------------

@@ -1,0 +1,601 @@
+####75#QP-1
+#SC#1 (Easy)#E#100
+The concept of the grand jury dates from the twelfth century, when Henry II of England ordered panels of common citizens <span style="text-decoration: underline">should prepare lists of who were their communities’ suspected criminals</span>.
+(A) should prepare lists of who were their communities’ suspected criminals
+(B) would do the preparation of lists of their communities’ suspected criminals
+(C) preparing lists of suspected criminals in their communities
+(D) the preparing of a list of suspected criminals in their communities
+(E) to prepare lists of suspected criminals in their communities
+---------------------------------
+#SC#2 (Easy)#D#200
+Efforts to the funds available to school districts, a major goal of education reformers and many states in the 1970's, <span style="text-decoration: underline">has not significantly reduced the gaps existing</span> between the richest and poorest districts.
+(A) has not significantly reduced the gaps existing
+(B) has not been significant in reducing the gap that exists
+(C) has not made a significant reduction in the gap that exists
+(D) have not significantly reduced the gap that exists
+(E) have not been significant in a reduction of the gaps existing
+---------------------------------
+#SC#3 (Easy)#E#300
+Unlike a typical automobile loan, which requires a fifteen-to twenty-percent down payment, <span style="text-decoration: underline">the lease-loan buyer is not required to make</span> an initial deposit on the new vehicle.
+(A) the lease-loan buyer is not required to make
+(B) with lease-loan buying there is no requirement of
+(C) lease-loan buyers are not required to make
+(D) for the lease-loan buyer there is no requirement of
+(E) a lease-loan does not require the buyer to make
+---------------------------------
+#SC#4 (Easy)#E#400
+The first decision for most tenants living in a building undergoing <span style="text-decoration: underline">being converted to cooperative ownership is if to sign</span> a no-buy pledge with the other tenants.
+(A) being converted to cooperative ownership is if to sign
+(B) being converted to cooperative ownership is whether they should be signing
+(C) being converted to cooperative ownership is whether or not they sign
+(D) conversion to cooperative ownership is if to sign
+(E) conversion to cooperative ownership is whether to sign
+---------------------------------
+#SC#5 (Easy)#B#500
+In Alexandria, the Ptolemys founded a library <span style="text-decoration: underline">so as</span> the written remains of Greek literature could be gathered together and systematized.
+(A) so as
+(B) in which
+(C) and
+(D) whereby
+(E) by which
+---------------------------------
+#SC#6 (Easy)#C#600
+Glaciers form when <span style="text-decoration: underline">the snow, sleet, and hail that fall in a given climatic region exceed the amount capable of being</span> lost through evaporation or melting.
+(A) the snow, sleet, and hail that fall in a given climatic region exceed the amount capable of being
+(B) a given climatic region's fallen snow, sleet, and hail exceeds the amount able to be
+(C) the amount of snow, sleet, and hail that falls in a given climatic region exceeds the amount
+(D) the snow, sleet, and hail in a given region exceeds the amount able to be
+(E) a given climatic region exceeds the amount of snow, sleet, and hail that falls and cannot be
+---------------------------------
+#SC#7 (Easy)#C#700
+It is the powerful compound capsaicin that makes a chili pepper hot; <span style="text-decoration: underline">a single drop that has no taste and odor is capable of detection</span> by humans at one part per million.
+(A) a single drop that has no taste and odor is capable of detection
+(B) a single drop is detectable, though without taste and odor,
+(C) a single tasteless and odorless drop can be detected
+(D) single tasteless and odorless drops are capable of detection
+(E) single drops that have no taste or odor can be detectable
+---------------------------------
+#SC#8 (Easy)#B#800
+The military governors and samurai warriors who ruled Japan were trained <span style="text-decoration: underline">to respect simplicity, be austere, and a ritualized code of observed behavior</span>.
+(A) to respect simplicity, be austere, and a ritualized code of observed behavior
+(B) to respect simplicity, be austere, and observe a ritualized code of behavior
+(C) that they should respect simplicity, be austere, and observe a ritualized code of behavior
+(D) that they should respect simplicity, austerity, and a code of behavior that was ritualized and observed
+(E) in order to respect simplicity, austerity, and a code of behavior that was ritualized and observed
+---------------------------------
+#SC#9 (Easy)#B#900
+Roughly twice each century the planet Venus passes between the Earth and the Sun, an occasion known as a transit of Venus, <span style="text-decoration: underline">during which it makes the outline of the planet</span> visible in stark relief.
+(A) during which it makes the outline of the planet
+(B) during which the outline of the planet becomes
+(C) so that it makes the outline of the planet
+(D) such that during which the of the planet becomes
+(E) such that the outline of the planet becomes
+---------------------------------
+#SC#10 (Easy)#A#1000
+Though the artifacts of pre-Columbian civilization created a stir from the very first European contacts with the New World in the sixteenth century, <span style="text-decoration: underline">it was not until the latter half of the nineteenth century that Western designers, artists, and crafters were inspired to imitate them</span>.
+(A) it was not until the latter half of the nineteenth century that Western designers, artists, and crafters were inspired to imitate them
+(B) they did not inspire imitations of Western designers, artists, and crafters until it was the latter half of the nineteenth century
+(C) not until the latter half of the nineteenth century was it that they have inspired Western designers, artists, and crafters to imitation
+(D) until the latter half of the nineteenth century Western designers, artists, and crafters have not been inspired to imitate
+(E) they were not inspirations of Western designers, artists, and crafters imitations until the latter half of the nineteenth century
+---------------------------------
+#SC#11 (Easy)#C#1100
+On a glacier in the High Himalayas, a Japanese zoologist has found a species of midge <span style="text-decoration: underline">that is unlike any other known insect in its spending</span> its entire life cycle in the snow and ice of a glacier.
+(A) that is unlike any other known insect in its spending
+(B) that is unlike any insect known as it spends
+(C) that, unlike any other known insect, spends
+(D) unlike any insect known because it spends
+(E) unlike any other insect that is known, spending
+---------------------------------
+#SC#12 (Easy)#C#1200
+Shliapentokh’s study indicated that, in the Soviet Union, women's absenteeism from their jobs, despite their home duties and their child-care responsibilities, <span style="text-decoration: underline">were only a fifth of men</span>.
+(A) were only a fifth of men
+(B) were only a fifth of men’s
+(C) was only a fifth of men’s
+(D) was only a fifth of men
+(E) was a fifth only of that of the men
+---------------------------------
+#SC#13 (Easy)#A#1300
+In February 1995, Doris Schopper became president of the international council of Médecins sans Frontiéres, <span style="text-decoration: underline">known in English as "Doctors Without Borders"</span>, the world's largest independent, international, voluntary emergency medical assistance and relief organization.
+(A) known in English as "Doctors Without Borders,"
+(B) the English for "Doctors Without Borders,"
+(C) in English named as "Doctors Without Borders,"
+(D) "Doctors Without Borders," as they are known in English
+(E) or "Doctors Without Borders," which is in English
+---------------------------------
+#SC#14 (Easy)#C#1400
+Restorers say that <span style="text-decoration: underline">if</span> allowed to remove and replace the discolored layer of varnish on the Mona Lisa, the colors Leonardo da Vinci painted nearly five hundred years ago will once again shine through.
+(A) if
+(B) if it is
+(C) if they are
+(D) when
+(E) when it is
+---------------------------------
+#SC#15 (Easy)#A#1500
+After long years of indifferent reception by the scientific community, <span style="text-decoration: underline">Barbara McClintock's subtle work on the genetics of corn has now been acknowledged to be of major importance</span>; her analyses show that movable elements control the action of genes and thus cause mutations.
+(A) Barbara McClintock‘s subtle work on the genetics of corn has now been acknowledged to be of major importance
+(B) Barbara McClintock‘s subtle work on the genetics of corn has now been acknowledged as being major
+(C) it has now been acknowledged that Barbara McCiintock‘s subtle work on the genetics of corn is major in importance
+(D) there is now acknowledgment of Barbara McCintock's subtle work on the genetics of corn as of major importance
+(E) the importance of Barbara McClintock's subtle work on the genetics of corn has now been acknowledged to be major
+---------------------------------
+#SC#16 (Easy)#C#1600
+Nineteenth-century doctors thought that alcohol, when ingested, passed through the stomach into the bloodstream and was broken down only by the liver; recent studies, however, <span style="text-decoration: underline">have led them to conclude</span> that the stomach breaks down up to 20 percent of ingested alcohol before it reaches the liver.
+(A) have led them to conclude
+(B) have led to their conclusion
+(C) have led doctors to conclude
+(D) lead to doctors concluding
+(E) lead to the doctors’ conclusion
+---------------------------------
+#SC#17 (Easy)#C#1700
+Despite the criticism in the early 1890's <span style="text-decoration: underline">that if journalists use pictures the intellectual quality of publications would diminish,</span> by the late 1890's photographs were found in most newspapers and magazines.
+(A) that if journalists use pictures the intellectual quality of publications would diminish,
+(B) that if journalists use pictures it will diminish the intellectual quality of publications,
+(C) that the use of pictures by journalists would diminish the intellectual quality of publications,
+(D) of the intellectual quality of publications being diminished by the use of pictures by journalists,
+(E) of the use of pictures by journalists diminishing the intellectual quality of publications,
+---------------------------------
+#SC#18 (Easy)#D#1800
+The airline's proposed purchases of as many as 250 medium-range planes will probably be the basis of an overhaul of its routes; <span style="text-decoration: underline">it is expected that they will increase the number of direct point-to-point flights, instead of continue</span> to use feeder aircraft to bring passengers to major hubs.
+(A) it is expected that they will increase the number of direct point-to-point flights, instead of continue
+(B) it is expected that it will increase the number of direct point-to-point flights, rather than to continue
+(C) it is expected that the number of direct point-to-point flights will increase, instead of their continuing
+(D) the airline is expected to increase the number of direct point-to-point flights, rather than continue
+(E) the airline is expected to increase the number of direct point-to-point flights, instead of its continuing
+---------------------------------
+#SC#19 (Easy)#E#1900
+In contrast to <span style="text-decoration: underline">India, where many early followers of Buddhism were itinerants travelling the countryside to disseminate the Buddha's teachings, those in China</span> lived in monastic communities in which rules were developed for purposes of administrative organization, discipline, and the management of monastic lands and properties.
+(A) India, where many early followers of Buddhism were itinerants travelling the countryside to disseminate the Buddha's teachings, those in China
+(B) Buddhism’s early followers in India, many of whom were itinerants who travelled the countryside and were disseminating the Buddha's teachings, in China they
+(C) Buddhism in India, with early followers who were itinerants, and many of them travelling the countryside and disseminating the Buddha's teachings, China's early followers of Buddhism
+(D) early followers of Buddhism in India, who were itinerants, many of them travelling the countryside, and they disseminated the Buddha's teachings, in China they
+(E) early followers of Buddhism in India, many of whom were itinerants travelling the countryside in order to disseminate the Buddha's teachings, those in China
+---------------------------------
+#SC#20 (Medium)#D#2000
+<span style="text-decoration: underline">Unlike computer skills or other technical skills, there is a disinclination on the part of many people to recognize the degree to which their analytical skills are weak</span>.
+(A) Unlike computer skills or other technical skills, there is a disinclination on the part of many people to recognize the degree to which their analytical skills are weak.
+(B) Unlike computer skills or other technical skills, which they admit they lack, many people are disinclined to recognize that their analytical skills are weak.
+(C) Unlike computer skills or other technical skills, analytical skills bring out a disinclination in many people to recognize that they are weak to a degree.
+(D) Many people, willing to admit that they lack computer skills or other technical skills, are disinclined to recognize that their analytical skills are weak.
+(E) Many people have a disinclination to recognize the weakness of their analytical skills while willing to admit their lack of computer skills or other technical skills.
+---------------------------------
+#SC#21 (Medium)#E#2100
+Displays of the aurora borealis, or "northern fights", can heat the atmosphere over the arctic enough <span style="text-decoration: underline">to affect the trajectories of ballistic missiles, induce</span> electric currents that can cause blackouts in some areas and corrosion in north-south pipelines.
+(A) to affect the trajectories of ballistic missiles, induce
+(B) that the trajectories of ballistic missiles are affected, induce
+(C) that it affects the trajectories of ballistic missiles, induces
+(D) that the trajectories of missiles are affected and induces
+(E) to affect the trajectories of ballistic missiles and induce
+---------------------------------
+#SC#22 (Medium)#E#2200
+If the proposed expenditures for gathering information abroad are reduced even further, international news reports <span style="text-decoration: underline">have been and will continue to diminish</span> in number and quality.
+(A) have been and will continue to diminish
+(B) have and will continue to diminish
+(C) will continue to diminish, as they already did,
+(D) continue to diminish, as they have already,
+(E) will continue to diminish
+---------------------------------
+#SC#23 (Medium)#D#2300
+Visitors to the park have often looked up into the leafy canopy and <span style="text-decoration: underline">saw monkeys sleeping on the branches, whose arms and legs hang</span> like socks on a clothesline.
+(A) saw monkeys sleeping on the branches, whose arms and legs hang
+(B) saw monkeys sleeping on the branches, whose arms and legs were hanging
+(C) saw monkeys sleeping on the branches, with arms and legs hanging
+(D) seen monkeys sleeping on the branches, with arms and legs hanging
+(E) seen monkeys sleeping on the branches, whose arms and legs have hung
+---------------------------------
+#SC#24 (Medium)#B#2400
+While larger banks can afford to maintain their own data-processing operations, many smaller regional and community banks are finding that the <span style="text-decoration: underline">cost associated with</span> upgrading data-processing equipment and with the development and maintenance of new products and technical staff are prohibitive.
+(A) cost associated with
+(B) costs associated with
+(C) costs arising from
+(D) cost of
+(E) costs of
+---------------------------------
+#SC#25 (Medium)#D#2500
+The financial crash of October 1987 demonstrated that the world's capital markets are <span style="text-decoration: underline">integrated more closely than never before and</span> events in one part of the global village may be transmitted to the rest of the village—almost instantaneously.
+(A) integrated more closely than never before and
+(B) closely integrated more than ever before so
+(C) more closely integrated as never before while
+(D) more closely integrated than ever before and that
+(E) more than ever before closely integrated as
+---------------------------------
+#SC#26 (Medium)#C#2600
+Architects and stonemasons, <span style="text-decoration: underline">huge palace and temple clusters were built by the Maya without benefit of the wheel or animal transport</span>.
+(A) huge palace and temple clusters were built by the Maya without benefit of the wheel or animal transport
+(B) without the benefits of animal transport or the wheel, huge palace and temple clusters were built by the Maya
+(C) the Maya built huge palace and temple clusters without the benefit of animal transport or the wheel
+(D) there were built, without the benefit of the wheel or animal transport, huge palace and temple clusters by the Maya
+(E) were the Maya who, without the benefit of the wheel or animal transport, built huge palace and temple clusters
+---------------------------------
+#SC#27 (Medium)#A#2700
+The Coast Guard is conducting tests <span style="text-decoration: underline">to see whether pigeons can be trained to help find</span> survivors of wrecks at sea.
+(A) to see whether pigeons can be trained to help find
+(B) to see whether pigeons can be trained as help to find
+(C) to see if pigeons can be trained for helping to find
+(D) that see if pigeons are able to be trained in helping to find
+(E) that see whether pigeons are able to be trained for help in finding
+---------------------------------
+#SC#28 (Medium)#C#2800
+The golden crab of the Gulf of Mexico has not been fished commercially in great numbers, primarily <span style="text-decoration: underline">on account of living</span> at great depths—2,500 to 3,000 feet down.
+(A) on account of living
+(B) on account of their living
+(C) because it lives
+(D) because of living
+(E) being they live
+---------------------------------
+#SC#29 (Medium)#E#2900
+<span style="text-decoration: underline">In Holland, a larger percentage of the gross national product is spent on defense of their coasts from rising seas than is spent on military defense in the United States.</span>
+(A) In Holland, a larger percentage of the gross national product is spent on defense of their coasts from rising seas than is spent on military defense in the United States.
+(B) In Holland they spend a larger percentage of their gross national product on defending their coasts from rising seas than the United States does on military defense.
+(C) A larger percentage of Holland's gross national product is spent on defending their coasts from rising seas than the United States spends on military defense.
+(D) Holland spends a larger percentage of its gross national product defending its coasts from rising seas than the defense spending of the United States.
+(E) Holland spends a larger percentage of its gross national product on defending its coasts from rising seas than the United States does on military defense.
+---------------------------------
+#SC#30 (Medium)#B#3000
+A recent poll of elected officials suggests that candidates, when in the midst of a tough campaign, often make statements about an opponent that they may not think <span style="text-decoration: underline">is</span> true.
+(A) is
+(B) are
+(C) to be
+(D) of as
+(E) it is
+---------------------------------
+#SC#31 (Medium)#A#3100
+Over the past few years, <span style="text-decoration: underline">banks have systematically raised their old fees and invented new ones that are harder and harder for consumers to avoid</span>.
+(A) banks have systematically raised their old fees and invented new ones that are harder and harder for consumers to avoid
+(B) banks are systematically raising their old fees and inventing new ones that become harder and harder for consumers to avoid
+(C) banks systematically raising old fees and inventing new ones make them harder and harder for consumers to avoid
+(D) as banks systematically raised their old fees and invented new ones, avoiding them becomes harder and harder for consumers
+(E) as banks have systematically raised their old fees and invented new ones, it is becoming harder and harder for consumers to avoid them
+---------------------------------
+#SC#32 (Medium)#D#3200
+The auto company attributed its recent increase in profits <span style="text-decoration: underline">to both its introduction of new models in North America that are less expensive in their manufacture and to success in</span> making its factories more efficient.
+(A) to both its introduction of new models in North America that are less expensive in their manufacture and to success in
+(B) to both its introduction of new models in North America that are less expensive in manufacturing and success in its
+(C) to both its introducing new models in North America that are less expensive in manufacturing and to success in
+(D) both to its introduction of new models in North America that are less expensive to manufacture and to success in
+(E) both to its introducing new models in North America that are less expensive in their manufacturing and to success in its
+---------------------------------
+#SC#33 (Medium)#B#3300
+The infant mortality rate has decreased steadily over the past decades and is <span style="text-decoration: underline">now at a lower rate than</span> ever before.
+(A) now at a lower rate than
+(B) now lower than
+(C) now a lower rate than
+(D) presently lower than it was
+(E) presently lower than the rate was
+---------------------------------
+#SC#34 (Medium)#C#3400
+A row of upright fan-shaped plates running down the spine provided the Stegosaurus dinosaur with an especially efficient solar heating and cooling system <span style="text-decoration: underline">to allow them to move comfortably</span> through different climatic regions.
+(A) to allow them to move comfortably
+(B) to allow it a comfortable movement
+(C) that allowed it to move comfortably
+(D) that allowed their comfortable movement
+(E) allowing them to move comfortably
+---------------------------------
+#SC#35 (Medium)#C#3500
+The possible long-term health risks to airline personnel <span style="text-decoration: underline">who repeatedly cross multiple time zones has been a concern since the first jet transports went</span> into service in the 1950s.
+(A) who repeatedly cross multiple time zones has been a concern since the first jet transports went
+(B) who are repeatedly crossing multiple time zones has been a concern since the first jet transports that went
+(C) who repeatedly cross multiple time zones have been a concern since the first jet transports went
+(D) repeatedly crossing multiple time zones has been a concern since the first jet transports went
+(E) repeatedly crossing multiple time zones have been a concern since the first jet transports going
+---------------------------------
+#SC#36 (Medium)#D#3600
+In a state of pure commercial competition, there would be a large number of producing firms, all unfettered by governmental regulations, <span style="text-decoration: underline">all seeking to meet consumer needs and wants more successfully than each other</span>.
+(A) all seeking to meet consumer needs and wants more successfully than each other
+(B) all seeking more successfully to meet consumer needs and wants than the others
+(C) each seeking to meet consumer needs and wants more successfully than one another
+(D) each seeking to meet consumer needs and wants more successfully than the others
+(E) each seeking more successfully to meet consumer needs and wants than another
+---------------------------------
+#SC#37 (Medium)#E#3700
+In the English-speaking world Anton Chekhov is <span style="text-decoration: underline">by far better known for his plays than for his short stories, but it was during his lifetime that</span> Chekhov’s stories made him popular while his plays were given a more ambivalent reception, even by his fellow writers.
+(A) by far better known for his plays than for his short stories, but it was during his lifetime that
+(B) by far better known for his plays than he was for his short stories, but during his lifetime
+(C) known far better for his plays than he was for his short stories, but during his lifetime it was
+(D) far better known for his plays than were his short stories, but it was during his lifetime that
+(E) far better known for his plays than for his short stories, but during his lifetime
+---------------------------------
+#SC#38 (Medium)#A#3800
+Now generally regarded as a forgery, the Kensington Rune Stone, a 90-kilogram slab of inscribed rock discovered in Minnesota in 1898, <span style="text-decoration: underline">was said to have recorded an encounter between Native Americans and Norse explorers in 1362 and thus was cited as evidence that Europeans explored</span> North America in pre-Columbian times.
+(A) was said to have recorded an encounter between Native Americans and Norse explores in 1362 and thus was cited as evidence that Europeans explored
+(B) was said to record an encounter between Native Americans and Norse explorers in 1362, thus being cited as evidence for European exploration of
+(C) said to have recorded an encounter between Native Americans and Norse explorers in 1362, and thus cited as evidence for European exploration of
+(D) which was said to record an encounter between Native Americans and Norse explorers in 1362, and thus cited as evidence that Europeans explored
+(E) which, said to have recorded an encounter between Native Americans and Norse explorers in 1362, was thus cited as evidence for Europeans exploring
+---------------------------------
+#SC#39 (Medium)#D#3900
+In his experiments with gravity, Isaac Newton showed how the motion of each planet in the solar system results from the combined gravitational pull of the Sun and <span style="text-decoration: underline">of all the other planets, each contributing according to their</span> mass and distance from the others.
+(A) of all the other planets, each contributing according to their
+(B) of all the other planets, with each of them contributing according to their
+(C) all the other planets, each of which contributing according to its
+(D) all the other planets, each contributing according to its
+(E) all the other planets, each of which contribute according to their
+---------------------------------
+#SC#40 (Medium)#C#4000
+The region of Norden is comprised of five sovereign states, each of <span style="text-decoration: underline">which recognize a stronger cultural bond to their Nordic neighbors than to</span> any other cultural grouping.
+(A) which recognize a stronger cultural bond to their Nordic neighbors than to
+(B) which recognize a stronger cultural bond with their Nordic neighbors than
+(C) which recognizes a stronger cultural bond with its Nordic neighbors than with
+(D) them recognizing a stronger cultural bond with its Nordic neighbors than they have with
+(E) them recognizing a stronger cultural bond to their Nordic neighbors than they have to
+---------------------------------
+#SC#41 (Medium)#C#4100
+Contemporary cognitive scientists maintain that emotions, which are biological functions, evolved in the nervous system to help animals survive in hostile environments and <span style="text-decoration: underline">procreate, and feelings are products of the conscious mind, reflecting</span> the interpretation of emotions.
+(A) procreate, and feelings are products of the conscious mind, reflecting
+(B) procreate, and that feelings, as products of the conscious mind, reflecting
+(C) procreate, and that feelings, which are products of the conscious mind, reflect
+(D) to procreate, and feelings are products of the conscious mind, which reflect
+(E) to procreate, and that feelings, which are products of the conscious mind, reflecting
+---------------------------------
+#SC#42 (Medium)#D#4200
+Unlike <span style="text-decoration: underline">many other countries, Thailand's commercial crafts are influenced both by</span> ancient beliefs and tradition and have remained relatively unchanged over the years.
+(A) many other countries, Thailand's commercial crafts are influenced both by
+(B) many other countries, commercial crafts in Thailand have as an influence both
+(C) the commercial crafts of many other countries, in Thailand they are influenced both by
+(D) the commercial crafts of many other countries, those of Thailand are influenced by both
+(E) in many other countries, Thailand's commercial crafts have as an influence both
+---------------------------------
+#SC#43 (Medium)#A#4300
+The typical size difference between males and females has lessened since the origins of the human species because <span style="text-decoration: underline">the size increase in males has been slight while the size increase in females has been great</span>.
+(A) the size increase in males has been slight while the size increase in females has been great
+(B) the male size increase has been slight and because it has been great in females
+(C) the size increase had been slight for males but great for females
+(D) of the size increase being slight for males for females it was great
+(E) of slightly increasing the male size while greatly increasing it in females
+---------------------------------
+#SC#44 (Medium)#C#4400
+<span style="text-decoration: underline">In 1982, archaeologists recovered Henry VIII's ship Mary Rose, which, having sunk in 1545, with more than 17,000 artifacts on board</span>, everything from arrows and longbows to a barber-surgeon's chest containing items commonly used by sixteenth-century medics.
+(A) In 1982, archaeologists recovered Henry VIII’s ship Mary Rose, which, having sunk in 1545, with more than 17,000 artifacts on board,
+(B) Henry ship Mary Rose sank in 1545 and, recovered by archaeologists in 1982, they found more than 17,000 artifacts on board,
+(C) When Henry ship Mary Rose, which sank in 1545, was recovered in 1982, archaeologists found more than 17,000 artifacts on board,
+(D) Having sunk in 1545, Henry VIII's ship Mary Rose was recovered in 1982 by archaeologists, finding more than 17,000 artifacts on board, with
+(E) Finding more than 17,000 artifacts on board, Henry ship Mary Rose, which sank in 1545, was recovered in 1982 by archaeologists and it had
+---------------------------------
+#SC#45 (Medium)#D#4500
+In undisturbed primary forests, the Honduran mahogany grows <span style="text-decoration: underline">up to a height of 130 feet, having a buttressed trunk and a crown that spread</span> over the canopy of lesser trees.
+(A) up to a height of 130 feet, having a buttressed trunk and a crown that spread
+(B) up to 130 feet in height, and with a buttressed trunk and a crown spreading
+(C) to as high as 130 feet in height, having a buttressed trunk and with a crown that spread
+(D) to a height of 130 feet, with a buttressed trunk and with a crown that spreads
+(E) as high a height as 130 feet, having a buttressed trunk and a crown spreading
+---------------------------------
+#SC#46 (Medium)#E#4600
+While recognizing that lying often facilitates social interactions, psychiatrists are seeking to determine when <span style="text-decoration: underline">they become destructive and which kinds of mental problems they can signal</span>.
+(A) they become destructive and which kinds of mental problems they can signal
+(B) they become destructive and the mental problems that are signaled by them
+(C) it becomes destructive and what are the kinds of mental problems they signal
+(D) it becomes destructive and the mental problems that are signaled by it
+(E) it becomes destructive and which kinds of mental problems it can signal
+---------------------------------
+#SC#47 (Medium)#C#4700
+The rain has flooded drainage canals in many orange-tree groves, <span style="text-decoration: underline">which has caused the fruit to fall before it ripen and also threatened to kill</span> the trees.
+(A) which has caused the fruit to fall before it will ripen and also threatened to kill
+(B) which not only caused the fruit to fall before ripening, but also threatened killing
+(C) not only causing the fruit to fall before ripening, but also threatening to kill
+(D) causing the fruit to fall before it will ripen, which will threaten killing
+(E) causing the fruit to have fallen before it ripened, which threatened to kill
+---------------------------------
+#SC#48 (Medium)#B#4800
+In 1926, in her second attempt to swim across the English Channel, Gertrude Ederle not only crossed the Channel against currents that forced her to swim thirty-five miles instead of the minimal twenty-one, <span style="text-decoration: underline">but she set a record for speed as well, by swimming the distance in almost two hours faster than anyone had yet done</span>.
+(A) but she set a record for speed as well, by swimming the distance in almost two hours faster than anyone had yet done
+(B) but also set a record for speed, swimming the distance almost two hours faster than anyone had yet done
+(C) but also swam the distance in almost two hours faster than anyone had yet done, and setting a record for speed
+(D) but also setting a record for speed by swimming the distance in almost two hours faster than anyone had yet done
+(E) but, swimming the distance almost two hours faster than anyone had yet done, she also set a record for speed
+---------------------------------
+#SC#49 (Medium)#B#4900
+Even though interest rates rose last year, <span style="text-decoration: underline">they were not nearly as high as the early 1980s, when</span> the economy tumbled into a recession and markets were depressed.
+(A) they were not nearly as high as the early 1980s, when
+(B) they were not nearly as high as interest rates in the early 1980s, when
+(C) they were not nearly at the levels they were in the early 1980s, at the time when
+(D) they had not approached the high levels of the early 1980s, during the time in which
+(E) the high levels of the 1980s were not being approached, when
+---------------------------------
+#SC#50 (Medium)#C#5000
+In build-to-suit projects, developers design and construct to meet the needs of a primary tenant, who pays the developer a marginal fee for design and construction work and agrees to buy the completed building or <span style="text-decoration: underline">will occupy all or most of it</span> in exchange for a favorable long-term lease.
+(A) will occupy all or most of it
+(B) will occupy all of it, or most of it,
+(C) to occupy all or most of it
+(D) occupy all of it, or most,
+(E) they will occupy all of it, or most,
+---------------------------------
+#SC#51 (Medium)#A#5100
+Reptiles, by drawing their body heat directly from the Sun <span style="text-decoration: underline">rather than burning calories to generate it</span>, can survive on ten percent of the nourishment that a mammal of similar size would normally require.
+(A) rather than burning calories to generate it
+(B) rather than the generation of body heat by burning calories
+(C) and not from generating it by burning calories
+(D) instead of by burning calories for generating it
+(E) instead of body heat generated by burning calories
+---------------------------------
+#SC#52 (Medium)#A#5200
+The industrial pollutants known as PCB’s were first manufactured in 1929 and were used as coolants for electrical equipment in Europe and North America until the 1970s, when studies showed <span style="text-decoration: underline">that the compounds had entered the food chain and were harmful to some animals</span>.
+(A) that the compounds had entered the food chain and were harmful to some animals
+(B) the compounds to have entered the food chain and be harmful to some animals
+(C) the entry of the compounds into the food chain as harmful to some animals
+(D) the entry of the compounds into the food chain and its harmfulness to animals
+(E) the compounds entering into the food chain and harming some animals
+---------------------------------
+#SC#53 (Medium)#B#5300
+A recent survey showed that while many banks have service charges on interest-bearing and non-interest-bearing accounts <span style="text-decoration: underline">with balances that are falling below</span> a set minimum, some banks provide virtually free checking regardless of the account balance.
+(A) with balances that are falling below
+(B) whose balances fall below
+(C) whose balances fall below that of
+(D) that have balances below that of
+(E) that have balances that fall below those of
+---------------------------------
+#SC#54 (Medium)#C#5400
+Antipoverty initiatives have had to contend with two decades of economic shifts <span style="text-decoration: underline">that have depressed wages of workers with little or no technical skills</span>.
+(A) that have depressed wage of workers with little or no technical skills
+(B) having depressed wages of workers with little or no technical skills
+(C) that have depressed the wages of workers with few or no technical skills
+(D) in which the workers’ wages with few or no technical skills have been depressed
+(E) in that workers with few or no technical skills have wages that are depressed
+---------------------------------
+#SC#55 (Medium)#A#5500
+Though widely used for decades to fuel home heating systems, utility boilers, and industrial furnaces, <span style="text-decoration: underline">natural gas has accounted for far less of the energy consumed in the United States than has oil</span>.
+(A) natural gas has still accounted for far less of the energy consumed in the United States than has oil
+(B) natural gas has still accounted for far less of the energy consumed in the United States as oil
+(C) natural gas still has accounted for far less of the energy consumed in the United States as oil has
+(D) still far less of the energy consumed in the United States has been accounted for by natural gas as by oil
+(E) still far less of the energy consumed in the United States has been accounted for by natural gas than has oil
+---------------------------------
+#SC#56 (Medium)#D#5600
+<span style="text-decoration: underline">Like humans and other warm-blooded animals, researchers report that the lotus has the remarkable ability of keeping its temperature in a narrow range</span>.
+(A) Like humans and other warm-blooded animals, researchers report that the lotus has the remarkable of keeping its temperature in a narrow range.
+(B) Researchers report that within a narrow range, the lotus has the remarkable ability to keep its temperature humans and other warm-blooded animals do.
+(C) Researchers report that the lotus has the remarkable ability of keeping its temperature to a narrow range, as humans and other warm-blooded animals can.
+(D) Researchers report that the lotus has the remarkable ability to keep its temperature within a narrow range, as do humans and other warm-blooded animals.
+(E) As humans and other warm-blooded animals can, researchers report that the lotus has the remarkable of keeping its temperature in a narrow range.
+---------------------------------
+#SC#57 (Medium)#B#5700
+Since digital recording offers essentially perfect reproduction—on compact discs, digital audiotapes, or digital videodiscs—audiophiles can accumulate vast collections of <span style="text-decoration: underline">music, transferring them from one format to another, copying it, and digitally altering it with little effort and not damaging</span> the sound quality.
+(A) music, transferring them from one format to another, copying it, and digitally altering it with little effort and not damaging
+(B) music, transferring it from one format to another, copying it, and digitally altering it with little effort and no damage to
+(C) music, transferring them from one format to another, copy them, and digitally alter them with little effort and no damage to
+(D) music and transfer it from one format to another, copy it, and then digitally altering it with little effort and not damaging
+(E) music and transfer it from one format to another, copying it, and digitally alter it with little effort and no damage to
+---------------------------------
+#SC#58 (Medium)#E#5800
+The Scandinavian assault on Western Europe culminated in the early eleventh century with the Danish conquest of the English kingdom, <span style="text-decoration: underline">which other Scandinavian kings attempted to repeat, unsuccessfully later in the same century</span>.
+(A) which other Scandinavian kings attempted to repeat, unsuccessfully, later in the same century
+(B) which other Scandinavian kings attempted to repeat later that same century, but not successfully
+(C) an achievement that other Scandinavian kings attempted later in the century to repeat, but were not successful at it
+(D) an achievement attempted later in the century by other Scandinavian kings that was not successful
+(E) an achievement that other Scandinavian kings attempted to repeat later in the century, but without success
+---------------------------------
+#SC#59 (Medium)#C#5900
+On the surface of Jupiter's moon Europa, water remains frozen, but the gravitational force of Jupiter and its other <span style="text-decoration: underline">moons cause contractions that may generate so much heat that it would melt</span> ice below Europa’s surface.
+(A) moons cause contractions that may generate so much heat that it would melt
+(B) moons cause contractions, with enough heat generated for melting
+(C) moons causes contractions that may generate enough heat to melt
+(D) moons, causing contractions, may generate so much heat to melt
+(E) moons, which causes contractions, may generate enough heat for melting
+---------------------------------
+#SC#60 (Hard)#A#6000
+<span style="text-decoration: underline">A recording system was so secretly installed and operated in the Kennedy Oval Office that</span> even Theodore C. Sorensen, the White House counsel, did not know it existed.
+(A) A recording system was so secretly installed and operated in the Kennedy Oval Office that
+(B) So secret was a recording system installation and operation in the Kennedy Oval Office
+(C) It was so secret that a recording system was installed and operated in the Kennedy Oval Office
+(D) A recording system that was so secretly installed and operated in the Kennedy Oval Office
+(E) Installed and operated so secretly in the Kennedy Oval was a recording system that
+---------------------------------
+#SC#61 (Hard)#B#6100
+Sculpted boulders found at Lepenski <span style="text-decoration: underline">Vir, an example of the earliest monumental art known from central and western Europe, includes</span> 15 figures with human features similar to Upper Paleolithic forms and to Middle Eastern Nantufian stone figurines.
+(A) Vir, an example of the earliest monumental art known from central and western Europe, includes
+(B) Vir, examples of the earliest monumental art known from central and western Europe, include
+(C) Vir, earliest of monumental art known from central and western Europe, include
+(D) Vir are examples of the earliest monumental art known from central and western Europe and includes
+(E) Vir are examples of the earliest monumental art known from central and western Europe, including
+---------------------------------
+#SC#62 (Hard)#C#6200
+Narwhals can be called whales of the ice: in icy channels, ponds, and ice-shielded bays they seek sanctuary from killer whales, their chief predator, and <span style="text-decoration: underline">their annual migrations following</span> the seasonal rhythm of advancing and retreating ice.
+(A) their annual migrations following
+(B) their annual migrations which follow
+(C) their annual migrations follow
+(D) whose annual migrations following
+(E) whose annual migrations follow
+---------------------------------
+#SC#63 (Hard)#C#6300
+Naked mole rats form colonies of approximately twenty animals, <span style="text-decoration: underline">each of which consists</span> of a single reproductive female and workers that defend her.
+(A) each of which consists
+(B) with each of them consisting
+(C) each colony consisting
+(D) and each of them consist
+(E) and each colony consisting
+---------------------------------
+#SC#64 (Hard)#C#6400
+Although beavers can still be found throughout the western United States, <span style="text-decoration: underline">their number has declined compared with</span> the eighteenth century, when the abundance of beavers lured armies of European trappers into the Rocky Mountain region to slaughter them for their pelts.
+(A) their number has declined compared with
+(B) their numbers have compared with
+(C) their numbers have declined since
+(D) their numbers have in comparison to those of
+(E) the number of them declined since
+---------------------------------
+#SC#65 (Hard)#A#6500
+In order to conserve the energy and heat they need to spend the entire winter sitting motionless over incubating eggs, male emperor penguins huddle over the nests in groups, <span style="text-decoration: underline">thereby reducing the rate at which they burn energy so that it is 25 percent lower than it would be for</span> isolated birds.
+(A) thereby reducing the rate at which they burn energy so that it is 25 percent lower than it would be for
+(B) thereby reducing their rate of burning energy it is 25 percent lower when compared with
+(C) and they thereby reduce by 25 percent the rate they burn energy, as compared to what it would be with
+(D) which thereby reduces by 25 percent their rate of burning energy, when comparing them to
+(E) which thereby reduces the rate they burn energy so that it is 25 percent lower than
+---------------------------------
+#SC#66 (Hard)#A#6600
+Unlike amateur clammers, who usually dig clams by hand during the summer, professional clammers <span style="text-decoration: underline">work year-round, using all-weather instruments such as the hydraulic dredge or a 20-foot-long implement known as a bull rake</span>.
+(A) work year-round, using all-weather instruments such as the dredge or a 20-foot-long implement known as a bull rake
+(B) work year-round by using all-weather instruments like hydraulic dredges or 20-foot-long implements known as a bull rake
+(C) working year-round and using such all-weather instruments as a hydraulic dredge or a 20-foot-long implement known as a bull rake
+(D) working year-round use all-weather instruments like hydraulic dredges or 20-foot-long implements known as a bull rake
+(E) work year-round using all-weather instruments, for example, a dredge or 20-foot-long implements known as bull rakes
+---------------------------------
+#SC#67 (Hard)#D#6700
+<span style="text-decoration: underline">Without adequate amounts of sleep, people's newly acquired skills and also</span> new factual information may not get properly encoded into their memory circuits.
+(A) Without adequate amounts of sleep, people's newly acquired skills and also
+(B) Without the adequate amount of sleep they need, people's newly acquired skills and even
+(C) If they do not have adequate amounts of sleep, people's newly acquired skills and even
+(D) If people do not get adequate amounts of sleep, newly acquired skills and even
+(E) If people do not get the adequate amount of sleep they need, newly acquired and also
+---------------------------------
+#SC#68 (Hard)#A#6800
+Geologists have found that streams in the Karoo basin of South Africa changed suddenly at the end of the Permian period 250 million years ago, <span style="text-decoration: underline">from the meandering shape typically found in well-vegetated zones to the braided pattern found in areas without deep-rooted vegetation to hold</span> the soil together.
+(A) from the meandering shape typically found in well-vegetated zones to the braided pattern found in areas without deep-rooted vegetation to hold
+(B) from the meandering shape typically found in well-vegetated zones to the braided pattern that they find in areas without deep-rooted vegetation for holding
+(C) from the meandering shape typical in well-vegetated zones to the braided pattern found in areas where it is without deep-rooted vegetation for holding
+(D) shifting from the meandering shape typically found in well-vegetated zones to the braided pattern found in areas where it is without deep-rooted vegetation for holding
+(E) shifting from the meandering shape that is typical in well-vegetated zones to the braided pattern being found in areas without deep-rooted vegetation to hold
+---------------------------------
+#SC#69 (Hard)#D#6900
+Laboratory rats and mice live up to 40 percent longer than usual when fed a diet <span style="text-decoration: underline">of at least 30 percent fewer calories than that which they would normally eat, but that otherwise</span> contains all necessary vitamins and nutrients.
+(A) of at least 30 percent fewer calories than that which they would normally eat, but that otherwise
+(B) with at least 30 percent fewer calories than what they would normally eat though otherwise it
+(C) that has at least 30 percent fewer of the calories that they would normally eat, but otherwise it
+(D) that has at least 30 percent fewer calories than they would normally eat but that otherwise
+(E) that has at least 30 percent fewer calories than that which they would normally eat, though that otherwise
+---------------------------------
+#SC#70 (Hard)#E#7000
+In July 1965 Mariner IV passed by Mars and took the first-ever close-up photographs of another planet, <span style="text-decoration: underline">which showed that the Martian surface was like that of the Moon's in that it was pockmarked by moonlike craters and was dry and apparently dead</span>.
+(A) which showed that the Martian surface was like that of the Moon's in that it was pockmarked by moonlike craters and was dry and apparently dead
+(B) which showed a dry, apparently dead Martian surface, and it was pockmarked by craters like the Moon has
+(C) which showed the Martian surface as a dry, apparently dead one, which was pockmarked with craters such as the Moon's
+(D) photos showing the Martian surface to be that of the Moon's, dry and apparently dead, and it was pockmarked by moonlike craters
+(E) photos that showed a dry, apparently dead Martian surface pockmarked with craters like those on the Moon
+---------------------------------
+#SC#71 (Hard)#C#7100
+Inhospitable places on our planet, from steaming hot springs to the thick ice of the Polar Regions, tend to be populated by specially adapted microbes <span style="text-decoration: underline">flourishing, it seems, in these extreme conditions and are</span> therefore called "extremophiles.”
+(A) flourishing, it seems, in these extreme conditions and are
+(B) that seem to flourish with these extreme conditions and
+(C) that seem to flourish in these extreme conditions and that are
+(D) seeming to flourish in these extreme conditions and are
+(E) seeming to flourish with these extreme conditions and that are
+---------------------------------
+#SC#72 (Hard)#B#7200
+A study of food resources in the North Pacific between 1989 and 1996 revealed <span style="text-decoration: underline">that creatures of the seabed were suffering from dwindling food supplies, possibly a result from increasing</span> sea surface temperatures during the same period.
+(A) that creatures of the seabed were suffering from dwindling food supplies, possibly a result from increasing
+(B) that creatures of the seabed were suffering because food supplies were dwindling, possibly as a result of an increase in
+(C) that creatures of the seabed were suffering because of food supplies, which were dwindling possibly as a result of increasing
+(D) creatures of the seabed that were suffering from food supplies that were dwindling, possibly resulting from an increase in
+(E) creatures of the seabed that were suffering because food supplies were dwindling, which possibly resulted from increasing
+---------------------------------
+#SC#73 (Hard)#A#7300
+Although improved efficiency <span style="text-decoration: underline">in converting harvested trees into wood products may reduce harvest rates, it will stimulate demand by increasing supply and lowering prices, thereby boosting</span> consumption.
+(A) in converting harvested trees into wood products may reduce harvest rates, it will stimulate demand by increasing supply and lowering prices, thereby boosting
+(B) in converting harvested trees into wood products may reduce harvest rates, demand will be stimulated because of increasing supply and lowering prices, which boost
+(C) of converting harvested trees into wood products may reduce harvest rates, it stimulate demand by increasing supply and lowering prices, which boosts
+(D) of harvested trees being converted into wood products may reduce harvest rates, it will stimulate demand, because it will increase supply and lower prices, thereby boosting
+(E) when harvested trees are converted into wood products may reduce harvest rates, demand will be stimulated because of increasing supply and lowering prices, which boost
+---------------------------------
+#SC#74 (Hard)#B#7400
+<span style="text-decoration: underline">Because of the Sun, which is 400 times larger than the Moon, but also 400 times farther away from Earth, so both the Sun and the Moon have the same apparent size in the sky.</span>
+(A) Because of the Sun, which is 400 times larger than the Moon, but also 400 times farther away from Earth, so both the Sun and the Moon have the same apparent size in the sky.
+(B) The Sun, which is 400 times larger than the Moon, is also 400 times farther away from Earth, so the Sun and the Moon have the same apparent size in the sky.
+(C) The Sun and the Moon have the same apparent size in the sky because the Sun, which is 400 times larger than the Moon, and also 400 times farther away from Earth.
+(D) Four hundred times larger than the Moon and 400 times farther away from Earth, the Sun has the same apparent size in the sky as the Moon's.
+(E) Four hundred times larger than the Moon and also 400 times farther away from Earth, so the Sun in the sky has the same apparent size as the Moon.
+---------------------------------
+#SC#75 (Hard)#E#7500
+Many industrial robots perform tasks that <span style="text-decoration: underline">are ill-suited either to human hands and eyes or are so onerous or strenuous</span> that people do not want to do them.
+(A) are ill-suited either to human hands and eyes or are so onerous or strenuous
+(B) are either ill-suited to human hands and eyes or they are so onerous or strenuous so
+(C) either ill-suited to human hands and eyes or are so onerous or strenuous
+(D) either are ill-suited to human hands and eyes or so onerous or strenuous so
+(E) either are ill-suited to human hands and eyes or are so onerous or strenuous
+---------------------------------

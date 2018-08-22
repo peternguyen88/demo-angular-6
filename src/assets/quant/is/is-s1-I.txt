@@ -1,0 +1,790 @@
+####111####IS-S1-I
+#PS#1#D#
+Which of the following has the greatest number of distinct prime divisors? 
+(A) 243		
+(B) 244		
+(C) 256		
+(D) 258		
+(E) 265 
+---------------------------------
+#DS#2#D#
+If \(p\) and \(n\) are positive integers greater than 2, is \(p^n-p^{n-2}\) divisible by 8?
+\(n\) is odd, and \(n > 5\)
+\(p\) is odd, and \(p > 5\)
+---------------------------------
+#PS#3#D#
+What is the largest positive integer \(k\) for which \(10^k\) is a divisor of \(100!\)?
+(A) 2 		
+(B) 10		
+(C) 20		
+(D) 24		
+(E) 30
+---------------------------------
+#PS#4#E#
+Which of the following fractions has a decimal expansion which terminates?
+(A) \(\frac{\small 51}{\small 144}\)
+(B) \(\frac{\small 24}{\small 180}\)
+(C) \(\frac{\small 17}{\small 210}\)
+(D) \(\frac{\small 18}{\small 270}\)
+(E) \(\frac{\small 51}{\small 375}\)
+---------------------------------
+#DS#5#E#
+If \(x\) is a positive integer greater than 3, is \(x\) equal to 7?
+\(x^4-3^4\)   is divisible by 29
+\(x^4+3x^3\)  is divisible by 7	
+---------------------------------
+#PS#6#C#
+What is the largest prime divisor of \(9! − 8! + 7!\)?
+(A) 7		
+(B) 11		
+(C) 13		
+(D) 17		
+(E) 29
+---------------------------------
+#PS#7#B#
+$$\frac{21^{12}×18^{11}×224^5}{63^8×12^{18}×49^4}=?$$
+(A) 1		
+(B) 7		
+(C) 42		
+(D) 210	
+(E) 672
+---------------------------------
+#PS#8#D#
+What is the largest prime divisor of \(12^4  - 5^4 \) ?
+(A) 5		
+(B) 7		
+(C) 13		
+(D) 17		
+(E) 31
+---------------------------------
+#PS#9#D#
+How many positive even divisors does 720 have? 
+(A) 6		
+(B) 8		
+(C) 12		
+(D) 24		
+(E) 30
+---------------------------------
+#PS#10#E#
+If \(x\) is equal to the sum of the first 30 positive multiples of 7, what is the largest prime divisor of \(x\)?
+(A) 7		
+(B) 11		
+(C) 13		
+(D) 19		
+(E) 31
+---------------------------------
+#PS#11#C#
+If the product of positive integers \(x\)and \(y\) is 1080, and the greatest  common divisor of \(x\) and \(y\) is 6, what is the least common multiple of \(x\) and \(y\)?
+(A) 36		
+(B) 120	
+(C) 180	
+(D) 270	
+(E) 540
+---------------------------------
+#PS#12#E#
+If \(x\) is a positive integer, and \(x^3\)  is divisible by 48, the largest positive integer which must  divide \(x^2\) is
+(A) 6		
+(B) 12		
+(C) 24		
+(D) 48		
+(E) 144
+---------------------------------
+#PS#13#B#
+If \(x\)and \(y\) are positive integers, \(x^2\)  is divisible by 8 and \(y\) is divisible by 9, then \(xy^2\) must be divisible by which of the following? <br><br>I) 48 <br>II) 72 <br>III) 162
+(A) None	
+(B) III only	
+(C) I and II only	 
+(D) I and III only 	
+(E) I, II and III
+---------------------------------
+#PS#14#A#
+How many integers between 12 and 125 inclusive are divisible by 6, 8 and 10?
+(A) 1		
+(B) 2 		
+(C) 3		
+(D) 4		
+(E) 5
+---------------------------------
+#PS#15#A#
+How many prime numbers are there between 17,012 and 17,020 inclusive? 
+(A) None	
+(B) One 	
+(C) Two 	
+(D) Three 	
+(E) Four
+---------------------------------
+#PS#16#C#
+If \(p\) and \(p + 2\) are both prime numbers, then \(p\) is called a ‘lesser twin prime’. How many ‘lesser twin primes’ are there between 90 and 120?
+(A) none 	
+(B) one 	
+(C) two 	
+(D) three 	
+(E) four
+---------------------------------
+#PS#17#C#
+If, for a positive integer \(x\), \(f(x)\)  is equal to the number of positive even divisors of x, and \(g(x)\) is equal to the number of positive odd divisors of x, what is \(f(72)- g(72)\)?
+(A) 0		
+(B) 3		
+(C) 6		
+(D) 9		
+(E) 12
+---------------------------------
+#PS#18#D#
+What is the remainder when \(7^{19}+7^{15}\) is divided by \(10\)? 
+(A) 0		
+(B) 2		
+(C) 4		
+(D) 6		
+(E) 8
+---------------------------------
+#PS#19#A#
+What is the remainder when \(23^4 - 17^4\)  is divided by \(6\)? 
+(A) 0		
+(B) 1 		
+(C) 2		
+(D) 3		
+(E) 4
+---------------------------------
+#PS#20#D#
+What is the remainder when \(21! + 21\) is divided by \(13\)? 
+(A) 0		
+(B) 3		
+(C) 7		
+(D) 8		
+(E) 12	
+---------------------------------
+#PS#21#D#
+If the remainder is 5 when \(x\) is divided by 101, what is the remainder when \(x^3+x^2+x\) is divided by 101?
+A) 5		
+B) 6		
+C) 31		
+D) 54		
+E) 55
+---------------------------------
+#PS#22#E#
+In a sequence with the first term \(a_1\), each term after the first is \(d\) greater than the preceding term, where \(d\) is a constant.  If \(a_6=11^6\)  and \(a_8=11^8\) , what is the largest prime divisor of \(a_{11}\)?
+A) 11		
+B) 13		
+C) 17		
+D) 19		
+E) 43
+---------------------------------
+#PS#23#B#
+$$5(\frac{81^8-27^{10}}{9^{15}+3^{28}})=?$$
+A) 15		
+B) 36		
+C) 60		
+D) 120	
+E) 3600
+---------------------------------
+#PS#24#B#
+If \(p\) is a positive integer less than 70, and \(71^2-142p+p^2\) is divisible by 49, what is the remainder when \(p\) is divided by 7? 
+A) 0		
+B) 1		
+C) 2		
+D) 4		
+E) 6
+---------------------------------
+#PS#25#D#
+How many integers between 150 and 300 inclusive have a remainder of 4 when divided by 6 and a remainder of 2 when divided by 8?
+A) 3		
+B) 4		
+C) 6		
+D) 7		
+E) 12
+---------------------------------
+#PS#26#D#
+\(13^{13} + 13^{11}\) is divisible by which of the following: <br><br>I) 10<br>II) 11<br>III) 17
+A) none 	
+B) I only 	
+C) III only	
+D) I and III only	
+E) II and III only
+---------------------------------
+#PS#27#D#
+If \(x\) and \(y\) are positive integers such that  \(x > y + 1\), and \(x^2-y^2=p^3\) for a prime \(p\), what could be the value of \(x + y\)?
+A) 6		
+B) 12		
+C) 16		
+D) 25		
+E) 27
+---------------------------------
+#PS#28#A#
+If \(81^9+27^{12}+9^{18}=(3^{17})(9^k)\)  then what is the value of \(k\)?
+A) 10		
+B) 12 		
+C) 17		
+D) 20		
+E) 37
+---------------------------------
+#PS#29#B#
+If \(x\) is a positive integer, and \(x > 10\), then \(x(x^2-1)(x^2-4)\) must be divisible by which of the following? <br><br>I) 45<br>II) 72<br>III) 120
+A) I only	
+B) III only	
+C) I and II only 	
+D) II and III only 	
+E) I, II and III
+---------------------------------
+#PS#30#D#
+If \(p, p + 2, p + 6\) and \(p + 8\) are all prime numbers greater  than  100, then \((p + 8)^2  -(p+ 6)^2+(p+2)^2-p^2\)  must be divisible by which of the following? <br><br>I) 8<br>II) 48<br>III) 120
+A) none 	
+B) I only 	
+C) I and II	
+D) I and III	
+E) I, II and III
+---------------------------------
+#PS#31#C#
+If \(x\), \(y\) and \(z\) are positive integers, and \(x^2+y^2+2z^2\) is even, which of the following must be even?
+A) \(x+2y\)	
+B) \(x+y+z\)		
+C) \(x^2+2xy+y^2\)	
+D) \(x^2+2xz+z^2\)	
+E) \(x-2y\)
+---------------------------------
+#PS#32#E#
+Which of the following can be written as the sum of two primes? <br><br>I)    58 <br>II)   60 <br>III)  62
+A) none 	
+B) I only 	
+C) III only	
+D) I and II only	
+E) I, II and III
+---------------------------------
+#PS#33#A#
+What is the remainder when \(16^4+14^4-12^4-10^4\) is divided by 13? 
+A) 0		
+B) 1		
+C) 2		
+D) 8		
+E) 12
+---------------------------------
+#PS#34#C#
+\(x\) and \(y\) are positive integers, and \(x-y > 0\).   If x+y has precisely three positive divisors, and \(x-y\) has precisely two positive divisors, what is the smallest possible number of positive divisors that  \(x^2-y^2\)  could have?
+A) 2		
+B) 3		
+C) 4		
+D) 6		
+E) 8
+---------------------------------
+#DS#35#B#
+If \(a\) and \(b\) are positive integers, what is the units digit of \(7^{8a+7}+b\)?
+\(a = 23\)
+\(b = 23\)
+---------------------------------
+#DS#36#A#
+If \(a\) and \(b\) are positive integers, and \(p\) and \(q\) are distinct primes, how many positive divisors does \((p^a)(q^b)\) have?
+\(a = 9\) and \(b = 11\)
+\(p = 13\) and \(q = 17\)
+---------------------------------
+#DS#37#D#
+If \(n\) and \(d\) are positive integers, \(n/d=23.42\), and \(r\) is equal to the remainder  when \(n\) is divided by \(d\), is \(r > 50\)?
+\(100 < d < 200\)
+\(3000 < n < 4000\)
+---------------------------------
+#DS#38#B#
+If \(x\) and \(y\) are positive integers, is \(x^y\) odd?
+\(x + y\) is odd
+\(xy + x\) is odd
+---------------------------------
+#DS#39#C#
+If \(k\) is a positive integer, what is the remainder when \(k\) is divided by 21?
+The remainder is 6 when \(k\) is divided by 7.
+The remainder is 2 when \(k\) is divided by 3.
+---------------------------------
+#PS#40#D#
+If \(n\) is an even positive integer, and \(n > 10\), then \((n + 2)! + (n + 1)! + n!\) must be divisible by <br><br>I)&emsp; \( n^2\) <br>II)&emsp; \((n+1)^2\) <br>III)&emsp; \((n+2)^2\)
+A) I only 	
+B) II only 	
+C) III only	
+D) I and III only	
+E) I, II and III
+---------------------------------
+#DS#41#E#
+Is the positive integer \(x\) divisible by 7?
+\(x^7-x^5\)  is divisible by 7
+\(7^x-5^x\) is not divisible by 7
+---------------------------------
+#DS#42#C#
+Is the least common multiple of positive integers \(x\) and \(y\) greater than 120?
+The greatest  common divisor of \(x\) and \(y\) is less than 20
+The product of \(x\) and \(y\) is greater than 3000
+---------------------------------
+#DS#43#A#
+If \(x\) is a positive even integer, is the number of even divisors of \(x\) greater than the number of odd divisors of \(x\)?
+\(x\) is divisible by \(2^2\)
+\(x\) has only one odd prime divisor
+---------------------------------
+#DS#44#E#
+What is the value of positive integer \(x\)?
+\(x\) has precisely three distinct prime divisors.
+\(100 < x < 110\)
+---------------------------------
+#DS#45#D#
+Is the positive integer \(n\) divisible by \(2^8\)?
+\(n\) is divisible by \(10!\)
+\(n\) is divisible by \(35^4-29^4\)
+---------------------------------
+#DS#46#D#
+If the positive integer \(n\) is greater than 4, is \(n\) prime?
+\((n + 1)! = (n!)(n  - 2)!\)
+\(n^2\)  has precisely three positive divisors.
+---------------------------------
+#DS#47#D#
+If \(x\), \(y\) and \(z\) are integers, and \(xy+xz+yz\) is odd, is \(z\) odd?
+\(xy\) is even
+\(x+y\) is odd
+---------------------------------
+#PS#48#E#
+\(ABC\)  is a three  digit integer, where \(A\) is the hundreds digit, \(B\)  is the tens digit and \(C\) is the units digit, and \(CBA\) is similarly another three digit integer.  If \(A > C > 0\), what could be the value of \(ABC − CBA\)?
+A) 123	
+B) 275	
+C) 393	
+D) 497 	
+E) 594
+---------------------------------
+#DS#49#A#
+If \(a\) and \(b\) are real numbers, the function \(max(a,b)\) is defined to be equal to a if \(a ≥ b\), and equal to \(b\) if \(a < b\). The function \(min(a,b)\) is defined to be equal to \(a\) if \(a ≤ b\), and equal to \(b\) if \(a > b\). Is \(max(a,b)>min(b,c)\)?
+\(a>c\)
+\(min(a,c) < max(b,c)\)
+---------------------------------
+#PS#50#D#
+In a sequence, each term after the first term \(a_1\)  is equal to the preceding term plus a constant \(d\). If \(a_7=7^7\) and \(a_8=7^8\) , what is the value of \(a_{11}\)?
+A) \((2)(3)(7^7)\)
+B) \((2^3)(7^7)\)
+C) \((2^3)(3)(7^7)\)
+D) \((5^2)(7^7)\)
+E) \(7^{11}\)
+---------------------------------
+#PS#51#B#
+For all positive integers \(x\) and \(y\), the operation \(\&\) is defined so that  \(x \& y=2^{x+y}\) . Which of the following must be true for all positive integers \(x, y\) and \(z\)?<br><br>I) \(x \& y=y \& x\) <br>II) \(x \& (y \& z)=(x \& y)  \& z\) <br>III) \(x \& (y+z)=x \& y+x \& z\)
+A) none	
+B) I only	
+C) I and III only	
+D) I and II only 	
+E) I, II and III
+---------------------------------
+#PS#52#C#
+In a sequence \(a_1,a_2,a_3,...,a_n\), for all integers \(n ≥ 1, a_n=(-1)^{n+1} |11-n|\). What is the sum of the first 21 terms of this sequence? 
+A) 0		
+B) 5		
+C) 10		
+D) 55		
+E) 110
+---------------------------------
+#PS#53#B#
+For all positive integers \(a\) and \(b\), the operation \(\&\) is defined so that $$a\&b=\frac{2ab}{a+2b}$$ What is the value of \(\frac{\small 101\&102}{\small 102\&101}\)?
+A) \(\frac{\small 4}{\small 9}\)		
+B) \(\frac{\small 304}{\small 305}\)		
+C) \(1\)		
+D) \(\frac{\small 305}{\small 304}\)		
+E) \(\frac{\small 9}{\small 4}\)
+---------------------------------
+#PS#54#C#
+In a sequence \(a_1,a_2,a_3,...,\) the first term \(a_1\) is equal to \(3\), and for all integers \(n\) greater than \(1\), \(a_n=|a_{n-1}|-1\). What is the sum of the first thirty terms of this sequence?
+A) −435	
+B) −10	
+C) −7		
+D) 6		
+E) 14
+---------------------------------
+#PS#55#D#
+In a sequence \(a_1,a_2,a_3,...,\) in that \(a_1\) is the first term.  If \(a_1=3, a_n=a_{\frac{n}{2}} \) for all even numbers n greater than \(1\), and \(a_n=1-a_{\frac{n-1}{2}}\) for all odd numbers \(n\) greater than \(1\), how many of the first ten terms of the sequence are equal to \(3\)?
+A) two 		
+B) three 	
+C) four 		
+D) five 		
+E) ten
+---------------------------------
+#PS#56#A#
+\(a_1\) is the first term of a sequence, and for all integers \(n > 1, a_n=ra_{n-1}\) for a positive constant \(r\). \(b_1\) is the first term of a different sequence in which, for all integers \(n > 1, b_n=b_{n-1}+d\) for a constant \(d\). If \(a_1=b_1=15/4\) and \(a_4=b_4=10/9\), what is the value of \(a_3/b_3\)?
+A. \(\frac{\small 36}{\small 43}\)
+B) \(\frac{\small 95}{\small 108}\)	
+C) \(1\)
+D) \(\frac{\small 175}{\small 172}\)
+E) \(\frac{\small 5}{\small 3}\)
+---------------------------------
+#PS#57#D#
+In a sequence \(a_1, a_2, a_3,...,\)  the first term  \(a_1\) is equal to  \(900\), and  for all integers \(n > 1, a_n\) is equal to the number of positive divisors of \(a_{n-1}\). What is the sum of the first \(20\) terms of this sequence?
+A) 68		
+B) 949		
+C) 950		
+D) 966		
+E) 988
+---------------------------------
+#PS#58#C#
+A sequence \(a_1, a_2, a_3,…\) is called monotonically increasing if for all \(n > 1, a_n ≥ a_{n-1}\). Which of the following sequences is monotonically increasing? <br><br>I) The sequence \(b_1, b_2, b_3,...\) in which \(b_n=-1\) for all integers \(n ≥ 1\). <br>II) The sequence \(c_1, c_2, c_3,...\) in which \(c_n=(-2)^n\)  for all integers \(n ≥ 1\). <br>III) The sequence \(d_1, d_2, d_3,...\) in which \(d_n=\frac{1}{n + 1}-\frac{1}{n}\)  for all integers \(n ≥ 1\).
+A) none	
+B) I only	
+C) I and III only	
+D) II only	
+E) I, II and III
+---------------------------------
+#DS#59#C#
+In the sequence \(a_1,a_2,a_3,...,\) where \(a_1\) is the first term, each term after the first is equal to the preceding term times a nonzero constant \(r\). If \(a_1 > 1\), is the value of \(a_18\) greater than \(16\)?
+\(a_{10}>a_9\)
+\(a_9=2a_5\)
+---------------------------------
+#PS#60#B#
+In a sequence \(a_1, a_2,...,\) for all integers \(n ≥ 1, a_n\) is equal to the units digit of \(2^n+3^n\) . What is the sum of the first 23 terms of this sequence?
+A) 111		
+B) 113		
+C) 115		
+D) 117		
+E) 119
+---------------------------------
+#PS#61#B#
+In a sequence \(a_1, a_2,…,\). \(a_n=\frac{n+1}{2}\)  when \(n\) is an odd positive integer, and \(a_n=\frac{1-n}{2}\) when \(n\) is an even positive integer. What is the sum of the first 45 terms of this sequence?
+A) 11		
+B) 34		
+C) 56		
+D) 67		
+E) 111
+---------------------------------
+#PS#62#A#
+For all positive integers \(x\) and \(y\) greater than \(1\), the operation \(\&\) is defined so that  \(x\&y\) is equal to the number of positive divisors of the least common multiple of \(x\) and \(y\). If \(p\) and \(q\) are distinct primes, \(p\&(p^{q-1}\&q^{p-1})\) is equal to
+A) \(4\)		
+B) \(p\) 		
+C) \(pq\) 		
+D) \(p^2q\)		
+E) \((p^q)(q^{p-1})\)
+---------------------------------
+#PS#63#D#
+For which of the following functions is \(f(x)=f(1/x)\) for all positive values of \(x\)? <br><br>I) \(f(x)=\frac{\small (x-1)^2}{\small x^2+1}\) <br>II) \(f(x)=\frac{\small \sqrt{x}+1}{\small \sqrt{x+1}}\) <br>III) \(f(x)=\frac{\small x}{\small x+1}\)
+A) none	
+B) I only	
+C) III only	
+D) I and II only		
+E) II and III only
+---------------------------------
+#DS#64#D#
+\(S\) is an infinite sequence of positive integers in which each term after the first is larger than the preceding term.  Does \(S\) contain an infinite number of odd integers?
+\(S\) does not contain an infinite number of even integers.
+\(S\) contains an infinite number of prime integers.
+---------------------------------
+#DS#65#E#
+For all real numbers \(x, [x]\) is defined to be equal to the closest integer to \(x\) which is less than or equal to \(x\).  Is \([2x] = 2[x]\)?
+\([2x] = [x]\)
+The first digit after the decimal point in the decimal representation of \(x\) is equal to 4.
+---------------------------------
+#PS#66#E#
+If \(f(x)\) is equal to  the  decimal obtained  when \(x\) is rounded to  the  nearest tenth,  and \(g(x)\) is equal to the decimal obtained when \(x\) is rounded to the nearest hundredth,  what is the value of \(f(-2.517)-g(-2.517)\)?
+A) −0.02	
+B) −0.003	
+C) 0		
+D) 0.003		
+E) 0.02
+---------------------------------
+#PS#67#C#
+In 2008 in a certain country, the government collected an average of $11,200 in taxes from adult citizens who were employed at the end of the year, and an average of $4,600 in taxes from adult citizens who were unemployed at the end of the year. If the government collected an average of $10,540 in taxes from all adult citizens, what percentage of citizens of this country were employed at the end of the year?
+A) 76% 	
+B) 88% 	
+C) 90% 	
+D) 92% 	
+E) 96%
+---------------------------------
+#PS#68#D#
+If $\(6000\) is invested at \(18\%\) annual interest compounded monthly, how much will the investment be worth after two years?
+A) $ \(6000 + (0.18)(24)(6000)\)
+B) $ \(6000 + (0.015)(24)(6000)\) 
+C) $ \(6000(0.015)^{24}\)
+D) $ \(6000(1.015)^{24}\)
+E) $ \(6000(1.18)^{24}\)
+---------------------------------
+#PS#69#A#
+A shop sells all pastries at the same price, and sells all sandwiches at the same price. If a customer can buy 12 pastries and 5 sandwiches for $16.20, and can buy 5 pastries and 2 sandwiches for $6.60, how much would it cost to buy 2 pastries and 1 sandwich?
+A) $3.00	
+B) $3.30	
+C) $3.60	
+D) $3.90	
+E) $4.20
+---------------------------------
+#PS#70#D#
+How much pure alcohol, in liters, would a chemist need to mix with 12 liters of a 40% alcohol solution to get a 76% alcohol solution?
+A) 8		
+B) 12		
+C) 15		
+D) 18		
+E) 24
+---------------------------------
+#PS#71#B#
+A factory has two types of machine, Type A and B, and each type of machine works at  a different constant  rate. If one machine of Type A and two  machines of Type B could complete a certain production order in 6 hours working together, and two machines of Type A and one machine of Type B could complete the same production order in 4 hours working together,  how many hours would it take three machines of Type A working together to complete the production order?
+A) 8/3		
+B) 3		
+C) 4		
+D) 6		
+E) 12
+---------------------------------
+#PS#72#B#
+Car X and Car Y both completed a 540 mile race.  The average speed of Car X for the race was 9 miles per hour faster than the average speed of Car Y. If Car X completed the race in 5 fewer hours than Car Y, what was Car Y’s average speed for the race, in miles per hour?
+A) 20		
+B) 27		
+C) 36		
+D) 45		
+E) 54
+---------------------------------
+#PS#73#E#
+From 2000 to 2001, the value of an investment increased by x %. From 2001 to 2002, the value of the investment decreased by x%.  If the value of the invest- ment in 2002 was 51% of the value of the investment in 2000, what is the value of x?
+A) 25.5	
+B) 33		
+C) 49		
+D) 51		
+E) 70
+---------------------------------
+#DS#74#C#
+At a certain university, all students  take a test  graded from 0 to 100.  What percentage of students  at the university are female?
+The average test score for female students was 11 points higher than the average test score for male students.
+The average test  score for male students  was 3 points lower than  the average test score for all students.
+---------------------------------
+#DS#75#E#
+At a university, a total of 90 students take at least one course in Math, Chemistry or Physics, and some students take all three courses. How many students take exactly one of these courses?
+No student  takes exactly two of the courses.
+The ratio of the number of students taking Math to the number taking Chemistry to the number taking Physics is 4 to 3 to 2.
+---------------------------------
+#PS#76#C#
+A soda drink is made by combining 1 part syrup with 9 parts soda water.  If syrup costs $2.56 per liter, and the soda drink costs $0.85 per liter, how much does soda water cost per liter?
+A) $0.27	
+B) $0.55	
+C) $0.66	
+D) $0.73	
+E) $1.04
+---------------------------------
+#PS#77#D#
+How much pure water would need to be added to 24 Liters of a 15% salt solution to lower the concentration of salt to 3%?
+A) 48		
+B) 64		
+C) 72		
+D) 96		
+E) 120
+---------------------------------
+#PS#78#B#
+Albert completed a \(d\) mile race at an average speed of s miles per hour. Bimal completed the first \(\frac{d}{2}\) miles of the race at an average speed of \(s\) miles per hour, and completed the remaining part of the race at an average speed of \(2s\) miles per hour. By what percent was the time it took Albert to complete the race greater than the time it took Bimal to complete the race?
+A) 25% 	
+B) 33.33% 	
+C) 50% 	
+D) 75% 	
+E) 100%
+---------------------------------
+#DS#79#A#
+Company X employs 32 women and 48 men, and each employee is assigned to one of the three Divisions of the company, Division A, Division B or Division C. If each Division employs at least five men and five women, are more than 40 % of the employees of Division C women?
+26 % of the employees of Division A are women.
+one third of the employees of Division B are women.
+---------------------------------
+#PS#80#A#
+All of the machines at a certain sugarcane processing plant process sugar at the same constant rate. If \(k\) of these machines working simultaneously and continuously can process \(p\) pounds of sugar in \(d\) days, how many hours would \(j\) of these machines require to process \(z\) ounces of sugar (1 pound is equivalent to 16 ounces)?
+A) \(\frac{\small 3dzk}{\small 2pj}\)	
+B) \(\frac{\small 3djp}{\small 2zk}\)		
+C) \(\frac{\small 2dzk}{\small 3pj}\)		
+D) \(\frac{\small 2djp}{\small 3zk}\)		
+E) \(\frac{\small dzj}{\small 384pk}\)
+---------------------------------
+#PS#81#B#
+At  a certain  university, 1/5 of students  who play baseball also play football, and 1/3 of all students who play football also play baseball. What is the ratio of the number of students who play both baseball and football to the number of students who play only one of these two sports?
+A) 1 to 7	
+B) 1 to 6	
+C) 4 to 11		
+D) 4 to 15		
+E) 1 to 15
+---------------------------------
+#DS#82#C#
+If Company X had higher profits than  expenses in both  2008 and 2009, by what percent  did Company X’s ratio of profit to expenses increase from 2008 to 2009? 
+From 2008 to 2009, Company X’s profits increased by 20%.
+From 2008 to 2009, Company X’s expenses decreased by 20%.
+---------------------------------
+#DS#83#C#
+Company X has five divisions, Divisions A, B, C, D and E. At which division is the ratio of the number of male employees to the number of female employees the highest?
+More male employees work for Division A than for any other Division of Company X.
+Each division has the same total number of employees.
+---------------------------------
+#PS#84#A#
+Country \(X\) taxes the  first $30,000 of a person's annual income at a rate of \(x\)%, and taxes any income earned in excess of $30,000 at a rate of \(k\)%. Country \(Y\) taxes all income earned at a rate of \(p\)%. If \(0 < x < p < k\), then in terms of \(x, p\) and \(k\), for what income will the amount of tax paid in Countries \(X\) and \(Y\) be equal?
+A) \(\frac{30,000(k-x)}{k-p}\)	
+B) \(\frac{30,000(k-p)}{p-x}\)	
+C) \(\frac{30,000(x-k)}{k-p}\)	
+D) \(\frac{30,000(k-p)}{k-x}\)
+E) \(\frac{30,000(k-p)}{x}\)
+---------------------------------
+#PS#85#B#
+If the ratio of a to b is 1+√5 to 2+√5 and the ratio of b to c is √5-1 to √5-2, what is the ratio of c to a?
+A) \(1\) to \(2\)	
+B) \(1\) to \(4\)
+C) \(\sqrt{5}+1\) to \(1\)
+D) \(2\sqrt{5}-2\) to \(3\)
+E) \(\sqrt{5}+3\) to \(2\)
+---------------------------------
+#PS#86#B#
+The government of a certain country currently applies a 60% tax to the pretax price of a pack of cigarettes.  Under a taxation  proposal currently under consider- ation,  the tax on a pack of cigarettes  would be increased to 300%.  What would be the percent increase in the after-tax price of a pack of cigarettes if this taxation proposal is implemented?
+A) 87.5% 	
+B) 150% 	
+C) 240% 	
+D) 300% 	
+E) 400%
+---------------------------------
+#DS#87#B#
+A pet store stocks cats, dogs, gerbils and parakeets, and no other pets.  If the store has five times as many dogs as gerbils in stock, and has two more dogs than cats in stock, how many parakeets does the store have in stock?
+The store has three cats in stock.
+The store has a total of nineteen pets in stock.
+---------------------------------
+#PS#88#B#
+Samuel made two investments at  the  beginning of 2009.  He sold the  first investment at the end of 2009 for $s, and on this investment he made a 60% loss. He sold the second investment for $2s at the end of 2009, and on this investment he made a 60% profit. What was his net percent profit or loss on both investments combined?
+A) 28 percent loss 
+B) 20 percent loss 
+C) no profit or loss 
+D) 20 percent profit 
+E) 28 percent profit
+---------------------------------
+#PS#89#C#
+During an election, all voters cast ‘yes’ or ‘no’ votes for each of three different ballot measures, Proposition A, Proposition B and Proposition C. Twenty percent of voters voted ‘no’ to all three measures, 60 % voted ‘yes’ to Proposition A, 50% voted ‘yes’ to Proposition B and 40 % voted ‘yes’ to Proposition C. If everyone who voted ‘yes’ to Proposition A or Proposition B also voted ‘yes’ to at least one other ballot measure, what is the maximum percentage  of voters who could have voted ‘yes’ to Proposition C but ‘no’ to Propositions A and B?
+A) 5% 	
+B) 10% 	
+C) 20% 	
+D) 30% 	
+E) 40%
+---------------------------------
+#DS#90#A#
+Timothy has two motorized cars, one yellow and one red, each of which travels at a constant  speed, and the speed of the red car is greater than the speed of the yellow car.  By what percent is the speed of the red car greater than  the speed of the yellow car?
+When the two cars are positioned 10 centimeters apart, and begin to travel at the same time directly towards each other, the red car will have traveled 6 centimeters when they meet.
+When the two cars are positioned 10 centimeters  apart,  and begin to travel at the same time directly towards each other, it takes the cars two seconds to meet.
+---------------------------------
+#PS#91#D#
+If Andrea’s salary is \(x\)% greater than Bob’s salary, where \(0 < x < 100\), then in terms of \(x\), Bob’s salary is what percent less than Andrea’s salary?
+A) \(x\) 		
+B) \(100-x\)		
+C) \(100-\frac{\small 100}{\small x}\) 	
+D) \(\frac{\small 100x}{\small 100+x}\)	
+E) \(\frac{\small x}{\small 1+x}\)
+---------------------------------
+#PS#92#D#
+Machines A, B and C, each working at  their respective constant rates,  will complete a production order in 48 hours working together. If Machine A working alone would take 25% longer than Machine B working alone to complete the pro- duction order, and Machine B working alone would take 20% longer than Machine C working alone to complete the production order, how long would it take Machine A working alone to complete the production order?
+A) 120 hours          
+B) 144 hours       
+C) 162 hours 	
+D) 180 hours 	
+E) 192 hours
+---------------------------------
+#DS#93#C#
+There are more than 10 men and more than 10 women at a certain academic conference.  What is the ratio of the number of men to the number of women at the conference?
+If seven men and eight women arrived at the conference and no one left, there would be more women than men at the conference.
+If three men and four women left the conference, and no one new arrived, there would be more men than women at the conference.
+---------------------------------
+#PS#94#B#
+A fairground operator has two bags, each containing some red and some white marbles. If the ratio of the number of red marbles to the number of white marbles in the first bag is 7 to 5, the ratio of the number of red marbles to the number of white marbles in the second bag is 11 to 9, and the ratio of the number of red marbles to the number of white marbles in the two bags combined is 5 to 4, what is the ratio of the number of red marbles in the first bag to the number of red marbles in the second bag?
+A) 1 to 5	
+B) 7 to 33	
+C) 7 to 11	
+D) 13 to 10		
+E) 5 to 3
+---------------------------------
+#PS#95#E#
+Last year, at a certain lot, 60 % of vehicles sold were cars, while the rest were motorcycles. Each car was bought for the same price and sold for the same price of $10,000, and each motorcycle was bought for the same price and sold for the same price.  If the percent profit on the sale of each car was 25 %, the overall percent profit from all vehicle sales was 40 %, and the percent profit from the sale of each motorcycle was 50 %, what was the sales price of each motorcycle?
+A) $12,000 	       
+B) $15,000            
+C) $16,000	
+D) $21,000	         
+E) $27,000
+---------------------------------
+#PS#96#B#
+Joseph completes a journey in two stages.  He first travels at \(s\) miles per hour for \(t\) hours, and then  travels \(d\) miles at \(v\) miles per hour.  What  was his average speed for the total journey in terms of \(s,v,d\) and \(t\)?
+A) \(\frac{\small d+t}{\small s+v}\)	
+B) \(\frac{\small stv+dv}{\small tv+d}\)		
+C) \(\frac{\small stv+d}{\small 2t}\)		
+D) \(\frac{\small s+v}{\small 2dt+1}\)		
+E) \(\frac{\small sd+tv}{\small tv+d}\)
+---------------------------------
+#DS#97#D#
+Pumps \(A\) and \(B\) each  fill a certain pool at their respective constant rates. If pumps \(A\) and \(B\) were to work simultaneously to  fill the pool, the pool would be filled in \(t\) hours. Is the time pump \(A\) would need, working alone, to  fill the pool less than the time pump \(B\) would need, working alone, to  fill the pool?
+If pumps \(A\) and \(B\) were to work together to fill \(2/3\) of the pool, and then \(A\) were to work alone to fill the remaining \(1/3\) of the pool, it would take \(7t/6\) hours for the pool to be completely filled.
+If pumps \(A\) and \(B\) were to work together to fill \(1/3\) of the pool, and then B were to work alone to fill the remaining \(2/3\) of the pool, it would take \(7t/3\) hours for the pool to be completely filled.
+---------------------------------
+#PS#98#E#
+A farmer will make a food mixture consisting of 9/10 barley and 1/10 oats, by weight. If barley costs 25% less than oats per pound, then the cost of the oats used in the mixture will represent what fraction of the total cost of the mixture?
+A) 1/13	
+B) 4/45	
+C) 1/10 	
+D) 4/35	
+E) 4/31
+---------------------------------
+#DS#99#C#
+A kicker on a football team succeeded in 18 of 20 field goal attempts  in 2008. How many successful field goal attempts  did he have in 2009?
+He succeeded in 96% of his attempts  in 2008 and 2009 combined.
+He attempted fewer than 45 field goals in 2009.
+---------------------------------
+#PS#100#C#
+A certain Internet Service Provider charges a flat rate of $0.0001 per megabyte downloaded between the hours of 9 a.m.  and 6 p.m., and a flat rate of $0.00002 per megabyte downloaded between the hours of 6 p.m.  and 9 a.m.  the following day.  If a company using this service provider downloads at a constant  rate of 100 megabytes per second from 1 p.m.  until 4 a.m.  the following day, how much will this company be charged by the service provider?
+A) $25.20		
+B) $32.40	  
+C) $252	 
+D) $324	
+E) $3240
+---------------------------------
+#PS#101#B#
+A certain car travels 12 miles per gallon of gas when traveling at a speed of 60 miles per hour, and 10 miles per gallon of gas when traveling at a speed of 40 miles per hour. Alexandra drives in this car from City X to City Y at a speed of 60 miles per hour, then returns from City Y to City X by the same route at a speed of 40 miles per hour. If this return journey requires a total of 220 gallons of gas, what is the distance in miles from City X to City Y along the route Alexandra took?
+A) 1120 	
+B) 1200	
+C) 1320	
+D) 1440	
+E) 1650
+---------------------------------
+#PS#102#B#
+A certain  space shuttle’s  average speed during the  first 15 seconds after launch is 900 miles per hour.  If, during the first minute after launch, the shuttle’s average speed during each 15 second interval after the first 15 seconds is twice its average speed during the preceding 15 second interval, what is the shuttle’s average speed during its first minute after launch, in miles per hour?
+A) 2700	
+B) 3375	
+C) 3600	
+D) 4800	
+E) 7200
+---------------------------------
+#PS#103#D#
+The table below displays, for five different telephone plans, the monthly fee, the additional cost per hour of local calls, and the additional cost per minute for long distance calls.<p style="text-align: center;"><img align="middle" src="../../../assets/img/question/IS-S1-I-103.png"/><p>If Marcia will make 24 hours of local calls and 3 hours of long distance  calls in one month, which plan will cost her the least?
+A) Plan A 	
+B) Plan B 	
+C) Plan C 	
+D) Plan D 		
+E) Plan E
+---------------------------------
+#PS#104#C#
+Andrew drives from New York to Chicago at \(s\) miles per hour, then returns from Chicago to New York on the same route at an average speed of \(1.5s\) miles per hour. If his average speed for the entire return journey was 48 miles per hour, what is the value of \(s\)?
+A) 32		
+B) 36		
+C) 40		
+D) 42 		
+E) 44
+---------------------------------
+#PS#105#B#
+At a sugarcane processing plant, there are two types of machine. All machines of Type \(A\) process sugarcane at the same constant  rate,  and all machines of Type \(B\) process sugarcane at the same constant rate.  Three machines of Type \(A\) working together for three days would process three times as much sugarcane as would two machines of Type \(B\) working together for two days. If one machine of Type \(B\) could process 1 ton of sugarcane in 28 days, how many days would it take one machine of Type \(A\) and one machine of Type \(B\) working together to process 1 ton of sugarcane?
+A) 10		
+B) 12		
+C) 14		
+D) 18		
+E) 21
+---------------------------------
+#DS#106#C#
+Andrea made a single deposit on January 1st  of a certain year into an account paying 10% annual interest, compounded annually, and made no further withdrawals or deposits.  In what year did she make her initial deposit?
+On January 1st  of 1966, the account contained between $19,000 and $21,000.
+One year after Andrea made her initial deposit, the account had earned between $1600 and $1700 in interest.
+---------------------------------
+#DS#107#A#
+At Company \(X\), what percentage of all employees are women?
+The average wage of all female employees at Company \(X\) is 20 % greater than the overall average wage of all employees, and the average wage of all male employees is 25% less than the average wage of all female employees.
+If all male employees received a 20% pay cut, and all female employees received a 20 % pay increase, the overall average wage would fall by 4%.
+---------------------------------
+#DS#108#D#
+If Albert bought apples costing $0.36 each and oranges costing $0.55 each, did Albert buy more than six apples? 
+Albert spent a total of $5.25 on the apples and oranges combined.
+Albert bought seven more apples than oranges.
+---------------------------------
+#DS#109#D#
+Amir can buy 7 subway tokens and 3 bus tickets for a total of $10.00.  If all subway tokens cost the same amount, and all bus tickets cost the same amount, do bus tickets cost less than $1.00 each?
+Amir can buy 5 subway tokens and 5 bus tickets for less than $10.00.
+It would cost more than $10.00 to purchase 8 subway tokens and 1 bus ticket.
+---------------------------------
+#PS#110#C#
+\(4^{10}\) is what percent greater than \(8^6\)?
+A) 25% 	
+B) 200% 	
+C) 300% 	
+D) 400% 	
+E) 800%
+---------------------------------
+#DS#111#A#
+At a three-year  college, all first-year, second-year and  third-year  students took a test  on which scores ranged from 200 to 800.  If the average score for first year students was 420, the average score for second year students was 540 and the average score for third year students  was 600, what was the average test  score for all students at the college?
+There is an equal number of first-year, second-year and third-year students  at the college.
+If the average test  score for first-year students  had been 480, then the overall average test score for all students would have been 540.
+---------------------------------

@@ -1,0 +1,92 @@
+<div class="card card-accent-success" *ngIf="!isSpecialRender()">
+  <div class="card-header">
+    <h6>Choose Your Practice Set</h6>
+  </div>
+  <div class="card-body">
+    <div class="row">
+      <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets">
+
+        <div class="card text-white bg-primary text-center">
+          <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
+            <blockquote class="card-bodyquote">
+              <h5>{{practice.practiceName}}</h5>
+              <footer>{{practice.numberOfQuestions}} Questions</footer>
+            </blockquote>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Comprehensive Render-->
+
+<div *ngIf="isComprehensiveRender()">
+  <div class="card card-accent-success">
+    <div class="card-header">
+      <h6>Sentence Correction</h6>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'SC'">
+
+          <div class="card text-white bg-primary text-center">
+            <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
+              <blockquote class="card-bodyquote">
+                <h5>{{practice.practiceName}}</h5>
+                <footer>{{practice.numberOfQuestions}} Questions</footer>
+              </blockquote>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card card-accent-danger">
+    <div class="card-header">
+      <h6>Critical Reasoning</h6>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'CR'">
+
+          <div class="card text-white bg-success text-center">
+            <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
+              <blockquote class="card-bodyquote">
+                <h5>{{practice.practiceName}}</h5>
+                <footer>{{practice.numberOfQuestions}} Questions</footer>
+              </blockquote>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Reading Comprehension -->
+  <div class="card card-accent-warning">
+    <div class="card-header">
+      <h6>Reading Comprehension</h6>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'RC'">
+
+          <div class="card text-white bg-danger text-center">
+            <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
+              <blockquote class="card-bodyquote">
+                <h5>{{practice.practiceName}}</h5>
+                <footer>{{practice.numberOfQuestions}} Questions</footer>
+              </blockquote>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<app-confirm-dialog [popupMessage]="popupMessage" (close)="popupMessage = null;"></app-confirm-dialog>

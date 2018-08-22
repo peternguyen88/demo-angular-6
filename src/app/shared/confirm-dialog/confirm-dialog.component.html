@@ -1,0 +1,30 @@
+<div id="modal_overlay" *ngIf="message">
+
+</div>
+
+<div id="modal_wrapper" *ngIf="message">
+  <!-- Modal -->
+  <div id="myModal" tabindex="-1" role="dialog" style="max-width: 600px; margin: auto; position: relative; top: 25%;">
+    <div>
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">{{message.header}}</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="closePopup()" *ngIf="message.showCloseIcon">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>{{message.message}}</p>
+
+          <div *ngIf="message.hasTextContent">
+            <input [(ngModel)]="message.textContent" style="border: 0; border-bottom: 1px solid red; outline: 0; width: 100%;" autofocus/>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-success" (click)="accept()" *ngIf="message.acceptLabel">{{message.acceptLabel}}</button>
+          <button type="button" class="btn btn-danger" (click)="reject()" *ngIf="message.rejectLabel">{{message.rejectLabel}}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,486 @@
+####97####MR700-DS
+#DS#1#C#
+If \(a \leq b \leq c \leq d\) is \(a \geq 20\)?
+\(a + b + c + d =170 \)
+\(5a \geq 2d \)
+---------------------------------
+#DS#2#A#
+If x and y are positive numbers, is \(\frac{y}{x}<\frac{6}{11}\) ?
+\(\frac{y}{x} < 0.545\)
+\(\frac{x}{y} < 1.843\)
+---------------------------------
+#DS#3#B#
+If \(b<0\), is \(5b(a+b)>-a^2-b^2\)? 
+\(a+2b>0\)
+\(a+3b>0\)
+---------------------------------
+#DS#4#D#
+If \(0 \lt z \lt y \lt x \lt w\), is \(z\lt4\)?
+\(\frac{1}{w} \gt \frac{1}{4}\)
+\(\frac{1}{x} + \frac{1}{y} + \frac{1}{w} + \frac{1}{z} = 1\)
+---------------------------------
+#DS#5#D#
+Is the sum of the selling prices of the 3 products greater than $8.5?
+The lowest selling price of the 3 products is $2.9
+The 2nd highest selling price of the 3 products is $4.3
+---------------------------------
+#DS#6#D#
+Is \(x < 0\)?
+\(x^3 + 1 < 0\)
+\(x^3 + x + 1 = 0\)
+---------------------------------
+#DS#7#D#
+If \(wx>0\), \(xy>0\), and \(yz<0\), is \(w^3*z^2<0\) ?
+\(z>0\)
+\(x<0\)
+---------------------------------
+#DS#8#D#
+Is \(x^4-x^3+x^2-x>0\)?
+\(x>1\)
+\(|x^3|>|x|\)
+---------------------------------
+#DS#9#A#
+If \(c > 0\), is \(\frac{a+c}{b+c} < \frac{a}{b}\)
+\(0 < a < b\)
+\(a < b\)
+---------------------------------
+#DS#10#D#
+If \(m\) and \(n\) are positive decimals smaller than \(1\), is \(m+n>1\)?
+All decimal digits of \(m\) and \(n\) are greater than \(5\)
+\(mn > \frac{1}{2}\)
+---------------------------------
+#DS#11#D#
+At a hospital, babies are born every day for a certain number of days. If 6 or more babies were born for 20% of the total number of days, is the median number of babies born less than 4?
+On 75% of the days that less than 6 babies were born, the number of babies born each day was less than 4.
+On 50% of the days that 4 or more babies were born, the number of babies born each day was 6 or more.
+---------------------------------
+#DS#12#B#
+For integers \(x\) and \(y\), if \(x < a < 2\) and \(-2 < b < y\), is \(1\) contained in the range of \(ab\)?
+\(x = 1\)
+\(x < y\)
+---------------------------------
+#DS#13#D#
+There is a company X that does not hire employees who are under 20 years old. At least 10 percent of the total number of employees are at least 20 years old or older. Is the average age of the employees older than 30 years old?
+70 percent of the employees are more than 40 years old.
+25 percent of the employees are more than 60 years old.
+---------------------------------
+#DS#14#A#
+Is \(|a - b + c| - a + b - c > 0\)?
+\(a + c < b\)
+\(a > 0\), \(b > 0\) ,and \(c > 0\)
+---------------------------------
+#DS#15#D#
+If \(|a+1|=|b-1|\), what is the value of \(a-b\)?
+\(ab > 0\)
+\(\frac{a}{b} \ne -1\)
+---------------------------------
+#DS#16#C#
+If \(x \ne 0\), is \(|x| < 1\)?
+\(\frac{x^2}{|x|} > x\)
+\(\frac{x}{|x|} < x\)
+---------------------------------
+#DS#17#A#
+If \(|x| > |2y|\), is \(x > y\)?
+\(x > 0\)
+\(y > 0\)
+---------------------------------
+#DS#18#A#
+If \(a^4 > b^4\), is \(a > b\)?
+\(a > 0\)
+\(b > 0\)
+---------------------------------
+#DS#19#B#
+Is \(x < y < z\)?
+\(|x-1| < y < z+1\)
+\(|x+1| < y < z-1\)
+---------------------------------
+#DS#20#D#
+What is the value of \(m+n\)?
+An equation with \(x^2+(m-3)x-(n-1)^2=0\) has only one root.
+\(\frac{mn}{|m-3|+|n+1|}\) cannot be defined as a real number.
+---------------------------------
+#DS#21#D#
+The probability that event A occurs is 0.8 and the probability that event B occurs is 0.55. What is the probability that event A occurs but not event B?
+Event A and event B are independent.
+The probability that neither event A nor event B occurs is 0.09
+---------------------------------
+#DS#22#D#
+The probability that event A occurs is P(A) and the probability that event B occurs is P(B). If event A and event B are independent, is the probability P(A∩B) less than 0.6?
+P(A) is 0.59
+The probability that event B does not occur is 0.41
+---------------------------------
+#DS#23#E#
+There are 10 red and blue marbles in a box. If two marbles are randomly taken out from the box, is the probability of picking two red marbles greater than 1/3?
+The probability of getting both blue marbles is less than 2/3
+There are more red marbles than blue marbles in the box.
+---------------------------------
+#DS#24#A#
+Is \(a+b > c\)?
+\(a\), \(b\), and \(c\) represent three different lengths of the sides of a certain triangle
+\(a^2+b^2=c^2\)
+---------------------------------
+#DS#25#B#
+Are the standard deviations of set \(A\) and set \(B\) the same?
+\(n=6\)
+Set \(A=\{n, 2, 2, 2\}\) and set \(B=\{n, n, n, 2\}\)
+---------------------------------
+#DS#26#D#
+What is the median of a, b, 7.5 and 7.5?
+The average (arithmetic mean) of a and b is 7.5
+The sum of a and 2b is equal to the sum of b and 15
+---------------------------------
+#DS#27#B#
+A certain company sells only cars and trucks, and the average selling price of all the cars and trucks combined is $18,000. If the average selling price of each car is $15,500, did the company sell more trucks than cars?
+The number of sold cars is 100.
+The average price of trucks sold was $21,500.
+---------------------------------
+#DS#28#A#
+Is the median of the 11 different numbers greater than 11?
+The average (arithmetic mean) of the smallest 5 numbers of them is 11
+The average (arithmetic mean) of the 11 numbers is greater than 11
+---------------------------------
+#DS#29#B#
+Is the number of the average (arithmetic mean) attendees of 3 performances equal to the median number of attendees of the 3 performances?
+The median number of attendees of 3 the performances is 39
+The range of attendees of 3 the performances is 39
+---------------------------------
+#DS#30#C#
+In a certain company, the average (arithmetic mean) salary of finance executives is $\(x\) and the average (arithmetic mean) salary of marketing executives is $\(y\). Is the average (arithmetic mean) salary of finance executives and marketing executives combined greater than $\(\frac{x+y}{2}\)?
+The number of the finance executives is less than the number of the marketing executives.
+\(x\) is $10,000 less than \(y\).
+---------------------------------
+#DS#31#B#
+If the median of 3 positive integers is 6, is the average (arithmetic mean) of the integers greater than 6?
+The smallest number of the integers is 1
+The largest number of the integers is 12
+---------------------------------
+#DS#32#E#
+Set S has 5 numbers such that its average (arithmetic mean) is greater than its median. Also, set T has 7 numbers such that its average (arithmetic mean) is greater than its median. If all the elements in set S and set T are different, is the average (arithmetic mean) of set S and set T combined greater than the median of set S and set T?
+The average (arithmetic mean) of set T is greater than that of set S.
+The median of set T is greater than that of set S.
+---------------------------------
+#DS#33#B#
+A certain apartment has only 1-room and 2-rooms. If the range of the total rental fees for 1-room and 2-rooms combined is $1,000 and the range of the rental fees for 2-rooms is $200, what is the range of the rental fees for 1-room?
+The smallest rental fee for 2-rooms is $2,800.
+The smallest rental fee for 2-room is $200 more expensive than the greatest rental fee for 1-room.
+---------------------------------
+#DS#34#D#
+If the average (arithmetic mean) of 5 integers is 6, what is the standard deviation of the integers?
+None of the 5 integers are greater than 6
+None of the 5 integers are less than 6
+---------------------------------
+#DS#35#D#
+There is a set \(A\) of numbers which has \(m\) as its average (arithmetic mean) and \(R\) as its standard deviation. If a number \(x\) is added to this set and the standard deviation of the new set is \(r\), is \(r \leq R\)?
+\(x=m\)
+\(m < x < m+R\)
+---------------------------------
+#DS#36#A#
+There was an experiment on the increasing number of bacteria in the culture dish at the beginning and at the end of each month for 1 year. If the standard deviation of the number of bacteria at the beginning of each month was 2,000, what was the standard deviation of the number of bacteria at the end of each month?
+The number of bacteria at the beginning of each month increased by 50% when compared to the number of bacteria at the end of each month.
+The average (arithmetic mean) number of bacteria at the beginning of each month is 12,000,000.
+---------------------------------
+#DS#37#C#
+In a certain company, there are only department A and B. What percent of the total employees work at department B?
+The average salary of department A is $2000 smaller than the total average salary of department A and B combined.
+The average salary of department B is $8000 greater than the total average salary of department A and B combined.
+---------------------------------
+#DS#38#D#
+A certain company's profit is comprised of the profits of the 3 divisions in the company. Is the total profit greater than $4.3 million?
+The range of the 3 divisions' profits is $2.9 million, and the average (arithmetic mean) of the profit is equal to its median..
+The minimum value of the 3 divisions' profit is $1.5 million.
+---------------------------------
+#DS#39#A#
+If the median and the average (arithmetic mean) of 4 different numbers are both 50, what is the smallest number?
+The range of the 4 numbers is 50
+The sum of the smallest and the largest of the 4 number is 100
+---------------------------------
+#DS#40#C#
+There are 1,280 books at a library. Everyone borrows these books at least one, and maximum 10. If all books were borrowed, is the number of people who borrowed greater than 240?
+65 people borrowed either 1 or 2 books
+120 people borrowed either 3 or 4 books
+---------------------------------
+#DS#41#A#
+If \(m\) and \(n\) are positive integers, what is the remainder when \(11^{mn}\) is divided by 12?
+\(m\) = even
+\(n\) = odd
+---------------------------------
+#DS#42#D#
+If \(a\), \(b\), and \(c\) are integers. Is \(abc+ab+c\) an odd?
+\(ac\) = odd
+\(ab\) = odd
+---------------------------------
+#DS#43#B#
+If \(n\) is a positive integer, is 361 a factor of \(n\)?
+76 is the greatest common divisor of 380 and \(n\)
+5,776 is the least common multiple of 304 and \(n\)
+---------------------------------
+#DS#44#E#
+If \(m\), \(n\), and pare positive integers, \(mnp=\)?
+\(m^4np=2,835\)
+\(p = 7\)
+---------------------------------
+#DS#45#E#
+If \(a\), \(b\), \(c\) and \(n\) are positive integers and \(m=a^4b^3c^n\), how many factors does \(m\) have?
+\(a\), \(b\), and \(c\) are prime numbers
+\(n = 2\)
+---------------------------------
+#DS#46#B#
+If \(a\) and \(b\) are positive integers, what is the remainder when \(7^{4a+b}\) is divided by \(4\)?
+\(a = 2\)
+\(b = 3\)
+---------------------------------
+#DS#47#D#
+At least one pencil is distributed to each of the 19 students. Did at least two students receive the same number of pencils?
+The number of pencils distributed to each student is less than 19.
+The total number of pencils distributed to students is 187.
+---------------------------------
+#DS#48#D#
+If \(a\) and \(b\) are positive integers, is \(a^4-b^4\) is divisible by \(4\)?
+\(a+b\) is divisible by \(4\)
+The remainder is \(2\) when \(a^2+b^2\) is divisible by \(4\).
+---------------------------------
+#DS#49#A#
+\(x\), \(y\), and \(z\) are positive integers and \(x < y < z\). If \(x+y+z\) is an even number less than \(15\), is \(x\) equal to \(2\)?
+The product of any two numbers of \(x\), \(y\), and \(z\) is an even number.
+One of \(x\), \(y\), and \(z\) is twice the one of the other numbers.
+---------------------------------
+#DS#50#D#
+If \(x\) and \(y\) are positive integers, are \(x\) and \(y\) consecutive?
+\(x+y=3\)
+\(x-y=1\)
+---------------------------------
+#DS#51#D#
+What is the greatest common divisor of positive integers \(n\) and \(m\)?
+\(n=1\)
+\(n\) and \(m\) are consecutive
+---------------------------------
+#DS#52#B#
+If \(x\) is a positive integer, is \(6a\) factor of \(x\)?
+\(6\) is a factor of \(3x\)
+\(12\) is a factor of \(x^2\)
+---------------------------------
+#DS#53#B#
+If \(x\) and \(y\) are prime numbers, what is the number of factors of \(18xy\)?
+\(x\) and \(y\) are different
+\(3 < x < y\)
+---------------------------------
+#DS#54#D#
+For positive integers \(n\) and \(k\), if \(f(n)\) represents the remainder when \(n^2\) is divided by \(k\), is \(k\) an even number?
+\(f(k+12)=16\)
+\(f(k+11)=9\)
+---------------------------------
+#DS#55#D#
+At a certain used car market, there are at least 5 used cars sold every day. Is the number of cars sold between Monday and Friday in the first week of May greater than 34?
+15 cars were sold on one of the days from Monday to Friday in the first week of May
+Different number of cars were sold on each day from Monday to Friday in the first week of May
+---------------------------------
+#DS#56#A#
+If \(n\) is a 6-digit positive integer, \(abcd96\), where \(a\) is the hundred-thousands digit of \(n\), \(b\) is the ten-thousands digit of \(n\), \(c\) is the thousands digit of \(n\), and \(d\) is the hundreds digit of \(n\), is \(n\) divisible by 36?
+The remainder is \(3\) when \(a+b+c+d\) is divided by \(9\).
+\(a+b+c+d\) is divisible by \(3\).
+---------------------------------
+#DS#57#A#
+For positive integers \(n\) and \(m\) \((n>m)\), is the average (arithmetic mean) of \(4*10^n\), \(4*10^{n-1}\), ......, and \(4*10^{n-m}\) an integer?
+\(m<6\)
+\(n=10\)
+---------------------------------
+#DS#58#A#
+If \(k\) and \(n\) are positive integers, is \(k\) a factor of \(n\)?
+\(k^2+4k-5=0\)
+\(n=3\)
+---------------------------------
+#DS#59#C#
+If \(y\) is an odd number and \(x^3y^4=648\),\(y=\)?
+\(y\) is positive.
+\(x\) is an integer.
+---------------------------------
+#DS#60#D#
+We define “A mod n” as the remainder when a positive integer A is divided by n. What is the value of “\(A^2\) mod 4”?
+A mod 2 = 1
+A mod 8 = 1
+---------------------------------
+#DS#61#D#
+If \(a\), \(b\), \(c\), and d are different positive odd numbers, what is the median of the numbers?
+\(a+b+c+d=16\)
+The product of the 3 numbers of \(a\), \(b\), \(c\), and \(d\) is 15
+---------------------------------
+#DS#62#B#
+There are 5 integers such that the difference of the biggest number and the median is 3. Is the average (arithmetic mean) of the integers smaller than the median?
+The median of the 5 integers is 16.
+The difference of the median and the smallest number is 8.
+---------------------------------
+#DS#63#A#
+If the median of the 5 integers is 10, is the range of the integers greater than 4?
+The average (arithmetic mean) of the 5 integers is 12.
+The smallest of the 5 integers is 10.
+---------------------------------
+#DS#64#D#
+When \(m\), \(n\), and \(p\) are positive integers, is \(m^2+n^3+p^5\) is divisible by \(2\)?
+\(m=n+p\)
+\(m, n, p\) are 3 lengths of a certain right triangle and m<n<p
+---------------------------------
+#DS#65#D#
+Tom started a company with 5 of his friends from the college. They made a software and sold it. Tom sold 15, and his friends each sold at least 1. Did Tom sell more than at least 3 of his friends?
+The median number of software sold by 5 friends is 14.
+The average number of software sold by 5 friends is 9.
+---------------------------------
+#DS#66#B#
+A basketball team plays 10 games, and it scores 12 points on average. Has this team scored at least 40 points in one game?
+The team scored 55 points in the first 5 games.
+The score of each game is at least 9 points.
+---------------------------------
+#DS#67#D#
+If \(a,b,c\) are integers, is \((a+b)^2+c(a^2+b^2)\) an even number?
+\(a\) and \(b\) are odd numbers
+\(c\) is an odd number
+---------------------------------
+#DS#68#D#
+If \(x\) and \(y\) are prime numbers, what is the number of the different factors of \(x^4y^3\)?
+\(xy=15\)
+\(x\) and \(y\) are different
+---------------------------------
+#DS#69#B#
+Alice sent a total of 600 mails from Monday to Friday. How many mails did Alice send on Monday?
+Alice sent a total of 480 mails from Monday to Thursday.
+Alice sent at least 120 mails each day from Monday to Friday.
+---------------------------------
+#DS#70#C#
+There are total of 20 balls, and the balls each have a number from “1” to “6”. Does at least one of the balls have the number “1”?
+The number of the balls that has the same number does not exceed 4.
+There are more balls that have “6” than the balls that have “5”.
+---------------------------------
+#DS#71#D#
+The number of elements in set K is an odd number. The minimum value of set K is 22, the maximum value is 40, and the median value is 37. Is the number of elements in set K at least 13?
+The total average of elements in set K is greater than 37.
+The sum of the elements in set K is greater than 407.
+---------------------------------
+#DS#72#C#
+John puts balls in 7 boxes, and put at least 1 ball in each box. Did he put more than 7 balls in at least one box?
+The number of balls in each of the 7 boxes are different
+The total number of balls put into box is 29.
+---------------------------------
+#DS#73#A#
+If \(m\) and \(n\) are positive integers, is \((m^{n+1}+3)(m^{n+2}+4)(m^{n+3}+5)\) divisible by 12?
+\(m\) is an odd number
+\(n\) is an even number
+---------------------------------
+#DS#74#D#
+If \(m\) and \(n\) are non-zero integers, is \(m^6-m^5-m^4\) divisible by \(n\)?
+\(m^2-1=m+n^2\)
+\(m^4-2m^3+m^2=n^2+11\)
+---------------------------------
+#DS#75#D#
+If \(m\) and \(n\) are positive integers, is \(3^6+3^{6+m+n}\) is divisible by \(4\)?
+\(m=3n+1\)
+\(m+3n\) is an odd number
+---------------------------------
+#DS#76#D#
+There are 100 rooms in a hotel. The room charges for all the rooms are always the same and the hotel’s sales only include room charge. In November, an average of 80 rooms were occupied every day. In a month of November, how many days were the rooms all occupied?
+An average of 40 rooms were occupied on days that the rooms weren’t all occupied.
+The sales of days that the rooms were all occupied is 5 times greater than the sales of days that the rooms were not all occupied.
+---------------------------------
+#DS#77#D#
+For positive integers \(m\) and \(n\), is \(7+7^2+7^3+...+7^{mn}\) divisible by \(14\)?
+\(n\) = even
+\(m=\frac{a}{b}\), where one of \(a\) and \(b\) is an odd and the other is an even
+---------------------------------
+#DS#78#D#
+If \(x\) and \(y\) are prime numbers, what is the least prime factor of \(x^2y\)?
+\(x+y\) = odd
+\(xy\) = even
+---------------------------------
+#DS#79#D#
+If \(n\) is a positive integer, is \((1^2+2^2+...+n^2 )-(1+2+...+n)\) divisible by 8?
+\(n\) is an odd number
+\(14 < n < 17\)
+---------------------------------
+#DS#80#A#
+If \(r\), \(s\), and \(t\) are different odd numbers greater than \(1\), what is the median of \(r\), \(s\), and \(t\)?
+\(rs = 15\)
+\(r+s+t=19\)
+---------------------------------
+#DS#81#B#
+Is \((m+n)^3\) and odd number?
+\(m\) and \(n\) are integers
+\(mn=15\)
+---------------------------------
+#DS#82#A#
+If the median of the integers is 20, is the greatest of the 5 integers greater than 29?
+The average (arithmetic mean) of the 5 positive integers is 24
+3 numbers of the 5 integers are same.
+---------------------------------
+#DS#83#B#
+If the sum of the 7 positive integers is smaller than 12, what is the range of the 7 integers?
+The sum of the 7 integers is 11
+The median of the 7 integers is 2
+---------------------------------
+#DS#84#A#
+Mary bought a number of pencils. If each pencil was either a 24-cent pencil or a 30-cent pencil, how many 24-cent pencils did Mary buy?
+The total price of the pencils Mary bought was 102 cents
+Mary bought a total of 4 pencils
+---------------------------------
+#DS#85#D#
+There are a total 10 movie theaters. Minimum number of tickets that each movie theaters sold was 80 tickets. Is total number of average tickets sold more than 90 tickets?
+Number of movie theaters that sold at least 100 tickets were more than half of the total number of movie theaters.
+In 4 movie theaters of the total number of movie theaters, number of each tickets sold were more than 105.
+---------------------------------
+#DS#86#C#
+30%~35% of the employees in a certain company have cell phones. Do at least half of the employees in the company with cell phones own their houses?
+70%~75% of the employees in the Company own their houses
+40%~45% of the employees in the Company with their houses have cell phones
+---------------------------------
+#DS#87#B#
+The function of the relationship between the cost \(c\) and the revenue \(x\) is the equal to \(c=bx+a\). If the revenue is increased by $1,000 by how many dollars did the cost increase?
+\(a = 10\)
+\(b = 20\)
+---------------------------------
+#DS#88#A#
+There are three different types of pumps A, B, C to fill the tank with water. With \(x\) number of pump A, you can fill \(z\) gallons of water for \(y\) hours. With \(Y\) number of pump B, you can fill \(x\) gallons of water for \(z\) hours. Also, with \(z\) number of pump C, you can fill \(Y\) gallons of water for \(X\) hours. If pump A, B, and C separately all work together, how many gallons of water can they fill in the tank for \(xyz\) hours?
+\(x^2+y^2+z^2=50\)
+\(x^2+y^2=z^2\)
+---------------------------------
+#DS#89#D#
+If the work rate to make a product with machine A is less than the work rate to make a product with machine B, is the work rate to make a product with machine C less than the work rate to make a product with machine B?
+The time it takes machine C to make a product is twice of the time it takes machine A and machine B to make a product together.
+The time it takes machine B to make a product is 4/5 of the time it takes machine C to make a product.
+---------------------------------
+#DS#90#A#
+Tom is travelling from city A to city B to city C. From city A to city B, he travelled at the rate of 160 km per hour, and from city A to city B, he travelled the distance that is twice of the distance he travelled from city B to city C. What is the average speed rate from city A to city C in total?
+Tom travelled from city B to city C at the rate of 100 km per hour.
+The total distance from city A to city C is 600 km.
+---------------------------------
+#DS#91#A#
+In the xy-coordinate plane, is the slope of line K equal to 0?
+The x-intercept of line K is 0
+The y-intercept of line K is 0
+---------------------------------
+#DS#92#D#
+If the symbol \(Ω\) represents one of addition, substraction, multiplication, or division, what is the value of \((4.5Ω3)\)?
+\(4Ω4=1\)
+\(4Ω2=2\)
+---------------------------------
+#DS#93#D#
+In a parabola, \(y=f(x)=ax^2+bx+c,(a\)≠\(0)\). How many points meet with x-axis?
+In \(x=f(y)\), y-axis meets with two points.
+In \(y=f(x-1)\), x-axis meets with two points.
+---------------------------------
+#DS#94#D#
+A sequence \(A_n\) is there such that \(A_n=A_{n-1}-A_{n-2}\) where n are integers greater than \(2\). What is the value of \(A_5\)?
+\(A_4-A_3=3\)
+\(A_{14}=1\)
+---------------------------------
+#DS#95#A#
+If \((a+b)(c+d)\)≠\(0\) and \(\frac{c-d}{c+d}x - \frac{a-b}{a+b}x = \frac{bc-ad}{(a+b)(c+d)}\)  where \(a, b, c, d\) are positive integers, then \(x=\)?
+\(\frac{b}{a} < \frac{d}{c}\)
+\(2x^2-x=0\)
+---------------------------------
+#DS#96#B#
+If you are buying a product by rounding up to a $1 digit, is the sum of the differences between buying a product as its actual price and buying a product by rounding up to a $1 digit less than $12?
+The sum of the differences in the total of 80% of the products bought is less than $10.
+A total of 20 products were bought
+---------------------------------
+#DS#97#C#
+An airplane departed from city X to city Y at 11:00 AM in city X's time. At what time does it land on city Y in city Y's time?
+City X is 3:00 PM when the plane lands on city Y.
+After 1 hour the flight has departed, the time in city Y is 2:00 PM.
+---------------------------------

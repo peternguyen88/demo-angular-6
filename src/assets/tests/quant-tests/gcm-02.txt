@@ -1,0 +1,210 @@
+####31####GCM-02####TEST####62
+#PS#1#A#100#Absolute Values#600#
+If set \(S\) consists of all different solutions of equation \(|x - 4| = x\), what is the range of set \(S\) ?
+(A) 0
+(B) 2
+(C) 4
+(D) 6
+(E) 8
+---------------------------------
+#DS#2#E#100#Percents and Interest Problems#700#
+If a price was increased by \(x\)% and then decreased by \(y\)%, is the new price higher than the original?
+\(x \gt y\)
+\(x = 1.2y\)
+---------------------------------
+#DS#3#A#100#Word problems#700#
+A stationery store sells pens and pencils. If the price of each item in cents has a positive integer value, how much do 5 pencils cost?
+5 pencils and 3 pens cost 30 cents.
+4 pencils and 4 pens cost 32 cents.
+---------------------------------
+#DS#4#B#100#Geometry / Coordinate Geometry#700#
+The length of the median BD in triangle ABC is 12 centimeters, what is the length of side AC?
+ABC is an isosceles triangle.
+\(AC^2 = AB^2 + BC^2\).
+---------------------------------
+#PS#5#B#100#Must or Could be True Questions#700#
+If \(x \ne 0\) and \(\frac{x}{|x|} \lt x\), which of the following must be true?
+(A) \(x \gt 1\)
+(B) \(x \gt -1\)
+(C) \(|x| \lt 1\)
+(D) \(|x|>1\)
+(E) \(-1 \lt x \lt 0\)
+---------------------------------
+#PS#6#D#100#Number Properties#700#
+The sequence \(a_1\), \(a_2\), \(a_3\), ..., \(a_n\), ... is such that \(i*a_i=j*a_j\) for any pair of positive integers \((i, j)\). If \(a_1\) is a positive integer, which of the following could be true? <br>      I. \(2*a_{100}=a_{99}+a_{98}\)<br>      II. \(a_1\) is the only integer in the sequence<br>      III. The sequence does not contain negative numbers
+(A) I only
+(B) II only
+(C) I and III only
+(D) II and III only
+(E) I, II, and III
+---------------------------------
+#PS#7#D#100#Combinatorics and Probability#Combinatorics and Probability700#
+How many times will the digit 7 be written when listing the integers from 1 to 1000?
+(A) 110
+(B) 111
+(C) 271
+(D) 300
+(E) 304
+---------------------------------
+#PS#8#A#100#Exponents / Roots#700#
+If \(x=\sqrt{10}+\sqrt[3]{9}+\sqrt[4]{8}+\sqrt[5]{7}+\sqrt[6]{6}+\sqrt[7]{5}+\sqrt[8]{4}+\sqrt[9]{3}+\sqrt[10]{2}\), then which of the following must be true?
+(A) \(x \gt 12\)
+(B) \(10 \lt x \lt 12\)
+(C) \(8 \lt x \lt 10\)
+(D) \(6 \lt x \lt 8\)
+(E) \(x \lt 6\)
+---------------------------------
+#PS#9#B#100#Divisibility / Multiples / Factors#Divisibility / Multiples / Factors700#
+How many positive integers less than 200 are there such that they are multiples of 13 or multiples of 12 but not both?
+(A) 28
+(B) 29
+(C) 30
+(D) 31
+(E) 32
+---------------------------------
+#PS#10#B#100#Arithmetic#Arithmetic700#
+If \(x = \frac{3}{4}\) and \(y = \frac{2}{5}\), what is the value of \(\sqrt{(x^2 + 6x + 9)} - \sqrt{(y^2 - 2y +1)}\)?
+(A) \(\frac{87}{20}\)
+(B) \(\frac{63}{20}\)
+(C) \(\frac{47}{20}\)
+(D) \(\frac{15}{4}\)
+(E) \(\frac{14}{5}\)
+---------------------------------
+#PS#11#C#100#Number Properties#500#
+A perfect number is defined as one for which the sum of all the unique factors less the number itself is equal to the number. For instance, 6 is a perfect number, because the factors of 6 (apart from 6 itself) are 1, 2 and 3, and \(1 + 2 + 3 = 6\). Which of the following is also a perfect number?
+(A) 12
+(B) 20
+(C) 28
+(D) 48
+(E) 60
+---------------------------------
+#PS#12#D#100#Divisibility / Multiples / Factors#600#
+How many of the three-digit numbers are divisible by 7?
+(A) 105
+(B) 106
+(C) 127
+(D) 128
+(E) 142
+---------------------------------
+#DS#13#D#100#Word problems#700#
+If 25% of the company's employees contribute at least 4% of their salary to the Charity Fund, what percent of the company's employees contribute at least 5% of their salary to the Charity Fund?
+20% of the company's employees contribute at least 4% but less than 5% of their salary to the Charity Fund
+95% of the company's employees contribute less than 5% of their salary to the Charity Fund
+---------------------------------
+#DS#14#D#100#Percents and Interest Problems#700#
+If \(a\) and \(b\) are positive, \(\frac{a}{b}\) is what percent of \(ab\)?
+\(|b - 2| = 4\)
+\(b^2 - 3b - 18 = 0\)
+---------------------------------
+#PS#15#A#100#Combinatorics and Probability#700#
+How many integers between 324,700 and 458,600 have a 2 in the tens digit and a 1 in the units digit?
+(A) 1,339
+(B) 1,352
+(C) 1,353
+(D) 10,030
+(E) 10,300
+---------------------------------
+#PS#16#B#100#Algebra#Algebra500#
+If \(x\) is a positive number and \(\frac{1}{2}*\sqrt{x} = 2x\), what is the value of \(x\)?
+(A) \(0\)
+(B) \(\frac{1}{16}\)
+(C) \(\frac{1}{4}\)
+(D) \(\frac{1}{2}\)
+(E) \(1\)
+---------------------------------
+#PS#17#C#100#Algebra#700#
+If \(P^2 - QR = 10\), \(Q^2 + PR = 10\), \(R^2 + PQ = 10\), and \(R \ne Q\), what is the value of \(P^2 + Q^2 + R^2?\)
+(A) 10
+(B) 15
+(C) 20
+(D) 25
+(E) 30
+---------------------------------
+#DS#18#E#100#Geometry / Coordinate Geometry#700#
+Is area of triangle \(ABC\) greater than area of triangle \(DEF\)?
+The value of area of \(ABC\) is less than that of perimeter of \(DEF\).
+Angles of \(ABC\) = Angles of \(DEF\)
+---------------------------------
+#PS#19#A#100#Properties of Sets#500#
+\(Q\) is a set of 10 numbers. If the range of \(Q\) is zero, then what is the standard deviation of \(Q\)?
+(A) 0
+(B) 1
+(C) 3.33
+(D) 5
+(E) 10
+---------------------------------
+#PS#20#C#100#Word problems#500#
+Today John is 3 times as old as Mark. If in 13 years, John will be one year younger than twice the age of Mark on that day, how old is John today?
+(A) 13
+(B) 33
+(C) 36
+(D) 38
+(E) 39
+---------------------------------
+#DS#21#E#100#Number Properties#600#
+If \(x\) is an integer, then is \(x\) a prime number?
+\(x\) is a multiple of a prime number.
+\(x\) is a product of two integers.
+---------------------------------
+#PS#22#E#100#Geometry / Coordinate Geometry#700#
+What is the approximate minimum length of a rope required to enclose an area of 154 square meters?
+(A) 154
+(B) 60
+(C) 57
+(D) 50
+(E) 44
+---------------------------------
+#DS#23#E#100#Combinatorics and Probability#Combinatorics and Probability700#
+A basket contains only red and green chips. If two chips are drawn from the basket at random without replacement, what is the probability that both chips will be green?
+20% of all chips in the basket are green.
+The ratio of the number of red chips to the number of green chips is 4:1.
+---------------------------------
+#DS#24#C#100#Work / Rate problems#700#
+Mac can finish a job in \(M\) days and Jack can finish the same job in \(J\) days. After working together for \(T\) days, Mac left and Jack alone worked to complete the remaining work in \(R\) days. If Mac and Jack completed an equal amount of work, how many days would have it taken Jack to complete the entire job working alone?
+\(M = 20\) days
+\(R = 10\) days
+---------------------------------
+#DS#25#E#100#Properties of Sets#500#
+If set \(T\) contains more than one element, is the median of set \(T\) greater than its mean?
+Set \(T\) has positive range
+The elements of the set are not consecutive integers
+---------------------------------
+#PS#26#B#100#Fractions / Ratios / Decimals#700#
+\(m\) and \(n\) are positive integers. What is the smallest possible value of integer \(m\) if \(\frac{m}{n}\) = 0.3636363636...?
+(A) 3
+(B) 4
+(C) 7
+(D) 13
+(E) 22
+---------------------------------
+#DS#27#E#100#Overlapping Sets#500#
+What percent of the MIS students enrolled at Wisconsin University are female?
+5% of female students at Wisconsin University are studying MIS.
+12% of male students at Wisconsin University are studying MIS.
+---------------------------------
+#DS#28#E#100#Remainders#600#
+If \(a\) and \(b\) are positive integers, is \(10^a + b\) divisible by 3?
+\(\frac{b}{2}\) is an odd integer.
+the remainder of \(\frac{b}{10}\) is \(b\).
+---------------------------------
+#PS#29#D#100#Inequalities#600#
+If \(x\) is a negative integer and \(3 \lt x^2 \lt 36\), then what is the value of twice the maximum possible value of \(x\) minus the minimum possible value of \(x\)?
+(A) \(-12\)
+(B) \(-9\)
+(C) \(-3\)
+(D) \(1\)
+(E) \(6\)
+---------------------------------
+#DS#30#B#100#Inequalities#Inequalities700#
+Is \(x\) greater than 1?<br>
+\(\frac{1}{x} \gt -1\)
+\(\frac{1}{x^5} \gt \frac{1}{x^3}\)
+---------------------------------
+#PS#31#C#100#Work / Rate problems#Work / Rate problems700#
+A qualified worker digs a well in 5 hours. He invites 2 apprentices, each working \(\frac{3}{4}\) as fast as the qualified worker and 2 trainees each working \(\frac{1}{5}\) as fast as the qualified worker. If the five-person team digs the same well, approximately how much time does the team need to finish the job?
+(A) 1 hour 24 minutes
+(B) 1 hour 34 minutes
+(C) 1 hour 44 minutes
+(D) 1 hour 54 minutes
+(E) 2 hours 14 minutes
+---------------------------------

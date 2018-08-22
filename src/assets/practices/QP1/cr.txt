@@ -1,0 +1,601 @@
+####75####QP1
+#CR#1 (Easy)#D#100
+According to the Tristate Transportation Authority, making certain improvements to the main commuter rail line would increase ridership dramatically. The authority plans to finance these improvements over the course of five years by raising automobile tolls on the two highway bridges along the route the rail line serves. Although the proposed improvements are indeed needed, the authority's plan for securing the necessary funds should be rejected because it would unfairly force drivers to absorb the entire cost of something from which they receive no benefit.<br><br>Which of the following, if true, would cast the most doubt on the effectiveness of the authority's plan to finance the proposed improvements by increasing bridge tolls?
+(A) Before the authority increases tolls on any of the area bridges, it is required by law to hold public hearings at which objections to the proposed increase can be raised.
+(B) Whenever bridge tolls are increased, the authority must pay a private contractor to adjust the automated toll- collecting machines.
+(C) Between the time a proposed toll increase is announced and the time the increase is actually put into effect, many commuters buy more tokens than usual to postpone the effects of the increase.
+(D) When tolls were last increased on the two bridges in question, almost 20 percent of the regular commuter switched to a slightly longer alternative route that has since been improved.
+(E) The chairman of the authority is a member of the Tristate Automobile Club that has registered strong opposition to the proposed toll increase.
+---------------------------------
+#CR#2 (Easy)#A#200
+Roland: The alarming fact is that 90 percent of the people in this country now report that they know someone who is unemployed.<br><br>Sharon: But a normal, moderate level of unemployment is 5 percent, with 1 out of 20 workers unemployed. So at any given time if a person knows approximately 50 workers, 1 or more will very be unemployed.<br><br>Sharon's argument is structured to lead to which of the following as a conclusion?
+(A) The fact that 90% of the people know someone who is unemployed is not an indication that unemployment is abnormally high.
+(B) The current level of unemployment is not moderate.
+(C) If at least 5% of workers are unemployed, the result of questioning a representative group of people cannot be the percentage Roland cites.
+(D) It is unlikely that the people whose statements Roland cites are giving accurate reports.
+(E) If an unemployment figure is given as a certain percent, the actual percentage of those without jobs is even higher.
+---------------------------------
+#CR#3 (Easy)#E#300
+Guitar strings often go “dead”—become less responsive and bright in tone—after a few weeks of intense use. A researcher whose son is a classical guitarist hypothesized that dirt and oil, rather than changes in the material properties of the string, were responsible.<br><br>Which of the following investigations is most likely to yield significant information that would help to evaluate the researcher’s hypothesis?
+(A) Determining if a metal alloy is used to make the strings used by classical guitarists
+(B) Determining whether classical guitarists make their strings go dead faster than do folk guitarists
+(C) Determining whether identical lengths of string, of the same gauge, go dead at different rates when strung on various brands of guitars
+(D) Determining whether a dead string and a new string produce different qualities of sound
+(E) Determining whether smearing various substances on new guitar strings causes them to go dead
+---------------------------------
+#CR#4 (Easy)#D#400
+Increases in the level of high-density lipoprotein (HDL) in the human bloodstream lower bloodstream cholesterol levels by increasing the body's capacity to rid itself of excess cholesterol. Levels of HDL in the bloodstream of some individuals are significantly increased by a program of regular exercise and weight reduction.<br><br>Which of the following can be correctly inferred from the statements above?
+(A) Individuals who are underweight do not run any risk of developing high levels of cholesterol in the bloodstream.
+(B) Individuals who do not exercise regularly have a high risk of developing high levels of cholesterol in the bloodstream late in life.
+(C) Exercise and weight reduction are the most effective methods of lowering bloodstream cholesterol levels in humans.
+(D) A program of regular exercise and weight reduction lowers cholesterol levels in the bloodstream of some individuals.
+(E) Only regular exercise is necessary to decrease cholesterol levels in the bloodstream of individuals of average
+---------------------------------
+#CR#5 (Easy)#C#500
+In Asia, where palm trees are non-native, the trees’ flowers have traditionally been pollinated by hand, which has kept palm fruit productivity unnaturally low. When weevils known to be efficient pollinators of palm flowers were introduced into Asia in 1980, palm fruit productivity increased— by up to 50 percent in some areas—but then decreased sharply in 1984.<br><br>Which of the following statements, if true, would best explain the 1984 decrease in productivity?
+(A) Prices for palm fruit fell between 1980 and 1984 following the rise in production and a concurrent fall in demand.
+(B) Imported trees are often more productive than native trees because the imported ones have left behind their pests and diseases in their native lands.
+(C) Rapid increases in productivity tend to deplete trees of nutrients needed for the development of the fruit- producing female flowers.
+(D) weevil population in Asia remained at approximately the same level between 1980 and 1984.
+(E) Prior to 1980 another species of insect pollinated the Asian palm trees, but not as efficiently as the species of weevil that was introduced in 1980.
+---------------------------------
+#CR#6 (Easy)#B#600
+Which of the following best completes the passage below?<br><br>People buy prestige when they buy a premium product. They want to be associated with something special. Mass- marketing techniques and price reduction strategies should not be used because __.
+(A) Affluent purchasers currently represent a shrinking portion of the population of all purchasers
+(B) continued sales depend directly on the maintenance of an aura of exclusivity
+(C) purchasers of premium products are concerned with the quality as well as with the price of the products
+(D) expansion of the market niche to include a broader spectrum of consumers will increase profits
+(E) manufacturing a premium brand is not necessarily more costly than manufacturing a standard brand of the same product
+---------------------------------
+#CR#7 (Easy)#A#700
+Reviewer: The book <span style="font-style: italic">Art's Dedine</span> argues that European painters today lack skills that were common among European painters of preceding centuries. In this the book must be right, since its analysis of 100 paintings, 50 old and 50 contemporary, demonstrates convincingly that none of the contemporary paintings are executed as skillfully as the older paintings.<br><br>Which of the following points to the most serious logical flaw in the reviewer's argument?
+(A) The paintings chosen by the book's author for analysis could be those that most support the book's thesis.
+(B) There could be criteria other than the technical skill of the artist by which to evaluate a painting.
+(C) The title of the book could cause readers to accept the book's thesis even before they read the analysis of the paintings that supports it.
+(D) The particular methods currently used by European painters could require less artistic skill than do methods used by painters in other parts of the world.
+(E) A reader who was not familiar with the language of art criticism might not be convinced by the book's analysis of the 100 paintings.
+---------------------------------
+#CR#8 (Easy)#A#800
+Many breakfast cereals are fortified with vitamin supplements. Some of these cereals provide 100 percent of the recommended daily requirement of vitamins. Nevertheless, a well—balanced breakfast, including a variety of foods, is a better source of those vitamins than are such fortified breakfast cereals alone.<br><br>Which of the following, if true, would most strongly support the position above?
+(A) In many foods, the natural combination of vitamins with other nutrients makes those vitamins more usable by the body than are vitamins added in vitamin supplements.
+(B) People who regularly eat cereals fortified with vitamin supplements sometimes neglect to eat the foods in which the vitamins occur naturally.
+(C) Foods often must be fortified with vitamin supplements because naturally occurring vitamins are removed during processing.
+(D) Unprocessed cereals are naturally high in several of the vitamins that are usually added to fortified breakfast cereals.
+(E) Cereals containing vitamin supplements are no harder to digest than similar cereals without added vitamins.
+---------------------------------
+#CR#9 (Easy)#B#900
+<span style="font-weight: bold">Plant scientists have used genetic engineering on seeds to produce crop plants that are highly resistant to insect damage.</span> Unfortunately, the plants require more fertilizer and water to grow well than normal ones do, and <span style="font-weight: bold">the seeds themselves are quite expensive</span>, and for most farmers the savings on pesticides would not compensate for the higher seed costs and the cost of additional fertilizer. However, since consumer demand for grains, fruits, and vegetables grown without the use of pesticides continues to rise, the use of genetically engineered seeds of this kind is likely to become widespread.<br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first presents a development that the argument seeks to show will have certain disadvantages; the second is introduced as a consideration likely to offset one of those disadvantages.
+(B) The first presents a development that the argument predicts will have a certain impact; the second acknowledges a consideration that weighs against that prediction.
+(C) The first supplies a context for the argument; the second is a part of the evidence presented as support for the argument's conclusion.
+(D) The first is evidence provided to support an intermediate conclusion that is drawn in support of the argument’s main conclusion; the second is that intermediate conclusion.
+(E) The first and the second each provide evidence in support of the argument’s main conclusion.
+---------------------------------
+#CR#10 (Easy)#B#1000
+Paper&Print is a chain of British stores selling magazines, books, and stationery products. In Britain, magazines’ retail prices are set by publishers, and the retailer’s share of a magazine's retail price 25 percent. Since Paper&Print’s margin on books and stationery products is much higher, the chain's management plans to devote more of its stores’ shelf space to books and stationery products and reduce the number of magazine titles that its stores carry.<br><br>Which of the following, if true, most strongly argues that the plan, if put into effect, will NOT increase Paper&Print’s profits?
+(A) Recently magazine publishers, seeking to increase share in competitive sectors of the market, have been competitively cutting the retail prices of some of the largest circulation magazines.
+(B) In market research surveys, few consumers identify Paper&Print as a book or stationery store but many recognize and value the broad range of magazines it carries.
+(C) The publisher’s share of a magazine's price is 50 percent, and the publisher also retains all of the magazine's advertising revenue.
+(D) Consumers who subscribe to a magazine generally pay less per issue than they would if they bought the magazine through a retail outlet such as Paper&Print.
+(E) Some of Paper&Print’s locations are in small towns and represent the only retail outlet for books within the community.
+---------------------------------
+#CR#11 (Easy)#D#1100
+An influential stock analyst recommends the purchase of three infrequently traded stocks in each of his weekly magazine columns. Unusually large amounts of these stocks are often purchased one day before the magazine appears on the newsstands. This pattern has recurred over a period.<br><br>Suppose that the information presented above is accurate. Each of the following statements, if true, could help to explain why the unusually large purchases occurred EXCEPT:
+(A) Workers at the company that prints the magazine have used their advance knowledge of the analyst's column to guide their own stock purchases.
+(B) Workers at the company that prints the magazine often sell advance copies of the magazine to stockbrokers.
+(C) One hundred copies of each issue of the magazine are circulated in the publishing company's office a day before the issue appears on newsstands.
+(D) The analyst refuses to submit his column for editorial review before it is printed.
+(E) Twenty people in the publishing company have access to the analyst's column before it is printed.
+---------------------------------
+#CR#12 (Easy)#B#1200
+The faster a car is traveling, the less time the driver has to avoid a potential accident, and if a car does crash, higher speeds increase the risk of a fatality. Between 1995 and 2000, average highway speeds increased significantly in the United States, yet, over that time, there was a drop in the number of car-crash fatalities per highway mile driven by cars.<br><br>Which of the following, if true about the United States between 1995 and 2000, most helps to explain why the fatality rate decreased in spite of the increase in average highway speeds?
+(A) The average number of passengers per car on highways increased.
+(B) There were increases in both the proportion of people who wore seat belts and the proportion of cars that were equipped with airbags as safety devices.
+(C) The increase in average highway speeds occurred as legal speed limits were raised on one highway after another.
+(D) The average mileage driven on highways per car increased.
+(E) In most locations on the highways, the density of vehicles on the highway did not decrease, although individual vehicles, on average, made their trips more quickly.
+---------------------------------
+#CR#13 (Easy)#D#1300
+Traces of cultivated emmer wheat have been found among the earliest agricultural remains at many archaeological sites in Europe and Asia. The only place where the wild form of emmer wheat has been found growing is a relatively narrow strip of southwest Asia. Since the oldest remains of cultivated emmer wheat yet found are from village sites in the same narrow strip, it is clear that emmer wheat was first domesticated somewhere in that strip.<br><br>Which of the following, if true, most strengthens the argument?
+(A) The present-day distribution of another wild wheat, einkorn, which was also domesticated early in the development of agriculture, covers a much larger area of southwest Asia.
+(B) Wild emmer wheat can easily be made to yield nearly as much as modern domestic strains.
+(C) At the time when emmer wheat was first cultivated, it was the most nutritious of all the varieties of grain that were then cultivated.
+(D) In the strip where wild emmer wheat has been found, climatic conditions have changed very little since before the development of agriculture.
+(E) It is very difficult, without genetic testing, to differentiate the wild form of emmer wheat from a closely related wild wheat that also grows in southwest Asia.
+---------------------------------
+#CR#14 (Easy)#D#1400
+The Acme Corporation has found that improvements in its information technology infrastructure allow its employees to make more decisions that are both sound and well-informed than was previously feasible. Consequently, the corporation plans to improve employee productivity by introducing new managerial techniques that delegate much of the decision-making to lower levels of the organizational hierarchy. Managers will simply set clear standards and guidelines and then allow employee teams to undertake tasks without centralized control.<br><br>Which of the following, if true, would most strongly support a prediction that the Acme Corporation's plan will achieve its goal?
+(A) The corporation will be able to cut its managerial staff only if the managers’ sole function is to set clear standards and guidelines for employees.
+(B) After Acme’s information technology infrastructure was improved, very few of Acme’s managers continued to believe that only managers should make most decisions.
+(C) Most of the tasks currently performed by the corporation's employees require few if any significant decisions to be made.
+(D) When employees can make decisions themselves, rather than submitting the same matters for decision to managers, there is more time available for directly productive activities.
+(E) Some other companies that have better employee productivity than does the Acme Corporation also plan to use the new managerial techniques.
+---------------------------------
+#CR#15 (Easy)#E#1500
+The recent rise of low-cost airlines in Country Y has led to great increases in the number of air travelers and flights. However, a “hidden cost” of flying and certain other forms of travel is the significant amount of air pollution, which contributes to global warming. To make people pay these hidden costs—and in the process discourage the explosive growth in flying—the government of Country Y plans to impose fees on all air travel. There is a problem, however, in that many residents of Country Y would then use automobile transportation instead, without paying the hidden costs of the resulting air pollution.<br><br>Which of the following additions to the government's plan would be likely to help most in overcoming the problem referred to in the final sentence above?
+(A) Restricting the number of daily flights permitted in Country Y
+(B) Using the fees imposed on air travel to educate the public about the effects of air pollution on global warming
+(C) Setting clear, specific recommendations for the long-term reduction in exhaust emissions by automobile transportation in the country
+(D) Asking airplane manufacturers to study the possibility of creating airplanes that produce less air pollution
+(E) Imposing substantial fees on all forms of motorized transportation, in proportion to the amount of pollution caused by each form
+---------------------------------
+#CR#16 (Easy)#D#1600
+Fashion company executive: The number of competing brands of clothing is increasing much more quickly than is consumer demand for new clothing. As a result, it is becoming ever more for our clothing company to keep consumers focused on our products. To increase our sales, therefore, our company plans to introduce innovative, eye-catching lines of clothing much more frequently.<br><br>To evaluate whether the plan described by the executive would be likely to achieve its goal, it would be most useful to know which of the following?
+(A) Whether other, competing clothing companies will more frequently introduce newlines of clothing
+(B) To what extent consumers’ attention tends to be focused on innovative, eye-catching products in other industries
+(C) Why the number of competing brands of clothing is increasing more quickly than consumer demand for new clothing
+(D) How much more likely most consumers are to buy innovative, eye-catching lines of clothing than they are to buy conventional, familiar clothing
+(E) Whether the executive's company is currently selling any innovative and eye-catching fines of clothing
+---------------------------------
+#CR#17 (Easy)#C#1700
+A physically active lifestyle has been shown to help increase longevity. In the Wistar region of Bellaria, the average age at death is considerably higher than in any other part of the country. Wistar is the only mountainous part of Bellaria. A mountainous terrain makes even such basic activities as walking relatively strenuous; it essentially imposes a physically active lifestyle on people. Clearly, this circumstance explains the long lives of people in Wistar.<br><br>Which of the following, true, most seriously weakens the argument?
+(A) In Bellaria all medical expenses are paid by the government, so that personal income does not affect the quality of health care a person receives.
+(B) People living in Wistar do not have a significantly better diet than people living in other parts of Bellaria.
+(C) Many people who live in the Wistar region have moved there in middle age or upon retirement.
+(D) The many opportunities for hiking, skiing, and other outdoor activities that Wistar’s mountains offer make it a favorite destination for vacationing Bellarians.
+(E) Per capita spending on recreational activities is no higher in Wistar than it is in other regions of Bellaria.
+---------------------------------
+#CR#18 (Easy)#B#1800
+Airport official: Local residents have been complaining that night fights into Plainsville airport disturb their sleep and should be sharply reduced in number. This complaint is completely unreasonable—there have been night flights coming into the airport from the very beginning, twenty years ago, and these residents should have taken that fact into account when buying their homes.<br><br>Which of the following is an assumption on which the airport argument depends?
+(A) There are fewer night flights now than there were originally.
+(B) The residents who are complaining have been in their current homes fewer than twenty years.
+(C) The residents who are complaining are ignoring the benefits they gain from the presence of the airport.
+(D) The economic success of the airport depends entirely on the existence of the night flights.
+(E) People buying houses in Plainville all avoid buying houses near the airport if they can.
+---------------------------------
+#CR#19 (Easy)#E#1900
+Paper and plastic grocery bags are a continuing problem for the city, both as litter and in landfills. To discourage their use, the city has proposed a tax on each bag, to be paid by the supermarkets that supply them. Several environmental groups, however, oppose the tax, despite having brought the issue to the council's attention in the first place.<br><br>Which of the following, if true, would best explain the environmental groups’ opposition to the proposed tax?
+(A) The city's current tax revenue is insufficient to pay the cost of recycling paper and plastic grocery bags.
+(B) The cost to the city of collecting and disposing of a grocery bag is greater than the proposed tax per bag.
+(C) Plastic bags account for 90 percent of the grocery bags that litter the city's streets and take up space in landfills.
+(D) Only supermarkets distributing more than a certain number of grocery bags each month would be subject to the proposed tax.
+(E) Supermarkets plan to pass the tax on to consumers, who are unlikely to change their behavior based on the small increase in their grocery bills.
+---------------------------------
+#CR#20 (Easy)#A#2000
+Public health official: Some researchers suspect that magnetic fields from high-voltage power lines can cause health problems for people who live especially near the lines. However, this is extremely unlikely: Beyond a distance of a few feet, the strength of the magnetic fields from high-voltage power lines is less than the average strength of magnetic fields in homes that are not located near such lines.<br><br>Which of the following would it be most useful to establish in order to evaluate the public health argument?
+(A) Whether magnetic fields in homes that are not located near high-voltage power lines can cause health problems for the residents of those homes
+(B) What proportion of people who live near high-voltage power fines believe that those fines may cause health problems
+(C) Whether high-voltage power lines are routed near residential in urban areas
+(D) What specific diseases or conditions are suspected by some researchers to result from exposure to magnetic fields from high-voltage power lines
+(E) What is the average strength of magnetic fields in workplaces that are not located near high-voltage power lines
+---------------------------------
+#CR#21 (Easy)#E#2100
+Manager: Although our corporation lists rules in an orientation booklet, few employees read the booklet carefully enough to familiarize themselves with all the rules. Lecturing employees for inadvertent rule violations often makes them resentful and less cooperative. Thus, to improve employee adherence to rules, we plan to issue gentle reminders about various rules in each issue of our weekly newsletter.<br><br>Which of the following would it be most helpful to discover about the employees in the corporation in order to evaluate the likelihood that the plan will succeed?
+(A) Whether most of them who are lectured for inadvertent rule violations are deterred from violating the same rule again
+(B) Whether most of them who inadvertently violate rules already feel resentful and uncooperative
+(C) Whether most of them violate at least some rules with which they are familiar
+(D) Whether most of them who regularly read the weekly newsletter are familiar with at least some rules
+(E) Whether most of them would usually read with sufficient care the portions of the weekly newsletter that are reminders of rules
+---------------------------------
+#CR#22 (Easy)#A#2200
+Letter to the editor: Our city plans to allow major commercial development along the south waterfront and, in so doing, to increase its tax revenue. But, to succeed commercially, the development would inevitably create far more road traffic than the existing roads to the waterfront can handle, causing serious congestion. Providing enough roads or public transportation to the area would cost far more than the city could gain from the increased tax revenue.<br><br>Which of the following, if added to the city's plan, would be most likely to help solve the problem the letter describes?
+(A) Funding construction of new roads to the waterfront with a system of tolls on the new roads to the waterfront
+(B) Allowing residential development along the waterfront so that there will be waterfront residents who can walk to the commercial development
+(C) Giving tax breaks to developers of businesses along the waterfront to offset any tax levied on them for construction of roads or public transportation
+(D) Evaluating the net benefits that the commercial development would bring to the city in terms of improved quality of life for the city's residents rather than in financial terms
+(E) Allowing commercial development in other city neighborhoods whose roads are not seriously congested with traffic
+---------------------------------
+#CR#23 (Medium)#A#2300
+Products sold under a brand name used to command premium prices because, in general, they were superior to nonbrand rival products. Technical expertise in product development has become so widespread, however, that special quality advantages are very hard to obtain these days and even harder to maintain. As a consequence, brand- name products generally neither offer higher quality nor sell at higher prices. Paradoxically, brand names are a   bigger marketing advantage than ever.<br><br>Which of the following, if true, most helps to resolve the paradox above?
+(A) Brand names are taken by consumers as a guarantee of getting a product as good as the best rival products.
+(B) Consumers recognize that the quality of products sold under invariant brand names can drift over time.
+(C) In many acquisitions of one corporation by another, the acquiring corporation is interested more in acquiring the right to use certain brand names than in acquiring existing production facilities.
+(D) In the days when special quality advantages were easier to obtain than they are now, it was also easier to get new brand names established.
+(E) The advertising of a company's brand-name products is at times transferred to a new advertising agency, especially when sales are declining.
+---------------------------------
+#CR#24 (Medium)#C#2400
+A museum has been offered an undocumented statue, supposedly Greek and from the sixth century B.C. Possibly the statue is genuine but undocumented because it was recently unearthed or because it has been privately owned. However, an ancient surface usually has uneven weathering, whereas the surface of this statue has the uniform quality characteristically produced by a chemical bath used by forgers to imitate a weathered surface. Therefore, the statue is probably a forgery.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) Museums can accept a recently unearthed statue only with valid export documentation from its country of origin.
+(B) The subject's pose and other aspects of the subject's treatment exhibit all the most common features of Greek statues of the sixth century B.C.
+(C) The chemical bath that forgers use was at one time used by dealers and collectors to remove the splotchy surface appearance of genuinely ancient sculptures.
+(D) Museum officials believe that forgers have no technique that can convincingly simulate the patchy weathering characteristic of the surfaces of ancient sculptures.
+(E) An allegedly Roman sculpture with a uniform surface similar to that of the statue being offered to the museum was recently shown to be a forgery.
+---------------------------------
+#CR#25 (Medium)#E#2500
+Manufacturers of mechanical pencils make most of their profit on pencil leads rather than on the pencils themselves. The Write Company, which cannot sell its leads as cheaply as other manufacturers can, plans to alter the design of its mechanical pencil so that it will accept only a newly designed Write Company lead, which will be sold at the same price as the Write Company's current lead.<br><br>Which of the following, if true, most strongly supports the Write Company's projection that its plan will lead to an increase in its sales of pencil leads?
+(A) First-time buyers of mechanical pencils tend to buy the least expensive mechanical pencils available.
+(B) Annual sales of mechanical are expected to triple over the next five years.
+(C) Write Company executive is studying ways to reduce the cost of manufacturing pencil leads.
+(D) A rival manufacturer recently announced similar plans to introduce a mechanical pencil that would accept only the leads produced by that manufacturer.
+(E) In extensive test marketing, mechanical-pencil users found the new Write Company pencil markedly superior to other mechanical pencils they had used.
+---------------------------------
+#CR#26 (Medium)#A#2600
+Drug manufacturer: Television audiences are sure to realize that the “physician" recommending our brand of cough syrup in our advertisement is actually an actor playing a role. Hence they will not place undue trust in the advice given by this actor. Therefore, networks should relax their guidelines to permit our company to broadcast this advertisement.<br><br>Television executive: If the audience can tell that the actor is not a physician, then your advertisement need not have a physician figure recommending your product.<br><br>Which of the following is an argumentative strategy used by the television executive in response to the drug manufacturer?
+(A) Indicating that the reason the drug manufacturer offers for relaxing the guidelines conflicts with the manufacturer's presumed motive for presenting the image of a physician in the advertisement
+(B) Asserting that the drug manufacturer's expressed desire to broadcast the advertisement is motivated by self- interest rather than by genuine interest in the good of the audience
+(C) Invoking subjective opinions concerning audience reaction to television advertisements as if those opinions constituted objective evidence
+(D) Pointing out that the goals of the drug manufacturer's company differ from those of television networks
+(E) Questioning the ability of the drug manufacturer to make any sweeping generalization about what the many different members of the audience may think
+---------------------------------
+#CR#27 (Medium)#A#2700
+In Gandania, where the government has a monopoly on tobacco sales, the incidence of smoking-related health problems has risen steadily for the last twenty years. The health secretary recently proposed a series of laws aimed at curtailing tobacco use in Gandania. Profits from tobacco sales, however, account for ten percent of Gandania's annual revenues. Therefore, Gandania cannot afford to institute the proposed laws.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) All health care in Gandania is government-funded.
+(B) Implementing the proposed laws is not to cause a significant increase in the amount of tobacco Gandania exports.
+(C) The percentage of revenue Gandania receives from tobacco sales has remained steady in recent years.
+(D) Profits from tobacco sales far surpass any other single source of revenue for the Gandanian government.
+(E) No government official in Gandania has ever previously proposed laws aimed at curtailing tobacco use.
+---------------------------------
+#CR#28 (Medium)#A#2800
+Mall owner: Our mall's occupancy rate is so low that we are barely making a profit. We cannot raise rents because of an unacceptably high risk of losing established tenants. On the other hand, a mall that is fully occupied costs about as much to run as one in which a rental space here and a rental space there stands empty. Clearly, therefore, to increase profits we must sign up new tenants.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) The mall's operating costs could be cut by consolidating currently rented spaces in such a way that an entire wing of the mall could be closed up.
+(B) The mall is located in a geographic area in which costs incurred for air-conditioning in the hot summers exceed those incurred for heating in the mid winters by a wide margin.
+(C) The mall's occupancy rate, though relatively low, has been relatively stable for several years.
+(D) The mall lost tenants as a result of each of the two major rent increases that have occurred there.
+(E) None of the mall's established tenants is likely to need additional floor space there in the foreseeable future.
+---------------------------------
+#CR#29 (Medium)#C#2900
+In one state, all cities and most towns have antismoking ordinances. A petition entitled “Petition for Statewide Smoking Restriction” is being circulated to voters by campaign workers who ask only, “Do you want to sign a petition for statewide smoking restriction?" The petition advocates a state law banning smoking in most retail establishments and in government that are open to the public.<br><br>Which of the following circumstances would make the petition as circulated misleading to voters who understand the proposal as extending the local ordinances statewide?
+(A) Health costs associated with smoking cause health insurance premiums to rise for everyone and so affect nonsmokers.
+(B) In rural areas of the state, there are relatively few retail establishments and government offices that are open to the public.
+(C) The state law would supersede the local antismoking ordinances, which contain stronger bans than the state law does.
+(D) There is considerable sentiment among voters in most areas of the state for restriction of smoking.
+(E) The state law would not affect existing local ordinances banning smoking in places where the fire authorities have determined that smoking would constitute a fire hazard.
+---------------------------------
+#CR#30 (Medium)#E#3000
+In preparation for a large-scale tree-planting project, Thomasville has recorded the location, species, and condition of every tree in its downtown area. The results will be compared with results of the last such tree census, taken 20  years ago. Planting trees primarily from the species that turns out to have the best record of survival will assure downtown Thomasville of an abundant tree population 20 years from now.<br><br>Which of the following, if true, most seriously undermines the claim that the tree-planting proposal will assure an abundant tree population?
+(A) Because of strict laws governing industrial development, environmental conditions in Thomasville are unlikely to become harsher for trees than they have been during the last 20 years.
+(B) Thomasville has reliable records to show which trees in existence 20 years ago were cut down to permit new construction downtown.
+(C) A number of trees from one of the species widespread in Thomasville 20 years ago reached the end of their natural life span in the intervening period.
+(D) Very few species of trees grow as well in urban conditions as in natural conditions.
+(E) A city with a high proportion of any one species of trees can have its tree population devastated by one outbreak of a disease.
+---------------------------------
+#CR#31 (Medium)#D#3100
+Which of the following most logically completes the passage below?<br><br>One name-brand cereal manufacturer is about to reduce wholesale prices for its cereals by 20 percent because consumers have been switching from its cereals to cheaper store brands. The success of this strategy relies on the assumption that supermarkets will pass on all of the savings by lowering the prices they charge consumers for the manufacturer's cereals. Although supermarkets usually pass on such savings, in this case it is likely that supermarkets not do so because	_______________.
+(A) several other name-brand cereal manufacturers are about to reduce the wholesale prices of their cereals
+(B) the average price per box of name-brand cereals has increased significantly in the last 10 years
+(C) total annual sales of cereal—including both name-brand and store-brand cereals—have increased over the past 10 years
+(D) supermarkets make far more profit on sales of store-brand cereals than on sales of name-brand cereals
+(E) the current prices of the manufacturer's cereals are comparable to the prices of name-brand cereals produced by other cereal manufacturers
+---------------------------------
+#CR#32 (Medium)#A#3200
+In Teruvia, the quantity of rice produced per year is currently just large enough to satisfy domestic demand. Teruvia's total rice acreage will not be expanded in the foreseeable future, nor will rice yields per acre increase appreciably. Teruvia's population, however, will be increasing significantly for years to come. Clearly, therefore, Teruvia will soon have to begin importing rice.<br><br>Which of the following is an assumption on which the argument depends?
+(A) No pronounced trend of decreasing per capita demand for rice is imminent in Teruvia.
+(B) Not all of the acreage in Teruvia currently planted with rice is well suited to the cultivation of rice.
+(C) None of the strains of rice grown in Teruvia are exceptionally high-yielding.
+(D) There are no populated regions in Teruvia in which the population will not increase.
+(E) There are no major crops other than rice for which domestic production and domestic demand are currently in balance in Teruvia.
+---------------------------------
+#CR#33 (Medium)#E#3300
+Theatergoer: In January of last year, the Megaplex chain of movie theaters started popping its popcorn in canola oil, instead of the less healthful coconut oi that it had been using until then. Now Megaplex is planning to switch back, saying that the change has hurt popcorn sales. That claim is false, however, since according to Megaplex's own sales figures, Megaplex sold five percent more popcorn last year than in the previous year.<br><br>Which of the following, if true, most seriously weakens the theaterg0er‘s argument?
+(A) When it switched from using coconut oil to using canola oil, Megaplex made sure that the chain received a great deal of publicity stressing the health benefits of the change.
+(B) Megaplex makes more money on food and beverages sold at its theaters than it does on sales of movie tickets.
+(C) In a survey to determine pubic response to the change to canola oil, very few of Megapiex's customers said that the change had affected their popcorn-buying habits.
+(D) Total sales of all food and beverage items at Megaplex's movie theaters increased by less than five percent last year.
+(E) Total attendance at Megaplex's movie theaters was more than 20 percent higher last year than the year before.
+---------------------------------
+#CR#34 (Medium)#A#3400
+In polluted environments, dolphins gradually accumulate toxins in their body fat, and the larger the dolphin the more accumulated toxins it can tolerate. Nearly 80 percent of the toxins a female dolphin has accumulated pass into the fat-rich milk her nursing calf ingests. Therefore, the unusually high mortality rate among dolphin calves in the industrially contaminated waters along Florida's Gulf Coast is probably the result of their being poisoned by their mother's milk.<br><br>Which of the following, if true, most strengthens the argument?
+(A) The survival rate of firstborn dolphin calves in the area along Florida's Gulf Coast is highest for those whose mothers were killed before they were weaned.
+(B) The rate at which adult dolphins living in the waters along Florida's Gulf Coast accumulate toxins is no higher than that of adult dolphins in comparably polluted waters elsewhere.
+(C) Among dolphin calves born in the area along Florida's Gulf Coast, the mortality rate is highest among those with living siblings.
+(D) As dolphins age, they accumulate toxins from the environment more slowly than when they were young.
+(E) Dolphins, other marine mammals, have a higher proportion of body fat than do most land mammals.
+---------------------------------
+#CR#35 (Medium)#E#3500
+Perkins: According to an article I read, the woolly mammoth‘s extinction in North America coincided with a migration of humans onto the continent 12,000 years ago, and stone spearheads from this period indicate that these people were hunters. But the author's contention that being hunted by humans contributed to the woolly mammoth‘s extinction is surely wrong since, as paleontologists know, no spearheads have ever been found among the many mammoth bones that have been unearthed.<br><br>Which of the following, if true, provides the strongest reason for discounting the evidence Perkins cites in arguing against the contention that being hunted by humans contributed to the North American extinction of woolly mammoths?
+(A) At sites where mammoth bones dating from 12,000 years ago have been unearthed, bones of other mammals have rarely been found.
+(B) The stone from which stone spearheads were made is unlikely to have disintegrated over the course of 12,000 years.
+(C) Conditions in North America 12,000 years ago were such that humans could not have survived there on a diet that did not include substantial amounts of meat.
+(D) Cave paintings in North America that date from 12,000 years ago depict woolly mammoths as well as a variety of other animals, including deer and buffalo.
+(E) Because of the great effort that would have been required to produce each stone spearhead, hunters would have been unlikely to leave them behind.
+---------------------------------
+#CR#36 (Medium)#A#3600
+A proposed change to federal income tax laws would eliminate deductions from taxable income for donations a taxpayer has made to charitable and educational institutions. If this change were adopted, wealthy individuals would no longer be permitted such deductions. Therefore, many charitable and educational institutions would have to reduce services, and some would have to close their doors.<br><br>The argument above assumes which of the following?
+(A) Without the incentives offered by federal income tax laws, at least some wealthy individuals would not donate as much money to charitable and educational institutions as they otherwise would have.
+(B) Money contributed by individuals who make their donations because of provisions in the federal tax laws provides the only source of funding for many charitable and educational institutions.
+(C) The primary reason for not adopting the proposed change in the federal income tax laws cited above is to protect wealthy individuals from having to pay higher taxes.
+(D) Wealthy individuals who donate money to charitable and educational institutions are the only individuals who donate money to such institutions.
+(E) Income tax laws should be changed to make donations to charitable and educational institutions the only permissible deductions from taxable income.
+---------------------------------
+#CR#37 (Medium)#D#3700
+Certain politicians in the country of Birangi argue that a 50 percent tax on new automobiles would halt the rapid increase of automobiles on Birangi’s roads and thereby slow the deterioration of Birangi’s air quality. Although most experts agree that such a tax would result in fewer Birangians buying new vehicles and gradually reduce the number of automobiles on Birangi’s roads, they contend that it would have little impact on Birangi’s air-quality problem.<br><br>Which of the following, if true in Birangi, would most strongly support the experts’ contention about the effect of the proposed automobile tax on Birangi's air-quality problem?
+(A) Automobile emissions are the largest single source of air pollution.
+(B) Some of the proceeds from the new tax would go toward expanding the nonpolluting commuter rail system.
+(C) Currently, the sales tax on new automobiles is considerably lower than 50 percent.
+(D) Automobiles become less fuel efficient and therefore contribute more to air pollution as they age.
+(E) The scrapping of automobiles causes insignificant amounts of air pollution.
+---------------------------------
+#CR#38 (Medium)#C#3800
+Surveys in Domorica indicate that only 10 percent of Domoricans in their twenties read a newspaper regularly, while more than half of all Domoricans over thirty read a newspaper regularly. Although Domoricans in their twenties constitute a large proportion of the population, newspaper publishers nonetheless predict that ten years from now, the percentage of Domoricans who regularly read a newspaper will probably be no lower than it is today.<br><br>Which of the following, if true, provides the strongest grounds for the newspaper publishers’ prediction?
+(A) The number of Domoricans in their twenties is less than the number of Domoricans over thirty.
+(B) The number of newspapers in Domorica has been gradually increasing over the past several decades.
+(C) The proportion of Domoricans in their twenties who regularly read a newspaper has always been low.
+(D) The surveys defined a regular reader of a newspaper as someone who reads a newspaper more than twice a week.
+(E) The proportion of Domoricans who regularly read a newspaper was higher 20 years ago than it is today.
+---------------------------------
+#CR#39 (Medium)#B#3900
+Which of the following most logically completes the passage?<br><br>Each species of moth has an optimal body temperature for effective flight, and when air temperatures fall much  below that temperature, the moths typically have to remain inactive on vegetation for extended periods, leaving  them highly vulnerable to predators. In general, larger moths can fly faster than smaller ones and hence have a better chance of evading flying predators, but they also have higher optimal body temperatures, which explains why _______________.
+(A) large moths are generally able to maneuver better in flight than smaller moths
+(B) large moths are proportionally much more common in warm climates than in cool climates
+(C) small moths are more likely than large moths to be effectively camouflaged while on vegetation
+(D) large moths typically have wings that are larger in proportion to their body size than smaller moths do
+(E) most predators of moths prey not only on several different species of moth but also on various species of other insects
+---------------------------------
+#CR#40 (Medium)#A#4000
+In the late 1980s, the population of sea otters in the North Pacific Ocean began to decline. Of the two plausible explanations for the decline— increased predation by killer whales or disease—disease is the more likely. After all, a concurrent sharp decline in the populations of seals and sea lions was almost certainly caused by a pollution-related disease, which could have spread to sea otters, whereas the population of killer whales did not change noticeably.<br><br>Which of the following, if true, most seriously weakens the reasoning?
+(A) Killer whales in the North Pacific usually prey on seals and sea lions but wil, when this food source is scarce, seek out other prey.
+(B) There is no indication that substantial numbers of sea otters migrated to other locations from the North Pacific in the 1980s.
+(C) Along the Pacific coast of North America in the 19805, sea otters were absent from many locations where they had been relatively common in former times.
+(D) Following the decline in the population of the sea otters, there was an increase in the population of sea urchins, which are sea otters’ main food source.
+(E) The North Pacific populations of seals and sea lions cover a wider geographic area than does the population of sea otters.
+---------------------------------
+#CR#41 (Medium)#B#4100
+Sonya: The government of Copeland is raising the cigarette tax. Copeland's cigarette prices will still be reasonably low, so cigarette consumption will probably not be affected much. Consequently, government revenue from the tax will increase.<br><br>Raoul: True, smoking is unlikely to decrease, because Copeland's cigarette prices will stil not be high. They will, however, no longer be the lowest in the region, so we might begin to see substantial illegal sales of smuggled cigarettes in Copeland.<br><br>Raoul responds to Sonya's argument by doing which of the following?
+(A) Questioning the support for Sonya's conclusion by distinguishing carefully between no change and no decrease
+(B) Calling Sonya's conclusion into question by pointing to a possible effect of a certain change
+(C) Arguing that Sonya's conclusion would be better supported if Sonya could cite a precedent for what she predicts will happen
+(D) Showing that a cause that Sonya claims will be producing a certain effect is not the only cause that could produce that effect
+(E) Pointing out that a certain initiative is not bold enough to have the effect that Sonya predicts it will have
+---------------------------------
+#CR#42 (Medium)#B#4200
+In Berinia, the age at which people could begin to drink alcohol legally used to be 18. In 1990, in an attempt to reduce alcohol consumption and thereby to reduce alcohol-related traffic deaths among Berinlans under 21, the legal drinking age was raised to 21. Alcohol-related traffic deaths among people under 21 have decreased significantly since 1990. Nevertheless, surveys show that people in that age-group drink just as much alcohol as they did before 1990.<br><br>Which of the following, if true of Berinia, most helps to resolve the apparent discrepancy?
+(A) For the population as a whole, annual alcohol consumption is no lower now than it was in 1990.
+(B) Alcohol consumption away from home, for example in bars and restaurants, is much lower among people under 21 than it was in 1990.
+(C) The proportion of people under 21 who own a car is higher now than it was in 1990.
+(D) Alcohol consumption is lower among people under 21 than among adults in most other age-groups.
+(E) Alcohol-related deaths among people over 21 have increased since 1990.
+---------------------------------
+#CR#43 (Medium)#C#4300
+Two centuries ago, Tufe Peninsula became separated from the mainland, isolating on the newly formed Tufe Island a population of sunflowers. This population's descendants grow to be, on average, 40 centimeters shorter than sunflowers found on the mainland. Tufe Island is significantly drier than Tufe Peninsula was. So the current average height of sunflowers is undoubtedly at least partially attributable to changes in Tufe’s environmental conditions.<br><br>Which of the following is an assumption on which the argument depends?
+(A) There are no types of vegetation on Tufe Island that are known to benefit from dry conditions.
+(B) There were about as many sunflowers on Tufe Peninsula two centuries ago as there are on Tufe Island today.
+(C) The mainland‘s environment has not changed in ways that have resulted in sunflowers on the mainland growing to be 40 centimeters taller than they did two centuries ago.
+(D) The soil on Tufe Island, unlike that on the mainland, lacks important nutrients that help sunflowers survive and grow tall in a dry environment.
+(E) The 40-centimeter height difference between the sunflowers on Tufe Island and those on the mainland is the only difference between the two populations.
+---------------------------------
+#CR#44 (Medium)#E#4400
+The Nile Delta of Egypt was invaded and ruled from 1650 to 1550 B.C. by a people called the Hyksos. Their origin is uncertain, but archaeologists hypothesize that they were Canaanites. In support of this hypothesis, the archaeologists point out that excavations of Avaris, the Hyksos capital in Egypt, have uncovered large numbers of artifacts virtually identical to artifacts produced in Ashkelon, a major city of Canaan at the time of the Hyksos invasion.<br><br>In order to evaluate the force of the archaeologists’ evidence, it would be most useful to determine which of the following?
+(A) Whether there were some artifacts found at Avaris that were unlike those produced in Ashkelon but that date to before 1700 B.C.
+(B) Whether the Hyksos ruled any other part of Egypt besides the Delta in the period from 1650 to 1550 B.C.
+(C) Whether Avaris was the nearest Hyksos city in Egypt to Canaan
+(D) Whether Ashkelon after 1550 B.C. continued to produce artifacts similar to those found at Avaris
+(E) Whether many of the artifacts found at Avaris that are similar to artifacts produced in Ashkelon date to well before the Hyksos invasion
+---------------------------------
+#CR#45 (Medium)#E#4500
+Three large companies and seven small companies currently manufacture a product with potential military applications. If the government regulates the industry, it will institute a single set of manufacturing specifications to which all ten companies will have to adhere. In this case, therefore, since none of the seven small companies can afford to convert their production lines to a new set of manufacturing specifications, only the three large companies will be able to remain in business.<br><br>Which of the following is an assumption on which the author's argument relies?
+(A) None of the three large companies will go out of business if the government does not regulate the manufacture of the product.
+(B) It would cost more to convert the production lines of the small companies to a new set of manufacturing specifications than it would to convert the production fines of the large companies.
+(C) Industry lobbyists will be unable to dissuade the government from regulating the industry.
+(D) Assembly of the product produced according to government manufacturing specifications would be more complex than current assembly procedures.
+(E) None of the seven small companies currently manufactures the product to a set of specifications that would match those the government would institute if the industry were to be regulated.
+---------------------------------
+#CR#46 (Medium)#B#4600
+A study of high blood pressure treatments found that certain meditation techniques and the most commonly prescribed drugs are equally effective if the selected treatment is followed as directed over the long term. Half the patients given drugs soon stop taking them regularly, whereas eighty percent of the study's participants who were taught meditation techniques were still regularly using them five years later. Therefore, the meditation treatment is the one likely to produce the best results.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) People who have high blood pressure are usually advised by their physicians to make changes in diet that have been found in many cases to reduce the severity of the condition.
+(B) The participants in the study were selected in part on the basis of their willingness to use meditation techniques.
+(C) Meditation techniques can reduce the blood pressure of people who do not suffer from high blood pressure.
+(D) Some of the participants in the study whose high blood pressure was controlled through meditation techniques were physicians.
+(E) Many people with dangerously high blood pressure are unaware of their condition.
+---------------------------------
+#CR#47 (Medium)#B#4700
+Mayor: Migrating shorebirds stop at our beach just to feed on horseshoe-crab eggs, a phenomenon that attracts tourists. To bring more tourists, the town plans to undertake a beach reclamation project to double the area available to crabs for nesting.<br><br>Birdwatcher: Without a high density of crabs on a beach, migrating shorebirds will go hungry because shorebirds only eat eggs that a crab happens to uncover when it is digging its own nest.<br><br>Which of the following, if true, would provide the mayor with the strongest counter to the birdwatcher's objection?
+(A) Every year a certain percentage of crabs are caught by fishermen as bait for eel traps.
+(B) Horseshoe crabs are so prolific that given favorable circumstances their numbers increase rapidly.
+(C) On average, tourists who come to the town in order to watch birds spend more money there than tourists who come for other purposes.
+(D) The additional land made available by the reclamation project will give migrating shorebirds more space.
+(E) Some of the migrating shorebirds make only one stop during their migration from South America to Canada.
+---------------------------------
+#CR#48 (Medium)#D#4800
+FastMart, a convenience store chain, is planning to add pancake syrup to the items it sells. FastMart stores do not have shelf space to stock more than one variety of syrup. Surveys of FastMart customers indicate that one-fourth of them prefer low-calorie syrup, while three-fourths prefer regular syrup. Since FastMart's highest priority is to maximize sales, the obvious strategy for it is to stock regular syrup.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) People buying pancake syrup at convenience stores, those buying it at supermarkets, generally buy it only a few times.
+(B) People who prefer low-calorie syrup generally use about the same amount of syrup on their pancakes as those who prefer regular syrup.
+(C) Regular syrup does not sell for a higher price per unit than low-calorie syrup.
+(D) In general, customers who prefer regular syrup buy low-calorie syrup if regular is unavailable, but those who prefer low-calorie will not buy regular syrup.
+(E) Sales of syrup are not expected to account for a large proportion of total dollar sales at the average FastMart store.
+---------------------------------
+#CR#49 (Medium)#B#4900
+Which of the following, if true, most logically completes the argument?<br><br>Aroca County's public schools are supported primarily by taxes on property. The county plans to eliminate the property tax and support schools with a new three percent sales tax on al retail items sold in the county. Three percent of current retail sales is less than the amount collected through property taxes, but implementation of the plan would not necessarily reduce the amount of money going to Aroca County public schools, because _______________.
+(A) many Aroca County residents have already left the county because of its high property taxes
+(B) a shopping mall likely to draw shoppers from neighboring counties is about to open in Aroca County
+(C) at least some Aroca County parents are to use the money they will save on property taxes to send their children to private schools not funded by the county
+(D) a significant proportion of parents of Aroca County public school students do not own their homes and consequently do not pay property taxes
+(E) retailers in Aroca County are not to absorb the sales tax by reducing the pretax price of their goods
+---------------------------------
+#CR#50 (Medium)#E#5000
+The OLEX Petroleum Company has recently determined that it could cut its refining costs by closing its refinery and consolidating all refining at its Tasberg refinery. Closing the Grenville refinery, however, would mean the immediate loss of about 1,200 jobs in the area. Eventually the lives of more than 10,000 people would be seriously disrupted. Therefore, OLEX's decision, announced yesterday, to keep open shows that at OLEX social concerns sometimes outweigh the desire for higher profits.<br><br>Which of the following, if true, most seriously undermines the argument given?
+(A) The Grenville refinery, although it operates at a higher cost than the Tasberg refinery, has nevertheless been moderately profitable for many years.
+(B) Even though OLEX could consolidate all its refining at the Tasberg plant, doing so at the Grenville plant would not be feasible.
+(C) The Tasberg refinery is more favorably situated than the refinery with respect to the major supply routes for raw petroleum.
+(D) If the Grenville refinery were ever closed and operations at the Tasberg refinery expanded, job openings at Tasberg would to the extent possible be filled with people formerly employed at
+(E) Closure of the Grenville refinery would mean compliance, at enormous cost, with demanding local codes regulating the cleanup of abandoned industrial sites.
+---------------------------------
+#CR#51 (Medium)#C#5100
+Which of the following most logically completes the passage below?<br><br>Heavy rains during Centralia's corn planting season prevented some farmers there from planting corn. It is now the planting season for soybeans, another of Centralia's principal crops, and those fields originally intended for corn are dry enough for planting. Nonetheless, even though soybean prices are unusually high at present, the farmers wil leave most of these fields empty rather than plant them with soybeans, since	_______________.
+(A) the extensive rains have led to an increase in the price of corn
+(B) some Centralian farmers anticipate serious financial losses due to the extremely wet spring planting season
+(C) chemicals that were used to prepare the fields for corn planting would stunt the growth of soybeans
+(D) the majority of Centralia's corn farmers were able to plant corn as they had intended, despite the wet planting season
+(E) many Centralian farmers grow both corn and soybeans
+---------------------------------
+#CR#52 (Hard)#C#5200
+Consumer advocate: It is generally true, at least in this state, that lawyers who advertise a specific service charge  less for that service than lawyers who do not advertise. It is also true that <span style="font-weight: bold">each time restrictions on the advertising of legal services have been eliminated, the number of lawyers advertising their services has increased and legal costs to consumers have declined in consequence</span>. However, eliminating the state requirement that legal advertisements must specify fees for specific services would almost certainly increase rather than further reduce consumers’ legal costs. Lawyers would no longer have an incentive to lower their fees when they begin advertising and <span style="font-weight: bold">if no longer required to specify fee arrangements, many lawyers who now advertise would increase their fees.</span><br><br>In the consumer advocate’s argument, the two portions in boldface play which of the following roles?
+(A) The first is a generalization that the consumer advocate accepts as true; the second is presented as a consequence that follows from the truth of that generalization.
+(B) The first is a pattern of cause and effect that the consumer advocate argues will be repeated in the case at issue; the second acknowledges a circumstance in which that pattern would not hold.
+(C) The first is a pattern of cause and effect that the consumer advocate predicts will not hold in the case at issue; the second offers a consideration in support of that prediction.
+(D) The first is evidence that the consumer advocate offers in support of a certain prediction; the second is that prediction.
+(E) The first acknowledges a consideration that weighs against the main position that the consumer advocate defends; the second is that position.
+---------------------------------
+#CR#53 (Hard)#C#5300
+The technological conservatism of bicycle manufacturers is a reflection of the kinds of demand they are trying to meet. The only cyclists seriously interested in innovation and willing to pay for it are bicycle racers. Therefore, innovation in bicycle technology is limited by what authorities will accept as standard for purposes of competition in bicycle races.<br><br>Which of the following is an assumption made in drawing the conclusion above?
+(A) The market for cheap, traditional bicycles cannot expand unless the market for high-performance competition bicycles expands.
+(B) High-performance bicycles are likely to be improved more as a result of technological innovations developed in small workshops than as a result of technological innovations developed in major manufacturing concerns.
+(C) Bicycle racers do not generate a strong demand for innovations that fall outside what is officially recognized as standard for purposes of competition.
+(D) The technological conservatism of bicycle manufacturers results primarily from their desire to manufacture a product that can be sold without being altered to suit different national markets.
+(E) The authorities who set standards for high-performance bicycle racing do not keep informed about innovative bicycle design.
+---------------------------------
+#CR#54 (Hard)#B#5400
+In a study conducted in Canada, servers in various restaurants wrote “Thank you" on randomly selected bills before presenting the bills to their customers. Tips on these bills were an average of three percentage points higher than tips on bills without the message. Therefore, if servers in Canada regularly wrote “Thank you” on restaurant their average income from tips would be significantly higher than it otherwise would have been.<br><br>Which of the following is an assumption on which the argument relies?
+(A) The “Thank you" messages would have the same impact on regular patrons of a restaurant as they would on occasional patrons of the same restaurant.
+(B) Regularly seeing “Thank you" written on their bills would not lead restaurant patrons to revert to their earlier tipping habits.
+(C) The written “Thank you" reminds restaurant patrons that tips constitute a significant part of the income of many food servers.
+(D) The rate at which people tip food servers in Canada does not vary with how expensive a restaurant is.
+(E) Virtually all patrons of the Canadian restaurants in the study who were given a bill with “Thank you” written on it left a larger tip than they otherwise would have.
+---------------------------------
+#CR#55 (Hard)#D#5500
+Correctly measuring the productivity of service workers is complex. Consider, for example, postal workers: they are often said to be more productive if more letters are delivered per postal worker. But is this really true? What if more letters are lost or delayed per worker at the same time that more are delivered?<br><br>The objection implied above to the productivity measure described is based on doubts about the truth of which of the following statements?
+(A) Postal workers are representative of service workers in general.
+(B) The delivery of letters is the primary activity of the postal service.
+(C) Productivity should be ascribed to categories of workers, not to individuals.
+(D) The quality of services rendered can appropriately be ignored in computing productivity.
+(E) The number of letters delivered is relevant to measuring the productivity of postal workers.
+---------------------------------
+#CR#56 (Hard)#E#5600
+Pretzel vendor: The new license fee for operating a pretzel stand outside the art museum is prohibitively expensive. Charging typical prices, a vendor would need to sell an average of 25 pretzels per hour to break even. At my stand outside city hall, I average only 15 per hour. Therefore, I could not break even running a pretzel stand outside the art museum, much less turn a profit.<br><br>Which of the following, if true, most strongly supports the pretzel vendor's argument?
+(A) There is currently no license fee for operating a pretzel stand outside city hall.
+(B) Pretzel vendors who operate stands outside the art museum were making a profit before the imposition of the new license fee.
+(C) The number of pretzel stands outside the art museum is no greater than the number of pretzel stands now outside city hall.
+(D) People who buy pretzels at pretzel stands are most likely to do so during the hours at which the art museum is open to the public.
+(E) Fewer people passing the art museum than passing city hall are to buy pretzels.
+---------------------------------
+#CR#57 (Hard)#A#5700
+When a city experiences a sharp decline in population, the city's tax revenues, which pay for such city services as police protection and maintenance of water lines, also decrease. The area to be policed and the number and length of the water lines to be maintained, however, do not decrease. Attempting to make up the tax revenue lost by raising tax rates is not feasible, since higher tax rates would cause even more residents to leave.<br><br>The information given most strongly supports which of the following general claims?
+(A) If, in a city with sharply declining population, police protection and water line maintenance do not deteriorate, some other service previously provided by the city will deteriorate or be eliminated.
+(B) If a city's tax rates are held stable over a period of time, neither the population nor the levels of city services provided will tend to decline over that period.
+(C) If a city's population declines sharply, police protection and water line maintenance are the services that deteriorate most immediately and most markedly.
+(D) A city that suffers revenue losses because of a sharp decline in population can make up some of the lost tax revenue by raising tax rates, provided the city's tax rates are low in relation to those of other cities.
+(E) A city that is losing residents because tax rates are perceived as too high by those residents can reverse this population trend by bringing its tax rates down to a more moderate level.
+---------------------------------
+#CR#58 (Hard)#B#5800
+The cause of the wreck of the ship <span style="font-style: italic">Edmund Fitzgerald</span> in a severe storm on Lake Superior is still unknown. When the sunken wreckage of the vessel was found, searchers discovered the hull in two pieces lying close together. The  storm‘s violent waves would have caused separate pieces floating even briefly on the surface to drift apart. Therefore, the breakup of the hull can be ruled out as the cause of the sinking.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Ships as large as the <span style="font-style: italic">Edmund Fitzgerald</span> rarely sink except in the most violent weather.
+(B) Underwater currents at the time of the storm did not move the separated pieces of the hull together again.
+(C) Pieces of the hull would have sunk more quickly than the intact hull would have.
+(D) The waves of the storm were not violent enough to have caused the ship to break up on the surface.
+(E) If the ship broke up before sinking, the pieces of the hull would not have remained on the surface for very long.
+---------------------------------
+#CR#59 (Hard)#B#5900
+Press Secretary: Our critics claim that the president's recent highway project cancellations demonstrate a vindictive desire to punish legislative districts controlled by opposition parties. They offer as evidence the fact that 90 percent   of the projects canceled were in such districts. But all of the canceled projects had been identified as wasteful in a report written by respected nonpartisan auditors. So the president's choice was clearly motivated by sound budgetary policy, not partisan politics.<br><br>Which of the following is an assumption on which the press secretary's argument depends?
+(A) Canceling highway projects was not the only way for the president to punish legislative districts controlled by opposition parties.
+(B) The scheduled highway projects identified as wasteful in the report were not mostly projects in districts controlled by the president's party.
+(C) The number of projects canceled was a significant proportion of all the highway projects that were to be undertaken by the government in the near future.
+(D) The highway projects canceled in districts controlled by the president's party were not generally more expensive than the projects canceled in districts controlled by opposition parties.
+(E) Reports by nonpartisan auditors are not generally regarded by the opposition parties as a source of objective assessments of government projects.
+---------------------------------
+#CR#60 (Hard)#C#6000
+Environmental organizations want to preserve the land surrounding the Wilgrinn Wilderness Area from residential development. They plan to do this by purchasing that land from the farmers who own it. <span style="font-weight: bold">That plan is ill-conceived:</span> if the farmers did sell their land, they would sell it to the highest bidder, and developers would outbid any other bidders. On the other hand, these farmers will never actually sell any of the land, provided that farming it remains viable. But farming will not remain viable if the farms are left unmodernized, and most of the farmers lack the   financial resources modernization requires. And that is exactly why <span style="font-weight: bold">a more sensible preservation strategy would be to the farmers to modernize their farms to the extent needed to maintain viability</span>.<br><br>In the reasoning above, the two boldface portions play which of the following roles?
+(A) The first assesses the goal held by certain environmental organizations; the second presents the goal that the reasoning concludes should be adopted instead.
+(B) The first assesses the goal held by certain environmental organizations; the second presents the strategy that the reasoning concludes has the best chance of reaching that goal.
+(C) The first is the conclusion reached about one strategy for attaining a certain goal; the second presents the strategy that the reasoning advocates.
+(D) The first is the main conclusion toward which the reasoning is directed; the second presents a strategy that is called sensible but for which no support is offered.
+(E) The first is the main conclusion toward which the reasoning is directed; the second is a consideration raised in order to support that conclusion.
+---------------------------------
+#CR#61 (Hard)#B#6100
+Historian: In the Drindian Empire, censuses were conducted annually to determine the population of each village. <span style="font-weight: bold">Village census records for the last half of the 16005 are remarkably complete</span>. This very completeness makes one point stand out; in five different years, villages overwhelmingly reported significant population declines. Tellingly, each of those five years immediately followed an increase in a certain Drindian tax. This tax, which was assessed on villages, was computed by the central government using the annual census figures. Obviously, <span style="font-weight: bold">whenever the tax went up, villages had an especially powerful economic incentive to minimize the number of people they recorded;</span> and concealing the size of a village's population from government census takers would have been easy. Therefore, the reported declines probably did not happen.<br><br>In the historian’s argument, the two portions in boldface play which of the following roles?
+(A) The first presents a finding to support the position the historian seeks to establish; the second is a consideration that has been used to argue against that position.
+(B) The first provides a context for certain evidence that supports the position that the historian seeks to establish; the second is a judgment advanced to support that position.
+(C) The first is a position that the historian seeks to establish; the second is evidence that has been used to argue against that position.
+(D) The first is an assumption that the historian explicitly makes in support of a certain position; the second is that position.
+(E) The first is a claim that the historian rejects; the second is a conclusion drawn to justify that rejection.
+---------------------------------
+#CR#62 (Hard)#A#6200
+In 1992 outlaw fishing boats began illegally harvesting lobsters from the territorial waters of the country of Belukia. Soon after, the annual tonnage of lobster legally harvested in Belukian waters began declining; in 1996, despite there being no reduction in the level of legal lobster fishing activity, the local catch was 9,000 tons below pre-1992 levels.  It is therefore highly likely that the outlaw fishing boats harvested about 9,000 tons of lobster illegally that year.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The illegal lobster harvesting was not so extensive that the population of catchable lobsters in Belukia’s territorial waters had sharply declined by 1996.
+(B) The average annual lobster catch, in tons, of an outlaw fishing boat has increased since 1992.
+(C) Outlaw fishing boats do not, as a group, harvest more lobsters than do licensed lobster-fishing boats.
+(D) The annual legal lobster harvest in Belukia in 1996 was not significantly less than 9,000 tons.
+(E) A significant proportion of Belukia‘s operators of licensed lobster-fishing boats went out of business between 1992 and 1996.
+---------------------------------
+#CR#63 (Hard)#A#6300
+Printwell’s Ink Jet Division manufactures ink-jet printers and the ink cartridges they use. Sales of its ink-jet printers have increased. Monthly revenues from those sales, however, have not increased, because competition has forced Printwell to cut the prices of its printers. Unfortunately, Printwell has been unable to bring down the cost of manufacturing a printer. Thus, despite the increase in printer sales, the Ink Jet Division must be contributing less to the company's profits than it used to.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) Ink-jet printers in regular use frequently need new ink cartridges, and Printwell’s printers only accept Printwell’s ink cartridges.
+(B) Unlike some competing companies, Printwell sells all of its printers through retailers, and these retailers’ costs account for a sizable proportion of the printers’ ultimate retail price.
+(C) Some printer manufacturers have been forced to reduce the sale price of their ink-jet printers even more than Printwell has.
+(D) In the past year, no competing manufacturer of ink-jet printers has had as great an increase as Printweil in unit sales of printers.
+(E) In the past year, sales of PrintwelI's ink-jet printers have increased more than sales of any other type of printer made by Printwell.
+---------------------------------
+#CR#64 (Hard)#A#6400
+Agricultural societies cannot exist without staple crops. Several food plants, such as kola and okra, are known to have been domesticated in western Africa, but they are all supplemental, not staple, foods. All the recorded staple crops grown in western Africa were introduced from elsewhere, beginning, at some unknown date, with rice and yams. Therefore, discovering when rice and yarns were introduced into western Africa would establish the earliest date at which agricultural societies could have arisen there.<br><br>Which of the following is an assumption on which the argument depends?
+(A) People in western Africa did not develop staple crops that they stopped cultivating once rice and yams were introduced.
+(B) There are no plants native to western Africa that, if domesticated, could serve as staple food crops.
+(C) Rice and yams were grown as staple crops by the earliest agricultural societies outside of western Africa.
+(D) Kola and okra are better suited to growing conditions in western Africa than domesticated rice and yams are.
+(E) Kola and okra were domesticated in western Africa before rice and yams were introduced there.
+---------------------------------
+#CR#65 (Hard)#C#6500
+The percentage of households with an annual income of more than $40,000 is higher in Merton County than in any other county. However, the percentage of households with an annual income of $60,000 or more is higher in Sommer County.<br><br>If the statements above are true, which of the following must also be true?
+(A) The percentage of households with an annual income of $80,000 is higher in Sommer County than in Merton County.
+(B) Merton County has the second-highest percentage of households with an annual income of $60,000 or more.
+(C) The percentage of households with an annual income between $40,000 and $60,000 is higher in Merton County than in Sommer County.
+(D) The total number of households with an annual income of more than $40,000 is greater in Merton County than in Sommer County.
+(E) Average annual household income is higher in Sommer County than in Merton County.
+---------------------------------
+#CR#66 (Hard)#A#6600
+A product that represents a clear technological advance over competing products can generally command a high  price. Surprisingly, perhaps, <span style="font-weight: bold">the strategy to maximize overall profit from a new product is to charge less than the greatest price the market will bear</span>. Many companies charge the maximum possible price for such a product, because they want to make as much profit as they can and technological advances tend to be quickly surpassed. The drawback is that <span style="font-weight: bold">large profits on the new product give competitors a strong incentive to quickly match  the new product's capabilities</span>.<br><br>In the argument above, the two portions in boldface play which of the following roles?
+(A) The first is the position the argument advocates; the second presents grounds for rejecting an alternative position.
+(B) The first is the position the argument advocates; the second is an alternative position that the argument rejects.
+(C) The first presents a strategy for achieving a certain goal; the second presents a drawback to that strategy.
+(D) The first presents a strategy for achieving a certain goal; the second presents grounds for preferring a different goal.
+(E) The first presents a strategy that, according to the argument, is ineffective; the second presents a way of improving the effectiveness of that strategy.
+---------------------------------
+#CR#67 (Hard)#A#6700
+Which of the following most logically completes the argument?<br><br>A recent poll found that over 80 percent of the residents of Nalmed Province favored a massive expansion of the commuter rail system as a means of significantly reducing congestion on the province's highways and were willing to help pay for the expansion through an increase in their taxes. Nevertheless, the poll results contain an indication that expansion of the rail system, if successfully completed, might be unlikely to achieve its goal of reducing congestion, because	______________.
+(A) most people in favor of expanding the rail system reported less congestion during their highway commute as the primary benefit they would experience
+(B) of the less than 20 percent of residents not counted as favoring the expansion, about half claimed to have no opinion one way or the other
+(C) the twice-daily periods of peak congestion caused by people commuting in cars have grown from about an hour each to almost two and a half hours each in the past 20 years
+(D) expanding the commuter rail system will require the construction of dozens of miles of new railbed
+(E) the proposed expansion to the commuter rail system will make it possible for some people who both live and work at suburban locations to commute by rail
+---------------------------------
+#CR#68 (Hard)#C#6800
+Editorial in Krenlandian Newspaper: Krenland's steelmakers are losing domestic sales because of lower-priced imports, in many cases because foreign governments subsidize their steel industries in ways that are banned by international treaties. But whatever the  cause, the cost is ultimately going to be jobs in Krenland’s steel industry. Therefore, it would protect not only steelmaking companies but also industrial employment in Krenland if our government took measures to reduce cheap steel imports.<br><br>Which of the following, if true, most seriously weakens the edit0rial’s argument?
+(A) Because steel from Krenland is rarely competitive in international markets, only a very small portion of Krenlandian steelmakers' revenue comes from exports.
+(B) The international treaties that some governments are violating by giving subsidies to steelmakers do not specify any penalties for such violations.
+(C) For many Krenlandian manufacturers who face severe international competition in both domestic and export markets, steel constitutes a significant part of their raw material costs.
+(D) Because of advances in order-taking, shipping, and inventory systems, the cost of shipping steel from foreign producers to Krenland has fallen in recent years.
+(E) Wages paid to workers in the steel industry in Krenland do not differ significantly from wages paid to workers in many of the countries that export steel to Krenland.
+---------------------------------
+#CR#69 (Hard)#E#6900
+Southington University's fund-raisers succeeded in getting donations from 80 percent of the potential donors they contacted this year. This rate would be the expected rate if the only potential donors contacted were those who have donated in the past. But good fund-raisers constantly contact less likely prospects in an effort to expand the donor base. Thus the high success rate, far from showing that the fund-raisers did a good job, shows insufficient canvassing effort.<br><br>Which of the following, if true, most seriously weakens the argument?
+(A) Among potential donors contacted by Southington University's fund-raisers, the majority of those who did not make donations were people who had made donations to the university in the past.
+(B) The amount of money raised by Southington University's fundraisers this year was lower than the amount they had raised in any of the previous several years.
+(C) Individual donations made to Southington University this year were, on average, slightly larger than were average individual donations made to many other universities.
+(D) Fund-raisers contacting past donors are not only to get new donations but also to get names of potential new donors to contact.
+(E) The majority of the donations that fund-raisers succeeded in getting for Southington University were from donors who had never given to the university before.
+---------------------------------
+#CR#70 (Hard)#E#7000
+Frobisher, a sixteenth-century English explorer, had soil samples from Canada's Kodlunarn Island examined for gold content. Because high gold content was reported, Elizabeth I funded two mining expeditions. Neither expedition found any gold there. Modern analysis of the island's soil indicates a very low gold content. Thus the methods used to determine the gold content of Frobisher‘s samples must have been inaccurate.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The gold content of the soil on Kodlunarn Island is much lower today than it was in the sixteenth century.
+(B) The two mining expeditions funded by I did not mine the same part of Kodlunarn Island.
+(C) The methods used to assess gold content of the soil samples provided by Frobisher were different from those generally used in the sixteenth century.
+(D) Frobisher did not have soil samples from any other Canadian island examined for gold content.
+(E) Gold was not added to the samples collected by Frobisher before the samples were examined.
+---------------------------------
+#CR#71 (Hard)#A#7100
+Electric utilities pay less for low-quality coal per ton delivered than for high-quality coal. Yet more low-quality coal   than high—quality coal must be burned to generate the same amount of electricity. Moreover, per ton of coal burned, low-quality coal generates more ash than does high-quality coal, and the disposal of ash is becoming more and more expensive.<br><br>The considerations above, if true, most strongly support which of the following claims?
+(A) A coal-burning utility might not be assured of benefiting economically by always adhering to the policy of keeping its overall coal purchasing costs as low as possible.
+(B) In those regions where the cost of disposing of coal ash is negligible, it is more expensive for coal-burning utilities to use high-quality coal than low-quality coal.
+(C) Transportation costs represent a smaller proportion of the cost per delivered ton for low-quality coal than for high-quality coal.
+(D) It is no less expensive to dispose of a ton of coal ash that results from the burning of high-quality coal than it is to dispose of a ton of coal ash that results from the burning of low-quality coal.
+(E) In regions where coal-ash disposal is the least expensive, reserves of low-quality coal are likely to decline at a faster rate than are reserves of high-quality coal.
+---------------------------------
+#CR#72 (Hard)#D#7200
+Which of the following most logically completes the argument?<br><br>Yorco and Zortech are two corporations that employ large numbers of full-time workers who are paid by the hour. Publicly available records indicate that Yorco employs roughly the same number of such hourly wage workers as Zortech does but spends a far higher total sum per year on wages for such workers. Therefore, hourly wages must be higher, on average, at Yorco than at Zortech, since __________.
+(A) Zortech spends a higher total sum per year than Yorco does to provide its hourly wage workers with benefits other than wages
+(B) the work performed by hourly wage workers at Zortech does not require a significantly higher level of skill than the work performed by hourly wage workers at Yorco does
+(C) the proportion of all company employees who are hourly wage workers is significantly greater at Yorco than it is at Zortech
+(D) overtime work, which is paid at a substantially higher rate than work done during the regular work week, is rare at both Yorco and Zortech
+(E) the highest hourly wages paid at Yorco are higher than the highest hourly wages paid at Zortech
+---------------------------------
+#CR#73 (Hard)#A#7300
+The Earth's rivers constantly carry dissolved salts into its oceans. Clearly, therefore, by taking the resulting increase in salt levels in the oceans over the past hundred years and then determining how many centuries of such increases it would have taken the oceans to reach current salt levels from a hypothetical initial salt-free state, the maximum age of the Earth's oceans can be accurately estimated.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The quantities of dissolved salts deposited by rivers in the Earth's oceans have not been unusually large during the past hundred years.
+(B) At any given time, all the Earth's rivers have about the same salt levels.
+(C) There are salts that leach into the Earth's oceans directly from the ocean floor.
+(D) There is no method superior to that based on salt levels for estimating the maximum age of the Earth's oceans
+(E) None of the salts carried into the Earth's oceans by rivers are used up by biological activity in the oceans.
+---------------------------------
+#CR#74 (Hard)#C#7400
+An overwhelming proportion of the most productive employees at SaleCo's regional work not eight hours a day, five days a week, as do other SaleCo employees, but rather ten hours a day, four days a week, with Friday off. Noting this phenomenon, SaleCo's president plans to increase overall productivity by keeping the offices closed on Fridays and having all employees work the same schedule—ten hours a day, four days a week.<br><br>Which of the following, if true, provides the most reason to doubt that the president's plan, if implemented, will achieve its stated purpose?
+(A) Every employee of SaleCo who has been there for at least a year is entitled to three weeks of vacation each year and must be paid his or her regular salary for that time off.
+(B) None of the employees who work four days a week had volunteered to work that schedule, but all were assigned to it by their supervisors.
+(C) Working ten hours a day has allowed the most productive employees to work two hours alone each day in their respective offices relatively undisturbed by fellow employees.
+(D) Employees at SaleCo are compensated not on the basis of how many hours a week they work but on the basis of how productive they are during the hours they are at work.
+(E) Some of SaleC0's employees have indicated to company officials that they would quit if not allowed to work the same hours as the company's most productive employees.
+---------------------------------
+#CR#75 (Hard)#D#7500
+Certainly, <span style="font-weight: bold">pesticides can adversely affect the environment in localities distant from where the pesticide has actually been used</span>. Nevertheless, regulation of pesticide use should not take place at the national level but at the local level. <span style="font-weight: bold">It is in the areas where pesticides are actually applied that they have their most serious effects</span>. Just how serious these effects are depends on local conditions such as climate, soil type, and water supply. And local officials are much more likely than national legislators to be truly knowledgeable about such local conditions.<br><br>In the argument given, the two boldface portions play which of the following roles?
+(A) The first provides support for the conclusion of the argument; the second states that conclusion.
+(B) The first states the conclusion of the argument; the second provides support for that conclusion.
+(C) The first identifies grounds for a potential objection to the conclusion of the argument; the second states that conclusion.
+(D) The first identifies grounds for a potential objection to the conclusion of the argument; the second provides support for that conclusion.
+(E) Each provides support for the conclusion of the argument.
+---------------------------------

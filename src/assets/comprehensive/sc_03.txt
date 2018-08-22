@@ -1,0 +1,673 @@
+####84#COMPREHENSIVE SC PART IV
+#SC#1#B#
+Growing evidence that  <span style="text-decoration: underline"> coastal erosion occurs continuously, not in just such calamitous bursts like hurricanes, has</span>  led scientists and planners to urge a stringent new approach to limiting development along the nation’s shoreline.
+(A) coastal erosion occurs continuously, not in just such calamitous bursts like hurricanes, has
+(B) coastal erosion occurs continuously, not just in calamitous bursts such as hurricanes, has
+(C) coastal erosion is continuously occurring, not in just calamitous bursts like hurricanes, having
+(D) there is continuous coastal erosion, not just in calamitous bursts such as hurricanes, which has
+(E) there is continuous coastal erosion occurring, not in just such calamitous bursts like hurricanes, has
+---------------------------------
+#SC#2#C#
+Scientists have identified an asteroid, 2000 BF19, that is about half a mile wide  <span style="text-decoration: underline"> and, if it strikes Earth, it can do tremendous damage to part of the planet but</span>  probably not cause planet-wide destruction.
+(A) and, if it strikes Earth, it can do tremendous damage to part of the planet but
+(B) and, if it would strike Earth, part of the planet could experience a tremendous amount of damage but it would
+(C) and that, if it were to strike Earth, could do tremendous damage to part of the planet but would
+(D) and that, if Earth is struck by it, can do part of the planet tremendous damage, but it would
+(E) and that, if it strikes Earth, it could experience a tremendous amount of damage but
+---------------------------------
+#SC#3#B#
+The current economic downturn  <span style="text-decoration: underline"> has significantly reduced advertising income both for business journals as well as general consumer magazines, especially if focusing</span>  on technology.
+(A) has significantly reduced advertising income both for business journals as well as general consumer magazines, especially if focusing
+(B) has significantly reduced advertising income both for business journals and for general consumer magazines, especially those focusing
+(C) significantly reduced advertising income for both business journals and for general consumer magazines, especially when focused
+(D) reduced both business journals’ and general consumer magazines’ advertising income significantly, especially if focused
+(E) reduced advertising income significantly for both business journals, as well as for general consumer magazines, especially those focusing
+---------------------------------
+#SC#4#A#
+<span style="text-decoration: underline"> The United States minted about 857 million silver-colored “Susan B. Anthony” dollars between 1979 and 1981, but the coin</span> proved unpopular because it looked and felt too much like a quarter.
+(A) The United States minted about 857 million silver-colored “Susan B. Anthony” dollars between 1979 and 1981, but the coin
+(B) About 857 million silver-colored “Susan B. Anthony” dollars were minted as coins in the United States between 1979 and 1981 but
+(C) About 857 million silver-colored “Susan B. Anthony” dollars that were minted between 1979 and 1981 in the United States
+(D) About 857 million silver-colored “Susan B. Anthony” dollars that the United States minted between 1979 and 1981
+(E) Between 1979 and 1981 the United States minted about 857 million silver-colored “Susan B. Anthony” dollars, which
+---------------------------------
+#SC#5#C#
+According to a survey of graduating medical students conducted by the Association of American Medical Colleges,  <span style="text-decoration: underline"> minority graduates are nearly four times more likely than are other graduates in planning to practice</span>  in socioeconomically deprived areas.
+(A) minority graduates are nearly four times more likely than are other graduates in planning to practice
+(B) minority graduates are nearly four times more likely than other graduates who plan on practicing
+(C) minority graduates are nearly four times as likely as other graduates to plan on practicing
+(D) it is nearly four times more likely that minority graduates rather than other graduates will plan to practice
+(E) it is nearly four times as likely for minority graduates than other graduates to plan to practice
+---------------------------------
+#SC#6#A#
+For protection from the summer sun, the Mojave lived in open-sided, flat-topped dwellings known as shades,  <span style="text-decoration: underline"> each a roof of poles and arrowweed</span>  supported by posts set in a rectangle.
+(A) each a roof of poles and arrowweed
+(B) each a roof of poles and arrowweed that are being
+(C) with each being a roof of poles and arrowweed
+(D) with roofs of poles and arrowweed to be
+(E) with roofs of poles and arrowweed that are
+---------------------------------
+#SC#7#A#
+Sulfur dioxide, a major contributor to acid rain, is  <span style="text-decoration: underline"> an especially serious pollutant because it diminishes the respiratory system’s ability to deal</span>  with all other pollutants.
+(A) an especially serious pollutant because it diminishes the respiratory system’s ability to deal
+(B) an especially serious pollutant because of diminishing the respiratory system’s capability of dealing
+(C) an especially serious pollutant because it diminishes the capability of the respiratory system in dealing
+(D) a specially serious pollutant because it diminishes the capability of the respiratory system to deal
+(E) a specially serious pollutant because of diminishing the respiratory system’s ability to deal
+---------------------------------
+#SC#8#D#
+While digging in the Egyptian desert,  <span style="text-decoration: underline"> huge fossil bones have been found by paleontologists, which appears to have been</span>  the second most massive dinosaur that ever lived.
+(A) huge fossil bones have been found by paleontologists, which appears to have been
+(B) huge fossil bones have been found by paleontologists, which appear to be from
+(C) it appears that paleontologists have found huge fossil bones that are from
+(D) paleontologists have found huge fossil bones from what appears to be
+(E) paleontologists have found huge fossil bones, which are from what appear to be
+---------------------------------
+#SC#9#C#
+<span style="text-decoration: underline"> Analyzing campaign expenditures, the media has had as a focus</span>  the high costs and low ethics of campaign finance, but they have generally overlooked the cost of actually administering elections, which includes facilities, transport, printing, staffing, and technology.
+(A) Analyzing campaign expenditures, the media has had as a focus
+(B) Analyses of campaign expenditures by the media has been focus on
+(C) In analyzing campaign expenditures, the media have focused on
+(D) Media analyses of campaign expenditures have had as a focus
+(E) In their analysis of campaign expenditures, the media has been focusing on
+---------------------------------
+#SC#10#D#
+In the mid-1970’s,  <span style="text-decoration: underline"> since birds were overcome by pollution, and routinely falling from the sky above Los Angeles freeways, this prompted officials in California to devise a plan that reduced</span>  automobile emissions.
+(A) since birds were overcome by pollution, and routinely falling from the sky above Los Angeles freeways, this prompted officials in California to devise a plan that reduced
+(B) since birds that had been overcome by pollution were routinely falling from the sky above Los Angeles freeways, it prompted officials in California to devise a plan that would reduce
+(C) birds had been overcome by pollution and routinely fell from the sky above Los Angeles freeways, prompting officials in California to devise a plan that reduced
+(D) birds overcome by pollution routinely fell from the sky above Los Angeles freeways, prompting officials in California to devise a plan to reduce
+(E) birds overcome by pollution and routinely falling from the sky above Los Angeles freeways were prompting officials in California to devise a plan to reduce
+---------------------------------
+#SC#11#A#
+Despite the  <span style="text-decoration: underline"> growing number of people who purchase plane tickets online, airline executives are convinced that, just as one-third of bank customers still prefer human tellers to automatic teller machines, many travelers will</span>  still use travel agents.
+(A) growing number of people who purchase plane tickets online, airline executives are convinced that, just as one-third of bank customers still prefer human tellers to automatic teller machines, many travelers will
+(B) growing number of people who purchase plane tickets online, airline executives are convinced, just as one-third of bank customers still prefer human tellers to automatic teller machines, that many travelers would
+(C) growing number of people purchasing plane tickets online, airline executives are convinced, just as one-third of bank customers still prefer human tellers as compared to automatic teller machines, many travelers will
+(D) fact that the number of people purchasing plane tickets online is growing, airline executives are convinced, just as one-third of bank customers still prefer human tellers as compared to automatic teller machines, that many travelers would
+(E) fact that the number of people who purchase plane tickets online are growing, airline executives are convinced that, just as one-third of bank customers still prefer human tellers compared with automatic teller machines, many travelers would
+---------------------------------
+#SC#12#D#
+For the first time in the modem era, non-Hispanic Whites are officially a minority in California,  <span style="text-decoration: underline">which amounts to a little less than half the population of the state, down from nearly three- quarters only a decade ago</span>.
+(A) which amounts to a little less than half the population of the state, down from nearly three- quarters only a decade ago
+(B) which amounts to a little less than half the population of the state, down from a decade ago, when it was nearly three-quarters
+(C) and that amounts to a little less than half the population of the state, down from a decade ago, when they were nearly three-quarters
+(D) amounting to a little less than half the population of the state, down from nearly three-quarters a decade ago
+(E) amounting to a little less than half the population of the state, down from what it was a decade ago by nearly three-quarters
+---------------------------------
+#SC#13#E#
+For the last five years the Dutch economy has grown faster than <span style="text-decoration: underline"> Britain, France, or Germany, with the unemployment rate having remained</span> well below that of the other three countries.
+(A) Britain, France, or Germany, with the unemployment rate having remained
+(B) have those of Britain, France, or Germany, and the unemployment rate remaining
+(C) have Britain, France, and Germany, and the unemployment rate has remained
+(D) the economy of Britain, France, and Germany, with the unemployment rate that has remained
+(E) the economies of Britain, France, and Germany, and the unemployment rate has remained
+---------------------------------
+#SC#14#D#
+Most of the purported health benefits of tea <span style="text-decoration: underline"> comes from antioxidants—compounds also found in beta carotene, vitamin E, and vitamin C that</span> inhibit the formation of plaque along the body’s blood vessels.
+(A) comes from antioxidants—compounds also found in beta carotene, vitamin E, and vitamin C that
+(B) comes from antioxidants—compounds that are also found in beta carotene, vitamin E, and vitamin C, and they
+(C) come from antioxidants—compounds also found in beta carotene, vitamin E, and vitamin C, and
+(D) come from antioxidants—compounds that are also found in beta carotene, vitamin E, and vitamin C and that
+(E) come from antioxidants—compounds also found in beta carotene, vitamin E, and vitamin C, and they
+---------------------------------
+#SC#15#D#
+<span style="text-decoration: underline"> Imported into Massachusetts from Europe in 1869, the gypsy moth was used by a French scientist in an attempt at developing a strong strain of silk-producing insects, crossing gypsy moths with adult silkworms.</span>
+(A) Imported into Massachusetts from Europe in 1869, the gypsy moth was used by a French scientist in an attempt at developing a strong strain of silk-producing insects, crossing gypsy moths with adult silkworms.
+(B) Imported into Massachusetts form Europe in 1869, a French scientist was attempting to develop a strong strain of silk-producing insects by crossing gypsy moths with adult silkworms.
+(C) To cross gypsy moths with adult silkworms, in attempting the development of a strong strain of silk-producing insects, a French scientist in 1869 imported the gypsy moth into Massachusetts from Europe.
+(D) The gypsy moth was imported into Massachusetts from Europe in 1869 by a French scientist attempting to develop a strong strain of silk-producing insects by crossing gypsy moths with adult silkworms.
+(E) In an attempt at the development of a strong strain of silk-producing insects, a French scientist, importing the gypsy moth from Europe into Massachusetts in 1869 in order to cross gypsy moths and adult silkworms.
+---------------------------------
+#SC#16#C#
+<span style="text-decoration: underline"> In Japan, a government advisory committee called for the breakup of Nippon Telephone and Telegraph Company, the largest telephone company in the world, so it would be</span>  two local phone companies and one long-distance provider.
+(A) In Japan, a government advisory committee called for the breakup of Nippon Telephone and Telegraph Company, the largest telephone company in the world, so it would be
+(B) The breakup of the world’s largest telephone company, Nippon Telephone and Telegraph Company, was called for by a government advisory committee in Japan, so it would be
+(C) A government advisory committee in Japan called for the breakup of Nippon Telephone and Telegraph Company, the world’s largest telephone company, into
+(D) The breakup of Nippon Telephone and Telegraph Company, the world’s largest telephone company, was called for by a government advisory committee in Japan, so it would be
+(E) Called for by a government advisory committee, the breakup of Nippon Telephone and Telegraph Company in Japan, the world’s largest telephone company, was to be into
+---------------------------------
+#SC#17#D#
+Scientists who studied the famous gold field known as Serra Pelada concluded that the rich lode was  <span style="text-decoration: underline"> not produced by the accepted methods of ore formation but that swarms of microbes over millions of years</span>  concentrated the gold from jungle soils and rivers and rocks.
+(A) not produced by the accepted methods of ore formation but that swarms of microbes over millions of years
+(B) not produced by the accepted methods of ore formation but instead swarms of microbes over millions of years that
+(C) not produced by the accepted methods of ore formation but swarms of microbes over millions of years that
+(D) produced not by the accepted methods of ore formation but by swarms of microbes that over millions of years
+(E) produced not by the accepted methods of ore formation but that swarms of microbes over millions of years
+---------------------------------
+#SC#18#A#
+The commission’s office of compliance, inspections, and investigations plans to intensify its scrutiny of stock analysts  <span style="text-decoration: underline"> to investigate not only whether research is an independent function at brokerage firms, but also whether conflicts result when analysts own the stocks they write about or when they are</span>  paid for their work by a firm’s investment banking division.
+(A) to investigate not only whether research is an independent function at brokerage firms, but also whether conflicts result when analysts own the stocks they write about or when they are
+(B) to investigate not only whether research is an independent function at brokerage firms, but also if conflicts result when analysts own the stocks they write about or they are
+(C) to not only investigate whether or not research is an independent function at brokerage firms, but also if conflicts result when analysts own the stocks they write about or are
+(D) not only to investigate whether or not research is an independent function at brokerage firms, but also whether conflicts result when analysts own the stocks they write about or are
+(E) not only to investigate whether research is an independent function at brokerage firms, but also whether conflicts result when analysts own the stocks they write about or when
+---------------------------------
+#SC#19#A#
+Several financial officers of the company spoke on condition <span style="text-decoration: underline">that they not be named</span>  in the press reports.
+(A) that they not be named
+(B) that their names will not be used
+(C) that their names are not used
+(D) of not having their names
+(E) of not naming them
+---------------------------------
+#SC#20#A#
+<span style="text-decoration: underline"> Scholars who once thought Native American literatures were solely oral narratives</span>  recorded by missionaries or anthropologists now understand this body of work to consist of both oral literatures and the written works of Native American authors, who have been publishing since 1772.
+(A) Scholars who once thought Native American literatures were solely oral narratives
+(B) Scholars thinking of Native American literatures once solely as oral narratives, and
+(C) Scholars who once had thought of Native American literatures solely as oral narratives and
+(D) Native American literatures, which some scholars once thought were solely oral narratives
+(E) Native American literatures, which some scholars once, thinking they were solely oral narratives
+---------------------------------
+#SC#21#C#
+<span style="text-decoration: underline"> Just like the background in art history needed by an archaeologist in order to evaluate finds of ancient art, the</span>  nautical archaeologist needs specialized knowledge of the history and theory of ship design in order to understand shipwrecks.
+(A) Just like the background in art history needed by an archaeologist in order to evaluate finds of ancient art, the
+(B) Just as an archaeologist who needs a background in art history to evaluate finds of ancient art, a
+(C) Just as an archaeologist needs a background in art history to evaluate finds of ancient art, so a
+(D) Like the archaeologist who evaluates finds of ancient art and requires a background in art history, so the
+(E) As evaluating finds of ancient art requires an archaeologist who has a background in art history, so the
+---------------------------------
+#SC#22#E#
+The globalization of financial-services companies has been a boon to money launders, because  <span style="text-decoration: underline"> of allowing money placed in a bank in a less regulated jurisdiction to be transferred</span>  to a branch in a more regulated one.
+(A) of allowing money placed in a bank in a less regulated jurisdiction to be transferred
+(B) of allowing the transfer of money placed in a bank in a less regulated jurisdiction
+(C) it allows that money placed in a bank in a less regulated jurisdiction is transferred
+(D) it allows the transfer of money have been placed in a bank in a less regulated jurisdiction
+(E) it allows money placed in a bank in a less regulated jurisdiction to be transferred
+---------------------------------
+#SC#23#C#
+Unlike human runners, who broke the four-minute mile in 1954 and  <span style="text-decoration: underline"> they consistently recorded faster times ever since, horses in classic races such as the Kentucky Derby have had winning times with little improvement</span> : Secretariat’s world-record-breaking Derby time of 1:59 2/5, for example, was set in 1973 and remained unsurpassed more than a quarter of a century later.
+(A) they consistently recorded faster times ever since, horses in classic races such as the Kentucky Derby have had winning times with little improvement
+(B) they have consistently recorded faster times ever since, those of horses in classic races such as the Kentucky Derby have shown little improvement in winning times
+(C) have consistently recorded faster times ever since, horses in classic races such as the Kentucky Derby have shown little improvement in winning times
+(D) have consistently recorded faster times ever since, in those of classic races such as the Kentucky Derby, horses have had winning times with little improvement
+(E) consistently recorded faster times ever since, those of horses in classic races such as the Kentucky Derby have shown little improvement in winning times
+---------------------------------
+#SC#24#A#
+The single-family house constructed by the Yana, a Native American people who lived in what is now northern California, was conical in shape, its framework of poles overlaid with slabs of bark, either cedar or pine, and  <span style="text-decoration: underline"> banked with dirt to a height of</span>  three to four feet.
+(A) banked with dirt to a height of
+(B) banked with dirt as high as that of
+(C) banked them with dirt to a height of
+(D) was banked with dirt as high as
+(E) was banked with dirt as high as that of
+---------------------------------
+#SC#25#C#
+In Hungary,  <span style="text-decoration: underline"> as in much of Eastern Europe, an overwhelming proportion of women work, many of which are in</span>  middle management and light industry.
+(A) as in much of Eastern Europe, an overwhelming proportion of women work, many of which are in
+(B) as with much of Eastern Europe, an overwhelming proportion of women works, many in
+(C) as in much of Eastern Europe, an overwhelming proportion of women work, many of them in
+(D) like much of Eastern Europe, an overwhelming proportion of women works, and many are
+(E) like much of Eastern Europe, an overwhelming proportion of women work, many are in
+---------------------------------
+#SC#26#E#
+<span style="text-decoration: underline"> On Earth, among the surest indications of sunspot cycles are believed to be the rate that trees grow</span> , as seen in the rings visible in the cross sections of their trunks.
+(A) On Earth, among the surest indications of sunspot cycles are believed to be the rate that trees grow
+(B) On Earth, among the surest indications of sunspot cycles are, it is believed, the rate of tree growth
+(C) On Earth, the rate at which trees grow is believed to be among the surest indications of sunspot cycles
+(D) Among the surest indications on Earth of sunspot cycles, believed to be the tree growth rate
+(E) Among the surest indications on Earth of sunspot cycles is believed to be the rate at which trees grow
+---------------------------------
+#SC#27#A#
+In an effort to reduce the number of fires started by cigarettes, a major tobacco company is test¬marketing a cigarette  <span style="text-decoration: underline"> in which thin layers of extra paper are used to decrease the amount of oxygen entering the cigarette, thereby slowing</span>  the rate at which it bums and lowering the heat it generates.
+(A) in which thin layers of extra paper are used to decrease the amount of oxygen entering the cigarette, thereby slowing
+(B) in which they use thin layers of extra paper in decreasing the amount of oxygen entering the cigarette, which slows
+(C) that uses thin layers of extra paper to decrease the amount of oxygen when it enters the cigarette, thereby slowing
+(D) for which thin layers of extra paper are used to decrease the amount of oxygen that enters the cigarette, and thereby slowing
+(E) using thin layers of extra paper in decreasing the amount of oxygen entering the cigarette, which slows
+---------------------------------
+#SC#28#A#
+Socially and environmentally responsible investing is on the rise: last year in the United States, over $2 trillion was invested in funds that screen companies  <span style="text-decoration: underline"> according to a variety of criteria such as</span>  adherence to labor standards, protection of the environment, and observance of human rights.
+(A) according to a variety of criteria such as
+(B) according to a variety of such criteria, as by
+(C) according to such a variety of criteria as by
+(D) in accordance with such a variety of criteria as
+(E) in accordance with a variety of criteria, such as by
+---------------------------------
+#SC#29#E#
+Since 1975  <span style="text-decoration: underline"> so many people have been moving to Utah such that Mormons who were once 75 percent of the population are now only accounting for half of it</span> .
+(A) so many people have been moving to Utah such that Mormons who were once 75 percent of the population are now only accounting for half of it
+(B) many people have been moving to Utah, so Mormons once 75 percent of the population are now accounting for only half
+(C) that many people have been moving to Utah, such that the Mormons that were once 75 percent of the population are now accounting for only half of it
+(D) many people have been moving to Utah such that the Mormons, who once represented 75 percent of the population, now only account for half
+(E) so many people have been moving to Utah that the Mormons, who once represented 75 percent of the population, now account for only half
+---------------------------------
+#SC#30#A#
+After more than four decades of research and development, a new type of jet engine is being  <span style="text-decoration: underline"> tested that could eventually propel aircraft anywhere in the world within two hours or help</span>  boost cargoes into space at significantly lower costs than current methods permit.
+(A) tested that could eventually propel aircraft anywhere in the world within two hours or help
+(B) tested that could eventually have the capability of propelling aircraft anywhere in the world within two hours or to help
+(C) tested, eventually able to propel aircraft anywhere in the world within two hours, or helping
+(D) tested, and it eventually could propel aircraft anywhere in the world within two hours or helping
+(E) tested, and it could eventually have the capability to propel aircraft anywhere in the world within two hours or help
+---------------------------------
+#SC#31#C#
+<span style="text-decoration: underline"> When working with overseas clients, an understanding of cultural norms is at least as important as grasping the pivotal business issues for the global manager.</span>
+(A) When working with overseas clients, an understanding of cultural norms is at least as important as grasping the pivotal business issues for the global manager.
+(B) When they work with overseas clients, understanding cultural norms is at least of equal importance to the global manager as grasping the pivotal business issues.
+(C) For global managers working with overseas clients, understanding cultural norms is at least as important as grasping the pivotal business issues.
+(D) For global managers working with overseas clients, an understanding of cultural norms is at least as important to them as that they grasp the pivotal business issues.
+(E) Global managers working with overseas clients find an understanding of cultural norms to be equally important as grasping the pivotal business issues.
+---------------------------------
+#SC#32#D#
+Were it not for the fusion-powered heat and radiation that rush from its core,  <span style="text-decoration: underline"> instead its own weight would cause a star to collapse</span> .
+(A) instead its own weight would cause a star to collapse
+(B) instead a star would have collapsed under its own weight
+(C) a star would have to be collapsing under its own weight
+(D) a star would collapse under its own weight
+(E) its own weight would have caused a star’s collapse
+---------------------------------
+#SC#33#E#
+Energy prices have tripled in the United States over the last two years, research indicates <span style="text-decoration: underline"> few people to have significantly reduced the amount of driving they do, nor are they making</span> fuel efficiency a priority when shopping for cars.
+(A) few people to have significantly reduced the amount of driving they do, nor are they making
+(B) few people having significantly reduced the amount of driving they do or made
+(C) that there are few people who have significantly reduced the amount of driving they do, nor having made
+(D) that few people have significantly reduced the amount of driving they do and are not making
+(E) that few people have significantly reduced the amount of driving they do or made
+---------------------------------
+#SC#34#B#
+In 1914 a total of 469,000 cars and trucks were produced in the United States, but in 1929 almost twice  <span style="text-decoration: underline"> the numbers of trucks alone</span>  came off the assembly lines.
+(A) the numbers of trucks alone
+(B) that number of trucks alone
+(C) the number of trucks by themselves
+(D) as many trucks themselves
+(E) as many trucks by themselves
+---------------------------------
+#SC#35#A#
+<span style="text-decoration: underline"> Approved April 24, 1800, the act of Congress that made provision for the removal of the government of the United States to the new federal city, Washington, D.C., also established</span> the Library of Congress.
+(A) Approved April 24, 1800, the act of Congress that made provision for the removal of the government of the United States to the new federal city, Washington, D.C., also established
+(B) The act of Congress, which was approved April 24, 1800, making provision for the removal of the government of the United States to the new federal city, Washington, D.C., also established
+(C) The act of Congress approved April 24, 1800, which made provision for the removal of the government of the United States to the new federal city, Washington, D.C., and established
+(D) Approved April 24, 1800, making provision for the removal of the government of the United States to the new federal city, Washington, D.C., the act of Congress also established
+(E) Approved April 24, 1800, the act of Congress made provision for the removal of the government of the United States to the new federal city, Washington, D.C., also establishing
+---------------------------------
+#SC#36#A#
+Some scientists contend  <span style="text-decoration: underline"> that many species of dinosaur had a metabolism more like</span>  a warm¬blooded mammal’s than a cold-blooded reptile’s.
+(A) that many species of dinosaur had a metabolism more like
+(B) that the metabolism of many dinosaur species were more like
+(C) that the metabolisms of many species of dinosaurs were more like those of
+(D) there were many species of dinosaurs that had metabolisms more like those of
+(E) there were many dinosaur species that had a metabolism more like that of
+---------------------------------
+#SC#37#A#
+According to public health officials, in 1998 Massachusetts became the first state in which more babies were bom to women over the age of thirty  <span style="text-decoration: underline"> than</span>  under it.
+(A) than
+(B) than bom
+(C) than they were
+(D) than there had been
+(E) than had been bom
+---------------------------------
+#SC#38#E#
+Prospecting for gold during the California gold rush was a relatively easy task,  <span style="text-decoration: underline"> because of erosion, prehistoric glacier movement, and ancient, gold-bearing riverbeds thrust to the surface by volcanic activity put gold literally within reach for</span>  anybody with a pan or shovel.
+(A) because of erosion, prehistoric glacier movement, and ancient, gold-bearing riverbeds thrust to the surface by volcanic activity put gold literally within reach for
+(B) because of erosion, prehistoric glacier movement, and volcanic activity that thrust ancient, gold¬bearing riverbeds to the surface, and putting gold literally within reach of
+(C) owing to erosion, prehistoric glacier movement, and volcanic activity that had thrust ancient, gold-bearing riverbeds to the surface, and putting gold literally within reach of
+(D) since erosion, prehistoric glacier movement, and volcanic activity that thrust ancient, gold¬bearing riverbeds to the surface, putting gold literally within reach for
+(E) since erosion, prehistoric glacier movement, and ancient, gold-bearing riverbeds thrust to the surface by volcanic activity put gold literally within reach of
+---------------------------------
+#SC#39#C#
+In an attempt to guarantee the security of its innovative water purification method, the company required each employee to sign a confidentiality agreement  <span style="text-decoration: underline"> prohibiting that its water purification methods be disclosed to companies</span>  using an analogous purification process.
+(A) prohibiting that its water purification methods be disclosed to companies
+(B) prohibiting them from the disclosing of its water purification methods to any company
+(C) prohibiting disclosure of its water purification methods to any company
+(D) that would prohibit them from disclosure of its water purification methods to companies
+(E) that would prohibit its water purification methods to be disclosed to a company
+---------------------------------
+#SC#40#B#
+The first English settlers to establish a permanent colony in America did  <span style="text-decoration: underline"> it not at Plymouth but</span>  along the shore of the James River west of Chesapeake Bay.
+(A) it not at Plymouth but
+(B) so not at Plymouth but
+(C) not at Plymouth but instead
+(D) not at Plymouth but did so
+(E) it not at Plymouth but rather
+---------------------------------
+#SC#41#B#
+Although she had been known as an effective legislator first in the Texas Senate and  <span style="text-decoration: underline"> later in the United States House of Representatives, not until Barbara Jordan’s participation in the hearings on the impeachment of President Richard Nixon in 1974 was she made a nationally recognized figure, as it was</span>  televised nationwide.
+(A) later in the United States House of Representatives, not until Barbara Jordan’s participation in the hearings on the impeachment of President Richard Nixon in 1974 was she made a nationally recognized figure, as it was
+(B) later in the United States House of Representatives, Barbara Jordan did not become a nationally recognized figure until 1974, when she participated in the hearings on the impeachment of President Richard Nixon, which were
+(C) later in the United States House of Representatives, it was not until 1974 that Barbara Jordan became a nationally recognized figure, with her participation in the hearings on the impeachment of President Richard Nixon, which was
+(D) then also later in the United States House of Representatives, not until 1974 did Barbara Jordan become a nationally recognized figure, as she participated in the hearings on the impeachment of President Richard Nixon, being
+(E) then also later in the United States House of Representatives, Barbara Jordan did not become a nationally recognized figure until 1974, when she participated in the hearings on the impeachment of President Richard Nixon, which was
+---------------------------------
+#SC#42#B#
+A South American bird that forages for winged termites and other small insects while swinging upside down from the foliage of tall trees, the  <span style="text-decoration: underline"> graveteiro belongs to the ovenbird family, a group of New World tropical birds that includes more than 230 species and that are</span>  represented in virtually every kind of habitat.
+(A) graveteiro belongs to the ovenbird family, a group of New World tropical birds that includes more than 230 species and that are
+(B) graveteiro belongs to the ovenbird family, a group of New World tropical birds that includes more than 230 species and is
+(C) graveteiro belongs to the ovenbird family, a group of New World tropical birds that include more than 230 species and is
+(D) graveteiro, which belongs to the ovenbird family, a group of New World tropical birds that includes more than 230 species and that are
+(E) graveteiro, which belongs to the ovenbird family, a group of New World tropical birds that includes more than 230 species and is
+---------------------------------
+#SC#43#D#
+<span style="text-decoration: underline"> Being that she was secretary of labor, Frances Perkins’ considerable influence with Franklin D. Roosevelt was used preventing</span> him from restraining strikes by longshoremen and automobile workers.
+(A) Being that she was secretary of labor, Frances Perkins’ considerable influence with Franklin D. Roosevelt was used preventing
+(B) As secretary of labor, Frances Perkins’ considerable influence with Franklin D. Roosevelt was used to prevent
+(C) Being secretary of labor, Frances Perkins’ considerable influence with Franklin D. Roosevelt was used preventing
+(D) As secretary of labor, Frances Perkins used her considerable influence with Franklin D. Roosevelt to prevent
+(E) Secretary of labor, Frances Perkins’ considerable influence was used with Franklin D. Roosevelt preventing
+---------------------------------
+#SC#44#E#
+<span style="text-decoration: underline"> As the honeybee’s stinger is heavily barbed, staying where it is inserted, this results in the act of stinging causing</span> the bee to sustain a fatal injury.
+(A) As the honeybee’s stinger is heavily barbed, staying where it is inserted, this results in the act of stinging causing
+(B) As the heavily barbed stinger of the honeybee stays where it is inserted, with the result that the act of stinging causes
+(C) The honeybee’s stinger, heavily barbed and staying where it is inserted, results in the fact that the act of stinging causes
+(D) The heavily barbed stinger of the honeybee stays where it is inserted, and results in the act of stinging causing
+(E) The honeybee’s stinger is heavily barbed and stays where it is inserted, with the result that the act of stinging causes
+---------------------------------
+#SC#45#E#
+In Scotland, the  <span style="text-decoration: underline"> number of wild salmon have been reduced because of uncontrolled deep-sea and coastal netting</span> , by pollution, and by various other threats to the fish’s habitat.
+(A) number of wild salmon have been reduced because of uncontrolled deep-sea and coastal netting
+(B) number of wild salmon is reduced because deep-sea and coastal netting is not controlled
+(C) numbers of wild salmon has been reduced because of uncontrolled deep-sea and coastal netting
+(D) wild salmon’s numbers are reduced by deep-sea and coastal netting that is not controlled
+(E) wild salmon’s numbers have been reduced by uncontrolled deep-sea and coastal netting
+---------------------------------
+#SC#46#D#
+A scrub jay can remember when it cached a particular piece of food in a particular place, researchers have discovered, and  <span style="text-decoration: underline"> tend not to bother to recover a perishable treat if</span>  stored long enough to have rotted.
+(A) tend not to bother to recover a perishable treat if
+(B) they tend not to bother recovering a perishable treat
+(C) tending not to bother to recover a perishable treat it
+(D) tends not to bother recovering a perishable treat
+(E) tends not bothering to recover a perishable treat it
+---------------------------------
+#SC#47#C#
+The population of India has been steadily increasing for decades, and  <span style="text-decoration: underline"> it will probably have what is estimated as</span>  1.6 billion people by 2050 and surpass China as the world’s most populous nation.
+(A) it will probably have what is estimated as
+(B) they are likely to have
+(C) the country will probably have
+(D) there will probably be
+(E) there will be an estimated
+---------------------------------
+#SC#48#D#
+Spanish poet Juan Ramon Jimenez, who won the Nobel Prize for Literature in 1956,  <span style="text-decoration: underline"> so embarrassed in his later years by what he considered the excessive sentiment in the poems in his first two collections, he destroyed</span>  every copy he could find.
+(A) so embarrassed in his later years by what he considered the excessive sentiment in the poems in his first two collections, he destroyed
+(B) and was so embarrassed in his later years by what he considered as the excessive sentiment in the poems in his first two collections that he destroyed
+(C) in his later years he was so embarrassed by what he considered as the excessive sentiment in the poems in his first two collections, destroying
+(D) was so embarrassed in his later years by what he considered the excessive sentiment in the poems in his first two collections that he destroyed
+(E) because he was so embarrassed in his later years by what he considered as the excessive sentiment in the poems in his first two collections, destroying
+---------------------------------
+#SC#49#E#
+A Swiss government panel recommended that the country sell about half its gold  <span style="text-decoration: underline"> reserves and this raised fears of other countries that</span>  do the same and inundate the market.
+(A) reserves and this raised fears of other countries that
+(B) reserves, which, as a result, raised fears of other countries that
+(C) reserves; as a result, they feared that other countries would
+(D) reserves, with fears raised that other countries would
+(E) reserves, raising fears that other countries would
+---------------------------------
+#SC#50#D#
+To meet the rapidly rising market demand for fish and seafood, suppliers are growing fish twice as fast as <span style="text-decoration: underline">their natural growth rate, cutting their feed allotment</span> by nearly half and raising them on special diets.
+(A) their natural growth rate, cutting their feed allotment
+(B) their natural growth rate, their feed allotment cut
+(C) growing them naturally, cutting their feed allotment
+(D) they grow naturally, cutting their feed allotment
+(E) they grow naturally, with their feed allotment cut
+---------------------------------
+#SC#51#E#
+In the sixteenth century, the push for greater precision in measuring time was <span style="text-decoration: underline">not, like more recently, motivated by complicated philosophical questions about the nature of matter and the universe, but the practical matters of navigation</span>: sailors simply needed more highly accurate timepieces in order to compute their longitude from the positions of the stars.
+(A) not, like more recently, motivated by complicated philosophical questions about the nature of matter and the universe, but the practical matters of navigation
+(B) being motivated by the practical matters of navigation, instead of complicated philosophical questions about the nature of matter and the universe, as it has been recently
+(C) motivated not by complicated philosophical questions about the nature of matter and the universe, like they were more recently, but by the practical matters of navigation
+(D) motivated by the practical matters of navigation, not complicated philosophical questions about the nature of matter and the universe, which was the case more recently
+(E) motivated not by complicated philosophical questions about the nature of matter and the universe, as has been the case more recently, but by the practical matters of navigation
+---------------------------------
+#SC#52#A#
+<span style="text-decoration: underline">Less than 35 years after the release of African honeybees outside Sao Paulo. Brazil,</span> their descendants, popularly known as killer bees, had migrated as far north as southern Texas.
+(A) Less than 35 years after the release of African honeybees outside Sao Paulo, Brazil,
+(B) In less than 35 years since releasing African honeybees outside Sao Paulo, Brazil,
+(C) In less than the 35 years since African honeybees had been released outside Sao Paulo, Brazil,
+(D) It took less than 35 years from the release of African honeybees outside Sao Paulo, Brazil, when
+(E) It took less than the 35 years after the time that African honeybees were released outside Sao Paulo, Brazil, and then
+---------------------------------
+#SC#53#C#
+<span style="text-decoration: underline">Nikola Tesla, the inventor of alternating current, because he was excited with the prospects of harnessing Niagara Falls for producing electric power, he</span> predicted in the mid-1890's that electricity generated at Niagara would one day power the streetcars of London and the streetlights of Paris.
+(A) Nikola Tesla, the inventor of alternating current, because he was excited with the prospects of harnessing Niagara Falls for producing electric power, he
+(B) The prospects of harnessing Niagara Falls to produce electric power was exciting to Nikola Tesla, the inventor of alternating current, and so he
+(C) Excited about the prospects of harnessing Niagara Falls to produce electric power, Nikola Tesla, the inventor of alternating current,
+(D) Nikola Tesla, the inventor of alternating current, excited about the prospects of harnessing Niagara Falls for the production of electric power and
+(E) The inventor of alternating current, excited with the prospects of harnessing Niagara Falls for producing of electric power, Nikola Tesla
+---------------------------------
+#SC#54#B#
+The airline company, following through on recent warnings that it might start reducing service, announced that it was eliminating jet service to nine cities, <span style="text-decoration: underline">closing some unneeded operations, and it grounded twenty-two planes.</span>
+(A) closing some unneeded operations, and it grounded
+(B) closing some unneeded operations, and grounding
+(C) was closing some unneeded operations, while it grounded
+(D) it closed some unneeded operations and grounded
+(E) it was closing some unneeded operations, and grounding
+---------------------------------
+#SC#55#D#
+The list of animals that <span style="text-decoration: underline">exhibits a preference of either using the right or the left hand fi.e.. claw, paw, or foot! has been expanded to include</span> the lower vertebrates.
+(A) exhibits a preference of either using the right or the left hand (i.e., claw, paw, or foot) has been expanded to include
+(B) exhibits the preference to use either the right or the left hand (i.e., claw, paw, or foot) has been expanded and includes
+(C) exhibit a preference in either using the right or the left hand (i.e., claw, paw, or foot) has been expanded to include
+(D) exhibit a preference for using either the right or the left hand (i.e., claw, paw, or foot) has been expanded to include
+(E) exhibit the preference as to either using the right or the left hand (i.e., claw, paw, or foot) has been expanded and includes
+---------------------------------
+#SC#56#C#
+The Achaemenid empire of Persia reached the Indus Valley in the fifth century B.C., bringing <span style="text-decoration: underline">the Aramaic script with it. from which was derived both northern and</span> southern Indian alphabets.
+(A) the Aramaic script with it, from which was derived both northern and
+(B) the Aramaic script with it, and from which deriving both the northern and the
+(C) with it the Aramaic script, from which derive both the northern and the
+(D) with it the Aramaic script, from which derives both northern and
+(E) with it the Aramaic script, and deriving from it both the northern and
+---------------------------------
+#SC#57#D#
+<span style="text-decoration: underline">Based on records from ancient Athens, each year young Athenian women collaborated to weave a new woolen robe that they used to dress</span> a statue of the goddess Athena and that this robe depicted scenes of a battle between Zeus, Athena's father, and giants.
+(A) Based on records from ancient Athens, each year young Athenian women collaborated to weave a new woolen robe that they used to dress
+(B) Based on records from ancient Athens, each year young Athenian women had collaborated to weave a new woolen robe with which to dress
+(C) According to records from ancient Athens, each year young Athenian women collaborated to weave a new woolen robe that they used to dress
+(D) Records from ancient Athens indicate that each year young Athenian women collaborated to weave a new woolen robe with which they dressed
+(E) Records from ancient Athens indicate each year young Athenian women had collaborated to weave a new woolen robe for dressing
+---------------------------------
+#SC#58#A#
+<span style="text-decoration: underline">More than 300 rivers drain into Siberia's Lake Baikal, which holds 20 percent of the world's fresh water, more than all the North American Great Lakes combined.</span>
+(A) More than 300 rivers drain into Siberia's Lake Baikal, which holds 20 percent of the world's fresh water, more than all the North American Great Lakes combined.
+(B) With 20 percent of the world's fresh water, that is more than all the North American Great Lakes combined, Siberia's Lake Baikal has more than 300 rivers that drain into it.
+(C) Siberia's Lake Baikal, with more than 300 rivers draining into it, it holds more of the world's fresh water than all that of the North American Great Lakes combined, 20 percent.
+(D) While more than 300 rivers drain into it, Siberia's Lake Baikal holds 20 percent of the world's fresh water, which is more than all the North American Great Lakes combined.
+(E) More than all the North American Great Lakes combined, Siberia's Lake Baikal, with more than 300 rivers draining into it, holds 20 percent of the world's fresh water.
+---------------------------------
+#SC#59#C#
+In laboratory rats, a low dose of aspirin usually suffices to block production of thromboxane, <span style="text-decoration: underline">which is a substance that promotes blood clotting, but not seriously interfering</span> with the production of prostacyclin, which prevents clotting.
+(A) which is a substance that promotes blood clotting, but not seriously interfering
+(B) a substance that promotes blood clotting, but not seriously interfering
+(C) a substance that promotes blood clotting, but does not seriously interfere
+(D) which is a substance to promote blood clotting, but does not seriously interfere
+(E) which is a substance that promotes blood clotting, but not a serious interference
+---------------------------------
+#SC#60#D#
+One report concludes that many schools do not have, <span style="text-decoration: underline">or</span> likely to have, enough computers to use them effectively.
+(A) or
+(B) nor
+(C) or are
+(D) nor are they
+(E) nor are not
+---------------------------------
+#SC#61#E#
+The Sports Medicine Programs of the Olympic Training Center, a complex where final tryouts are held for athletes representing the United States in the Olympics, <span style="text-decoration: underline">is geared toward enhancing athletes' performance and toward their preparation</span> for international competition.
+(A) is geared toward enhancing athletes' performance and toward their preparation
+(B) is geared to enhance the performance of athletes and to prepare them
+(C) are geared to enhance athletes' performance and their preparation
+(D) are geared toward the enhancement of athletes' performance and toward preparing them
+(E) are geared toward enhancing the performance of athletes and preparing them
+---------------------------------
+#SC#62#D#
+<span style="text-decoration: underline">With an awareness that there are connotations associated with the numbers 1 and 2 and the letters A and B.</span> companies conducting consumer taste tests of foods or beverages typically choose numbers such as 697 or 483 to label the products.
+(A) With an awareness that there are connotations associated with the numbers 1 and 2 and the letters A and B
+(B) Because the numbers 1 and 2 and the letters A and B have connotations they are aware of
+(C) Because of an awareness of the numbers 1 and 2 and the letters A and B having connotations
+(D) Aware of the connotations of the numbers 1 and 2 and the letters A and B
+(E) Since the numbers 1 and 2 and the letters A and B have connotations associated with them and they are aware of it
+---------------------------------
+#SC#63#B#
+The budget for education reflects the administration's demand that <span style="text-decoration: underline">the money is controlled by local school districts, but it can only</span> be spent on teachers, not on books, computers, or other materials or activities.
+(A) the money is controlled by local school districts, but it can only be spent
+(B) the money be controlled by local school districts, but it allows them to spend the money only
+(C) the money is to be controlled by local school districts, but allowing it only to be spent
+(D) local school districts are in control of the money, but it allows them to spend the money only
+(E) local school districts are to be in control of the money, but it can only spend it
+---------------------------------
+#SC#64#A#
+As a result of a supernova explosion, every human being on Earth was bombarded on February 23, 1987, by about 100 billion neutrinos; fortunately, <span style="text-decoration: underline">neutrinos are harmless elementary particles that are produced in nuclear reactions and that</span> interact very weakly with matter.
+(A) neutrinos are harmless elementary particles that are produced in nuclear reactions and that
+(B) neutrinos, which are harmless, are elementary particles produced in nuclear reactions and which
+(C) neutrinos are harmless elementary particles produced in nuclear reactions and which
+(D) these harmless elementary particles are produced in nuclear reactions, and neutrinos
+(E) these elementary particles, harmless products of nuclear reactions, are neutrinos that
+---------------------------------
+#SC#65#C#
+A one-million-year-old skull bearing traits associated <span style="text-decoration: underline">both with Homo erectus and, in addition. Homo sapiens has been found in the Afar region of Eritrea, and indicates</span> that modern humans developed much earlier than previously thought.
+(A) both with Homo erectus and, in addition, Homo sapiens has been found in the Afar region of Eritrea, and indicates
+(B) both with Homo erectus and Homo sapiens have been found in the Afar region of Eritrea, which indicates
+(C) with both Homo erectus and Homo sapiens has been found in the Afar region of Eritrea, indicating
+(D) with both Homo erectus and Homo sapiens and found in the Afar region of Eritrea, indicating
+(E) with both Homo erectus and Homo sapiens have been found in the Afar region of Eritrea, which indicates
+---------------------------------
+#SC#66#D#
+Scientists at the Los Alamos National Laboratory have succeeded for the first time in mining heat from the Earth's interior <span style="text-decoration: underline">and producing energy on a commercial scale, enough for efficient generation of electricity and heating</span> factories and homes.
+(A) and producing energy on a commercial scale, enough for efficient generation of electricity and heating
+(B) and producing enough energy on a commercial scale for electricity to be generated efficiently and to heat
+(C) for energy production on a commercial scale, enough for generating electricity efficiently and to heat
+(D) to produce energy on a commercial scale, enough for generating electricity efficiently and for heating
+(E) to produce enough energy on a commercial scale for efficient generation of electricity and heat
+---------------------------------
+#SC#67#E#
+<span style="text-decoration: underline">The application of a new method for analyzing the chemistry of tooth enamel allows scientists to examine molars of prehuman ancestors and determining</span> that their diets were more varied than had been supposed.
+(A) The application of a new method for analyzing the chemistry of tooth enamel allows scientists to examine molars of prehuman ancestors and determining
+(B) Through the application of a new method for analyzing the chemistry of tooth enamel, the molars of prehuman ancestors were examined by scientists who determined
+(C) When they applied a new method for analyzing the chemistry of tooth enamel, scientists examined molars of prehuman ancestors, determining
+(D) Applying a new method for analyzing the chemistry of tooth enamel, the molars of prehuman ancestors have been examined by scientists, who determined
+(E) Applying a new method for analyzing the chemistry of tooth enamel, scientists have examined molars of prehuman ancestors and determined
+---------------------------------
+#SC#68#A#
+The continental United States receives an average of 30 inches of precipitation a year; <span style="text-decoration: underline">transpiration from soil and from plants returns approximately 21 of the 30 inches</span> to the atmosphere, while the balance of 9 inches contributes to the flow of streams and rivers.
+(A) transpiration from soil and from plants returns approximately 21 of the 30 inches to the atmosphere, while the balance of 9 inches contributes to the flow
+(B) even though transpiration from soil and from plants returns approximately 21 of the 30 inches to the atmosphere, the remainder of 9 inches contribute to the flowing
+(C) although transpiration from soil and from plants return approximately 21 of the 30 inches to the atmosphere, the balance of 9 inches contribute to the flowing
+(D) with transpiration from soil and from plants to return approximately 21 inches to the atmosphere, the rest of the 9 inches contributes to the flow
+(E) as transpiration from soil and from plants return approximately 21 of the 30 inches to the atmosphere, the rest of the 9 inches contribute to the flow
+---------------------------------
+#SC#69#D#
+<span style="text-decoration: underline">1998 saw several new ventures promoting online distance learning both at the college and graduate level, but also faculty members in large numbers began</span> questioning whether the computer screen was an adequate replacement for the classroom.
+(A) 1998 saw several new ventures promoting online distance learning both at the college and graduate level, but also faculty members in large numbers began
+(B) In 1998 several new ventures were promoting online distance learning for both college-and for graduate-level courses, but it was also a year for a large number of faculty members who began
+(C) With several new ventures promoting online distance learning both for college and graduate courses in 1998, it was also a year when a large number of faculty members had begun
+(D) Although 1998 saw several new ventures promoting online distance learning for both college- and graduate- level courses, it was also a year when a large number of faculty members began
+(E) Several new ventures were promoting online distance learning in 1998, at both the college level as well as the graduate, but it was also a year for faculty members to begin in large numbers
+---------------------------------
+#SC#70#B#
+<span style="text-decoration: underline">Whereas scientists,</span> because of random fluctuations in the weather, cannot determine the transition from one season to the next by monitoring temperatures on a daily basis, so they cannot determine the onset of global warming by monitoring average annual temperatures.
+(A) Whereas scientists
+(B) Just as scientists
+(C) Like scientists who
+(D) Inasmuch as a scientist
+(E) In the same way a scientist
+---------------------------------
+#SC#71#B#
+<span style="text-decoration: underline">The automobile company announced that the average price of next year's models would decrease four-tenths of one percent, amounting to about $72. as compared with comparably equipped cars and trucks this year.</span>
+(A) The automobile company announced that the average price of next year's models would decrease four-tenths of one percent, amounting to about $72, as compared with comparably equipped cars and trucks this year.
+(B) The automobile company announced that the average price of next year's cars and trucks would decrease four- tenths of one percent, or about $72, from that of comparably equipped models this year.
+(C) The automobile company announced that there would be a decrease of four-tenths of one percent in next year's models' average price, or about $72, below this year's comparably equipped cars and trucks.
+(D) Compared to comparably equipped models this year, the automobile company announced that the average price of next year's cars and trucks would decrease about $72, less by four-tenths of one percent.
+(E) Contrasted with comparably equipped cars and trucks of this year, the automobile company announced that the average price of next year's models would decrease about $72, or four-tenths of one percent.
+---------------------------------
+#SC#72#A#
+Many teenagers undergo stress, but results of a recent study indicate that the patterns of stress that girls experience are more likely to result in depression than <span style="text-decoration: underline">are those that bovs experience.</span>
+(A) are those that boys experience
+(B) what boys experience
+(C) boys' experience would
+(D) boys' stress patterns do
+(E) stress patterns of boys
+---------------------------------
+#SC#73#A#
+Gasoline marketing is undergoing major changes as stations often <span style="text-decoration: underline">not only add convenience stores but also combine with major fast-food chains to build</span> complexes where customers can shop and eat as well as buy gasoline.
+(A) not only add convenience stores but also combine with major fast-food chains to build
+(B) not only add convenience stores but also they combine with major fast-food chains to build
+(C) are not only adding convenience stores but also in combination with major fast-food chains they build
+(D) add not only convenience stores, but also combining with major fast-food chains to build
+(E) are not only adding convenience stores, but also in combining with major fast-food chains they build
+---------------------------------
+#SC#74#D#
+In addition to her work on the Miocene hominid fossil record, Mary <span style="text-decoration: underline">Leakev contributed to archaeology with her discovery of the earliest direct evidence of hominid activity and painstakingly documenting</span> East African cave paintings.
+(A) Leakey contributed to archaeology with her discovery of the earliest direct evidence of hominid activity and painstakingly documenting
+(B) Leakey contributed to archaeology by her discovery of the earliest direct evidence of hominid activity and by painstakingly documenting
+(C) Leakey was a contributor to archaeology with her discovery of the earliest direct evidence of hominid activity and with her painstaking documentation of
+(D) Leakey's contributions to archaeology include her discovery of the earliest direct evidence of hominid activity and her painstaking documentation of
+(E) Leakey's contributions to archaeology include discovering the earliest direct evidence of hominid activity and painstaking documentation of
+---------------------------------
+#SC#75#B#
+Most vaccines are derived from weakened or killed strains of the same virus that they prevent, unlike <span style="text-decoration: underline">the derivation of smallpox vaccine from a different virus altogether.</span>
+(A) the derivation of smallpox vaccine from a different virus altogether
+(B) smallpox vaccine, which is derived from a different virus altogether
+(C) smallpox's vaccine, which gets derived from a different virus altogether
+(D) when smallpox vaccine is derived from an altogether different virus
+(E) the altogether different virus from which smallpox vaccine is derived
+---------------------------------
+#SC#76#D#
+<span style="text-decoration: underline">Unlike using spices for cooking, in medicinal usage they are taken</span> in large quantities in order to treat particular maladies.
+(A) Unlike using spices for cooking, in medicinal usage they are taken
+(B) Unlike spices that are used in cooking, in using spices for medicine, they are taken
+(C) Unlike cooking with spices, taking spices for medicinal use is done
+(D) In cooking, small quantities of spices are used, whereas in medicinal usage spices are taken
+(E) In cooking, the usage of spices is in small quantities, whereas in medicinal usage they are taken
+---------------------------------
+#SC#77#B#
+Shipwrecks are more likely to be found undisturbed at great depths <span style="text-decoration: underline">than in shallow coastal waters, which exposes archaeological remains to turbulence and makes them accessible to anyone in scuba gear, whether they be</span> archaeologist, treasure hunter, or sport diver.
+(A) than in shallow coastal waters, which exposes archaeological remains to turbulence and makes them accessible to anyone in scuba gear, whether they be
+(B) than in shallow coastal waters, where archaeological remains are exposed to turbulence and are accessible to anyone in scuba gear, whether
+(C) as opposed to shallow waters along the coast, where archaeological remains are exposed to turbulence and are accessible to anyone in scuba gear, including
+(D) instead of in shallow waters along the coast, which exposes archaeological remains to turbulence and makes them accessible to anyone in scuba gear, including an
+(E) instead of shallow coastal waters, because it exposes archaeological remains to turbulence and makes them accessible to anyone in scuba gear, whether
+---------------------------------
+#SC#78#C#
+First discovered more than 30 years ago, Lina's sunbird, a four-and-a-half-inch animal <span style="text-decoration: underline">found in the Philippines and that resembles</span> a hummingbird, has shimmering metallic colors on its head; a brilliant orange patch, bordered with red tufts, in the center of its breast; and a red eye.
+(A) found in the Philippines and that resembles
+(B) found in the Philippines and that, resembling
+(C) found in the Philippines and resembling
+(D) that is found in the Philippines and it resembles
+(E) that is found in the Philippines and that, resembling
+---------------------------------
+#SC#79#D#
+The country's currency, weakened by both concern about the government's agreement with the International Monetary Fund and growing fears of a raise in inflation, continued its slide to a record low against the dollar, which forced <span style="text-decoration: underline">Both weakened by concern about the government's agreement with the International Monetary Fund and by growing fears of a rise in inflation, the country's currency continued its slide to a record low against the dollar, which forced</span> the central bank to intervene for the fourth time in a week.
+(A) Both weakened by concern about the government's agreement with the International Monetary Fund and by growing fears of a rise in inflation, the country's currency continued its slide to a record low against the dollar, which forced
+(B) Both concern about the government's agreement with the International Monetary Fund and the growing fears of a rise in inflation weakened the country's currency, continuing its slide to a record low against the dollar, which forced
+(C) Both because it was weakened by concern about the government's agreement with the International Monetary Fund and by growing fears of a raise in inflation, the country's currency continued its slide to a record low against the dollar, forcing
+(D) The country's currency, weakened both by concern about the government's agreement with the International Monetary Fund and by growing fears of a rise in inflation, continued its slide to a record low against the dollar, forcing
+(E) The country’s currency, weakened by both concern about the government’s agreement with the international monetary fund and growing fears of a raise in inflation, continued its slide to a record low against the dollar, which forced
+---------------------------------
+#SC#80#C#
+A new genetically engineered papaya was <span style="text-decoration: underline">produced not by seed companies who have been motivated by profit, which was the case with most genetically modified crops previously approved for commercial use,</span> but university and United States Department of Agriculture researchers who allowed growers to use it free of charge.
+(A) produced not by seed companies who have been motivated by profit, which was the case with most genetically modified crops previously approved for commercial use, but
+(B) produced not by profit-motivated seed companies, the case with most genetically modified crops previously approved for commercial use, but
+(C) produced not by profit-motivated seed companies, as was the case with most genetically modified crops previously approved for commercial use, but by
+(D) not produced by profit-motivated seed companies, which was the case with most genetically modified crops previously approved for commercial use, but was produced by
+(E) not produced by seed companies who have been motivated by profit, the case with most genetically modified crops previously approved for commercial use, but by
+---------------------------------
+#SC#81#C#
+<span style="text-decoration: underline">Mideast immigrants' rates of entrepreneurship exceed</span> virtually every other immigrant group in the increasingly diverse United States economy.
+(A) Mideast immigrants' rates of entrepreneurship exceed
+(B) Mideast immigrants are exhibiting rates of entrepreneurship exceeding
+(C) Immigrants from the Mideast exhibit rates of entrepreneurship exceeding those of
+(D) The rates of entrepreneurship in immigrants from the Mideast exceed
+(E) The rates of Mideast immigrants' entrepreneurship exceeds those of
+---------------------------------
+#SC#82#A#
+<span style="text-decoration: underline">The bones of Maiunaatholus atopus. a meat-eating dinosaur that is a distant relative of Tyrannosaurus rex and closely resembles South American predatory dinosaurs, have been discovered in Madagascar.</span>
+(A) The bones of Majungatholus atopus, a meat-eating dinosaur that is a distant relative of Tyrannosaurus rex and closely resembles South American predatory dinosaurs, have been discovered in Madagascar.
+(B) The bones of a meat-eating dinosaur, Majungatholus atopus, a distant relative of Tyrannosaurus rex and with a close resemblance to South American predatory dinosaurs, has been discovered in Madagascar.
+(C) In Madagascar, the bones of a meat-eating dinosaur, Majungatholus atopus, distantly related to Tyrannosaurus rex and closely resembled South American predatory dinosaurs, have been discovered.
+(D) A distant relative of Tyrannosaurus rex, bearing a close resemblance to South American predatory dinosaurs is Majungatholus atopus, a meat-eating dinosaur, the bones of which have been discovered in Madagascar.
+(E) A distant relative of Tyrannosaurus rex and closely resembling South American predatory dinosaurs, the bones of a meat-eating dinosaur, Majungatholus atopus, have been discovered in Madagascar.
+---------------------------------
+#SC#83#E#
+It is unclear whether chimpanzees are unique among nonhuman species in their ability to learn behaviors from one another, or <span style="text-decoration: underline">if. when other animals are studied in as much depth, similar patterns would be found.</span>
+(A) if, when other animals are studied in as much depth, similar patterns would be found
+(B) if other animals were studied with as much depth they would exhibit similar patterns
+(C) would similar patterns be found in other animals if they were studied in as much depth
+(D) whether similar patterns would be exhibited in other animals that were studied with as much depth
+(E) whether other animals would exhibit similar patterns if they were studied in as much depth
+---------------------------------
+#SC#84#B#
+Paper production accounts for approximately 40 percent of the world's industrial use of wood, and <span style="text-decoration: underline">the market for paper is growing faster than it is for all</span> major wood products.
+(A) the market for paper is growing faster than it is for all
+(B) the market for paper is growing faster than the market for all other
+(C) the market for it is growing faster than it is for all other
+(D) its market is growing faster than the market for all
+(E) its market is growing faster than it is for all other
+---------------------------------

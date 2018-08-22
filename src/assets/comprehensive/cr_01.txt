@@ -1,0 +1,690 @@
+####86####Comprehensive CR - Part I
+#CR#1#D#
+Although fullerenes—spherical molecules made entirely of carbon—were first found in the laboratory, they have since been found in nature, formed in fissures of the rare mineral shungite. Since laboratory synthesis of fullerenes requires distinctive conditions of temperature and pressure, this discovery should give geologists a test case for evaluating hypotheses about the state of the Earth's crust at the time these naturally occurring fullerenes were formed. <br><br>Which of the following, if true, most seriously undermines the argument?
+(A) Confirming that the shungite genuinely contained fullerenes took careful experimentation.
+(B) Some fullerenes have also been found on the remains of a small meteorite that collided with a spacecraft.
+(C) The mineral shungite itself contains large amounts of carbon, from which the fullerenes apparently formed.
+(D) The naturally occurring fullerenes are arranged in a previously unknown crystalline structure.
+(E) Shungite itself is formed only under distinctive conditions.
+---------------------------------
+#CR#2#C#
+Economist: On average, the emergency treatment for an elderly person for injuries resulting from a fall costs $11,000. A new therapeutic program can significantly reduce an elderly person's chances of falling. Though obviously desirable for many reasons, this treatment program will cost $12,500 and thus cannot be justified. <br><br>Which of the following, if true, most seriously undermines the conclusion of the argument?
+(A) Among elderly people who had followed the program for only a few months, the number of serious falls reported was higher than it was for people who had followed the program for its recommended minimum length of one year.
+(B) Falls resulting in serious injuries are less common among elderly people living in nursing homes than they are among elderly people who live alone at home.
+(C) A frequent result of injuries sustained in falls is long-term pain, medication for which is not counted among the average per-person costs of emergency treatment for elderly people's injuries from such falls.
+(D) The new therapeutic program focuses on therapies other than medication, since overmedication can cause disorientation and hence increase the likelihood that an elderly person will have a serious fall.
+(E) A significant portion of the cost of the new therapeutic program is represented by regular visits by health care professionals, the costs of which tend to increase more rapidly than do those of other elements of the program.
+---------------------------------
+#CR#3#E#
+The prairie vole, a small North American grassland rodent, breeds year-round, and a group of voles living together consists primarily of an extended family, often including two or more litters. Voles commonly live in large groups from late autumn through winter; from spring through early autumn, however, most voles live in far smaller groups. The seasonal variation in group size can probably be explained by a seasonal variation in mortality among young voles. <br><br>Which of the following, if true, provides the strongest support for the explanation offered?
+(A) It is in the spring and early summer that prairie vole communities generally contain the highest proportion of young voles.
+(B) Prairie vole populations vary dramatically in size from year to year.
+(C) The prairie vole subsists primarily on broad-leaved plants that are abundant only in spring.
+(D) Winters in the prairie voles' habitat are often harsh, with temperatures that drop well below freezing.
+(E) Snakes, a major predator of young prairie voles, are active only from spring through early autumn.
+---------------------------------
+#CR#4#E#
+A popular beach has long had a dolphin feeding program in which fish are given to dolphins several times a day; many dolphins get as much as half of their food each day there. Although dolphins that first benefit from the program as adults are healthy and long-lived, their offspring have a lower life expectancy than offspring of dolphins that feed exclusively in the wild. <br><br>Which of the following, if true, most helps to explain the lower life expectancy of offspring of dolphins feeding at the beach compared to other young dolphins?
+(A) Sharks that prey on dolphins are less common in the open seas off the beach than in many other areas of the open seas where dolphins congregate.
+(B) Many of the adult dolphins that feed at the beach are females that nurse their offspring there.
+(C) The fish given to the dolphins at the beach are the same types of fish that dolphins typically catch in the wild.
+(D) Many dolphins that feed at the beach with their offspring come to the beach only a few times a month.
+(E) Adult dolphins that feed at the beach spend much less time teaching their offspring how to catch fish in the wild than do other adult dolphins.
+---------------------------------
+#CR#5#D#
+Tiger sharks are common in the waters surrounding Tenare Island. Usually tiger sharks feed on smaller sharks, but sometimes they have attacked tourists swimming and surfing at Tenare's beaches. This has hurt Tenare's tourism industry, which is second only to its fishing industry in annual revenues. In order to help the economy, therefore, the mayor of the island has proposed an ongoing program to kill any tiger sharks within a mile of the beaches. <br><br>Which of the following, if true, most strongly calls into question the likelihood that implementation of the mayor's proposal will have the desired consequence?
+(A) Even if not all the tiger sharks that come close to the beaches are killed, the existence of the program would reassure tourists.
+(B) Business owners who depend on tourism are willing to pay most of the cost of implementing the program.
+(C) Tourists come to Tenare Island for its beaches, even though the island features a number of other tourist attractions.
+(D) The small sharks on which tiger sharks prey feed on fish that are commercially important to the island's fisheries.
+(E) Not all tourists who come to Tenare Island enjoy swimming or surfing.
+---------------------------------
+#CR#6#E#
+The country of Ertland has never imported apples in any significant quantity because consumers there generally prefer the unique texture of Ertland-grown apples. Nevertheless, apple growers from Kosolia, a neighboring country, plan to sell their apples in Ertland by selling Kosolia-grown apples at half the price of local apples and promoting them as a nourishing, low-cost alternative. <br><br>Which of the following, if true, casts most doubt on the viability of the plan by Kosolia's apple growers to sell their apples in Ertland?
+(A) Most of the varieties of apples grown in Ertland were originally derived from common Kosolian varieties.
+(B) Consumers in Ertland tend to spend about the same proportion of their income on fresh fruits and vegetables as do consumers in Kosolia.
+(C) At times in the past, Ertland has exported significant quantities of apples to Kosolia.
+(D) Some varieties of apples grown in Kosolia can be harvested throughout most of the year, whereas the varieties grown in Ertland can be harvested only during two months of the year.
+(E) Profit of Ertland-grown apples are high enough in Ertland that growers, wholesalers, and retailers there could easily afford to reduce the price at which these apples are sold.
+---------------------------------
+#CR#7#B#
+As part of major renovations to Flowertown's Main Street train station, consultants to the train company proposed moving the station's entrance from its current valuable Main Street location to a low-rent adjoining side street and then leasing the high-rent entrance space to retail businesses. In that way, the train company could easily pay for those and all other proposed renovations without negative impact on its tight budget. <br><br>Which of the following, if true, would most strongly support the consultants' proposal?
+(A) More train commuters are employed in businesses located on Main Street than in businesses located on the adjoining side street.
+(B) A reliable survey of Flowertown's commuters showed that virtually none of them would use the train any less frequently if the station's entrance were moved.
+(C) The high-rent block of Flowertown's Main Street includes several buildings whose owners currently seek to replace long-standing tenants lost in recent months.
+(D) If the station's entrance were moved, the train company would need to begin costly renovations to its Main Street entrance space.
+(E) Ridership on Flowertown trains declined only slightly from 1970 to 1985 while other train companies lost large numbers of commuters.
+---------------------------------
+#CR#8#B#
+Scientists are discussing ways to remove excess carbon dioxide from the atmosphere by increasing the amount that is absorbed by plant life. One plan to accomplish this is to establish giant floating seaweed farms in the<br><br>oceans. When the seaweed plants die, they will be disposed of by being burned for fuel.<br><br>Which of the following, if true, would indicate the most serious weakness in the plan above?
+(A) Some areas of ocean in the Southern Hemisphere do not contain sufficient nutrients to support large seaweed farms.
+(B) When a seaweed plant is burned, it releases an amount of carbon dioxide comparable to the amount it has absorbed in its lifetime.
+(C) Even if seaweed farms prove effective, some people will be reluctant to switch to this new fuel.
+(D) Each year about seven billion tons of carbon dioxide are released into the atmosphere but only about five billion tons are absorbed by plant life.
+(E) Seaweed farms would make more money by farming seaweed to sell as nutritional supplements than by farming seaweed to sell as fuel.
+---------------------------------
+#CR#9#E#
+Jennifer: Video rental outlets in Centerville together handled 10,000 fewer video rentals in 1994 than in 1993. The decline in rentals was probably due almost entirely to the February 1994 opening of Videorama, the first and only video rental outlet in the area that, in addition to renting videos, also sold them cheaply. <br><br>Brad: There must be another explanation: as you yourself said, the decline was on the order of 10,000 rentals. Yet Videorama sold only 4,000 videos in 1994.<br><br>Which of the following, if true, would most seriously weaken the force of the objection that Brad presents to Jennifer's explanation?
+(A) In 1994 Videorama rented out more videos than it sold.
+(B) In 1994 two new outlets that rent but that do not sell videos opened in Centerville.
+(C) Most of the video rental outlets in Centerville rent videos at a discount on certain nights of the week.
+(D) People often buy videos of movies that they have previously seen in a theater.
+(E) People who own videos frequently loan them to their friends.
+---------------------------------
+#CR#10#D#
+Mourdet Winery: Danville Winery's new wine was introduced to compete with our most popular wine, which is sold in a distinctive tall, black bottle. Danville uses a similar bottle. Thus, it is likely that many customers intending to buy our wine will mistakenly buy theirs instead. <br><br>Danville Winery: Not so. The two bottles can be readily distinguished: the label on ours, but not on theirs, is gold colored.<br><br>Which of the following, if true, most undermines Danville Winery's response?
+(A) Gold is the background color on the label of many of the wines produced by Danville Winery.
+(B) When the bottles are viewed side by side, Danville Winery's bottle is perceptibly taller than Mourdet Winery's.
+(C) Danville Winery, unlike Mourdet Winery, displays its wine's label prominently in advertisements.
+(D) It is common for occasional purchasers to buy a bottle of wine on the basis of a general impression of the most obvious feature of the bottle.
+(E) Many popular wines are sold in bottles of a standard design.
+---------------------------------
+#CR#11#E#
+Finding of a survey of Systems magazine subscribers: Thirty percent of all merchandise orders placed by subscribers in response to advertisements in the magazine last year were placed by subscribers under age thirty-five. <br><br> Finding of a survey of advertisers in Systems magazine: Most of the merchandise orders placed in response to advertisements in Systems last year were placed by people under age thirty-five.<br><br>For both of the findings to be accurate, which of the following must be true?
+(A) More subscribers to Systems who have never ordered merchandise in response to advertisements in the magazine are age thirty-five or over than are under age thirty-five.
+(B) Among subscribers to Systems, the proportion who are under age thirty-five was considerably lower last year than it is now.
+(C) Most merchandise orders placed in response to advertisements in Systems last year were placed by Systems subscribers over age thirty-five.
+(D) Last year, the average dollar amount of merchandise orders placed was less for subscribers under age thirty- five than for those age thirty-five or over.
+(E) Last year many people who placed orders for merchandise in response to advertisements in Systems were not subscribers to the magazine.
+---------------------------------
+#CR#12#C#
+Which of the following most logically completes the argument?<br><br>United States manufacturers currently produce most of the world's solar-power generators—most of which are exported to Europe. However, European manufacturers are emerging and probably will ultimately capture much of the European market. The United States government is funding initiatives intended to encourage use of solar power within the United States. If these initiatives succeed in increasing the demand for solar-power generators in the United States, United States manufacturers will probably maintain significant production levels, since.
+(A) some United States manufacturers have been substantially increasing their output over the last several years
+(B) the efficiency of solar-power generators in converting energy from the Sun into electric power is not improving as fast as it once did
+(C) just as European manufacturers enjoy certain competitive advantages in Europe, so do United States manufacturers in the United States
+(D) European governments are currently undertaking initiatives to stimulate the use of solar power within Europe
+(E) the current market for solar-power generators in the United States is very limited
+---------------------------------
+#CR#13#E#
+The higher the level of certain vitamins and minerals in the bloodstream, the better a person's lung function, as measured by the amount of air the person can expel in one second. The lung function of smokers is significantly worse, on average, than that of nonsmokers. Clearly, therefore, one way for smokers to improve their lung function is for them to increase their intake of foods that are rich in these helpful vitamins and minerals. Which of the following is an assumption on which this argument depends?
+(A) Smokers are less likely than nonsmokers to have diets that are rich in vitamins and minerals.
+(B) The lung function of smokers whose diets are rich in those vitamins and minerals is generally better than that of nonsmokers with comparable diets.
+(C) People whose diets are deficient in those vitamins and minerals do not typically have other health problems in addition to diminished lung function.
+(D) Stopping smoking will not typically improve lung function more than any diet changes can.
+(E) Smoking does not introduce into the body chemicals that prevent the helpful vitamins and minerals from entering the bloodstream.
+---------------------------------
+#CR#14#E#
+Astronomer: Observations of the Shoemaker-Levi comet on its collision course with Jupiter showed that the comet broke into fragments before entering Jupiter's atmosphere in 1994, but they did not show how big those fragments were. In hopes of gaining some indication of the fragments' size, astronomers studied spectrographic analyses of Jupiter's outer atmosphere. These analyses revealed unprecedented traces of sulfur after the fragments' entry. <strong>The fragments themselves almost certainly contained no sulfur, but many astronomers believe that the cloud layer below Jupiter's outer atmosphere does contain sulfur.</strong> Since sulfur would have seeped into the outer atmosphere if comet fragments had penetrated this cloud layer, <strong>it is likely that some of the fragments were at least large enough to have passed through Jupiter's outer atmosphere without being burned up.</strong><br><br>In the astronomer's argument, the two portions in boldface play which of the following roles?
+(A) The first presents a circumstance for which the astronomer offers an explanation; the second is part of that explanation.
+(B) The first acknowledges a consideration that weighs against the conclusion of the argument; the second is that conclusion.
+(C) The first acknowledges a consideration that weighs against the conclusion of the argument; the second provides evidence in support of that conclusion.
+(D) The first provides evidence in support of the conclusion of the argument; the second acknowledges a consideration that weighs against that conclusion.
+(E) The first is a judgment advanced in support of the conclusion of the argument; the second is that conclusion.
+---------------------------------
+#CR#15#A#
+Most of the world's supply of uranium currently comes from mines. It is possible to extract uranium from seawater, but the cost of doing so is greater than the price that uranium fetches on the world market. Therefore, until the cost of extracting uranium from seawater can somehow be reduced, this method of obtaining uranium is unlikely to be commercially viable. <br><br>Which of the following would it be most useful to determine in evaluating the argument?
+(A) Whether the uranium in deposits on land is rapidly being depleted
+(B) Whether most uranium is used near where it is mined
+(C) Whether there are any technological advances that show promise of reducing the cost of extracting uranium from seawater
+(D) Whether the total amount of uranium in seawater is significantly greater than the total amount of uranium on land
+(E) Whether uranium can be extracted from freshwater at a cost similar to the cost of extracting it from seawater
+---------------------------------
+#CR#16#D#
+Urban air contains more sulfur dioxide than does rural air, and plants in cities typically grow more slowly than do plants in rural areas. In an experiment to see how much of the difference in growth is due to sulfur dioxide, classes in an urban and a rural school grew plants in greenhouses at their schools and filtered the greenhouse air to eliminate sulfur dioxide. Plants in the urban greenhouse grew more slowly than those in the rural greenhouse. <br><br>Which of the following, if true, would it be most important to take into account in evaluating the result?
+(A) The urban school was located in a part of the city in which levels of sulfur dioxide in the air were usually far lower than is typical for urban areas.
+(B) At both schools, the plants in the greenhouses grew much more quickly than did plants planted outdoors in plots near the greenhouses.
+(C) The urban class conducting the experiment was larger than the rural class conducting the experiment.
+(D) Heavy vehicular traffic such as is found in cities constantly deposits grime on greenhouse windows, reducing the amount of light that reaches the plants inside.
+(E) Because of the higher levels of sulfur dioxide in the air at the urban school, the air filters for the urban school's greenhouse were changed more frequently than were those at the rural school.
+---------------------------------
+#CR#17#E#
+Many small roads do not have painted markings along their edges. Clear edge markings would make it easier for drivers to see upcoming curves and to judge the car's position on the road, particularly when visibility is poor, and would therefore seem to be a useful contribution to road safety. However, after Greatwater County painted edge markings on all its narrow, winding roads, the annual accident rate along those roads actually increased slightly. <br><br>Which of the following, if true, most helps to explain the increase in accident rate?
+(A) Greatwater County has an unusually high proportion of narrow, winding roads.
+(B) In bad weather it can be nearly as difficult for drivers to see the road as it is at night.
+(C) Prior to the painting of the edge markings, Greatwater County's narrow, winding roads already had a somewhat higher accident rate than other Greatwater County roads.
+(D) Many of the accidents on narrow, winding roads involve a single vehicle veering off the road, rather than the collision of two vehicles.
+(E) After the markings were painted on the roads, many drivers who had gone out of their way to avoid driving on those roads at night no longer did so.
+---------------------------------
+#CR#18#C#
+For years the beautiful Renaissance buildings in Palitito have been damaged by exhaust from the many tour buses that come to the city. There has been little parking space, so most buses have idled at the curb during each stop on their tour, and idling produces as much exhaust as driving. The city has now provided parking that accommodates a third of the tour buses, so damage to Palitito's buildings from the buses' exhaust will diminish significantly. <br><br>hich of the following, if true, most strongly supports the argument?
+(A) The exhaust from Palitito's few automobiles is not a significant threat to Palitito's buildings.
+(B) Palitito's Renaissance buildings are not threatened by pollution other than engine exhaust.
+(C) Tour buses typically spend less than one-quarter of the time they are in Palitito transporting passengers from one site to another.
+(D) More tourists come to Palitito by tour bus than by any other single means of transportation.
+(E) Some of the tour buses that are unable to find parking drive around Palitito while their passengers are visiting a site.
+---------------------------------
+#CR#19#A#
+In the late 1980s, the population of sea otters in the North Pacific began to decline. There are two plausible explanations for the decline: predation, possibly by killer whales, or disease. Of these two, disease is the more likely, since a concurrent sharp decline in populations of seals and sea lions is believed to have been caused by disease, and diseases that infect these creatures are likely to be able to infect sea otters also. <br><br>Which of the following, if true, most seriously weakens the reasoning?
+(A) Killer whales in the North Pacific usually prey on seals and sea lions but will, when this food source is scarce, seek out other prey.
+(B) There is no indication that the sea otter population at any North Pacific location declined in the 1980s because of substantial numbers of sea otters migrating to other locations.
+(C) Along the Pacific coast of North America in the 1980s, sea otters were absent from many locations where they had been relatively common in former times.
+(D) Following the decline in the population of the sea otters, there was an increase in the population of sea urchins, which are sea otters' main food source.
+(E) The North Pacific populations of seals and sea lions cover a wider geographic area than does the population of sea otters.
+---------------------------------
+#CR#20#C#
+From 1978 to 1988, beverage containers accounted for a steadily decreasing percentage of the total weight of household garbage in the United States. The increasingly widespread practice of recycling aluminum and glass was responsible for most of this decline. However, although aluminum recycling was more widely practiced in this period than glass recycling, it was found that the weight of glass bottles in household garbage declined by a greater percentage than the weight of aluminum cans. <br><br>Which of the following, if true of the United States in the period 1978 to 1988, most helps to account for the finding?
+(A) Glass bottles are significantly heavier than aluminum cans of comparable size.
+(B) Recycled aluminum cans were almost all beverage containers, but a significant fraction of the recycled glass bottles had contained products other than beverages.
+(C) Manufacturers replaced many glass bottles, but few aluminum cans, with plastic containers.
+(D) The total weight of glass bottles purchased by households increased at a slightly faster rate than the total weight of aluminum cans.
+(E) In many areas, glass bottles had to be sorted by color of the glass before being recycled, whereas aluminum cans required no sorting.
+---------------------------------
+#CR#21#B#
+Tiger beetles are such fast runners that they can capture virtually any nonflying insect. However, when running toward an insect, the beetles intermittently stop, and then, a moment later, resume their attack. Perhaps they cannot maintain their pace and must pause for a moment's rest; but an alternative hypothesis is that while running tiger beetles are unable to process the resulting rapidly changing visual information, and so quickly go blind and stop. <br><br>Which of the following, if discovered in experiments using artificially moved prey insects, would support one of the two hypotheses and undermine the other?
+(A) When a prey insect is moved directly toward a beetle that has been chasing it, the beetle immediately turns and runs away without its usual intermittent stopping.
+(B) In pursuing a moving insect, the beetles usually respond immediately to changes in the insect's direction, and pause equally frequently whether the chase is up or down an incline.
+(C) The beetles maintain a fixed time interval between pauses, although when an insect that had been stationary begins to flee, the beetle increases its speed after its next pause.
+(D) If, when a beetle pauses, it has not gained on the insect it is pursuing, the beetle generally ends its pursuit.
+(E) When an obstacle is suddenly introduced just in front of running beetles, the beetles sometimes stop immediately, but they never respond by running around the barrier.
+---------------------------------
+#CR#22#B#
+Twelve years ago and again five years ago, there were extended periods when the Darfir Republic's currency, the pundra, was weak: its value was unusually low relative to the world's most stable currencies. Both times a weak pundra made Darfir's manufactured products a bargain on world markets, and Darfir's exports were up substantially. Now some politicians are saying that, in order to cause another similarly sized increase in exports, the government should allow the pundra to become weak again.<br><br>Which of the following, if true, provides the government with the strongest grounds to doubt that the politicians' recommendation, if followed, will achieve its aim?
+(A) Several of the politicians now recommending that the pundra be allowed to become weak made that same recommendation before each of the last two periods of currency weakness.
+(B) After several decades of operating well below peak capacity, Darfir's manufacturing sector is now operating at near-peak levels.
+(C) The economy of a country experiencing a rise in exports will become healthier only if the country's currency is strong or the rise in exports is significant.
+(D) Those countries whose manufactured products compete with Darfir's on the world market all currently have stable currencies.
+(E) A sharp improvement in the efficiency of Darfir's manufacturing plants would make Darfir's products a bargain on world markets even without any weakening of the pundra relative to other currencies.
+---------------------------------
+#CR#23#B#
+The population of Megacity, a sprawling metropolis in Remsland, has grown at a fairly steady rate for over a century. A hundred years ago, poor sanitation in the city caused high mortality rates among the city's inhabitants, and what fueled the population increase was immigration from rural villages. This immigration has continued and even increased. Moreover, in recent decades, city sanitation has improved enormously. Yet the city's population growth has not significantly accelerated. <br><br>Which of the following, if true, most helps to explain why the city's population growth rate has not changed?
+(A) Mortality rates that were associated with poor sanitation in Megacity a hundred years ago were orders of magnitude higher than are mortality rates associated with vehicular traffic, which is currently a major cause of death in the city.
+(B) For several decades, Megacity, as distinct from the countryside, has had a steadily declining birth rate.
+(C) Cities smaller than Megacity have also experienced sustained population growth.
+(D) The great majority of immigrants to Remsland settle in Megacity, at least initially.
+(E) Megacity has long offered better employment prospects than most rural areas.
+---------------------------------
+#CR#24#D#
+Plant scientists have used genetic engineering on seeds to produce crop plants that are highly resistant to insect damage. Unfortunately, <strong>the seeds themselves are quite expensive, and the plants require more fertilizer and water to grow well than normal ones.</strong> Thus, for most farmers the savings on pesticides would not compensate for the higher seed costs and the cost of additional fertilizer. However, <strong>since consumer demand for grains, fruits, and vegetables grown without the use of pesticides continues to rise,</strong> the use of genetically engineered seeds of this kind is likely to become widespread.<br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first supplies a context for the argument; the second is the argument's main conclusion.
+(B) The first introduces a development that the argument predicts will have a certain outcome; the second is a state of affairs that the argument denies will be part of that outcome.
+(C) The first presents a development that the argument predicts will have a certain outcome; the second acknowledges a consideration that weighs against that prediction.
+(D) The first provides a certain outcome that the argument seeks to weigh against; the second is a consideration that support the main conclusion.
+(E) The first and the second each provide evidence to support the argument's main conclusion.
+---------------------------------
+#CR#25#D#
+First-time computer buyers buying PXC home computers typically buy models that cost much less and have a smaller profit margin per computer than do PXC computers bought by people replacing their computers with more powerful models. Last year PXC's profits from computer sales were substantially higher than the previous year, although about the same number of PXC computers were sold and the prices and profit margins for each computer model that PXC sells remained unchanged. <br><br>If the statements above are true, which of the following is most strongly supported by them?
+(A) PXC's competitors raised the prices on their computers last year, making PXC computers more attractive to first¬time computer buyers.
+(B) The number of people buying PXC computers who also bought PXC computer-related products, such as printers, was larger last year than the previous year.
+(C) Among computer buyers who bought a PXC computer to replace their existing computer, the proportion who were replacing a computer made by a competitor of PXC was greater last year than the previous year.
+(D) The proportion of PXC computers bought by first-time computer buyers was smaller last year than the previous year.
+(E) PXC's production costs for its computers were lower last year than they had been the previous year.
+---------------------------------
+#CR#26#E#
+To reduce the danger to life and property posed by major earthquakes, scientists have been investigating several techniques for giving advance warning of dangerous earthquakes. Since catfish swim erratically before earthquakes, some investigators have proposed monitoring catfish to predict dangerous earthquakes. <br><br>Which of the following, if true, most seriously undermines the usefulness of the proposal?
+(A) In Japan, which is subject to frequent earthquakes, the behavior of catfish has long been associated with earthquakes.
+(B) Mechanical methods for detecting earthquakes have not proved effective.
+(C) Tremors lead to the release of hydrogen sulfide gas into water, thereby causing various fish and shellfish to behave erratically.
+(D) Careful construction can reduce the dangers posed by earthquakes.
+(E) Even very slight, fleeting tremors cause catfish to swim erratically.
+---------------------------------
+#CR#27#A#
+A city plans to attract new citizens with new housing and new facilities such as parks, recreation centers, and libraries. One component of the city's plan is to require that developers seeking permission to build this new housing provide these additional facilities at no cost to the city. <br><br>Which of the following, if true, would point to a possible flaw in the city's plan?
+(A) Developers would pass along their costs to the buyer, thereby raising the cost of housing units beyond the ability of likely purchasers to afford them.
+(B) Light, nonpolluting industries have located in the area, offering more jobs and better-paying jobs than do the more-established industries in the area.
+(C) Other towns and cities nearby have yet to embark on any comparable plans to attract new citizens.
+(D) Most developers see the extra expense of providing municipal facilities as simply one of the many costs of doing business.
+(E) Studies show that purchasers of new houses, especially first-time buyers, rank recreational resources as an important factor in deciding to buy a particular house.
+---------------------------------
+#CR#28#B#
+Manufacturers issue cents-off coupons to get consumers to try their brand of product with the hope that the consumers who try their brand will switch their brand loyalty. So in the initial marketing of their new brand X, Hartman Industries should issue cents-off coupons, thereby attracting a large segment of potential consumers as loyal customers. <br><br>Which of the following, if true, casts the most serious doubt on the likelihood that the marketing strategy recommended above will have the result that is claimed?
+(A) Many consumers are unlikely to try new brands of products unless offered an inducement to do so.
+(B) The consumers whose purchases are strongly influenced by cents-off coupons tend not to become loyal customers of any particular brand.
+(C) Many grocery stores attract customers by doubling the face value of manufacturer's coupons.
+(D) Typically less than one-third of the coupons issued by a manufacturer are redeemed by consumers.
+(E) A marketing campaign that uses cents-off coupons is most effective when combined with a television advertising campaign.
+---------------------------------
+#CR#29#C#
+When a caterpillar emerges from the egg on a tree branch, it immediately climbs upward until it finds a leaf bud to eat. Biologists thought that this behavior displayed an innate tendency to move in the direction opposite to the pull of gravity. In a recent experiment, a strong light source was placed at the bottom of a tree, and caterpillars, after hatching, climbed downward. <br><br>Which of the following hypotheses is best supported by the statements given?
+(A) Caterpillars have an innate tendency to move in the direction of gravity.
+(B) Newly hatched caterpillars are unable to see in the dark.
+(C) Newly hatched caterpillars move towards the strongest light source in the environment.
+(D) Newly hatched caterpillars move toward the leaf bud nearest to them.
+(E) The eyes of newly hatched caterpillars become less sensitive to light over time.
+---------------------------------
+#CR#30#A#
+For several years, per capita expenditure on prescription drugs in Voronia rose by fifteen percent or more annually. In order to curb these dramatic increases, the ministry of health prohibited drug manufacturers from raising any of their products' prices. Even though use of prescription drugs did not expand after this price freeze, per capita expenditure for prescription drugs continued to increase by a substantial percentage each year. <br><br>Which of the following, if true, most helps to explain why the ministry's action did not achieve its goal?
+(A) After price increases were prohibited, drug manufacturers concentrated on producing new medications to replace existing products.
+(B) The population of Voronia rose steadily throughout the period.
+(C) Improvements in manufacturing processes enabled drug manufacturers to maintain high profit levels on drugs despite the price freeze.
+(D) In addition to imposing a price freeze, the government encouraged doctors to prescribe generic versions of common drugs instead of the more expensive brand-name versions.
+(E) After price increases were prohibited, some foreign manufacturers of expensive drugs ceased marketing them in Voronia.
+---------------------------------
+#CR#31#D#
+Capuchin monkeys in Venezuela often rub a certain type of millipede into their fur. Secretions of these millipedes have been shown to contain two chemicals that are potent mosquito repellents, and mosquitoes carry parasites that debilitate the capuchins. The rubbing behavior is rare except during the rainy season, when mosquito populations are at their peak. Therefore, the monkeys probably rub the millipedes into their fur because doing so helps protect them against mosquitoes. <br><br>Which of the following would it be most useful to determine in order to evaluate the argument?
+(A) Whether the two chemicals provide any protection for the millipedes against their own predators
+(B) Whether the type of millipede used by the capuchin monkeys in Venezuela is found in other parts of the world
+(C) Whether animals other than capuchins rub insects of any kind into their fur
+(D) Whether the only time the millipedes are readily available to the capuchins is during the rainy season
+(E) Whether secretions of any other insects accessible to the capuchins contain chemicals that repel mosquitoes
+---------------------------------
+#CR#32#C#
+Which of the following most logically completes the argument below?<br><br>When interest rates are high, insurance companies reduce the premiums they charge for many kinds of insurance policies. The reason is that insurance companies want to take in as much money as possible in premiums so that they can invest the money at high rates of interest. And premium reductions help achieve this objective, since __________.
+(A) interest rates are likely to decrease when large amounts of money are available for loans
+(B) smaller insurance companies are not able to amass enough money to take advantage of investing at high interest rates
+(C) insurance companies can sell many more insurance policies if they charge lower premiums than they would if they left premiums unchanged
+(D) an increase in the number of policies sold eventually leads to an increase in the number of claims that an insurance company has to pay
+(E) the number of claims that insurance companies pay increases at a higher rate than does the number of policies that the insurance companies can sell at the lower premiums
+---------------------------------
+#CR#33#C#
+After its customers complained about being pressured to buy unneeded insurance, an insurance agency stopped rewarding its agents for high sales volume and instead gave them bonuses for high levels of customer satisfaction. Under this new plan, both customer satisfaction and the insurance agency's sales increased. <br><br>Each of the following, if true, helps to explain how the change in incentives for agents could have resulted in increased sales EXCEPT:
+(A) Customers were so pleased that the insurance agency had responded to their complaints that they recommended the agency to their friends.
+(B) Agents listened more closely to customers of long standing and were able to sell them additional insurance policies that met new needs.
+(C) Agents more frequently postponed completing the attendant paperwork even after the terms for an insurance policy were settled to the satisfaction of the client.
+(D) Dissatisfied customers of other agencies, attracted by the reports of the change in agency policy, became customers of the agency.
+(E) Having come to trust the increased judiciousness of the agents' recommendations, customers approached the agency to discuss and ultimately to buy more supplementary insurance than they previously had bought under pressure.
+---------------------------------
+#CR#34#A#
+Columnist: People should avoid using a certain artificial fat that has been touted as a resource for those whose medical advisers have advised them to reduce their fat intake. Although the artificial fat, which can be used in place of fat in food preparation, has none of the negative health effects of fat, it does have a serious drawback: it absorbs certain essential vitamins, thereby preventing them from being used by the body. <br><br>In evaluating the columnist's position, it would be most useful to determine which of the following?
+(A) Whether increasing one's intake of the vitamins can compensate for the effects of the artificial fat
+(B) Whether the vitamins that the artificial fat absorbs are present in foods that contain the fat
+(C) Whether having an extremely low fat intake for an extended period can endanger the health
+(D) Whether there are any foods that cannot be prepared using the artificial fat as a substitute for other fats
+(E) Whether people are generally able to detect differences in taste between foods prepared using the artificial fat
+and foods that are similar except for the use of other fats
+---------------------------------
+#CR#35#D#
+In the two years following the unification of Germany in 1989, the number of cars owned by residents of East Germany and the total distance traveled by cars in East Germany both increased by about 40 percent. In those two years, however, the number of East German residents killed each year as car occupants in traffic accidents increased by about 300 percent. <br><br>Which of the following, if true, most helps to explain the disproportionate increase in traffic fatalities?
+(A) The average number of passengers per car was higher in the years before unification than it was in the two years after.
+(B) After unification, many people who had been living in East Germany relocated to West Germany.
+(C) After unification, a smaller proportion of the cars being purchased by East German residents were used vehicles.
+(D) Drivers who had driven little or not at all before 1989 accounted for much of the increase in the total distance traveled by cars.
+(E) Over the same two-year period in East Germany, other road users, such as motorcyclists, bicyclists, and pedestrians, experienced only small increases in traffic fatalities.
+---------------------------------
+#CR#36#A#
+Editorial: Regulations recently imposed by the government of Risemia call for unprecedented reductions in the amounts of pollutants manufacturers are allowed to discharge into the environment. It will take costly new pollution control equipment requiring expensive maintenance to comply with these regulations. Resultant price increases for Risemian manufactured goods will lead to the loss of some export markets. Clearly, therefore, annual exports of Risemian manufactured goods will in the future occur at diminished levels. <br><br>Which of the following, if true, most seriously weakens the argument in the editorial?
+(A) The need to comply with the new regulations will stimulate the development within Risemia of new pollution control equipment for which a strong worldwide demand is likely to emerge.
+(B) The proposed regulations include a schedule of fines for noncompliance that escalate steeply in cases of repeated noncompliance.
+(C) Savings from utilizing the chemicals captured by the pollution control equipment will remain far below the cost of maintaining the equipment.
+(D) By international standards, the levels of pollutants currently emitted by some of Risemia's manufacturing plants are not considered excessive.
+(E) The stockholders of most of Risemia's manufacturing corporations exert substantial pressure on the corporations to comply with environmental laws.
+---------------------------------
+#CR#37#B#
+Paint on a new airliner is usually applied in two stages: first, a coat of primer, and then a top coat. A new process requires no primer, but instead uses two layers of the same newly developed coating, with each layer of the new coating having the same thickness and weight as a traditional top coat. Using the new process instead of the old process increases the price of a new aircraft considerably. <br><br>Which of the following, if true, most strongly indicates that it is in an airline's long-term economic interest to purchase new airliners painted using the new process rather than the old process?
+(A) Although most new airliners are still painted using the old process, aircraft manufacturers now offer a purchaser of any new airliner the option of having it painted using the new process instead.
+(B) A layer of primer on an airliner weighs more than a layer of the new coating would by an amount large enough to make a difference to that airliner's load-bearing capacity.
+(C) A single layer of the new coating provides the aluminum skin of the airliner with less protection against corrosion than does a layer of primer of the usual thickness.
+(D) Unlike the old process, the new process was originally invented for use on spacecraft, which are subject to extremes of temperature to which airliners are never exposed.
+(E) Because the new coating has a viscosity similar to that of a traditional top coat, aircraft manufacturers can apply it using the same equipment as is used for a traditional top coat.
+---------------------------------
+#CR#38#D#
+In countries in which new life-sustaining drugs cannot be patented, such drugs are sold at widely affordable prices; those same drugs, where patented, command premium prices because the patents shield patent-holding manufacturers from competitors. These facts show that future access to new life-sustaining drugs can be improved if the practice of granting patents on newly developed life-sustaining drugs were to be abolished everywhere. <br><br>Which of the following, if true, most seriously weakens the argument?
+(A) In countries in which life-sustaining drugs cannot be patented, their manufacture is nevertheless a profitable enterprise.
+(B) Countries that do not currently grant patents on life-sustaining drugs are, for the most part, countries with large populations.
+(C) In some countries specific processes for the manufacture of pharmaceutical drugs can be patented even in cases in which the drugs themselves cannot be patented.
+(D) Pharmaceutical companies can afford the research that goes into the development of new drugs only if patents allow them to earn high profits.
+(E) Countries that grant patents on life-sustaining drugs almost always ban their importation from countries that do not grant such patents.
+---------------------------------
+#CR#39#B#
+A major impediment to wide acceptance of electric vehicles even on the part of people who use their cars almost exclusively for commuting is the inability to use electric vehicles for occasional extended trips. In an attempt to make purchasing electric vehicles more attractive to commuters, one electric vehicle producer is planning to offer customers three days free rental of a conventional car for every 1,000 miles that they drive their electric vehicle. <br><br>Which of the following, if true, most threatens the plan's prospects for success?
+(A) Many electric vehicles that are used for commercial purposes are not needed for extended trips.
+(B) Because a majority of commuters drive at least 100 miles a week, the cost to the producer of making good the offer would add considerably to the already high price of electric vehicles.
+(C) The relatively long time it takes to recharge the battery of an electric vehicle can easily be fitted into the regular patterns of car use characteristic of commuters.
+(D) Although electric vehicles are essentially emission-free in actual use, generating the electricity necessary for charging an electric vehicle's battery can burden the environment.
+(E) Some family vehicles are used primarily not for commuting but for making short local trips, such as to do errands.
+---------------------------------
+#CR#40#B#
+Archaeologists in Michigan have excavated a Native American camp near Dumaw Creek. Radiocarbon dating of animal bones found at the site indicates that the camp dates from some time between 1605 and 1755. However, the camp probably dates to no later than 1630, since no European trade goods were found at the site, and European traders were active in the region from the 1620's onward.<br><br>Which of the following, if true, most strengthens the argument?
+(A) Due to trade among Native Americans, some European trade goods would have reached the area before the European traders themselves did.
+(B) At all camps in the region that have been reliably dated to the late 1620's, remains of European trade goods have been found.
+(C) The first European trade goods to reach the area would have been considered especially valuable and preserved as much as possible from loss or destruction.
+(D) The first European traders in the area followed soon after the first European explorers.
+(E) The site is that of a temporary camp that would have been used seasonally for a few years and then abandoned.
+---------------------------------
+#CR#41#E#
+Automobile emissions are a significant source of air pollutants, and cars over five years old typically generate significantly greater amounts of pollutants than newer cars. In Torinia, which has recently built its first automobile manufacturing plant, most cars are over five years old. Aiming to boost Torinia's economy and reduce air pollution, the government plans to introduce incentives for Torinians to scrap their old cars every five years and replace them with new ones.<br><br>Which of the following, if true, most seriously undermines the likelihood that the planned incentives, if implemented, will achieve both of the cited aims?
+(A) Without the implementation of the planned incentives, most Torinians who own an old car would be unlikely to buy a new car.
+(B) Torinia's automobile plant manufactures car models that typically generate smaller amounts of air pollutants than most similarly sized car models manufactured elsewhere.
+(C) The new cars produced in Torinia are not likely to be exported to other countries.
+(D) The largest source of atmospheric pollutants in Torinia is not automobile emissions, but emissions from power plants.
+(E) The manufacture and the scrapping of cars each generate significant amounts of air pollutants.
+---------------------------------
+#CR#42#A#
+Parasitic wasps lay their eggs directly into the eggs of various host insects in exactly the right numbers for any suitable size of host egg. If they laid too many eggs in a host egg, the developing wasp larvae would compete with each other to the death for nutrients and space. If too few eggs were laid, portions of the host egg would decay, killing the wasp larvae.<br><br>Which of the following conclusions can properly be drawn from the information above?
+(A) The size of the smallest host egg that a wasp could theoretically parasitize can be determined from the wasp's egg-laying behavior.
+(B) Host insects lack any effective defenses against the form of predation practiced by parasitic wasps.
+(C) Parasitic wasps learn from experience how many eggs to lay into the eggs of different host species.
+(D) Failure to lay enough eggs would lead to the death of the developing wasp larvae more quickly than would laying too many eggs.
+(E) Parasitic wasps use visual clues to calculate the size of a host egg.
+---------------------------------
+#CR#43#C#
+A company's two divisions performed with remarkable consistency over the past three years: in each of those years, the pharmaceuticals division has accounted for roughly 20 percent of dollar sales and 40 percent of profits, and the chemicals division for the balance.<br><br>Which of the following can properly be inferred regarding the past three years from the statement above?
+(A) Total dollar sales for each of the company's divisions have remained roughly constant.
+(B) The pharmaceuticals division has faced stiffer competition in its markets than has the chemicals division.
+(C) The chemicals division has realized lower profits per dollar of sales than has the pharmaceuticals division.
+(D) The product mix offered by each of the company's divisions has remained unchanged.
+(E) Highly profitable products accounted for a higher percentage of the chemicals division's sales than of those of the pharmaceuticals division.
+---------------------------------
+#CR#44#A#
+Roland: The alarming fact is that 90 percent of the people in this country now report that they know someone who is unemployed.<br><br>Sharon: But a normal, moderate level of unemployment is 5 percent, with 1 out of 20 workers unemployed. So at any given time if a person knows approximately 50 workers, 1 or more will very likely be unemployed. Sharon's argument is structured to lead to which of the following as a conclusion?
+(A) The fact that 90% of the people know someone who is unemployed is not an indication that unemployment is abnormally high.
+(B) The current level of unemployment is not moderate.
+(C) If at least 5% of workers are unemployed, the result of questioning a representative group of people cannot be the percentage Roland cites.
+(D) It is unlikely that the people whose statements Roland cites are giving accurate reports.
+(E) If an unemployment figure is given as a certain percent, the actual percentage of those without jobs is even higher.
+---------------------------------
+#CR#45#B#
+Companies 0 and P each have the same number of employees who work the same number of hours per week. According to records maintained by each company, the employees of Company 0 had fewer job-related accidents last year than did the employees of Company P. Therefore, employees of Company 0 are less likely to have job-related accidents than are employees of Company P.<br><br>Which of the following, if true, would most weaken the conclusion?
+(A) The employees of Company P lost more time at work due to job-related accidents than did the employees of Company 0.
+(B) Company P considered more types of accidents to be job-related than did Company 0.
+(C) The employees of Company P were sick more often than were the employees of Company 0.
+(D) Several employees of Company 0 each had more than one job-related accident.
+(E) The majority of job-related accidents at Company 0 involved a single machine.
+---------------------------------
+#CR#46#E#
+Adult female rats who have never before encountered rat pups will start to show maternal behaviors after being confined with a pup for about seven days. This period can be considerably shortened by disabling the female's sense of smell or by removing the scent-producing glands of the pup.<br><br>Which of the following hypotheses best explains the contrast described above?
+(A) The sense of smell in adult female rats is more acute than that in rat pups.
+(B) The amount of scent produced by rat pups increases when they are in the presence of a female rat that did not bear them.
+(C) Female rats that have given birth are more affected by olfactory cues than are female rats that have never given birth.
+(D) A female rat that has given birth shows maternal behavior toward rat pups that she did not bear more quickly than does a female rat that has never given birth.
+(E) The development of a female rat's maternal interest in a rat pup that she did not bear is inhibited by the odor of the pup.
+---------------------------------
+#CR#47#E#
+Sales of telephones have increased dramatically over the last year. In order to take advantage of this increase, Mammoth Industries plans to expand production of its own model of telephone, while continuing its already very extensive advertising of this product.<br><br>Which of the following, if true, provides most support for the view that Mammoth Industries cannot increase its sales of telephones by adopting the plan outlined above?
+(A) Although it sells all of the telephones that it produces, Mammoth Industries' share of all telephone sales has declined over the last year.
+(B) Mammoth Industries' average inventory of telephones awaiting shipment to retailers has declined slightly over the last year.
+(C) Advertising has made the brand name of Mammoth Industries' telephones widely known, but few consumers know that Mammoth Industries owns this brand.
+(D) Mammoth Industries' telephone is one of three brands of telephone that have together accounted for the bulk of the last year's increase in sales.
+(E) Despite a slight decline in the retail price, sales of Mammoth Industries' telephones have fallen in the last year.
+---------------------------------
+#CR#48#E#
+According to a review of 61 studies of patients suffering from severely debilitating depression, a large majority of the patients reported that missing a night's sleep immediately lifted their depression. Yet sleep-deprivation is not used to treat depression even though the conventional treatments, which use drugs and electric shocks, often have serious side effects.<br><br>Which of the following, if true, best explains the fact that sleep- deprivation is not used as a treatment for depression?
+(A) For a small percentage of depressed patients, missing a night's sleep induces a temporary sense of euphoria.
+(B) Keeping depressed patients awake is more difficult than keeping awake people who are not depressed.
+(C) Prolonged loss of sleep can lead to temporary impairment of judgment comparable to that induced by consuming several ounces of alcohol.
+(D) The dramatic shifts in mood connected with sleep and wakefulness have not been traced to particular changes in brain chemistry.
+(E) Depression returns in full force as soon as the patient sleeps for even a few minutes.
+---------------------------------
+#CR#49#A#
+In many corporations, employees are being replaced by automated equipment in order to save money. However, many workers who lose their jobs to automation will need government assistance to survive, and the same corporations that are laying people off will eventually pay for that assistance through increased taxes and unemployment insurance payments.<br><br>Which of the following, if true, most strengthens the author's argument?
+(A) Many workers who have already lost their jobs to automation have been unable to find new jobs.
+(B) Many corporations that have failed to automate have seen their profits decline.
+(C) Taxes and unemployment insurance are paid also by corporations that are not automating.
+(D) Most of the new jobs created by automation pay less than the jobs eliminated by automation did.
+(E) The initial investment in machinery for automation is often greater than the short-term savings in labor costs.
+---------------------------------
+#CR#50#D#
+On Pacific islands, a newly arrived gecko species, the house gecko, is displacing the previously established mourning gecko in urban areas, but populations of the two species are more stable in rural areas far from human settlement. The house gecko does not attack the mourning gecko, but in areas where insects congregate it prevents the mourning gecko from feeding on them. <br><br>Which of the following contributes most to an explanation of the difference between gecko populations in urban and rural areas?
+(A) In urban areas, geckos are valued because they eat so many insects.
+(B) Geckos defend territories against other members of the same species.
+(C) House geckos that arrive on islands are carried there in boats and planes.
+(D) In places where there are lighted buildings, insects tend to gather around the light.
+(E) Mourning geckos are all females and reproduce asexually, but house geckos reproduce sexually.
+---------------------------------
+#CR#51#C#
+Downtown Villieu was once a flourishing business district, but most Villieu-area businesses are now located only in the suburbs. The office buildings downtown lack the modern amenities most business operators demand today. To lure more businesses downtown, Villieu officials plan to have several modern office buildings constructed and to offer reduced local tax rates to any business that leases space in a new downtown building. <br><br>Which of the following, if true, most threatens the plan's likelihood of success?
+(A) Most of the businesses currently located in downtown Villieu have long-term leases on the space they occupy there.
+(B) The existing office buildings in downtown Villieu have, on average, a much higher vacancy rate than do office buildings in Villieu's suburbs.
+(C) The local tax rates in Villieu's suburbs are significantly lower than downtown Villieu's proposed rate for businesses that lease space in the new office buildings.
+(D) Most of the businesses that currently lease office space in downtown Villieu also lease office space in Villieu's suburbs.
+(E) With the new office buildings, downtown Villieu would have a greater amount of modern office space than any other downtown business district in the region.
+---------------------------------
+#CR#52#A#
+Which of the following most logically completes the argument?<br><br>A new machine for harvesting corn will allow rows to be planted only fifteen inches apart, instead of the usual thirty inches. Corn planted this closely will produce lower yields per plant. Nevertheless, the new machine will allow corn growers to double their profits per acre because ____________.
+(A) with the closer spacing of the rows, the growing corn plants will quickly form a dense canopy of leaves, which will, by shading the ground, minimize the need for costly weed control and irrigation
+(B) with the closer spacing of the rows, corn plants will be forced to grow taller because of increased competition for sunlight from neighboring corn plants
+(C) with the larger number of plants growing per acre, more fertilizer will be required
+(D) with the spacing between rows cut by half, the number of plants grown per acre will almost double
+(E) with the closer spacing of the rows, the acreage on which corn is planted will be utilized much more intensively than it was before, requiring more frequent fallow years in which corn fields are left unplanted
+---------------------------------
+#CR#53#A#
+Microscopic plants called algae grow inside the top layer of sea ice in the Antarctic if enough sunlight reaches that layer of ice and enough seawater, which contains nutrients, reaches that layer after splashing onto the surface. Even though moderate snow cover reduces the sunlight that filters into the top layer, sea ice with moderate snow cover typically contains even more algae in the top layer than does sea ice with less snow cover. <br><br>Which of the following, if true, most helps to explain the apparent discrepancy?
+(A) As the weight of accumulated snow forces ice lower in the water, more seawater splashes onto the surface and seeps through the snow.
+(B) Seawater in the Antarctic often contains higher concentrations of nutrients than does seawater in more temperate regions.
+(C) As the air temperature around sea ice decreases during the winter, the likelihood decreases that snow will fall and thus add to any existing snow cover.
+(D) The nutrients on which algae rely are common in seawater throughout the Antarctic.
+(E) More sunlight filters through a layer of ice than through an equally thick layer of snow.
+---------------------------------
+#CR#54#E#
+Which of the following most logically completes the passage?<br><br>Garnet and RenCo each provide health care for their employees. Garnet pays for both testing of its employees' cholesterol levels and treatment of high cholesterol. This policy saves Garnet money, since high cholesterol left untreated for many years leads to conditions that require very expensive treatment. However, RenCo does not have the same financial incentive to adopt such a policy, because __________.
+(A) early treatment of high cholesterol does not entirely eliminate the possibility of a stroke later in life
+(B) the mass media regularly feature stories encouraging people to maintain diets that are low in cholesterol
+(C) RenCo has significantly more employees than Garnet has
+(D) RenCo's employees are unlikely to have higher cholesterol levels than Garnet's employees
+(E) the average length of time an employee stays with RenCo is less than it is with Garnet
+---------------------------------
+#CR#55#D#
+United Lumber will use trees from its forests for two products. The tree trunks will be used for lumber and the branches converted into wood chips to make fiberboard. The cost of this conversion would be the same whether done at the logging site, where the trees are debranched, or at United's factory. However, wood chips occupy less than half the volume of the branches from which they are made. <br><br>The information given, if accurate, most strongly supports which of the following?
+(A) Converting the branches into wood chips at the logging site would require transporting a fully assembled wood¬chipping machine to and from the site.
+(B) It would be more economical to debranch the trees at the factory where the fiberboard is manufactured.
+(C) The debranching of trees and the conversion of the branches into chips are the only stages in the processing of branches that it would be in United's economic advantage to perform at the logging site.
+(D) Transportation costs from the logging site to the factory that are determined by volume of cargo would be lower if the conversion into chips is done at the logging site rather than at the factory.
+(E) In the wood-processing industry, branches are used only for the production of wood chips for fiberboard.
+---------------------------------
+#CR#56#E#
+Beta Corporation claims that it no longer has enough work for the 60 computer data-entry workers that it is laying off. These workers have heard, however, that the company is buying 100 new computers. So the workers concluded that the company's real reason for laying them off is to fill their jobs with lower-paid workers. <br><br>Which of the following, if true, would most undermine the workers' conclusion?
+(A) Most of the workers being laid off know how to enter data on a number of different computer systems.
+(B) Orders for almost all of Beta Corporation products have increased over the past year.
+(C) A recent memorandum from the president of Beta Corporation requested that all data generated by the company be stored in computerized form.
+(D) Beta Corporation's computer data-entry workers are more experienced and hence more highly paid than people doing comparable work in other companies.
+(E) Beta Corporation's new computers will allow its current management and sales staff to perform many of the tasks that the data-entry workers were previously doing.
+---------------------------------
+#CR#57#E#
+Which of the following most logically completes the passage?<br><br>For the past several years, a certain technology has been widely used to transmit data among networked computers. Recently two data transmission companies, Aptron and Gammatech, have each developed separate systems that allow network data transmission at rates ten times faster than the current technology allows. Although the systems are similarly priced and are equally easy to use, Aptron's product is likely to dominate the market, because __________.
+(A) Gammatech has been in the business of designing data transmission systems for several years more than Aptron has
+(B) the number of small businesses that need computer networking systems is likely to double over the next few years
+(C) it is much more likely that Gammatech's system will be expandable to meet future needs
+(D) unlike many data transmission companies, Aptron and Gammatech develop computers in addition to data transmission systems
+(E) it is easier for users of the current data transmission technology to switch to Aptron's product than to Gammatech's
+---------------------------------
+#CR#58#A#
+Radio stations with radio data system (RDS) technology broadcast special program information that only radios with an RDS feature can receive. Between 1994 and 1996, the number of RDS radio stations in Verdland increased from 250 to 600. However, since the number of RDS-equipped radios in Verdland was about the same in 1996 as in 1994, the number of Verdlanders receiving the special program information probably did not increase significantly. <br><br>Which of the following is an assumption on which the argument depends?
+(A) Few if any of the RDS radio stations that began broadcasting in Verdland after 1994 broadcast to people with RDS-equipped radios living in areas not previously reached by RDS stations.
+(B) In 1996 most Verdlanders who lived within the listening area of an RDS station already had a radio equipped to receive RDS.
+(C) Equipping a radio station with RDS technology does not decrease the station's listening area.
+(D) In 1996 Verdlanders who did not own radios equipped to receive RDS could not receive any programming from the RDS radio stations that began broadcasting in Verdland after 1994.
+(E) The RDS radio stations in Verdland in 1996 did not all offer the same type of programming.
+---------------------------------
+#CR#59#D#
+Situation: For five years the Souper restaurant chain has maintained rapid sales growth in Danport, primarily by opening new restaurants that draw patrons away from other restaurants in their vicinity. <br><br>Goal: Souper wishes to achieve continued rapid sales growth in Danport over the next two years. <br><br>Proposal for consideration: Continue to open new restaurants in Danport during the next two years at the same rate as in the last two years.<br><br>In light of the situation, which of the following, if true, most strongly argues that adopting the proposal would be an ineffective way of achieving the goal?
+(A) At times at which customers find Souper restaurants too crowded, they often go to other restaurants nearby.
+(B) The Souper chain has generally opened new restaurants in locations that are in the vicinity of a large number of other restaurants.
+(C) Souper restaurants generally offer a much smaller variety of foods than many of the other restaurants in their vicinity.
+(D) Virtually all potential sites for new Souper restaurants in Danport are located in the vicinity of existing Souper restaurants.
+(E) Souper restaurants have always offered meals that are somewhat less expensive than meals at restaurants that compete with Souper for patrons.
+---------------------------------
+#CR#60#C#
+An unusually severe winter occurred in Europe after the continent was blanketed by a blue haze resulting from the eruption of the Laki Volcano in the European republic of Iceland in the summer of 1984. Thus, it is evident that major eruptions cause the atmosphere to become cooler than it would be otherwise. <br><br>Which of the following statements, if true, most seriously weakens the argument above?
+(A) The cooling effect triggered by volcanic eruptions in 1985 was counteracted by an unusual warming of Pacific waters.
+(B) There is a strong statistical link between volcanic eruptions and the severity of the rainy season in India.
+(C) A few months after El Chichn's large eruption in April 1982, air temperatures throughout the region remained higher than expected, given the long-term weather trends.
+(D) The climatic effects of major volcanic eruptions can temporarily mask the general warming trend resulting from an excess of carbon dioxide in the atmosphere.
+(E) Three months after an early springtime eruption in South America during the late 19th century, sea surface temperatures near the coast began to fall.
+---------------------------------
+#CR#61#D#
+Most household appliances use electricity only when in use. Many microwave ovens, however, have built-in clocks and so use some electricity even when they are not in use. The clocks each consume about 45 kilowatt- hours per year. Therefore, households whose microwave oven has no built-in clock use 45 kilowatt-hours per year less, on average, than do comparable households whose microwave oven is otherwise similar but has a built-in clock. <br><br>Which of the following is an assumption on which the argument depends?
+(A) Households that do not have a microwave oven use less energy per year, on average, than do households that have a microwave oven.
+(B) Microwave ovens with a built-in clock do not generally cost more to buy than microwave ovens without a built- in clock.
+(C) All households that have a microwave oven also have either a gas oven or a conventional electric oven.
+(D) Households whose microwave oven does not have a built-in clock are no more likely to have a separate electric clock plugged in than households whose microwave oven has one.
+(E) There are more households that have a microwave oven with a built-in clock than there are households that have a microwave oven without a built-in clock.
+---------------------------------
+#CR#62#B#
+Some airlines allegedly reduce fares on certain routes to a level at which they lose money, in order to drive competitors off those routes. However, this method of eliminating competition cannot be profitable in the long run. Once an airline successfully implements this method, any attempt to recoup the earlier losses by charging high fares on that route for an extended period would only provide competitors with a better opportunity to undercut the airline's fares. <br><br>Which of the following, if true, most seriously weakens the argument?
+(A) In some countries it is not illegal for a company to drive away competitors by selling a product below cost.
+(B) Airline executives generally believe that a company that once underpriced its fares to drive away competitors is very likely to do so again if new competitors emerge.
+(C) As part of promotions designed to attract new customers, airlines sometimes reduce their ticket prices to below an economically sustainable level.
+(D) On deciding to stop serving particular routes, most airlines shift resources to other routes rather than reduce the size of their operations.
+(E) When airlines dramatically reduce their fares on a particular route, the total number of air passengers on that route increases greatly.
+---------------------------------
+#CR#63#B#
+When an airplane is taken out of service for maintenance, it is often repainted as well, and during the repainting no other maintenance work can be done on the plane. In order to reduce maintenance time, airline officials are considering using a new nontoxic plastic film instead of paint. The film takes just as long to apply as paint does, but many other maintenance tasks can be carried out at the same time. <br><br>Which of the following, if true, is further evidence that using the film will help the airline officials achieve their goal?
+(A) Unlike paint, the film gives a milky tone to certain colors.
+(B) At the end of its useful life, the film can be removed much more quickly than paint can.
+(C) The film can be applied only by technicians who have received special training.
+(D) The metal exteriors of airplanes have to be protected from high temperatures and caustic chemicals such as exhaust gases.
+(E) Even at speeds considerably higher than the normal speed of a passenger jet, the film remains securely attached.
+---------------------------------
+#CR#64#C#
+At present the Hollywood Restaurant has only standard-height tables. However, many customers come to watch the celebrities who frequent the Hollywood, and they would prefer tall tables with stools because such seating would afford a better view of the celebrities. Moreover, diners seated on stools typically do not stay as long as diners seated at standard-height tables. Therefore, if the Hollywood replaced some of its seating with high tables and stools, its profits would increase. <br><br>The argument is vulnerable to criticism on the grounds that it gives reason to believe that it is likely that
+(A) some celebrities come to the Hollywood to be seen, and so might choose to sit at the tall tables if they were available
+(B) the price of meals ordered by celebrities dining at the Hollywood compensates for the longer time, if any, they spend lingering over their meals
+(C) a customer of the Hollywood who would choose to sit at a tall table would be an exception to the generalization about lingering
+(D) a restaurant's customers who spend less time at their meals typically order less expensive meals than those who remain at their meals longer
+(E) with enough tall tables to accommodate all the Hollywood's customers interested in such seating, there would be no view except of other tall tables
+---------------------------------
+#CR#65#A#
+The Calex Telecommunications Company is planning to introduce cellular telephone service into isolated coastal areas of Caladia, a move which will require considerable investment. However, the only significant economic activity in these areas is small-scale coffee farming, and none of the coffee farmers make enough money to afford the monthly service fees that Calex would have to charge to make a profit. Nevertheless, Calex contends that making the service available to these farmers will be profitable. <br><br>Which of the following, if true, provides the strongest support for Calex's contention?
+(A) Currently, Caladian coffee farmers are forced to sell their coffee to local buyers at whatever price those buyers choose to pay because the farmers are unable to remain in contact with outside buyers who generally offer higher prices.
+(B) In the coastal areas of Caladia where Calex proposes to introduce cellular telephone service, there is currently no fixed-line telephone service because fixed-line companies do not believe that they could recoup their investment.
+(C) A cellular telephone company can break even with a considerably smaller number of subscribers than a fixed- line company can, even in areas such as the Caladian coast, where there is no difficult terrain to drive up the costs of installing fixed lines.
+(D) Calex bases its monthly fees for cellular telephone service in a given region partly on the cost of installing the necessary equipment to provide the service there.
+(E) Calex has for years made a profit on cellular telephone service in Caladia's capital city, which is not far from the coastal region.
+---------------------------------
+#CR#66#C#
+With a record number of new companies starting up in Derderia and with previously established companies adding many jobs, a record number of new jobs were created last year in the Derderian economy. This year, previously established companies will not be adding as many new jobs overall as such companies added last year. Therefore, unless a record number of companies start up this year, Derderia will not break its record for new jobs created. <br><br>Which of the following is an assumption on which the argument relies?
+(A) Each year, new companies starting up create more new jobs overall than do previously established companies.
+(B) Companies established last year will not add a greater number of jobs overall this year than they did last year.
+(C) This year, the new companies starting up will not provide substantially more jobs per company than did new companies last year.
+(D) This year, the overall number of jobs created by previously established companies will be less than the overall number of jobs lost at those companies.
+(E) The number of jobs created in the Derderian economy last year was substantially larger than the number of jobs lost last year.
+---------------------------------
+#CR#67#B#
+During the past year, Pro-Tect Insurance Company's total payout on car-theft claims has been larger than the company can afford to sustain. <strong>Pro-Tect cannot reduce the number of car-theft policies it carries, so it cannot protect itself against continued large payouts that way.</strong> Therefore, Pro-Tect has decided to offer a discount to holders of car-theft policies whose cars have antitheft devices. Many policyholders will respond to the discount by installing such devices, since the amount of the discount will within two years typically more than cover the cost of installation. <strong>Thus, because cars with antitheft devices are rarely stolen, Pro-Tect's plan is likely to reduce its annual payouts.</strong><br><br>In the argument above, the two portions in boldface play which of the following roles?
+(A) The first and the second are both evidence offered by the argument as support for its main conclusion.
+(B) The first presents a problem a response to which the argument assesses; the second is the judgment reached by that assessment.
+(C) The first is the position the argument seeks to establish; the second is a judgment the argument uses to support that position.
+(D) The first is a development that the argument seeks to explain; the second is a prediction the argument makes in support of the explanation it offers.
+(E) The first presents a development whose likely outcome is at issue in the argument; the second is a judgment the argument uses in support of its conclusion about that outcome.
+---------------------------------
+#CR#68#B#
+Film Director: It is true that certain characters and plot twists in my newly released film The Big Heist are strikingly similar to characters and plot twists in Thieves, a movie that came out last year. Based on these similarities, the film studio that produced Thieves is now accusing me of taking ideas from that film. The accusation is clearly without merit. All production work on The Big Heist was actually completed months before Thieves was released. <br><br>Which of the following, if true, provides the strongest support for the director's rejection of the accusation?
+(A) Before Thieves began production, its script had been circulating for several years among various film studios, including the studio that produced The Big Heist.
+(B) The characters and plot twists that are most similar in the two films have close parallels in many earlier films of the same genre.
+(C) The film studio that produced Thieves seldom produces films in this genre.
+(D) The director of Thieves worked with the director of The Big Heist on several earlier projects.
+(E) The time it took to produce The Big Heist was considerably shorter than the time it took to produce Thieves.
+---------------------------------
+#CR#69#A#
+Herbicides allow cereal crops to be grown very efficiently, with virtually no competition from weeds. In Britain, partridge populations have been steadily decreasing since herbicide use became widespread. Some environmentalists claim that these birds, which live in and around cereal crop fields, are being poisoned by the herbicides. However, tests show no more than trace quantities of herbicides in partridges on herbicide-treated land. Therefore, something other than herbicide use must be responsible for the population decrease. <br><br>Which of the following, if true about Britain, most seriously weakens the argument?
+(A) The elimination of certain weeds from cereal crop fields has reduced the population of the small insects that live on those weeds and that form a major part of partridge chicks' diet.
+(B) Since partridges are valued as game birds, records of their population are more carefully kept than those for many other birds.
+(C) Some of the weeds that are eliminated from cereal crop fields by herbicides are much smaller than the crop plants themselves and would have no negative effect on crop yield if they were allowed to grow.
+(D) Birds other than partridges that live in or around cereal crop fields have also been suffering population declines.
+(E) The toxins contained in herbicides typically used on cereal crops can be readily identified in the tissues of animals that have ingested them.
+---------------------------------
+#CR#70#B#
+A product that represents a clear technological advance over competing products can generally command a high price. <strong>Because technological advances tend to be quickly surpassed and companies want to make large profits while they still can, many companies charge the maximum possible price for such a product.</strong> But large profits on the new product will give competitors a strong incentive to quickly match the new product's capabilities. <strong>Consequently, the strategy to maximize overall profit from a new product is to charge less than the greatest possible price.</strong><br><br>In the argument above, the two portions in boldface play which of the following roles?
+(A) The first is a consideration that has been raised to argue that a certain strategy is counterproductive; the second presents that strategy.
+(B) The first is a consideration raised to support the strategy that the argument recommends; the second presents that strategy.
+(C) The first is a consideration raised to explain the appeal of a certain strategy; the second presents that strategy.
+(D) The first is an assumption, rejected by the argument, that has been used to justify a course of action; the second presents that course of action.
+(E) The first is a consideration that has been used to justify pursuing a goal that the argument rejects; the second presents a course of action that has been adopted in pursuit of that goal.
+---------------------------------
+#CR#71#E#
+Although exposure to asbestos is the primary cause of mesothelioma, a slow-developing cancer, researchers believe that infection by the SV40 virus is a contributing cause, since in the United States 60 percent of tissue samples from mesotheliomas, but none from healthy tissue, contain SV40. SV40 is a monkey virus; however, in 1960 some polio vaccine was contaminated with the virus. Researchers hypothesize that this vaccine was the source of the virus found in mesotheliomas decades later. <br><br>Which of the following, if true, most strongly supports the researchers' hypothesis?
+(A) SV40 is widely used as a research tool in cancer laboratories.
+(B) Changes in the technique of manufacturing the vaccine now prevent contamination with SV40.
+(C) Recently discovered samples of the vaccine dating from 1960 still show traces of the virus.
+(D) In a small percentage of cases of mesothelioma, there is no history of exposure to asbestos.
+(E) In Finland, where the polio vaccine was never contaminated, samples from mesotheliomas do not contain SV40.
+---------------------------------
+#CR#72#C#
+In the past year Harborville has had an unusually high rate of new cases of a certain disease. An investigation revealed that over the past five years Harborville's public water supply has had a high level of pollutants. Medical researchers have hypothesized that Harborville's water is responsible for the high rate of new cases of the disease. <br><br>Each of the following, if true, provides additional support for the researchers' hypothesis EXCEPT:
+(A) Most of the people afflicted with new cases of the disease had regularly drunk larger quantities of Harborville's water than had other Harborville residents.
+(B) The same type of pollutants that were found in Harborville's water have independently been linked to occurrences in other towns of high rates of the disease.
+(C) Some of the people with newly diagnosed cases of the disease began to develop the disease before Harborville's water became polluted.
+(D) The rate of new cases of the disease among residents of Harborville who get their water from private sources is not unusually high.
+(E) Towns with geographic and demographic characteristics similar to those of Harborville but without polluted water do not have as high a rate of the disease as does Harborville.
+---------------------------------
+#CR#73#C#
+A new commercial radio station in Greenfield plans to play songs that were popular hits fifteen to twenty-five years ago. It hopes in this way to attract an audience made up mainly of people between thirty-five and forty- five years old and thereby to have a strong market appeal to advertisers. <br><br>Each of the following, if true, strengthens the prospects that the radio station's plan will succeed EXCEPT:
+(A) People tend to remain very fond of the music that they heard when they were in their teens and early twenties.
+(B) In a number of cities demographically similar to Greenfield, radio stations that play recordings of popular music from fifteen to twenty-five years ago have succeeded commercially.
+(C) People in the thirty-five- to forty-five-year-old age group are more likely to listen to the radio for news than for music.
+(D) The thirty-five- to forty-five-year-old age group is one in which people tend to have comparatively high levels of income and are involved in making household purchases.
+(E) Among the few radio stations in the Greenfield area, there is none that plays music from this particular period for more than a few hours per week.
+---------------------------------
+#CR#74#A#
+Among people who experience migraine headaches, some experience what doctors call "common" migraines, whereas others experience "classical" migraines. Siblings and spouses of common migraine sufferers are themselves twice as likely as the general population to experience common migraines. Siblings of classical migraine sufferers are four times more likely than the general population to experience classical migraines, whereas spouses of classical migraine sufferers are no more likely than the general population to experience such headaches. <br><br>The information above provides the most support for which of the following hypotheses?
+(A) Susceptibility to classical migraines is more dependent on hereditary factors than is susceptibility to common migraines.
+(B) Unmarried adults are more likely to suffer from classical migraines than they are to suffer from common migraines.
+(C) People who do not experience migraine headaches are unlikely to have spouses who are migraine headache sufferers.
+(D) Children of people who suffer from common migraines are not more likely than the general population to experience a common migraine.
+(E) Between one-quarter and one-half of the general population suffer from either common or classical migraine headaches.
+---------------------------------
+#CR#75#C#
+Hutonian Government Official: Federal law requires truck drivers to take a long break after driving for ten hours, but truck drivers frequently do not comply. Since the public rest areas along our highways cannot accommodate all the drivers needing a break, we plan to build more rest areas to increase the rate of compliance. <br><br>Hutonian Business Representative: But if the parking lots around our businesses are considered, there are more than enough parking places.<br><br>Which of the following, if true about Hutonia, would provide a reason for persisting with the government official's plan despite the objection?
+(A) Public parking areas are evenly distributed along the highways.
+(B) Truck drivers are most likely not to comply with the federal law if the total time required for a trip exceeds ten hours by less than an hour.
+(C) In comparison to public rest areas, private parking lots near highways tend to be time-consuming for drivers to reach.
+(D) Even when rest areas are available, some truck drivers park in places, such as highway access ramps, where their trucks are likely to cause accidents.
+(E) Some public parking areas, particularly those on heavily traveled roads, are substantially larger than others.
+---------------------------------
+#CR#76#B#
+To prevent harbor porpoises from getting tangled in its nets and suffocating, a fishing company installed acoustic alarms on all its boats that fish in waters off Massachusetts. The sound emitted temporarily disorients the porpoises and frightens them away. Since the installation of the alarms, the average number of porpoises caught in the company's nets has dropped from eight to one per month. The alarms, therefore, are saving the lives of harbor porpoises in those waters. <br><br>Which of the following is an assumption on which the argument depends?
+(A) The use of acoustic alarms increases the number of commercial fish caught by the fishing company's boats.
+(B) When disoriented, harbor porpoises are not significantly more likely to be killed by other boats.
+(C) Environmentalists advocate the use of acoustic alarms as a means of protecting the harbor porpoise population.
+(D) The alarms were installed at the time of year when harbor porpoises are most plentiful in the Massachusetts waters.
+(E) The cost of installing acoustic alarms on fishing boats is less than the cost of repairing nets damaged by harbor porpoises.
+---------------------------------
+#CR#77#E#
+An advertising agency must leave its office building. To save overhead costs, it is considering setting up a "virtual office" instead of moving to an adjacent office building. Employees will do their work on computers, as they do now, but will do so at home, sharing their work with colleagues by communicating text and designs to colleagues' computers through telephone lines, receiving typed comments, and then revising the work until it is satisfactory. <br><br>Which of the following, if true, indicates a disadvantage of the virtual office plan?
+(A) The agency can move its computers and associated equipment into employees' homes without purchasing any new equipment or requiring employees to purchase such equipment.
+(B) To reach the current office building and return home, employees spend an average of one and a half hours per day commuting, usually in heavy traffic.
+(C) The employees of the advertising agency are accustomed to autonomy in monitoring their own progress and productivity.
+(D) Employees would be able to adapt quickly to using computers in a virtual office setting, since employees' current use of computers to produce designs requires a high level of skill.
+(E) Expressions and gestures in face-to-face exchanges are an important aid to employees in gauging the viability of new ideas they have proposed.
+---------------------------------
+#CR#78#C#
+The symptoms that United States President Zachary Taylor began showing five days before his death are consistent with arsenic poisoning. Recent examination of Taylor's bones, however, revealed levels of arsenic comparable to those found in the bones of Taylor's contemporaries. These levels are much lower than the levels of arsenic that remain in the bones of arsenic poisoning victims who live for more than a day after ingesting a lethal dose of the poison. <br><br>Which of the following is most strongly supported by the statements given?
+(A) The symptoms that Taylor began showing five days before his death are consistent with poisoning other than arsenic poisoning.
+(B) Taylor's death was not the result of any kind of poisoning.
+(C) The symptoms that Taylor began showing five days before his death were not caused by a lethal dose of arsenic.
+(D) The symptoms that Taylor began showing five days before his death grew more severe each day.
+(E) It is unusual for a person who has ingested a lethal dose of arsenic to survive for more than a day.
+---------------------------------
+#CR#79#A#
+Paleontologist: About 2.8 million years ago, many species that lived near the ocean floor suffered substantial population declines. These declines coincided with the onset of an ice age. The notion that cold killed those bottom-dwelling creatures outright is misguided, however; temperatures near the ocean floor would have changed very little. <strong>Nevertheless, the cold probably did cause the population declines, though indirectly.</strong> Many bottom-dwellers depended for food on plankton, small organisms that lived close to the surface and sank to the bottom when they died. <strong>Most probably, the plankton suffered a severe population decline as a result of sharply lower temperatures at the surface, depriving many bottom-dwellers of food.</strong><br><br>In the paleontologist's reasoning, the two portions in boldface play which of the following roles?
+(A) The first introduces the hypothesis proposed by the paleontologist; the second is a judgment offered in spelling out that hypothesis.
+(B) The first introduces the hypothesis proposed by the paleontologist; the second is a position that the paleontologist opposes.
+(C) The first is an explanation challenged by the paleontologist; the second is an explanation proposed by the paleontologist.
+(D) The first is a judgment advanced in support of a conclusion reached by the paleontologist; the second is that conclusion.
+(E) The first is a generalization put forward by the paleontologist; the second presents certain exceptional cases in which that generalization does not hold.
+---------------------------------
+#CR#80#B#
+Over the last five years, demand for hotel rooms in Cenopolis has increased significantly, as has the average price Cenopolis hotels charge for rooms. These trends are projected to continue for the next several years. In response to this economic forecast, Centennial Commercial, a real estate developer, is considering a plan to convert several unoccupied office buildings it owns in Cenopolis into hotels in order to maximize its revenues from these properties. <br><br>Which of the following would it be most useful for Centennial Commercial to know in evaluating the plan it is considering?
+(A) Whether the population of Cenopolis is expected to grow in the next several years
+(B) Whether demand for office space in Cenopolis is projected to increase in the near future
+(C) Whether the increased demand for hotel rooms, if met, is likely to lead to an increase in the demand for other travel-related services
+(D) Whether demand for hotel rooms has also increased in other cities where Centennial owns office buildings
+(E) Whether, on average, hotels that have been created by converting office buildings have fewer guest rooms than do hotels that were built as hotels
+---------------------------------
+#CR#81#E#
+It is illegal to advertise prescription medications in Hedland except directly to physicians, either by mail or in medical journals. A proposed law would allow general advertising of prescription medications. Opponents object that the general population lacks the specialized knowledge to evaluate such advertisements and might ask their physicians for inappropriate medications. But since physicians have the final say as to whether to prescribe a medication for a patient, inappropriate prescriptions would not become more common. <br><br>Which of the following would it be most useful to establish in order to evaluate the argument?
+(A) Whether advertising for prescription medications might alert patients to the existence of effective treatments for minor ailments that they had previously thought to be untreatable
+(B) Whether some people might go to a physician for no reason other than to ask for a particular medication they have seen advertised
+(C) Whether the proposed law requires prescription-medication advertisements directed to the general public to provide the same information as do advertisements directed to physicians
+(D) Whether advertisements for prescription medications are currently an important source of information about newly available medications for physicians
+(E) Whether physicians would give in to a patient's demand for a prescription medication chosen by the patient when the one originally prescribed by the physician fails to perform as desired
+---------------------------------
+#CR#82#B#
+Traveler: Southern Airways has a far worse safety record than Air Dacentaria over the past few years, in terms of both the frequency of accidents and the severity of accidents. Therefore, although Air Dacentaria is slightly more expensive, I will choose it over Southern Airways for my flight from Pederton to Dacenta, since it is worth paying extra to have a safer flight. <br><br>Which of the following, if true, casts the most serious doubt on the traveler's argument?
+(A) Air Dacentaria's flight from Pederton to Dacenta is nonstop, whereas Southern Airways' flight touches down in Gorinda on the way.
+(B) Most Southern Airways flights, but not its flight from Pederton to Dacenta, use Sarmouth airport, which because of its mountainous location is one of the world's most dangerous.
+(C) For its flights from Pederton to Dacenta, Southern Airways uses a different model of airplane, with a smaller capacity, than the model Air Dacentaria uses for its flights on the same route.
+(D) Only in the last few years has the cost of flying from Pederton to Dacenta been more expensive on Air Dacentaria than on Southern Airways.
+(E) Although the frequency of accidents is greater on Southern Airways, on both airlines the proportion of flights that have accidents is very small.
+---------------------------------
+#CR#83#C#
+The use of radar detectors in commercial vehicles was banned because commercial truck and bus drivers were using these devices to drive faster than the posted speed limit without fear of arrest. Since drivers of noncommercial vehicles also use radar detectors and since speeding decreases safety for any vehicle, use of radar detectors should also be banned in noncommercial vehicles to increase safety. <br><br>Which of the following, if true, most strongly supports the argument above?
+(A) The average noncommercial-vehicle driver is involved in less long-distance driving than is the average commercial-vehicle driver.
+(B) In many places airplanes or helicopters are used rather than radar to locate vehicles traveling faster than the posted speed limit.
+(C) The ban on radar detectors in commercial vehicles has been effective in deterring them from speeding.
+(D) Traffic accidents involving a truck or bus generally pose a greater threat of injury or death than do other accidents.
+(E) Radar detectors are sometimes set off by devices other than the law enforcement devices that the radar detectors were built to detect.
+---------------------------------
+#CR#84#A#
+Offshore oil-drilling operations entail an unavoidable risk of an oil spill, but importing oil on tankers presently entails an even greater such risk per barrel of oil. Therefore, if we are to reduce the risk of an oil spill without curtailing our use of oil, we must invest more in offshore operations and import less oil on tankers. <br><br>Which of the following, if true, most seriously weakens the argument above?
+(A) Tankers can easily be redesigned so that their use entails less risk of an oil spill.
+(B) Oil spills caused by tankers have generally been more serious than those caused by offshore operations.
+(C) The impact of offshore operations on the environment can be controlled by careful management.
+(D) Offshore operations usually damage the ocean floor, but tankers rarely cause such damage.
+(E) Importing oil on tankers is currently less expensive than drilling for it offshore.
+---------------------------------
+#CR#85#E#
+The imposition of quotas limiting imported steel will not help the big American steel mills. In fact, the quotas will help "mini-mills" flourish in the United States. Those small domestic mills will take more business from the big American steel mills than would have been taken by the foreign steel mills in the absence of quotas. <br><br>Which of the following, if true, would cast the most serious doubt on the claim made in the last sentence above?
+(A) Quality rather than price is a major factor in determining the type of steel to be used for a particular application.
+(B) Foreign steel mills have long produced grades of steel comparable in quality to the steel produced by the big American mills.
+(C) American quotas on imported goods have often induced other countries to impose similar quotas on American goods.
+(D) Domestic "mini-mills" consistently produce better grades of steel than do the big American mills.
+(E) Domestic "mini-mills" produce low-volume, specialized types of steel that are not produced by the big American steel mills.
+---------------------------------
+#CR#86#A#
+Researchers have found that when very overweight people, who tend to have relatively low metabolic rates, lose weight primarily through dieting, their metabolisms generally remain unchanged. They will thus burn significantly fewer calories at the new weight than do people whose weight is normally at that level. Such newly thin persons will, therefore, ultimately regain weight until their body size again matches their metabolic rate. <br><br>The conclusion of the argument above depends on which of the following assumptions?
+(A) Relatively few very overweight people who have dieted down to a new weight tend to continue to consume substantially fewer calories than do people whose normal weight is at that level.
+(B) The metabolisms of people who are usually not overweight are much more able to vary than the metabolisms of people who have been very overweight.
+(C) The amount of calories that a person usually burns in a day is determined more by the amount that is consumed that day than by the current weight of the individual.
+(D) Researchers have not yet determined whether the metabolic rates of formerly very overweight individuals can be accelerated by means of chemical agents.
+(E) Because of the constancy of their metabolic rates, people who are at their usual weight normally have as much difficulty gaining weight as they do losing it.
+---------------------------------

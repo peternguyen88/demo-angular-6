@@ -1,0 +1,769 @@
+####111####IS-S1-II
+#DS#1#A#
+Andrew invested $1000 at  the beginning of 2008, and the value of the investment had increased by \(x\)% by the beginning of 2009, where \(x > 0\). If Andrew made no deposits or withdrawals, was the investment worth less than $1000 at the beginning of 2010?
+The value of the investment decreased by \(x\)% from the beginning of 2009 to the beginning of 2010.
+The value of the investment decreased by $\(240\) from the beginning of 2009 to the beginning of 2010.
+---------------------------------
+#DS#2#B#
+If a farmer sold \(\frac{\small 1}{\small n}\) of her produce in the morning on a certain day, where \(n\) is an integer greater than \(1\), and she sold \(\frac{\small 1}{\small m}\) of her remaining produce in the afternoon of that day, where \(m\) is an integer 
+\(n > m\)
+\(n > m + 1\)
+---------------------------------
+#PS#3#A#
+At current market rates,  \(1\) ounce of gold can be purchased for \(500\) British pounds. At current exchange rates, one US Dollar can be exchanged for \(0.75\) British pounds. At these rates, how many ounces of gold can be purchased for \(1\) US dollar?
+A) 0.0015	
+B) 0.0027		
+C) 0.00375		
+D) 0.015		
+E) 0.0375
+---------------------------------
+#PS#4#B#
+From 2007 to 2008, the value of an investment increased by 20%, and from 2008 to 2009 the value of the investment increased by a further 20%. The increase in the  investment’s value from 2008 to  2009 was what  percent  greater  than  the increase in the investment’s value from 2007 to 2008? 
+A) 0% 	
+B) 20% 	
+C) 22% 	
+D) 40% 	
+E) 44%
+---------------------------------
+#PS#5#B#
+On a certain measurement  scale for measuring pressure readings, when the true pressure reading is \(10n\)  Pascals, the measurement scale reports a value of \(n\).  If the pressure level, in Pascals, increases by 220%, by approximately how much will the reading on the measurement scale increase?
+A) 0.22	
+B) 0.5		
+C) 2.2		
+D) 3.2		
+E) 10
+---------------------------------
+#PS#6#C#
+A company intends to hold a business meeting on Friday, January 1st  of a certain year, and from that  point forward will hold meetings every 24 days for the remainder of the year.  How many of these meetings will be scheduled for either a Saturday or a Sunday?
+A) 0		
+B) 2		
+C) 4		
+D) 6		
+E) 8
+---------------------------------
+#PS#7#E#
+At a certain college, the Astronomy Club and the Chess Club will both hold their first meeting on January 1st  of this year. Each club holds meetings at regular intervals throughout  the year; the Astronomy Club holds meetings once every 18 days, while the Chess Club holds meetings once every 30 days. On how many days during this year will both clubs have a meeting on the same day?
+A) 1		
+B) 2		
+C) 3		
+D) 4		
+E) 5
+---------------------------------
+#DS#8#C#
+All of the students  in a certain class took a test  consisting of 20 questions. Did at least two students have the same number of correct answers on the test?
+Each student  answered an even number of questions correctly. 
+There are more than 11 students in the class.
+---------------------------------
+#DS#9#B#
+Ajike is inserting colored pins in a bulletin board in a square grid with \(n\) pins in each row and in each column.  If she has an unlimited supply of pins of each color, is it possible for her to arrange the pins so that  no color appears twice in any row or twice in any column?
+\(n = 4\)
+She has \(n\) different colors of pin she can use to form the grid.
+---------------------------------
+#PS#10#B#
+$$\frac{(3)(4^{-5})}{2^{-11}+2^{-10}}=?$$
+A) \(1\)		
+B) \(2\)		
+C) \(\frac{\small 1}{\small 2^{21}}\) 		
+D) \(\frac{\small 3}{\small 2^{19}}\) 		
+E) \(\frac{\small 3}{\small 4}\)
+---------------------------------
+#PS#11#C#
+If \(y < 0, |x| = |y|\) and \(|x - 8^8 |=|y|\), what is the value of \(x + y\)?
+A) \(-8^8\)	
+B) \(-2^{23}\)
+C) \(0\)		
+D) \(2^{23}\)		
+E) \(8^8\)
+---------------------------------
+#DS#12#D#
+If \(y − x > 0\), what is the value of \(x + y\)?
+\((x + 2)^2  +(y-3)^2=0\)
+\((x-4)^2-(y+3)^2=0\)
+---------------------------------
+#PS#13#B#
+The value of \(\frac{\normalsize 1-x}{\normalsize 1-x^2}\) is greatest  when
+A) \(x < −1\)	
+B) \(−1 < x < 0\)		
+C) \(x = 0\)	
+D) \(0 < x < 1\)		
+E) \(x > 1\)
+---------------------------------
+#PS#14#D#
+Which of the following is largest?
+A) \(\large 1^{\frac{1}{2}}\)		
+B) \(\large 2^{\frac{1}{3}}\)		
+C) \(\large 3^{\frac{1}{4}}\)		
+D) \(\large 4^{\frac{1}{5}}\)		
+E) \(\large 5^{\frac{1}{6}}\)
+---------------------------------
+#PS#15#D#
+$$5\sqrt{3}+\frac{5}{2+\sqrt{3}}=?$$
+A) \(5\)		
+B) \(5\sqrt{3}\)	
+C) \(\frac{5}{2}+3\sqrt{5}\)	
+D) \(10\)		
+E) \(10\sqrt{3}\)
+---------------------------------
+#DS#16#C#
+If \(ab > 0\) and \(c = 0\), is \(|a - b| + |c| = |a - c| - |b|\)?
+\(ac < 0\)
+\(|a| > |b|\)
+---------------------------------
+#PS#17#B#
+What is the smallest possible value of \(y\)? $$y=|x+\frac{1}{3}|+|x+\frac{1}{2}|$$
+A) \(0\)	
+B) \(1/6\) 	
+C) \(1/3\) 	
+D) \(1/2\) 	
+E) \(5/6\)
+---------------------------------
+#PS#18#A#
+If \(1+x<1-x^2\), which of the following will have the smallest value?
+A) \(x\)		
+B) \(x^2\)		
+C) \(x^3\)		
+D) \(1 – x\)	
+E) \(\frac{\small 1}{\small x + 1}\)
+---------------------------------
+#PS#19#A#
+If a is a constant,  and \(x = -2\) is one solution to the equation \(x^3+(2a-1)x^2+ax=12\) then which of the following is another solution to this equation?
+A) \(x = −6\)	
+B) \(x = −1\)	
+C) \(x = 2\)	
+D) \(x = 3\)	
+E) \(x = 4\)
+---------------------------------
+#PS#20#B#
+$$\frac{1}{1+\frac{\small 1}{\small 1+\frac{\small 1}{\small 1+\frac{1}{2}}}}=?$$
+A) \(3/5\) 	
+B) \(5/8\)		
+C) \(3/2\)		
+D) \(8/5\)		
+E) \(5/3\)
+---------------------------------
+#DS#21#C#
+If \(z\) and \(x\) are real numbers, what is the value of \(z\)?
+\(xz = x\)
+\(|x+z| < |x|+|z|\)
+---------------------------------
+#PS#22#C#
+If \(y=\frac{1}{t^2}\), then in terms of \(y\), what is \(\frac{t}{t+1}+\frac{t}{t-1}\) equal to?
+A) \(\frac{2y^2}{y^2-1}\)
+B) \(\frac{2-2y}{y^2}\) 	
+C) \(\frac{2}{1-y}\)	
+D) \(y+\frac{1}{2}\)	
+E) \(1-\frac{y}{y-1}\)
+---------------------------------
+#PS#23#D#
+What is the value of \(\frac{x}{y}\)? $$x=\frac{1}{n}+\frac{1}{n^2}+\frac{1}{n^3} + \frac{1}{n^4} +\frac{1}{n^5}$$  $$y=\frac{1}{n^2} +\frac{1}{n^3} +\frac{1}{n^4} +\frac{1}{n^5} +\frac{1}{n^6}$$ 
+A) \(1\)		
+B) \(\frac{\small 1}{\small n^6}\) 		
+C) \(\frac{\small 1}{\small n}\)
+D) \(n\)		
+E) \(n^6\)
+---------------------------------
+#DS#24#C#
+If \(x\) and \(y\) are integers, where \(y = 1\) and \(y = 2\), what is the value of \(x\)?
+\(\frac{x-1}{y-1} > 0\)
+\(\frac{x-3}{y-2} < 0\)
+---------------------------------
+#PS#25#A#
+$$\frac{(\frac{\normalsize x^{-1}}{\normalsize y^{-2}})}{(\frac{\normalsize x^{-3}}{\normalsize y^{-4}})}=?$$
+A) \(\frac{\small x^2}{\small y^2}\) 		
+B) \(\frac{\small y^2}{\small x^2}\) 		
+C) \(\frac{\small x^4}{\small y^2}\)  		
+D) \(\frac{\small y^2}{\small x^4}\) 		
+E) \(\frac{\small y^6}{\small x^4}\) 
+---------------------------------
+#PS#26#D#
+$$(3+\sqrt{5})(3-\sqrt{5})(6+\sqrt{3})(6-\sqrt{3})=?$$
+A) \(−432\) 	
+B) \(−6\)		
+C) \(72\)		
+D) \(132\)	
+E) \(324 + 4\sqrt{15}\)
+---------------------------------
+#PS#27#D#
+What is the value of \(a\) if $$\frac{a^2-b^2}{a-b}+\frac{a^2-b^2}{a+b}=10$$
+A) -10		
+B) -5		
+C) 2		
+D) 5		
+E) 10
+---------------------------------
+#PS#28#D#
+If \(x\) ≠ \(0\) then $$\frac{x^6+x^5+x^4}{x^{-6}+x^{-5}+x^{-4}}=?$$
+A) \(x^{12}+x^{10}+x^8\)
+B) \(\frac{\small x^2+x+1}{\small x^{-2}+x^{-1}+1}\)
+C) \(x^8\)
+D) \(x^{10}\)
+E) \(x^{12}\)
+---------------------------------
+#DS#29#D#
+If \(a\) and \(b\) are positive, and \(ab = 1\), what is the value of \(a + b\)?
+\(\frac{\small 2}{\small \frac{\small 1}{\small a}+\frac{\small 1}{\small b}}=1\)
+\(a^b=b^a\)
+---------------------------------
+#DS#30#A#
+If \(x\) and \(y\) are positive, what is the value of \(x\)?
+\(\sqrt{1+y+\sqrt{x+1}} = \sqrt{x+y}\)
+\(xy=x+y\) and \(x+y=\frac{9}{2}\)
+---------------------------------
+#PS#31#C#
+If \(x=(10^{10})^{10},y=10^{(10^{10})}\),and \(z=100^{100}\), which of the following is true?
+A) \(x = y < z\) 	
+B) \(x < y < z\) 	
+C) \(x < z < y\) 	
+D) \(z < x < y\) 	
+E) \(x = y = z\)
+---------------------------------
+#DS#32#E#
+Is \(x > -1\)?
+\(w + x > -1\)
+\(w - x > -1\)
+---------------------------------
+#DS#33#A#
+If \(w, x, y\) and \(z\) are real numbers, are \(w\) and \(x\) equal?
+\((w - x)^2  =-(z - y)^2\)
+\(w - x = -(z - y)\)
+---------------------------------
+#DS#34#A#
+If \(x\) is not equal to \(0\) or \(1\) or \(-1\), is $$\frac{x^2-1}{x^2+1}>\frac{x^2+1}{x^2-1}?$$
+\(x^2 < x\)
+\(x > 0\)
+---------------------------------
+#PS#35#C#
+If \(n>10^6\), the value of $$\frac{15n^7+26n^5+13n^3}{5n^7+19n^6+21n^4}$$ is closest to?
+A) 0		
+B) 1.2		
+C) 3		
+D) 5		
+E) 1,000,000
+---------------------------------
+#DS#36#A#
+If \(x\) is an integer, what is the value of \(x\)?
+\((2x + 7)(2x + 9) < 0\)
+\((x + 4)(x + 2) = 0\)
+---------------------------------
+#PS#37#B#
+If \(a=11^{20}, b=11^{19}\), and \(c=11^{18}\), then in terms of \(c\), what is \(\frac{1}{a}-\frac{1}{b}\) equal to?
+A) \(-\frac{\small 10}{\small 11c}\)	
+B) \(-\frac{\small 10}{\small 121c}\)	
+C) \(-\frac{\small 1}{\small 11c}\)	
+D) \(-\frac{\small 1}{\small 10c}\)	
+E) \(\frac{\small 11^{17}}{\small c}\)
+---------------------------------
+#DS#38#A#
+If \(x\) and \(y\) are both positive, \(3x - 1 = 0\) and \(3y - 1 = 0\), is \(x + y > 3\)?
+\(\frac{\small 3x(x+y)-x-y}{\small 3x-1}=y+3\)
+\(\frac{\small 3y(x+y)-x-y}{\small 3y-1}=x+1\)
+---------------------------------
+#PS#39#E#
+The symbols \(\$\) and \(\&\) each represent one of the four arithmetic operations of addition, subtraction, multiplication and division. For all positive numbers \(x\) and \(y\), whenever \(x > y\), \(x\$y = y\$x\),  and \(x\&y > y\&x\).  What  could be the  value of \(11\$(10\&9)\)? <br><br> <ol type="I"> <li>\(12\)</li> <li>\(12\frac{\small 1}{\small 9}\)</li> <li>\(12\frac{\small 2}{\small 9}\)</li></ol>
+A) I only	
+B) I and II only 	
+C) I and III only 	
+D) II and III only 	
+E) I, II and III
+---------------------------------
+#PS#40#C#
+In the set \(\{\frac{1}{x}, x^2, x^3, 1 - x^2, 1 - x^3\}\), \(x^3\) could be the median when which of the following is true? <br><br> <ol type="I"> <li>\(x < −1\)</li> <li>\(0 < x < 1\)</li> <li>\(−1 < x < 0\)</li></ol> 
+A) none 	
+B) I only 	
+C) II only 	
+D) III only	
+E) II and III only
+---------------------------------
+#DS#41#A#
+During an experiment, Emily collected 11 different temperature  readings, all of which were integers.  How many of the temperature  readings were negative?
+The median temperature  reading was −1. 
+Exactly five of the temperature  readings were positive.
+---------------------------------
+#PS#42#C#
+If \(0 < x < y\), and \(3+\sqrt{y}=4+\sqrt{x}\) then what is \(x\) in terms of \(y\)?
+A) \(y-1\) 	
+B) \(y+2\sqrt{y}+1\)	
+C) \(y-2\sqrt{y+1}\)	
+D) \(\sqrt{y-1}\)		
+E) \(\sqrt{y+1}\)
+---------------------------------
+#DS#43#A#
+If \(x\), \(y\) and \(z\) are positive integers, and \(3x + 2y + 4z < 36\), what is the value of \(x\)?
+\(y > 12\)
+\(x + 2z < 5\)
+---------------------------------
+#DS#44#C#
+Which of \(x, y\), and \(z\) has the greatest value?
+The average of \(x\) and \(y\) is smaller than the average of \(x\) and \(z\).
+\(\frac{\small x+y+z}{\small 3} < \frac{\small y+z}{\small 2}\)
+---------------------------------
+#DS#45#C#
+Is \(a=c\)?
+\(\sqrt{(a+b)^2}=\sqrt{(b+c)^2}\)
+\(b>\frac{\small (-a-c)}{\small 2}\)
+---------------------------------
+#PS#46#D#
+$$\frac{201^2 - 101^2}{11^2-9^2}=?$$
+A) 50		
+B) 100	
+C) 250	
+D) 755	
+E) 2500
+---------------------------------
+#PS#47#D#
+If \(k\) is a positive integer larger than 10, and $$\frac{k!-(k-1)!}{(k-2)!}=k^2-35$$ What is the value of \(k\)?
+A) 11		
+B) 12		
+C) 17		
+D) 18		
+E) 35
+---------------------------------
+#DS#48#A#
+What is the value of \(n\)?
+\(3^n-1=10(3^{n-2}-1)\)
+\((3^{-n}+1)^2=\frac{\small {3^{-n}+2}}{\small {3^n}} + 1\)
+---------------------------------
+#PS#49#B#
+$$\frac{a-b}{\sqrt{a}+\sqrt{b}}=?$$
+A) \(a-b\) 	
+B) \(\sqrt{a}-\sqrt{b}\)	 	
+C) \(\sqrt{a-b}\)		
+D) \(\sqrt{a}+\sqrt{b}\)		
+E) \(a+b\)
+---------------------------------
+#PS#50#E#
+If \(a\) and \(b\) are constants, and the equation \(x^3 + ax^2+bx = 64\) has precisely one solution for \(x\), what is the value of \(b\)?
+A) -16		
+B) -12		
+C) -8		
+D) 0		
+E) 48
+---------------------------------
+#DS#51#E#
+If \(x\) is an integer, what is the value of \(x\)?
+\(\sqrt{x^2}= -x\)
+\(x^2 < 4\)
+---------------------------------
+#DS#52#A#
+Is \(xy > 0\)?
+\(\frac{\small x-y}{\small x} <1 \)
+\(\frac{\small x+y}{\small xy} > 0\)
+---------------------------------
+#DS#53#C#
+If \(n=0.abc\), where \(a\), \(b\) and \(c\) represent nonzero digits, is \(b = 4\)?
+The hundredths digit of \(2n\) is 8.
+The hundredths digit of \(\frac{\small n}{\small 2}\) is 2.
+---------------------------------
+#PS#54#E#
+Company \(X\) employs \(8\) women and \(4\) men, from which it will select a committee consisting of three members. Of all the committees that  Company \(X\) might choose, what fraction do not consist entirely of men or entirely of women?
+A) 1/3 		
+B) 1/2 		
+C) 2/3 		
+D) 7/11	
+E) 8/11
+---------------------------------
+#PS#55#E#
+A circular dartboard is labeled with each of the integers from 1 to 20 inclusive around its circumference.  If the numbers are placed in random order around the circumference of the board, what is the probability that the number 1 is immediately next to the number 2?
+A) \(\frac{\small 1}{\small 19!}\)		
+B) \(\frac{\small 1}{\small 20}\)
+C) \(\frac{\small 1}{\small 19}\)
+D) \(\frac{\small 1}{\small 10}\)
+E) \(\frac{\small 2}{\small 19}\)
+---------------------------------
+#PS#56#C#
+If 12 dots are drawn on a page so that  no three dots lie on a straight  line, how many distinct triangles could be drawn by connecting three of these dots? 
+A) 110		
+B) 144		
+C) 220		
+D) 720		
+E) 1320
+---------------------------------
+#PS#57#A#
+If a positive integer between 1 and 100 inclusive is chosen randomly, what is the probability that  it is a multiple of 6?
+A) \(4/25\)	
+B) \(1/6\)		
+C) \(17/100\)	
+D) \(1/3\)		
+E) \(3/5\)
+---------------------------------
+#PS#58#E#
+If three cubical dice, each numbered from 1 to 6 inclusive, are rolled, and the facing numbers sum to 15, what is the probability that  at least one of the facing numbers is a 6?
+A) \(1/2\) 	
+B) \(2/3\)		
+C) \(4/5\)		
+D) \(6/7\)		
+E) \(9/10\)
+---------------------------------
+#PS#59#E#
+If there are 6 red, 5 blue and 3 green marbles in a bag, and two marbles are selected from the bag at random and without replacement, what is the probability the two marbles are different in color?
+A) \(1/2\) 		
+B) \(7/13\)		
+C) \(9/14\)		
+D) \(19/28\)	
+E) \(9/13\)
+---------------------------------
+#PS#60#C#
+In a tennis tournament,  each of eight players will play three sets against each other player. How many sets will be played in total?
+A) 28		
+B) 64		
+C) 84		
+D) 128		
+E) 168
+---------------------------------
+#PS#61#A#
+\(S\) is the  square  in the  coordinate  plane  with  vertices at \((2,2),(-2,2),(-2,-2)\) and \((2,-2)\), and \(T\) is the square in the  coordinate  plane with vertices at \((1,0),(0,1),(-1,0)\), and \((0,-1)\). If a point is chosen randomly from within \(S\), what is the probability that  the point is within \(T\)?
+A) \(1/8\)		
+B) \(1/4\)		
+C) \(\sqrt{2}/4\)	
+D) \(1/2\) 	
+E) \(\sqrt{2}/2\)
+---------------------------------
+#PS#62#B#
+At an automotive plant, 2% of cars produced have faulty braking systems. Each automobile undergoes a braking system check. When a car has a faulty brak- ing system, this check correctly identifies the fault 90% of the time.  When a car does not have a faulty braking system, the check incorrectly identifies the system as faulty 5% of the time.  If the check reports that  the braking system of a certain car is faulty, what is the probability that the braking system of this car is actually faulty?
+A) 9/50	
+B) 18/67	
+C) 41/50	
+D) 49/67	
+E) 499/500
+---------------------------------
+#PS#63#E#
+From a group of 11 Liberals and 9 Conservatives, a parliamentary committee of 2 Liberals and 3 Conservatives will be chosen. How many different committees could be chosen?
+A) 990		
+B) 1320	
+C) 2700	
+D) 4400	
+E) 4620
+---------------------------------
+#PS#64#B#
+How many distinct sequences \(3, b, c, d, 25\) can be made if \(b, c\) and \(d\) must be integers, and \(3 < b < c < d < 25\)?
+A) 980	
+B) 1330	
+C) 1540	
+D) 7980	
+E) 9240
+---------------------------------
+#PS#65#B#
+A square is subdivided into 9 smaller squares of equal size. If each of these smaller square will either be painted  red or green, in how many ways could these smaller squares be painted if two adjacent squares in the same row cannot be painted using the same color?
+A) 2		
+B) 8		
+C) 12		
+D) 72		
+E) 512
+---------------------------------
+#PS#66#A#
+A certain parade will consist of 10 floats which will proceed in sequence down a city street. How many sequences of floats are possible if the Presidential  float must be one of the first three floats?
+A) \(3 × 9!\)	
+B) \(9 × 9!\) 	
+C) \(\frac{\small 9!}{\small 2}\)		
+D) \(\frac{\small 10!}{\small 3}\)	
+E) \(3 × 109\)
+---------------------------------
+#PS#67#D#
+How many different passwords consisting of 5, 6 or 7 characters  could be formed using the 26 lowercase letters  of the alphabet  if no character  can be used more than once in a password?
+A) \(26^7\)
+B) \(\frac{\small 26!}{\small 11!}\)  	
+C) \(\frac{\small 21^2×26!}{\small 21!}\)	      
+D) \(\frac{\small 2×13×17×26!}{\small 21!}\)	
+E) \(703×26^5\)
+---------------------------------
+#DS#68#A#
+A bag contains at  least 10 blue marbles and at  least 10 red marbles, and contains marbles of no other color. Is the number of blue marbles in the bag greater than the number of red marbles?
+If two marbles are chosen from the bag without replacement, the probability of picking two blue marbles is higher than  the probability of picking one blue marble and one red marble.
+If two marbles are chosen from the bag without replacement, the probability of picking one blue marble and one red marble is higher than the probability of picking two red marbles.
+---------------------------------
+#PS#69#B#
+Company X employs 100 people, from whom the  company will randomly select a team of four employees to attend  a conference.  If Ania is an employee of Company X, what is the probability that  Ania will be selected to attend  the conference?
+A) 1/100 	
+B) 1/25		
+C) 1/20		
+D) 1/10	
+E) 1/4
+---------------------------------
+#PS#70#E#
+A fairground offers two games. In the  first game,  a contestant  will pick, without replacement, two marbles from a bag containing  three  red and  seven white marbles, and wins if he or she picks two red marbles. In the second game, a contestant  will pick, with  replacement, two marbles from a bag containing three red and seven white marbles, and wins if he or she picks two red marbles.   The probability of winning the second game is what percent greater than the probability of winning the first game?
+A) \(0\) %		
+B) \(7\frac{7}{9}\)  %	
+C) \(22\frac{2}{9}\)%	
+D) \(30\)%		
+E) \(35\)%
+---------------------------------
+#PS#71#D#
+In a certain  country,  on any given day the  probability that  the  tempera- ture will exceed 100 degrees Fahrenheit is 0.2, and the temperature  on one day is independent from the temperature  on any other day.  In this country, what is the probability that the temperature  will exceed 100 degrees Fahrenheit on exactly three days in a four day period?
+A) 0.64% 	
+B) 0.8% 	
+C) 1.2% 	
+D) 2.56% 	
+E) 20%
+---------------------------------
+#PS#72#D#
+If one resident is chosen at  random from City X, the probability that  resident will be employed is 0.8, and the  probability that  resident  will be female is 0.6.  If the probability of selecting someone who is both male and unemployed is 0.12, what is the probability of selecting someone who is both female and employed? 
+A) 0.36 	
+B) 0.48		
+C) 0.5		
+D) 0.52		
+E) 0.6
+---------------------------------
+#DS#73#A#
+If a bag contains b blue marbles and r red marbles, where b and r are positive, and if one marble is to be selected at random from the bag, is the probability that the marble will be blue greater than the probability that  the marble will be red?
+If the number of blue marbles was 25 % greater, the ratio of the number of blue marbles to the number of red marbles in the bag would be 4 to 3
+If there were 8 fewer blue marbles in the bag, the ratio of the number of blue marbles to the number of red marbles in the bag would be 24 to 25
+---------------------------------
+#PS#74#C#
+\(S\) is a finite symmetric set in which the largest element is \(6.5\) and the smallest element is \(−4\). If a new set \(T\) were made by adding one new element \(x\) to \(S\), for which value of \(x\) must  the standard deviation of \(T\) be smaller than the standard deviation of \(S\)?
+A) 0		
+B) 1		
+C) 1.25		
+D) 1.5		
+E) 2
+---------------------------------
+#PS#75#C#
+The set \(\{3.5, 4.5, 5.5, 6.5, 7.5, 8.5, 9.5\}\) has a standard  deviation of \(2\).  How many values in this set  are more than  one standard  deviation but  less than  two standard  deviations away from the mean of the set?
+A) none 	
+B) one 		
+C) two 		
+D) three	
+E) four
+---------------------------------
+#PS#76#C#
+Each student in a class of 25 students answered five questions on a test.  The table below displays the number of students  who answered 0 questions correctly, 1 question correctly, and so on:<br><br><table><tr><th>Number of correct responses</th><th>Number of students</th></tr><tr><td>0</td><td>4</td></tr><tr><td>1</td><td>11</td></tr><tr><td>2</td><td>3</td></tr><tr><td>3</td><td>4</td></tr><tr><td>4</td><td>1</td></tr><tr><td>5</td><td>2</td></tr></table><br><br>What  was the average number of correct responses for all of the students  in the class?
+A) 1		
+B) 1.6		
+C) 1.72		
+D) 2.16		
+E) 3
+---------------------------------
+#PS#77#A#
+If \(x\) is the sum of all even multiples of \(3\) between \(1\) and \(200\), and \(y\) is the sum of all odd multiples of \(9\) between \(1\) and \(200\), then \(x − y\) is equal to
+A) 2277	
+B) 2497	
+C) 2772	
+D) 2808	
+E) 5445
+---------------------------------
+#PS#78#C#
+Set \(S\) consists of seven distinct positive integers.  If the mean of \(S\) is 31 and the median of \(S\) is 23, what is the least possible value of the largest element of \(S\)?
+A) 31		
+B) 37		
+C) 45		
+D) 54		
+E) 217
+---------------------------------
+#PS#79#A#
+The set \(S = \{a, b, c, d, e, f, g\}\) contains seven integers, and \(a < b < c < d < e < f < g\). If the median of \(S\) is \(17\), the range of \(S\) is \(20\) and the mean of \(S\) is \(11\), what is the value of \(b\)? 
+A) 1		
+B) 2		
+C) 3		
+D) 5		
+E) cannot be determined
+---------------------------------
+#DS#80#D#
+The set \(S = \{x, x + 1, 3, 5, 11\}\) consists of five distinct positive integers. Is \(x\) the median of \(S\)?
+The range of set \(S\) is \(8\).
+The median of set \(S\) is not equal to \(3\) or \(11\).
+---------------------------------
+#DS#81#A#
+\(S\) is a set containing five distinct integers. Is the mean of \(S\) positive?
+The mean of the three largest integers in \(S\) is equal to \(1\).
+The mean of the three smallest integers in \(S\) is equal to \(−5\).
+---------------------------------
+#DS#82#B#
+If \(a < b < c < d < e\), is the range of the set \(S = \{a, b, c, d, e\}\) greater than the median of set \(S\)?
+\(ae < e\)
+\(ab > ae\)
+---------------------------------
+#PS#83#C#
+The set \(S\) contains ten distinct positive integers. The set \(T\) is created by multiplying each element of \(S\) by \(−1\), so that  \(T\) contains ten distinct negative integers. The set \(U\) consists of the twenty integers which are either in \(S\) or in \(T\). What must be true? <br><br><ol type="I"> <li>The average (arithmetic  mean) of set \(U\) is equal to \(0\). </li> <li>The range of set \(U\) is more than 2 times the range of set \(S\).</li> <li>The standard deviation of set \(U\) is equal to the standard deviation of set \(S\).</li></ol>
+A) none	
+B) I only	
+C) I and II only 	
+D) II and III only 	
+E) I, II and III
+---------------------------------
+#PS#84#E#
+Set \(S\) consists of twelve distinct positive integers. If the six largest elements in \(S\) are doubled, and the six smallest elements in \(S\) are halved, which of the following must  increase? <br><br><ol type="I"> <li>the mean </li> <li>the median </li> <li>the range </li></ol>
+A) none	
+B) III only	
+C) I and III only 	
+D) II and III only 	
+E) I, II and III
+---------------------------------
+#PS#85#D#
+Data  set \(S\) consists of 15 positive  integers.   Data  set \(T\) consists of five positive integers each of which is larger than the mean of S.  If a data set \(U\) is created which includes all 20 of the elements which are in \(S\) and \(T\), what must be true? <br><br><ol type="I"> <li>The mean of \(U\) is greater than the mean of \(S\)</li> <li>The median of \(U\) is greater than the median of \(S\)</li> <li>The range of \(U\) is greater than the range of \(T\)</li></ol>
+A) none	
+B) I only	
+C) I and II only 	
+D) I and III only 	
+E) I, II and III
+---------------------------------
+#DS#86#C#
+Set \(S\) contains five distinct positive integers, each of which is greater than \(2\). Is the mean of \(S\) greater than the median of \(S\)?
+The sum of the elements of \(S\) is equal to \(20\) times the smallest element of \(S\).
+The median of \(S\) is \(8\) greater than the smallest element of \(S\).
+---------------------------------
+#DS#87#D#
+If \(x\) and \(y\) are integers, and \(y > x > 0\), is \(x < 20\)?
+The average (arithmetic  mean) of the set \(\{10, 12, x, y, 20\}\) is equal to \(16\).
+The median of the set \(\{10, 12, x, y, 20\}\) is not equal to \(20\).
+---------------------------------
+#DS#88#A#
+Fifteen universities were surveyed, and it was determined that  these univer- sities had, on average, 9 students enrolled in graduate studies in mathematics.  Did one of these universities have 13 or more students  enrolled in graduate  studies in mathematics?
+The median number of students  enrolled in graduate  studies in mathematics  at the surveyed universities was 6.
+Each surveyed university had at least 2 students  enrolled in graduate  studies in mathematics.
+---------------------------------
+#PS#89#C#
+From January through May, inclusive, a company’s monthly revenue increased by 25% each month.  If the company’s revenue in March was $\(r\), then the company’s average monthly revenue for the five month period from January through May was closest to
+A) \(0.8r\)	
+B) \(r\)		
+C) \(1.05r\) 	
+D) \(1.1r\) 	
+E) \(1.25r\)
+---------------------------------
+#DS#90#A#
+If \(x > 0\), what is the value of \(x\)?
+The mean of the set \(\{x, x + 10, 3, 5, 7\}\) is three times as large as the median of this set.
+\(x > 7\)
+---------------------------------
+#PS#91#E#
+Set \(T\) contains all of the elements of set \(S\) which are between two and three standard  deviations away from the mean of \(S\), and contains no other elements.  If Set \(T = \{17, 19, 22, 46, 50\}\), what could be the standard  deviation of \(S\)?
+A) 3.9		
+B) 4.4		
+C) 4.9		
+D) 5.4		
+E) 5.9
+---------------------------------
+#PS#92#E#
+If the  volume of one cube is 16 times the  volume of a smaller cube, the surface area of the larger cube is how many times greater than the surface area of the smaller cube?
+A) \(4\)		
+B) \(8\)		
+C) \(\sqrt[3]{16}\)	
+D) \(\sqrt[3]{32}\)
+E) \(\sqrt[3]{256}\)
+---------------------------------
+#PS#93#E#
+Circles \(C\) and \(D\) are concentric. If the radius of \(C\) is 59, and the radius of \(D\) is 61, what is the area of the region which is inside \(D\) but outside \(C\)?
+A) \(2π\) 		
+B) \(4π\) 		
+C) \(16π\)	
+D) \(120π\)	
+E) \(240π\)
+---------------------------------
+#PS#94#C#
+\(ABCDEF\) is a regular hexagon of area \(12\sqrt{3}\). What is the length of diagonal \(AC\)?
+A) \(2\)	
+B) \(2\sqrt{3}\)	
+C) \(2\sqrt{6}\)	
+D) \(3\sqrt{2}\)	
+E) \(4\)
+---------------------------------
+#DS#95#B#
+If \(a\) is equal to the x-intercept  of line \(L\), and \(b\) is equal to the y-intercept of line \(L\), is the slope of line \(L\) negative?
+\(b > a\)
+\(ab > 0\)
+---------------------------------
+#DS#96#B#
+The equation  of line \(L\) is \(y = mx + b\), where \(m  > 0\) and \(b < 0\).  Line L intersects the x-axis at point \(P\) and intersects the y-axis at point \(R\). If the origin is point \(O\), what is the measure of angle \(OPR\)?
+\(b=-3\)
+\(m=\frac{\sqrt{\small 3}}{\small 3}\)
+---------------------------------
+#PS#97#E#
+If the area of an equilateral triangle is equal to the area of an isosceles right triangle, what is the ratio of the length of one side of the equilateral triangle to the length of the hypotenuse of the isosceles right triangle?
+A) \(1\) to \(2\)	
+B) \(1\) to \(\sqrt{3}\) 	
+C) \(\sqrt{3}\) to \(\sqrt{2}\) 	        
+D) \(\sqrt{3}-1\) to \(\sqrt{2}-1\) 	
+E) \(1\) to \(3^{\frac{1}{4}}\)
+---------------------------------
+#PS#98#B#
+If a sphere has radius \(r\), then its surface area is equal to \(4πr2\).  If a sphere and a right cylinder have equal radii \(r\), and have equal surface areas, what is the height of the cylinder in terms of \(r\)?
+A) \(\frac{\small 2r}{\small 3}\)	
+B) \(r\)		
+C) \(\frac{\small 3r}{\small 2}\) 	
+D) \(\frac{\small 4r}{\small 3}\)	
+E) \(4r\)
+---------------------------------
+#PS#99#C#
+If the  length of one leg of a right triangle is 1599, and the  length of the hypotenuse is 1601, what is the length of the third side?
+A) 2		
+B) 4		
+C) 80		
+D) 128	
+E) 800
+---------------------------------
+#DS#100#A#
+If \((a,b)\) and \((c,d)\) are distinct points in the coordinate  plane, what is the value of $$(c-a)^2/((c-a)^2+(d-b)^2)?$$
+\(\frac{\small c-a}{\small d-b}=\frac{\small 3}{\small 4}\)
+\(d-b=8\)
+---------------------------------
+#PS#101#C#
+The dot product  of two  points \((a, b)\) and \((c, d)\) in the coordinate plane is defined to be equal to \(ac + bd\).  If the dot product of \((e, f)\) and \((e, f)\) is equal to \(100\), what is the distance between \((e, f)\) and the point \((0, 0)\)?
+A) 0		
+B) 5		
+C) 10		
+D) 20		
+E) 100
+---------------------------------
+#PS#102#D#
+The curve \(y=x^5-x\) has how many distinct x-intercepts?
+A) none 	
+B) one 	
+C) two 	
+D) three 	
+E) five
+---------------------------------
+#PS#103#C#
+Triangle \(ABC\) is an isosceles right triangle, with hypotenuse \(BC\). If \(D\) is a point on line segment \(AC\) such that angle \(ABD\) is \(30\) degrees, what is the ratio of the length of \(AD\) to the length of \(DC\)?
+A) \(\sqrt{3}\) to \(1\)	  
+B) \(\sqrt{3}\) to \(\sqrt{2}\)         
+C) \(1+\sqrt{3}\) to \(2\)       
+D) \(3\sqrt{3}\) to \(2\) 	   
+E) \(2+\sqrt{2}\) to \(2\sqrt{3}\)
+---------------------------------
+#DS#104#E#
+If the lengths of three sides of a right triangle are \(x, y\) and \(10\), where \(10\) is the length of the hypotenuse, what is the value of \(x\)?
+\(x + y = 14\)
+\(xy = 48\)
+---------------------------------
+#PS#105#B#
+If the coordinates of point \(A\) are \((-9,-7)\) and the coordinates of point B are \((15,11)\), what point on line segment \(AB\) is twice as far from point \(B\) as from point \(A\)?
+A) \((−2, 0)\) 	    
+B) \((−1, −1)\) 	   
+C) \((0, −2)\)		
+D) \((3, 2)\)    	   
+E) \((7, 5)\)
+---------------------------------
+#PS#106#E#
+A flat rectangular tabletop  is 2 feet long and 1 foot wide. If the legs of the table are perfectly vertical and are 2.5 feet long, what is the distance, in feet, from one corner of the tabletop to the base of the leg diagonally opposite?
+A) \(\frac{\small 11}{\small 6}\)
+B) \(\frac{\small 3\sqrt{3}}{\small 2}\)		
+C) \(\sqrt{10}\)	
+D) \(\sqrt{11}\)	
+E) \(\frac{\small 3\sqrt{5}}{\small 2}\)
+---------------------------------
+#PS#107#B#
+What is the area of the triangular region enclosed by the lines \(y = 4 - x\), \(y = 0.5x - 2\) and \(y = 2x + 1\)?
+A) 12		
+B) 13.5		
+C) 15.5		
+D) 17		
+E) 20
+---------------------------------
+#DS#108#D#
+What is the slope of line \(L\)?
+\((a,b)\) and \((a + 3,b + 15)\) are two points on line \(L\).
+\((a,b)\) and \((a - 1,b - 5)\) are two points on line \(L\).
+---------------------------------
+#DS#109#A#
+\(a, b\) and \(c\) are integers, and \(a < b < c\). If \(a, b\) and \(c\) are the lengths of three sides of a triangle, what is the value of \(b\)?
+\(c = 5\)
+\(a = 2\)
+---------------------------------
+#DS#110#A#
+Circle \(C\) and circle \(D\) both have their centre at point \(O\). If the radius of \(C\) is larger than the radius of \(D\), what is the ratio of the area of \(C\) to the area of \(D\)?
+The radius of \(C\) is \(10\)% greater than the radius of \(D\).
+The radius of \(C\) is \(2\) greater than the radius of \(D\).
+---------------------------------
+#DS#111#C#
+Line \(L\) has the equation \(y=mx+b\), where \(m = 0\), Is line \(M\) parallel to line \(L\)?
+The y-intercept of line \(M\) is \(-b\)
+The x-intercept of line \(M\) is \(\frac{b}{m}\)
+---------------------------------

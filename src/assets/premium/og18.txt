@@ -1,0 +1,510 @@
+####61####OG18
+#RC#1 (412)#B#100
+In their study of whether offering a guarantee of service quality will encourage customers to visit a particular restaurant, Tucci and Talaga have found that the effect of such guarantees is mixed. For higher-priced restaurants, there is some evidence that offering a guarantee increases the likelihood of customer selection, probably reflecting the greater financial commitment involved in choosing an expensive restaurant. For lower-priced restaurants, where one expects less assiduous service, Tucci and Talaga found that a guarantee could actually have a negative effect: a potential customer might think that a restaurant offering a guarantee is worried about its service. Moreover, since customers understand a restaurant's product and know what to anticipate in terms of service, they are empowered to question its quality. This is not generally true in the case of skilled activities such as electrical work, where, consequently, a guarantee might have greater customer appeal. For restaurants generally, the main benefit of a service guarantee probably lies not so much in customer appeal as in managing and motivating staff. Staff members would know what service standards are expected of them and also know that the success of the business relies on their adhering to those standards. Additionally, guarantees provide some basis for defining the skills needed for successful service in areas traditionally regarded as unskilled, such as waiting tables.
+The primary purpose of the passage is to
+(A)	question the results of a study that examined the effect of service-quality guarantees in the restaurant industry
+(B)	discuss potential advantages and disadvantages of service-quality guarantees in the restaurant industry
+(C)	examine the conventional wisdom regarding the effect of service-quality guarantees in the restaurant industry
+(D)	argue that only certain restaurants would benefit from the implementation of service-quality guarantees
+(E)	consider the impact that service-quality guarantees can have on the service provided by a restaurant
+---------------------------------
+#RC#2 (413)#C#200
+In their study of whether offering a guarantee of service quality will encourage customers to visit a particular restaurant, Tucci and Talaga have found that the effect of such guarantees is mixed. For higher-priced restaurants, there is some evidence that offering a guarantee increases the likelihood of customer selection, probably reflecting the greater financial commitment involved in choosing an expensive restaurant. For lower-priced restaurants, where one expects less assiduous service, Tucci and Talaga found that a guarantee could actually have a negative effect: a potential customer might think that a restaurant offering a guarantee is worried about its service. Moreover, since customers understand a restaurant's product and know what to anticipate in terms of service, they are empowered to question its quality. This is not generally true in the case of skilled activities such as electrical work, where, consequently, a guarantee might have greater customer appeal. For restaurants generally, the main benefit of a service guarantee probably lies not so much in customer appeal as in managing and motivating staff. Staff members would know what service standards are expected of them and also know that the success of the business relies on their adhering to those standards. Additionally, guarantees provide some basis for defining the skills needed for successful service in areas traditionally regarded as unskilled, such as waiting tables.
+It can be inferred that the author of the passage would agree with which of the following statements about the appeal of service guarantees to customers?
+(A)	Such guarantees are likely to be somewhat more appealing to customers of restaurants than to customers of other businesses.
+(B)	Such guarantees are likely to be more appealing to customers who know what to anticipate in terms of service.
+(C)	Such guarantees are likely to have less appeal in situations where customers are knowledgeable about a business's product or service.
+(D)	In situations where a high level of financial commitment is involved, a service guarantee is not likely to be very appealing.
+(E)	In situations where customers expect a high level of customer service, a service guarantee is likely to make customers think that a business is worried about its service.
+---------------------------------
+#RC#3 (414)#C#300
+In their study of whether offering a guarantee of service quality will encourage customers to visit a particular restaurant, Tucci and Talaga have found that the effect of such guarantees is mixed. For higher-priced restaurants, there is some evidence that offering a guarantee increases the likelihood of customer selection, probably reflecting the greater financial commitment involved in choosing an expensive restaurant. For lower-priced restaurants, where one expects less assiduous service, Tucci and Talaga found that a guarantee could actually have a negative effect: a potential customer might think that a restaurant offering a guarantee is worried about its service. Moreover, since customers understand a restaurant's product and know what to anticipate in terms of service, they are empowered to question its quality. This is not generally true in the case of skilled activities such as electrical work, where, consequently, a guarantee might have greater customer appeal. For restaurants generally, the main benefit of a service guarantee probably lies not so much in customer appeal as in managing and motivating staff. Staff members would know what service standards are expected of them and also know that the success of the business relies on their adhering to those standards. Additionally, guarantees provide some basis for defining the skills needed for successful service in areas traditionally regarded as unskilled, such as waiting tables.
+According to the passage, Tucci and Talaga found that service guarantees, when offered by lower-priced restaurants, can have which of the following effects?
+(A)	Customers' developing unreasonably high expectations regarding service
+(B)	Customers' avoiding such restaurants because they fear that the service guarantee may not be fully honored
+(C)	Customers' interpreting the service guarantee as a sign that management is not confident about the quality of its service
+(D)	A restaurant's becoming concerned that its service will not be assiduous enough to satisfy customers
+(E)	A restaurant's becoming concerned that customers will be more emboldened to question the quality of the service they receive
+---------------------------------
+#RC#4 (415)#D#400
+The argument for “monetizing” — or putting a monetary value on — ecosystem functions may be stated thus: Concern about the depletion of natural resources is widespread, but this concern, in the absence of an economic argument for conservation, has not translated into significant conservational progress. Some critics blame this impasse on environmentalists, whom they believe fail to address the economic issues of environmental degradation. Conservation can appear unprofitable when compared with the economic returns derived from converting natural assets (pristine coastlines, for example) into explicitly commercial ones (such as resort hotels). But according to David Pearce, that illusion stems from the fact that “services” provided by ecological systems are not traded on the commodities market, and thus have no readily quantifiable value. To remedy this, says Pearce, one has to show that all ecosystems have economic value — indeed, that all ecological services are economic services. Tourists visiting wildlife preserves, for example, create jobs and generate income for national economies; undisturbed forests and wetlands regulate water runoff and act as water-purifying systems, saving millions of dollars worth of damage to property and to marine ecosystems. In Gretchen Daily's view, monetization, while unpopular with many environmentalists, reflects the dominant role that economic considerations play in human behavior, and the expression of economic value in a common currency helps inform environmental decision-making processes.
+Information in the passage suggests that David Pearce would most readily endorse which of the following statements concerning monetization?
+(A)	Monetization represents a strategy that is attractive to both environmentalists and their critics.
+(B)	Monetization is an untested strategy, but it is increasingly being embraced by environmentalists.
+(C)	Monetization should at present be restricted to ecological services and should only gradually be extended to such commercial endeavors as tourism and recreation.
+(D)	Monetization can serve as a means of representing persuasively the value of environmental conservation.
+(E)	Monetization should inform environmental decision-making processes only if it is accepted by environmentalist groups.
+---------------------------------
+#RC#5 (416)#C#500
+The argument for “monetizing” — or putting a monetary value on — ecosystem functions may be stated thus: Concern about the depletion of natural resources is widespread, but this concern, in the absence of an economic argument for conservation, has not translated into significant conservational progress. Some critics blame this impasse on environmentalists, whom they believe fail to address the economic issues of environmental degradation. Conservation can appear unprofitable when compared with the economic returns derived from converting natural assets (pristine coastlines, for example) into explicitly commercial ones (such as resort hotels). But according to David Pearce, that illusion stems from the fact that “services” provided by ecological systems are not traded on the commodities market, and thus have no readily quantifiable value. To remedy this, says Pearce, one has to show that all ecosystems have economic value — indeed, that all <span style="background:yellow;"><strong>ecological services</span></strong> are economic services. Tourists visiting wildlife preserves, for example, create jobs and generate income for national economies; undisturbed forests and wetlands regulate water runoff and act as water-purifying systems, saving millions of dollars worth of damage to property and to marine ecosystems. In Gretchen Daily's view, monetization, while unpopular with many environmentalists, reflects the dominant role that economic considerations play in human behavior, and the expression of economic value in a common currency helps inform environmental decision-making processes.
+Which of the following most clearly represents an example of an “ecological service” as that term is used in highlighted text?
+(A)	A resort hotel located in an area noted for its natural beauty
+(B)	A water-purifying plant that supplements natural processes with nontoxic chemicals
+(C)	A wildlife preserve that draws many international travelers
+(D)	A nonprofit firm that specializes in restoring previously damaged ecosystems
+(E)	A newsletter that keeps readers informed of ecological victories and setbacks
+---------------------------------
+#RC#6 (417)#A#600
+The argument for “monetizing” — or putting a monetary value on — ecosystem functions may be stated thus: Concern about the depletion of natural resources is widespread, but this concern, in the absence of an economic argument for conservation, has not translated into significant conservational progress. Some critics blame this impasse on environmentalists, whom they believe fail to address the economic issues of environmental degradation. Conservation can appear unprofitable when compared with the economic returns derived from converting natural assets (pristine coastlines, for example) into explicitly commercial ones (such as resort hotels). But according to David Pearce, that illusion stems from the fact that “services” provided by ecological systems are not traded on the commodities market, and thus have no readily quantifiable value. To remedy this, says Pearce, one has to show that all ecosystems have economic value — indeed, that all ecological services are economic services. Tourists visiting wildlife preserves, for example, create jobs and generate income for national economies; undisturbed forests and wetlands regulate water runoff and act as water-purifying systems, saving millions of dollars worth of damage to property and to marine ecosystems. In Gretchen Daily's view, monetization, while unpopular with many environmentalists, reflects the dominant role that economic considerations play in human behavior, and the expression of economic value in a common currency helps inform environmental decision-making processes.
+According to the passage, Daily sees monetization as an indication of which of the following?
+(A)	The centrality of economic interests to people's actions
+(B)	The reluctance of the critics of environmentalism to acknowledge the importance of conservation
+(C)	The inability of financial interests and ecological interests to reach a common ideological ground
+(D)	The inevitability of environmental degradation
+(E)	The inevitability of the growth of ecological services in the future
+---------------------------------
+#RC#7 (418)#C#700
+The argument for “monetizing” — or putting a monetary value on — ecosystem functions may be stated thus: Concern about the depletion of natural resources is widespread, but this concern, in the absence of an economic argument for conservation, has not translated into significant conservational progress. Some critics blame this impasse on <span style="background:yellow;"><strong>environmentalists</span></strong>, whom they believe fail to address the economic issues of environmental degradation. Conservation can appear unprofitable when compared with the economic returns derived from converting natural assets (pristine coastlines, for example) into explicitly commercial ones (such as resort hotels). But according to David Pearce, that illusion stems from the fact that “services” provided by ecological systems are not traded on the commodities market, and thus have no readily quantifiable value. To remedy this, says Pearce, one has to show that all ecosystems have economic value — indeed, that all ecological services are economic services. Tourists visiting wildlife preserves, for example, create jobs and generate income for national economies; undisturbed forests and wetlands regulate water runoff and act as water-purifying systems, saving millions of dollars worth of damage to property and to marine ecosystems. In Gretchen Daily's view, monetization, while unpopular with many environmentalists, reflects the dominant role that economic considerations play in human behavior, and the expression of economic value in a common currency helps inform environmental decision-making processes.
+Which of the following can be inferred from the passage concerning the environmentalists highlighted?
+(A)	They are organized in opposition to the generation of income produced by the sale of ecological services.
+(B)	They are fewer in number but better organized and better connected to the media than their opponents.
+(C)	They have sometimes been charged with failing to use a particular strategy in their pursuit of conservational goals.
+(D)	They have been in the forefront of publicizing the extent of worldwide environmental degradation.
+(E)	They define environmental progress differently and more conservatively than do other organized groups of environmentalists.
+---------------------------------
+#RC#8 (439)#C#800
+In the Sonoran Desert of northwestern Mexico and southern Arizona, the flowers of several species of columnar cacti — cardon, saguaro, and organ pipe — were once exclusively pollinated at night by nectar-feeding bats, as their close relatives in arid tropical regions of southern Mexico still are. In these tropical regions, diurnal (daytime) visitors to columnar cactus flowers are ineffective pollinators because, by sunrise, the flowers' stigmas become unreceptive or the flowers close. Yet the flowers of the Sonoran Desert cacti have evolved to remain open after sunrise, allowing pollination by such diurnal visitors as bees and birds. Why have these cacti expanded their range of pollinators by remaining open and receptive in daylight?<br><br>This development at the northernmost range of columnar cacti may be due to a yearly variation in the abundance — and hence the reliability — of migratory nectar-feeding bats. Pollinators can be unreliable for several reasons. They can be dietary generalists whose fidelity to a particular species depends on the availability of alternative food sources. Or, they can be dietary specialists, but their abundance may vary widely from year to year, resulting in variable pollination of their preferred food species. Finally, they may be dietary specialists, but their abundance may be chronically low relative to the availability of flowers. Recent data reveals that during spring in the Sonoran Desert, the nectar-feeding bats are specialists feeding on cardon, saguaro, and organpipe flowers. However, whereas cactus-flower abundance tends to be high during spring, bat population densities tend to be low except near maternity roosts. Moreover, in spring, diurnal cactus-pollinating birds are significantly more abundant in this region than are the nocturnal bats. Thus, with bats being unreliable cactus-flower pollinators, and daytime pollinators more abundant and therefore more reliable, selection favors the cactus flowers with traits that increase their range of pollinators. While data suggest that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly balanced there: compared with the Sonoran Desert's cardon and saguaro, columnar cacti in southern Mexico produce far fewer flowers per night. Accordingly, despite their low population density, bats are able to pollinate nearly 100 percent of the available flowers.
+The primary purpose of the passage is to
+(A) compare the adaptive responses of several species of columnar cacti in the Sonoran Desert with those in the arid tropical regions of southern Mexico
+(B) discuss some of the possible causes of the relatively low abundance of migratory nectar-feeding bats in the Sonoran Desert
+(C) provide a possible explanation for a particular evolutionary change in certain species of columnar cacti in the Sonoran Desert
+(D) present recent findings that challenge a particular theory as to why several species of columnar cacti in the Sonoran Desert have expanded their range of pollinators
+(E) compare the effectiveness of nocturnal and diurnal pollination for several different species of columnar cacti in the Sonoran Desert
+---------------------------------
+#RC#9 (440)#B#900
+In the Sonoran Desert of northwestern Mexico and southern Arizona, the flowers of several species of columnar cacti — cardon, saguaro, and organ pipe — were once exclusively pollinated at night by nectar-feeding bats, as their close relatives in arid tropical regions of southern Mexico still are. In these tropical regions, diurnal (daytime) visitors to columnar cactus flowers are ineffective pollinators because, by sunrise, the flowers' stigmas become unreceptive or the flowers close. Yet the flowers of the Sonoran Desert cacti have evolved to remain open after sunrise, allowing pollination by such diurnal visitors as bees and birds. Why have these cacti expanded their range of pollinators by remaining open and receptive in daylight?<br><br>This development at the northernmost range of columnar cacti may be due to a yearly variation in the abundance — and hence the reliability — of migratory nectar-feeding bats. Pollinators can be unreliable for several reasons. They can be dietary generalists whose fidelity to a particular species depends on the availability of alternative food sources. Or, they can be dietary specialists, but their abundance may vary widely from year to year, resulting in variable pollination of their preferred food species. Finally, they may be dietary specialists, but their abundance may be chronically low relative to the availability of flowers. Recent data reveals that during spring in the Sonoran Desert, the nectar-feeding bats are specialists feeding on cardon, saguaro, and organpipe flowers. However, whereas cactus-flower abundance tends to be high during spring, bat population densities tend to be low except near maternity roosts. Moreover, in spring, diurnal cactus-pollinating birds are significantly more abundant in this region than are the nocturnal bats. Thus, with bats being unreliable cactus-flower pollinators, and daytime pollinators more abundant and therefore more reliable, selection favors the cactus flowers with traits that increase their range of pollinators. While data suggest that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly balanced there: compared with the Sonoran Desert's cardon and saguaro, columnar cacti in southern Mexico produce far fewer flowers per night. Accordingly, despite their low population density, bats are able to pollinate nearly 100 percent of the available flowers.
+According to the passage, which of the following types of nectar-feeding pollinators is likely to be an unreliable pollinator of a particular cactus flower?
+(A) A dietary specialist whose abundance is typically high in relation to that of the flower
+(B) A dietary specialist whose abundance is at times significantly lower than that of the flower
+(C) A dietary generalist for whom that flower's nectar is not a preferred food but is the most consistently available food
+(D) A dietary generalist for whom that flower's nectar is slightly preferred to other available foods
+(E) A dietary generalist that evolved from a species of dietary specialists
+---------------------------------
+#RC#10 (441)#E#1000
+In the Sonoran Desert of northwestern Mexico and southern Arizona, the flowers of several species of columnar cacti — cardon, saguaro, and organ pipe — were once exclusively pollinated at night by nectar-feeding bats, as their close relatives in arid tropical regions of southern Mexico still are. In these tropical regions, diurnal (daytime) visitors to columnar cactus flowers are ineffective pollinators because, by sunrise, the flowers' stigmas become unreceptive or the flowers close. Yet the flowers of the Sonoran Desert cacti have evolved to remain open after sunrise, allowing pollination by such diurnal visitors as bees and birds. Why have these cacti expanded their range of pollinators by remaining open and receptive in daylight?<br><br>This development at the northernmost range of columnar cacti may be due to a yearly variation in the abundance — and hence the reliability — of migratory nectar-feeding bats. Pollinators can be unreliable for several reasons. They can be dietary generalists whose fidelity to a particular species depends on the availability of alternative food sources. Or, they can be dietary specialists, but their abundance may vary widely from year to year, resulting in variable pollination of their preferred food species. Finally, they may be dietary specialists, but their abundance may be chronically low relative to the availability of flowers. Recent data reveals that during spring in the Sonoran Desert, the nectar-feeding bats are specialists feeding on cardon, saguaro, and organpipe flowers. However, whereas cactus-flower abundance tends to be high during spring, bat population densities tend to be low except near maternity roosts. Moreover, in spring, diurnal cactus-pollinating birds are significantly more abundant in this region than are the nocturnal bats. Thus, with bats being unreliable cactus-flower pollinators, and daytime pollinators more abundant and therefore more reliable, selection favors the cactus flowers with traits that increase their range of pollinators. While data suggest that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly that population densities of nectar-feeding bats are also low in tropical areas of southern Mexico, where bats are the exclusive pollinators of many species of columnar cacti, cactus-flower density and bat population density appear to be much more evenly balanced there: compared with the Sonoran Desert's cardon and saguaro, columnar cacti in southern Mexico produce far fewer flowers per night. Accordingly, despite their low population density, bats are able to pollinate nearly 100 percent of the available flowers.
+According to the passage, present-day columnar cacti in the Sonoran Desert differ from their close relatives in southern Mexico in that the Sonoran cacti
+(A) have flowers that remain open after sunset
+(B) are pollinated primarily by dietary specialists
+(C) can be pollinated by nectar-feeding bats
+(D) have stigmas that are unreceptive to pollination at night
+(E) are sometimes pollinated by diurnal pollinators
+---------------------------------
+#RC#11 (467)#A#1100
+Resin is a plant secretion that hardens when exposed to air; fossilized resin is called amber. Although Pliny in the first century recognized that amber was produced from “marrow discharged by trees,” amber has been widely misunderstood to be a semiprecious gem and has even been described in mineralogy textbooks. Confusion also persists surrounding the term “resin,” which was defined before rigorous chemical analyses were available. Resin is often confused with gum, a substance produced in plants in response to bacterial infections, and with sap, an aqueous solution transported through certain plant tissues. Resin differs from both gum and sap in that scientists have not determined a physiological function for resin.<br><br>In the 1950s, entomologists posited that resin may function to repel or attract insects. Fraenkel conjectured that plants initially produced resin in nonspecific chemical responses to insect attack and that, over time, plants evolved that produced resin with specific repellent effects. But some insect species, he noted, might overcome the repellent effects, actually becoming attracted to the resin. This might induce the insects to feed on those plants or aid them in securing a breeding site. Later researchers suggested that resin mediates the complex interdependence, or “coevolution,” of plants and insects over time. Such ideas led to the development of the specialized discipline of chemical ecology, which is concerned with the role of plant chemicals in interactions with other organisms and with the evolution and ecology of plant antiherbivore chemistry (plants' chemical defenses against attack by herbivores such as insects).
+According to the passage, which of the following is true of plant antiherbivore chemistry?
+(A) Changes in a plant's antiherbivore chemistry may affect insect feeding behavior.
+(B) A plant's repellent effects often involve interactions between gum and resin.
+(C) A plant's antiherbivore responses assist in combating bacterial infections.
+(D) Plant antiherbivore chemistry plays only a minor role in the coevolution of plants and insects.
+(E) Researchers first studied repellent effects in plants beginning in the 1950s.
+---------------------------------
+#RC#12 (468)#E#1200
+Resin is a plant secretion that hardens when exposed to air; fossilized resin is called amber. Although Pliny in the first century recognized that amber was produced from “marrow discharged by trees,” amber has been widely misunderstood to be a semiprecious gem and has even been described in mineralogy textbooks. Confusion also persists surrounding the term “resin,” which was defined before rigorous chemical analyses were available. Resin is often confused with gum, a substance produced in plants in response to bacterial infections, and with sap, an aqueous solution transported through certain plant tissues. Resin differs from both gum and sap in that scientists have not determined a physiological function for resin.<br><br>In the 1950s, entomologists posited that resin may function to repel or attract insects. Fraenkel conjectured that plants initially produced resin in nonspecific chemical responses to insect attack and that, over time, plants evolved that produced resin with specific repellent effects. But some insect species, he noted, might overcome the repellent effects, actually becoming attracted to the resin. This might induce the insects to feed on those plants or aid them in securing a breeding site. Later researchers suggested that resin mediates the complex interdependence, or “coevolution,” of plants and insects over time. Such ideas led to the development of the specialized discipline of chemical ecology, which is concerned with the role of plant chemicals in interactions with other organisms and with the evolution and ecology of plant antiherbivore chemistry (plants' chemical defenses against attack by herbivores such as insects).
+Of the following topics, which would be most likely to be studied within the discipline of chemical ecology as it is described in the passage?
+(A) Seeds that become attached to certain insects, which in turn carry away the seeds and aid in the reproductive cycle of the plant species in question
+(B) An insect species that feeds on weeds detrimental to crop health and yield, and how these insects might aid in agricultural production
+(C) The effects of deforestation on the life cycles of subtropical carnivorous plants and the insect species on which the plants feed
+(D) The growth patterns of a particular species of plant that has proved remarkably resistant to herbicides
+(E) Insects that develop a tolerance for feeding on a plant that had previously been toxic to them, and the resultant changes within that plant species
+---------------------------------
+#RC#13(469)#A#1300
+Resin is a plant secretion that hardens when exposed to air; fossilized resin is called amber. Although Pliny in the first century recognized that amber was produced from “marrow discharged by trees,” amber has been widely misunderstood to be a semiprecious gem and has even been described in mineralogy textbooks. Confusion also persists surrounding the term “resin,” which was defined before rigorous chemical analyses were available. Resin is often confused with gum, a substance produced in plants in response to <span style="background:yellow;"><strong>bacterial infections</span></strong>, and with sap, an aqueous solution transported through certain plant tissues. Resin differs from both gum and sap in that scientists have not determined a physiological function for resin.<br><br>In the 1950s, entomologists posited that resin may function to repel or attract insects. Fraenkel conjectured that plants initially produced resin in nonspecific chemical responses to insect attack and that, over time, plants evolved that produced resin with specific repellent effects. But some insect species, he noted, might overcome the repellent effects, actually becoming attracted to the resin. This might induce the insects to feed on those plants or aid them in securing a breeding site. Later researchers suggested that resin mediates the complex interdependence, or “coevolution,” of plants and insects over time. Such ideas led to the development of the specialized discipline of chemical ecology, which is concerned with the role of plant chemicals in interactions with other organisms and with the evolution and ecology of plant antiherbivore chemistry (plants' chemical defenses against attack by herbivores such as insects).
+The author refers to “bacterial infections” most likely in order to
+(A) describe the physiological function that gum performs in plants
+(B) demonstrate that sap is not the only substance that is transported through a plant's tissues
+(C) explain how modern chemical analysis has been used to clarify the function of resin
+(D) show that gum cannot serve as an effective defense against herbivores
+(E) give an example of how confusion has arisen with regard to the nature of resin
+---------------------------------
+#RC#14 (470)#D#1400
+Resin is a plant secretion that hardens when exposed to air; fossilized resin is called amber. Although Pliny in the first century recognized that amber was produced from “marrow discharged by trees,” amber has been widely misunderstood to be a semiprecious gem and has even been described in mineralogy textbooks. Confusion also persists surrounding the term “resin,” which was defined before rigorous chemical analyses were available. Resin is often confused with gum, a substance produced in plants in response to bacterial infections, and with sap, an aqueous solution transported through certain plant tissues. Resin differs from both gum and sap in that scientists have not determined a physiological function for resin.<br><br>In the 1950s, entomologists posited that resin may function to repel or attract insects. Fraenkel conjectured that plants initially produced resin in nonspecific chemical responses to insect attack and that, over time, plants evolved that produced resin with specific repellent effects. But some insect species, he noted, might overcome the repellent effects, actually becoming attracted to the resin. This might induce the insects to feed on those plants or aid them in securing a breeding site. Later researchers suggested that resin mediates the complex interdependence, or “coevolution,” of plants and insects over time. Such ideas led to the development of the specialized discipline of chemical ecology, which is concerned with the role of plant chemicals in interactions with other organisms and with the evolution and ecology of plant antiherbivore chemistry (plants' chemical defenses against attack by herbivores such as insects).
+The author of the passage refers to Pliny most probably in order to
+(A) give an example of how the nature of amber has been misunderstood in the past
+(B) show that confusion about amber has long been more pervasive than confusion about resin
+(C) make note of the first known reference to amber as a semiprecious gem
+(D) point out an exception to a generalization about the history of people's understanding of amber
+(E) demonstrate that Pliny believed amber to be a mineral
+---------------------------------
+#RC#15 (514)#D#1500
+Conodonts, the spiky phosphatic remains (bones and teeth composed of calcium phosphate) of tiny marine animals that probably appeared about 520 million years ago, were once among the most controversial of fossils. Both the nature of the organism to which the remains belonged and the function of the remains were unknown. However, since the 1981 discovery of fossils preserving not just the phosphatic elements but also other remains of the tiny soft-bodied animals (also called conodonts) that bore them, scientists' reconstructions of the animals' anatomy have had important implications for hypotheses concerning the development of the vertebrate skeleton.<br><br>The vertebrate skeleton had traditionally been regarded as a defensive development, champions of this view postulating that it was only with the much later evolution of jaws that vertebrates became predators. The first vertebrates, which were soft-bodied, would have been easy prey for numerous invertebrate carnivores, especially if these early vertebrates were sedentary suspension feeders. Thus, traditionalists argued, these animals developed coverings of bony scales or plates, and teeth were secondary features, adapted from the protective bony scales. Indeed, external skeletons of this type are common among the well-known fossils of ostracoderms, jawless vertebrates that existed from approximately 500 to 400 million years ago. However, other paleontologists argued that many of the definitive characteristics of vertebrates, such as paired eyes and muscular and skeletal adaptations for active life, would not have evolved unless the first vertebrates were predatory. Teeth were more primitive than external armor according to this view, and the earliest vertebrates were predators.<br><br>The stiffening notochord along the back of the body, V-shaped muscle blocks along the sides, and posterior tail fins help to identify conodonts as among the most primitive of vertebrates. The lack of any mineralized structures apart from the elements in the mouth indicates that conodonts were more primitive than the armored jawless fishes such as the ostracoderms. It now appears that the hard parts that first evolved in the mouth of an animal improved its efficiency as a predator, and that aggression rather than protection was the driving force behind the origin of the vertebrate skeleton.
+According to the passage, the anatomical evidence provided by the preserved soft bodies of conodonts led scientists to conclude that
+(A)	conodonts had actually been invertebrate carnivores
+(B)	conodonts' teeth were adapted from protective bony scales
+(C)	conodonts were primitive vertebrate suspension feeders
+(D)	primitive vertebrates with teeth appeared earlier than armored vertebrates
+(E)	scientists' original observations concerning the phosphatic remains of conodonts were essentially correct
+---------------------------------
+#RC#16 (515)#E#1600
+Conodonts, the spiky phosphatic remains (bones and teeth composed of calcium phosphate) of tiny marine animals that probably appeared about 520 million years ago, were once among the most controversial of fossils. Both the nature of the organism to which the remains belonged and the function of the remains were unknown. However, since the 1981 discovery of fossils preserving not just the phosphatic elements but also other remains of the tiny soft-bodied animals (also called conodonts) that bore them, scientists' reconstructions of the animals' anatomy have had important implications for hypotheses concerning the development of the vertebrate skeleton.<br><br>The vertebrate skeleton had traditionally been regarded as a defensive development, champions of this view postulating that it was only with the much later evolution of jaws that vertebrates became predators. The first vertebrates, which were soft-bodied, would have been easy prey for numerous invertebrate carnivores, especially if these early vertebrates were sedentary suspension feeders. Thus, traditionalists argued, these animals developed coverings of bony scales or plates, and teeth were secondary features, adapted from the protective bony scales. Indeed, external skeletons of this type are common among the well-known fossils of ostracoderms, jawless vertebrates that existed from approximately 500 to 400 million years ago. However, other paleontologists argued that many of the definitive characteristics of vertebrates, such as paired eyes and muscular and skeletal adaptations for active life, would not have evolved unless the first vertebrates were predatory. Teeth were more primitive than external armor according to this view, and the earliest vertebrates were predators.<br><br>The stiffening notochord along the back of the body, V-shaped muscle blocks along the sides, and posterior tail fins help to identify conodonts as among the most primitive of vertebrates. The lack of any mineralized structures apart from the elements in the mouth indicates that conodonts were more primitive than the armored jawless fishes such as the ostracoderms. It now appears that the hard parts that first evolved in the mouth of an animal improved its efficiency as a predator, and that aggression rather than protection was the driving force behind the origin of the vertebrate skeleton.
+The second paragraph in the passage serves primarily to
+(A)	outline the significance of the 1981 discovery of conodont remains to the debate concerning the development of the vertebrate skeleton
+(B)	contrast the traditional view of the development of the vertebrate skeleton with a view derived from the 1981 discovery of conodont remains
+(C)	contrast the characteristics of the ostracoderms with the characteristics of earlier soft-bodied vertebrates
+(D)	explain the importance of the development of teeth among the earliest vertebrate predators
+(E)	present the two sides of the debate concerning the development of the vertebrate skeleton
+---------------------------------
+#RC#17 (516)#B#1700
+Conodonts, the spiky phosphatic remains (bones and teeth composed of calcium phosphate) of tiny marine animals that probably appeared about 520 million years ago, were once among the most controversial of fossils. Both the nature of the organism to which the remains belonged and the function of the remains were unknown. However, since the 1981 discovery of fossils preserving not just the phosphatic elements but also other remains of the tiny soft-bodied animals (also called conodonts) that bore them, scientists' reconstructions of the animals' anatomy have had important implications for hypotheses concerning the development of the vertebrate skeleton.<br><br>The vertebrate skeleton had traditionally been regarded as a defensive development, champions of this view postulating that it was only with the much later evolution of jaws that vertebrates became predators. The first vertebrates, which were soft-bodied, would have been easy prey for numerous invertebrate carnivores, especially if these early vertebrates were sedentary suspension feeders. Thus, traditionalists argued, these animals developed coverings of bony scales or plates, and teeth were secondary features, adapted from the protective bony scales. Indeed, external skeletons of this type are common among the well-known fossils of ostracoderms, jawless vertebrates that existed from approximately 500 to 400 million years ago. However, other paleontologists argued that many of the definitive characteristics of vertebrates, such as paired eyes and muscular and skeletal adaptations for active life, would not have evolved unless the first vertebrates were predatory. Teeth were more primitive than external armor according to this view, and the earliest vertebrates were predators.<br><br>The stiffening notochord along the back of the body, V-shaped muscle blocks along the sides, and posterior tail fins help to identify conodonts as among the most primitive of vertebrates. The lack of any mineralized structures apart from the elements in the mouth indicates that conodonts were more primitive than the armored jawless fishes such as the ostracoderms. It now appears that the hard parts that first evolved in the mouth of an animal improved its efficiency as a predator, and that aggression rather than protection was the driving force behind the origin of the vertebrate skeleton.
+It can be inferred that on the basis of the 1981 discovery of conodont remains, paleontologists could draw which of the following conclusions?
+(A)	The earliest vertebrates were sedentary suspension feeders.
+(B)	Ostracoderms were not the earliest vertebrates.
+(C)	Defensive armor preceded jaws among vertebrates.
+(D)	Paired eyes and adaptations for activity are definitive characteristics of vertebrates.
+(E)	Conodonts were unlikely to have been predators.
+---------------------------------
+#RC#18 (537)#C#1800
+When asteroids collide, some collisions cause an asteroid to spin faster; others slow it down. If asteroids are all monoliths — single rocks — undergoing random collisions, a graph of their rotation rates should show a bell-shaped distribution with statistical “tails” of very fast and very slow rotators. If asteroids are rubble piles, however, the tail representing the very fast rotators would be missing, because any loose aggregate spinning faster than once every few hours (depending on the asteroid's bulk density) would fly apart. Researchers have discovered that all but <span style="background:yellow;"><strong>five observed asteroids</span></strong> obey a strict limit on rate of rotation. The exceptions are all smaller than 200 meters in diameter, with an abrupt cutoff for asteroids larger than that.<br><br>The evident conclusion — that asteroids larger than 200 meters across are multicomponent structures or rubble piles — agrees with recent computer modeling of collisions, which also finds a transition at that diameter. A collision can blast a large asteroid to bits, but after the collision those bits will usually move slower than their mutual escape velocity. Over several hours, gravity will reassemble all but the fastest pieces into a rubble pile. Because collisions among asteroids are relatively frequent, most large bodies have already suffered this fate. Conversely, most small asteroids should be monolithic, because impact fragments easily escape their feeble gravity.
+The passage implies which of the following about the five asteroids highlighted?
+(A)	Their rotation rates are approximately the same.
+(B)	They have undergone approximately the same number of collisions.
+(C)	They are monoliths.
+(D)	They are composed of fragments that have escaped the gravity of larger asteroids.
+(E)	They were detected only recently.
+---------------------------------
+#RC#19 (538)#D#1900
+When asteroids collide, some collisions cause an asteroid to spin faster; others slow it down. If asteroids are all monoliths — single rocks — undergoing random collisions, a graph of their rotation rates should show a bell-shaped distribution with statistical “tails” of very fast and very slow rotators. If asteroids are rubble piles, however, the tail representing the very fast rotators would be missing, because any loose aggregate spinning faster than once every few hours (depending on the asteroid's bulk density) would fly apart. Researchers have discovered that all but five observed asteroids obey a strict limit on rate of rotation. The exceptions are all smaller than 200 meters in diameter, with an abrupt cutoff for asteroids larger than that.<br><br><span style="background:yellow;"><strong>The evident conclusion</span></strong> — that asteroids larger than 200 meters across are multicomponent structures or rubble piles — agrees with recent computer modeling of collisions, which also finds a transition at that diameter. A collision can blast a large asteroid to bits, but after the collision those bits will usually move slower than their mutual escape velocity. Over several hours, gravity will reassemble all but the fastest pieces into a rubble pile. Because collisions among asteroids are relatively frequent, most large bodies have already suffered this fate. Conversely, most small asteroids should be monolithic, because impact fragments easily escape their feeble gravity.
+The discovery of which of the following would call into question the conclusion highlighted?
+(A)	An asteroid 100 meters in diameter rotating at a rate of once per week
+(B)	An asteroid 150 meters in diameter rotating at a rate of 20 times per hour
+(C)	An asteroid 250 meters in diameter rotating at a rate of once per week
+(D)	An asteroid 500 meters in diameter rotating at a rate of once per hour
+(E)	An asteroid 1,000 meters in diameter rotating at a rate of once every 24 hours
+---------------------------------
+#RC#20 (539)#B#2000
+When asteroids collide, some collisions cause an asteroid to spin faster; others slow it down. If asteroids are all monoliths — single rocks — undergoing random collisions, a graph of their rotation rates should show a bell-shaped distribution with statistical “tails” of very fast and very slow rotators. If asteroids are rubble piles, however, the tail representing the very fast rotators would be missing, because any loose aggregate spinning faster than once every few hours (depending on the asteroid's bulk density) would fly apart. Researchers have discovered that all but five observed asteroids obey a strict limit on rate of rotation. The exceptions are all smaller than 200 meters in diameter, with an abrupt cutoff for asteroids larger than that.<br><br>The evident conclusion — that asteroids larger than 200 meters across are multicomponent structures or rubble piles — agrees with recent computer modeling of collisions, which also finds a transition at that diameter. A collision can blast a large asteroid to bits, but after the collision those bits will usually move slower than their mutual escape velocity. Over several hours, gravity will reassemble all but the fastest pieces into a rubble pile. Because collisions among asteroids are relatively frequent, most large bodies have already suffered this fate. Conversely, most small asteroids should be monolithic, because impact fragments easily escape their feeble gravity.
+According to the passage, which of the following is a prediction that is based on the strength of the gravitational attraction of small asteroids?
+(A)	Small asteroids will be few in number.
+(B)	Small asteroids will be monoliths.
+(C)	Small asteroids will collide with other asteroids very rarely.
+(D)	Most small asteroids will have very fast rotation rates.
+(E)	Almost no small asteroids will have very slow rotation rates.
+---------------------------------
+#RC#21 (540)#E#2100
+When asteroids collide, some collisions cause an asteroid to spin faster; others slow it down. If asteroids are all monoliths — single rocks — undergoing random collisions, a graph of their rotation rates should show a bell-shaped distribution with statistical “tails” of very fast and very slow rotators. If asteroids are rubble piles, however, the tail representing the very fast rotators would be missing, because any loose aggregate spinning faster than once every few hours (depending on the asteroid's bulk density) would fly apart. Researchers have discovered that all but five observed asteroids obey a strict limit on rate of rotation. The exceptions are all smaller than 200 meters in diameter, with an abrupt cutoff for asteroids larger than that.<br><br>The evident conclusion — that asteroids larger than 200 meters across are multicomponent structures or rubble piles — agrees with recent computer modeling of collisions, which also finds a transition at that diameter. A collision can blast a large asteroid to bits, but after the collision those bits will usually move slower than their mutual <span style="background:yellow;"><strong>escape velocity</span></strong>. Over several hours, gravity will reassemble all but the fastest pieces into a rubble pile. Because collisions among asteroids are relatively frequent, most large bodies have already suffered this fate. Conversely, most small asteroids should be monolithic, because impact fragments easily escape their feeble gravity.
+The author of the passage mentions “escape velocity” in order to help explain which of the following?
+(A)	The tendency for asteroids to become smaller rather than larger over time
+(B)	The speed with which impact fragments reassemble when they do not escape an asteroid's gravitational attraction after a collision
+(C)	The frequency with which collisions among asteroids occur
+(D)	The rotation rates of asteroids smaller than 200 meters in diameter
+(E)	The tendency for large asteroids to persist after collisions
+---------------------------------
+#CR#22 (546)#E#100
+With employer-paid training, workers have the potential to become more productive not only in their present employment but also in any number of jobs with different employers. To increase the productivity of their workforce, many firms are planning to maintain or even increase their investments in worker training. But some training experts object that if a trained worker is hired away by another firm, the employer that paid for the training has merely subsidized a competitor. They note that such hiring has been on the rise in recent years.<br><br>Which of the following would, if true, contribute most to defeating the training experts' objection to the firms' strategy?
+(A)	Firms that promise opportunities for advancement to their employees get, on average, somewhat larger numbers of job applications from untrained workers than do firms that make no such promise.
+(B)	In many industries, employees who take continuing-education courses are more competitive in the job market.
+(C)	More and more educational and training institutions are offering reduced tuition fees to firms that subsidize worker training.
+(D)	Research shows that workers whose training is wholly or partially subsidized by their employer tend to get at least as much training as do workers who pay for all their own training.
+(E)	For most firms that invest in training their employees, the value added by that investment in employees who stay exceeds the value lost through other employees' leaving to work for other companies
+---------------------------------
+#CR#23 (550)#E#200
+Which of the following, if true, most logically completes the argument?<br><br>Political theorist: Even with the best spies, area experts, and satellite surveillance, foreign policy assessments can still lack important information. In such circumstances intuitive judgment is vital. A national leader with such judgment can make good decisions about foreign policy even when current information is incomplete, since __________.
+(A)	the central reason for failure in foreign policy decision making is the absence of critical information
+(B)	those leaders whose foreign policy decisions have been highly ranked have also been found to have good intuitive judgment
+(C)	both intuitive judgment and good information are required for sound decision making
+(D)	good foreign policy decisions often lead to improved methods of gathering information
+(E)	intuitive judgment can produce good decisions based on past experience, even when there are important gaps in current information
+---------------------------------
+#CR#24 (554)#A#300
+Archaeologists use technology to analyze ancient sites. It is likely that this technology will advance considerably in the near future, allowing archaeologists to gather more information than is currently possible. If they study certain sites now, they risk contaminating or compromising them for future studies. Therefore, in order to maximize the potential for gathering knowledge in the long run, a team of archaeologists plans to delay the examination of a newly excavated site.<br><br>Which of the following would be most useful to investigate for the purpose of evaluating the plan's prospects for achieving its goal?
+(A)	Whether any of the contents of the site will significantly deteriorate before the anticipated technology is available
+(B)	Whether there will continue to be improvements on the relevant technology
+(C)	Whether the team can study a site other than the newly excavated site for the time being
+(D)	Whether the site was inhabited by a very ancient culture
+(E)	Whether the anticipated technology will damage objects under study
+---------------------------------
+#CR#25 (556)#D#400
+Beginning in 1966 all new cars sold in Morodia were required to have safety belts and power steering. Previously, most cars in Morodia were without these features. Safety belts help to prevent injuries in collisions, and power steering helps to avoid collisions in the first place. But even though in 1966 one-seventh of the cars in Morodia were replaced with new cars, the number of car collisions and collision-related injuries did not decline.<br><br>Which of the following, if true about Morodia, most helps to explain why the number of collisions and collision-related injuries in Morodia failed to decline in 1966?
+(A)	Because of a driver-education campaign, most drivers and passengers in cars that did have safety belts used them in 1966.
+(B)	Most of the new cars bought in 1966 were bought in the months of January and February.
+(C)	In 1965, substantially more than one-seventh of the cars in Morodia were replaced with new cars.
+(D)	An excessive reliance on the new safety features led many owners of new cars to drive less cautiously in 1966 than before.
+(E)	The seat belts and power steering put into new cars sold in 1966 had to undergo strict quality-control inspections by manufacturers, whether the cars were manufactured in Morodia or not.
+---------------------------------
+#CR#26 (561)#B#500
+Chaco Canyon, a settlement of the ancient Anasazi culture in North America, had massive buildings. <strong>It must have been a major Anasazi center</strong>. Analysis of wood samples shows that some of the timber for the buildings came from Chuska and San Mateo Mountains, 50 miles from Chaco Canyon. <strong>Only a major cultural center would have the organizational power to import timber from 50 miles away.</strong><br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A)	The first is premise used to support the argument's main conclusion; the second is the argument's main conclusion.
+(B)	The first is the argument's main conclusion; the second is a premise used to support that conclusion.
+(C)	The first is one of the two premises used to support the argument's main conclusion; the second is the other of those two premises.
+(D)	The first is premise used to support the argument's main conclusion; the second is a premise used to support another conclusion drawn in the argument.
+(E)	The first is inferred from another statement in the argument; the second is inferred from the first.
+---------------------------------
+#CR#27 (575)#E#600
+In Merina commercial fossil hunters often sell important fossils they have found, not to universities or museums, but to individual collectors, who pay much better but generally do not allow researchers access to their collections. To increase the number of fossils available for research, some legislators propose requiring all fossils that are found in Merina to be sold only to universities or museums.<br><br>Which of the following, if true, most strongly indicates that the legislators' proposal will fail to achieve its goal?
+(A)	Some fossil hunters in Merina are not commercial fossil hunters, but rather are amateurs who keep the fossils that they find.
+(B)	Most fossils found in Merina are common types that have little scientific interest.
+(C)	Commercial fossil hunters in Merina currently sell some of the fossils they find to universities and museums.
+(D)	Many universities in Merina do not engage in fossil research.
+(E)	Most fossils are found by commercial fossil hunters, and they would give up looking for fossils if they were no longer allowed to sell to individual collectors.
+---------------------------------
+#CR#28 (589)#C#700
+The heavy traffic in Masana is a growing drain on the city's economy - the clogging of the streets of the central business district alone cost the economy more than $1.2 billion over the past year. In order to address this problem, officials plan to introduce congestion pricing, by which drivers would pay to enter the city's most heavily trafficked areas during the busiest times of the day.<br><br>Which of the following, if true, would most strongly indicate that the plan will be a success?
+(A)	Approximately one-fifth of the vehicles in the central business district are in transit from one side of the city to the other .
+(B)	Planners expect that, without congestion pricing, traffic in Masana is likely to grow by 6 percent in the next five years .
+(C)	In other urban areas, congestion pricing has strongly encouraged carpooling (sharing of rides by private commuters).
+(D)	Several studies have shown that a reduction in traffic of 15 percent in Masana could result in 5,500 or more new jobs.
+(E)	Over 30 percent of the vehicles in the city's center are occupied by more than one person
+---------------------------------
+#CR#29 (599)#C#800
+Economist: The price of tap water in our region should be raised drastically. <strong>Supplies in local freshwater reservoirs have been declining for years</strong> because water is being used faster than it can be replenished. Since the price of tap water has been low, <strong>few users have bothered to adopt even easy conservation measure.</strong><br><br>The two sections in boldface play which of the following roles in the economist's argument?
+(A)	The first is a conclusion for which support is provided, and which in turn supports the main conclusion; the second is the main conclusion.
+(B)	The first is an observation for which the second provides an explanation; the second is the main conclusion but not the only conclusion.
+(C)	The first is a premise supporting the argument's main conclusion; so is the second.
+(D)	The first is the only conclusion; the second provides an explanation for the first.
+(E)	The first is the main conclusion; the second is a conclusion for which support is provided, and which in turn supports the first.
+---------------------------------
+#CR#30 (626)#D#900
+Which of the following most logically completes the passage?<br><br>According to the last pre-election poll in Whippleton, most voters believe that the three problems government needs to address, in order of importance, are pollution, crime, and unemployment. Yet in the election, candidates from parties perceived as strongly against pollution were defeated, while those elected were all from parties with a history of opposing legislation designed to reduce pollution. These results should not be taken to indicate that the poll was inaccurate, however, since ______________.
+(A)	some voters in Whippleton do not believe that pollution needs to be reduced.
+(B)	every candidate who was defeated had a strong antipollution record
+(C)	there were no issues other than crime, unemployment, and pollution on which the candidates had significant differences of opinion
+(D)	all the candidates who were elected were perceived as being stronger against both crime and unemployment than the candidates who were defeated
+(E)	many of the people who voted in the election refused to participate in the poll
+---------------------------------
+#CR#31 (627)#E#1000
+Manufacturing plants in Arundia have recently been acquired in substantial numbers by investors from abroad. Arundian politicians are proposing legislative action to stop such investment, justifying the proposal by arguing that foreign investors, opportunistically exploiting a recent fall in the value of the Arundian currency, were able to buy Arundian assets at less than their true value.<br><br>Which of the following, if true, casts the most serious doubt on the adequacy of the Arundian politicians' justification for the proposed legislation?
+(A)	The Arundian government originally welcomed the fall in the value of the Arundian currency because the fall made Arundian exports more competitive on international markets
+(B)	Foreign investors who acquired manufacturing plants generally did so with no intention of keeping and running those plants over the long term.
+(C)	Without the recent fall in the value of the Arundian currency, many of the Arundian assets bought by foreign investors would have been beyond the financial reach of those investors.
+(D)	In Concordia, a country broadly similar to Arundia , the share of manufacturing assets that is foreign - controlled is 60 percent higher than it is in Arundia.
+(E)	The true value of an investment is determined by the value of the profits from it , and the low value of the Arundian currency has depressed the value of any profits earned by foreign investors from Arundian assets.
+---------------------------------
+#CR#32 (631)#E#1100
+Newspaper editors should not allow reporters to write the headlines for their own stories. The reason for this is that, while the headlines that reporters themselves write are often clever, what typically makes them clever is that they allude to little-known information that is familiar to the reporter but that never appears explicitly in the story itself.<br><br>Which of the following, if true, most strengthens the argument?
+(A)	The reporter who writes a story is usually better placed than the reporters' editor is to judge what the story's most newsworthy features are.
+(B)	To write a headline that is clever, a person must have sufficient understanding of the story that the headline accompanies.
+(C)	Most reporters rarely bother to find out how other reporters have written stories and headlines about the same events that they themselves have covered.
+(D)	For virtually any story that a reporter writes, there are at least a few people who know more about the story's subject matter than does the reporter.
+(E)	The kind of headlines that newspaper editors want are those that anyone who has read a reporter's story in its entirety will recognize as clever.
+---------------------------------
+#CR#33 (634)#B#1200
+Proponents of the recently introduced tax on sales of new luxury boats had argued that a tax of this sort would be an equitable way to increase government revenue because the admittedly heavy tax burden would fall only on wealthy people and neither they nor anyone else would suffer any economic hardship. In fact, however, 20 percent of the workers employed by manufacturers of luxury boats have lost their jobs as a direct result of this tax.<br><br>The information given, if true, most strongly supports which of the following?
+(A)	The market for luxury boats would have collapsed even if the new tax on luxury boats had been lower.
+(B)	The new tax would produce a net gain in tax revenue for the government only if the yearly total revenue that it generates exceeds the total of any yearly tax-revenue decrease resulting from the workers' loss of jobs.
+(C)	Because many people never buy luxury items, imposing a sales tax on luxury items is the kind of legislative action that does not cost incumbent legislators much popular support.
+(D)	Before the tax was instituted, luxury boats were largely bought by people who were not wealthy.
+(E)	Taxes can be equitable only if their burden is evenly distributed over the entire population.
+---------------------------------
+#CR#34 (635)#A#1300
+In Wareland last year, 16 percent of licensed drivers under 21 and 11 percent of drivers ages 21-24 were in serious accidents. By contrast, only 3 percent of licensed drivers 65 and older were involved in serious accidents. These figures clearly show that the greater experience and developed habits of caution possessed by drivers in the 65-and-older group make them far safer behind the wheel than the younger drivers are.<br><br>Which of the following is an assumption on which the argument depends?
+(A)	Drivers 65 and older do not, on average, drive very many fewer miles per year than drivers 24 and younger.
+(B)	Drivers 65 and older do not constitute a significantly larger percentage of licensed drivers in Wareland than drivers ages 18-24 do.
+(C)	Drivers 65 and older are less likely than are drivers 24 and younger to drive during weather conditions that greatly increase the risk of accidents.
+(D)	The difference between the accident rate of drivers under 21 and of those ages 21-24 is attributable to the greater driving experience of those in the older group.
+(E)	There is no age bracket for which the accident rate is lower than it is for licensed drivers 65 and older.
+---------------------------------
+#CR#35 (640)#D#1400
+Last year Comfort Airlines had twice as many delayed flights as the year before, but the number of complaints from passengers about delayed flights went up three times. It is unlikely that this disproportionate increase in complaints was rooted in an increase in overall dissatisfaction with the service Comfort Airlines provides, since the airline made a special effort to improve other aspects of its service last year.<br><br>Which of the following, if true,most helps to explain the disproportionate increase in computer complaints?
+(A)	Comfort Airlines had more flight last year than the year before.
+(B)	Last year a single period usually bad weather caused a large number of flights to be delayed.
+(C)	Some of the improvements that Comfort Airlines made in its service were required by new government regulations.
+(D)	The average length of flight delay was greater last year than it was the year before.
+(E)	The average number of passengers per flight was no higher last year than the year before.
+---------------------------------
+#CR#36 (643)#C#1500
+The kinds of hand and wrist injuries that result from extended use of a computer while maintaining an incorrect posture are common among schoolchildren in Harnville. Computers are important to the school curriculum there, so instead of reducing the amount their students use computers, teachers plan to bring about a sharp reduction in the number of these injuries by carefully monitoring their students' posture when using computers in the classroom.<br><br>Which of the following would it be most useful to know in order to assess the likelihood that the teachers' plan will be successful?
+(A)	Whether extended use of a computer while maintaining incorrect posture can cause injuries other than hand and wrist injuries
+(B)	Whether hand and wrist injuries not caused by computer use are common among schoolchildren in Harnville
+(C)	What proportion of schoolchildren in Harnville with hand and wrist injuries use computers extensively outside the classroom
+(D)	Whether changes in the curriculum could reduce the schools' dependence on computers
+(E)	What proportion of schoolchildren in Harnville already use correct posture while using a computer.
+---------------------------------
+#CR#37 (651)#B#1600
+Country X's recent stock-trading scandal should not diminish investors' confidence in the country's stock market. For one thing, <strong>the discovery of the scandal confirms that Country has a strong regulatory system</strong>, as the following considerations show. In any stock market, some fraudulent activitity is inevitable. If a stock market is well regulated, any significant stock-trading fraud in it will be very likely be discovered. This deters potential perpetrators and facilitates improvement in regulatory processes.<br><br>In the argument, the portion in boldface plays which of the following roles?
+(A)	It is the argument's only conclusion.
+(B)	It is the conclusion for which the argument provides support and which itself is used to support the argument's main conclusion.
+(C)	It is argument's main conclusion and is supported by another explicitly stated conclusion for which further support is provided.
+(D)	It is an assumption for which no explicit support is provided and is used to support the argument's only conclusion.
+(E)	It is a compound statement containing both the argument's main conclusion and an assumption sued to support that conclusion.
+---------------------------------
+#CR#38 (656)#C#1700
+Veterinarians generally derive some of their income from selling several manufacturers' lines of pet-care products. Knowing that pet owners rarely throw away mail from their pet's veterinarian unread, one manufacturer of pet-care products offered free promotional materials on its products to veterinarians for mailing to their clients. Very few veterinarians accepted the offer, however, even though the manufacturer's products are of high quality.<br><br>Which of the following, if true, most helps to explain the veterinarian's reaction to the manufacturer's promotional scheme?
+(A)	Most of the veterinarians to whom the free promotional materials were offered were already selling the manufacturer's pet-care products to their clients.
+(B)	The special promotional materials were intended as a supplement to the manufacturer's usual promotional activities rather than as a replacement for them.
+(C)	The manufacturer's products, unlike most equally good competing products sold by veterinarians, are also available in pet stores and in supermarkets.
+(D)	Many pet owners have begun demanding quality in products they buy for their pets that is as high as that in products they buy for themselves.
+(E)	Veterinarians sometimes recommend that pet owners use products formulated for people when no suitable product specially formulated for animals is available.
+---------------------------------
+#CR#39 (660)#E#1800
+NorthAir charges low fares for its economy-class seats, but it provides very cramped seating and few amenities. Market research shows that economy passengers would willingly pay more for wider seating and better service, and additional revenue provided by these higher ticket prices would more than cover the additional cost of providing these amenities. Even though NorthAir is searching for ways to improve its profitability, it has decided not to make these improvements.<br><br>Which of the following, if true, would most help to explain NorthAir's decision in light of its objectives?
+(A)	None of NorthAir's competitors offers significantly better seating and service to economy-class passengers than NorthAir does.
+(B)	On many of the routes that NorthAir flies, it is the only airline to offer direct flights.
+(C)	A few of NorthAir's economy-class passengers are satisfied with the service they receive, given the low price they pay.
+(D)	Very few people avoid flying on NorthAir because of the cramped seating and poor service offered in economy class.
+(E)	The number of people who would be willing to pay the high fares NorthAir charges for its business-class seats would decrease if its economy-class seating were more acceptable.
+---------------------------------
+#CR#40 (661)#D#1900
+Which of the following most logically completes the argument given?<br><br>Asthma, a chronic breathing disorder, is significantly more common today among adult competitive swimmers than it is among competitive athletes who specialize in other sports. Although chlorine is now known to be a lung irritant and swimming pool water is generally chlorinated, it would be rash to assume that frequent exposure to chlorine is the explanation of the high incidence of asthma among these swimmers, since __________.
+(A)	young people who have asthma are no more likely to become competitive athletes than are young people who do not have asthma
+(B)	competitive athletes who specialize in sports other than swimming are rarely exposed to chlorine
+(C)	competitive athletes as a group have a significantly lower incidence of asthma than do people who do not participate in competitive athletics
+(D)	until a few years ago, physicians routinely recommended competitive swimming to children with asthma, in the belief that this form of exercise could alleviate asthma symptoms
+(E)	many people have asthma without knowing they have it and thus are not diagnosed with the condition until they begin engaging in very strenuous activities, such as competitive athletics
+---------------------------------
+#SC#41 (647)#D#100
+<span style="text-decoration: underline">Air traffic routes over the North Pole are currently used by only two or three planes a day, but it was found by a joint Canadian–Russian study to be both feasible as well as desirable if those routes are opened to thousands more commercial planes a year.</span>
+(A)	Air traffic routes over the North Pole are currently used by only two or three planes a day, but it was found by a joint Canadian–Russian study to be both feasible as well as desirable if those routes are opened to thousands more commercial planes a year.
+(B)	Currently used by only two or three planes a day, a joint Canadian–Russian study has found that if air traffic routes over the North Pole are opened to thousands more commercial planes a year, it would be both feasible and desirable.
+(C)	A joint Canadian–Russian study, finding it to be both feasible as well as desirable to open air traffic routes over the North Pole, which are currently used by only two or three planes a day, to thousands more commercial planes a year.
+(D)	Although air traffic routes over the North Pole are currently used by only two or three planes a day, a joint Canadian–Russian study has found that opening those routes to thousands more commercial planes a year is both feasible and desirable.
+(E)	With air traffic routes over the North Pole currently used by only two or three planes a day, opening those routes to thousands more commercial planes a year has been found by a joint Canadian—Russian study as both feasible and desirable
+---------------------------------
+#SC#42 (680)#D#200
+Unlike the virginal, <span style="text-decoration: underline">whose single set of strings runs parallel to the front edge of the instrument, the harpsichord’s several sets of strings are</span> placed at right angles to its front edge.
+(A)	whose single set of strings runs parallel to the front edge of the instrument, the harpsichord’s several sets of strings are
+(B)	with a single set of strings running parallel to the front edge of the instrument, the several sets of strings of the harpsichord are
+(C)	which has a single set of strings that runs parallel to the front edge of the instrument, in the case of the harpsichord, several sets of strings are
+(D)	which has a single set of strings that run parallel to the front edge of the instrument, the harpsichord has several sets of strings
+(E)	in which a single set of strings run parallel to the front edge of the instrument, the harpsichord’s several sets of strings are
+---------------------------------
+#SC#43 (684)#A#300
+In 1913, the largely self-taught Indian mathematician Srinivasa Ramanujan mailed 120 of his theorems to three different British mathematicians; <span style="text-decoration: underline">only one, G. H. Hardy, recognized the brilliance of these theorems, but</span> thanks to Hardy's recognition, Ramanujan was eventually elected to the Royal Society of London.
+(A)	only one, G. H. Hardy, recognized the brilliance of these theorems, but
+(B)	they were brilliant, G. H. Hardy alone recognized, but
+(C)	these theorems were brilliant, but only one, G. H. Hardy recognized;
+(D)	but, only one G. H. Hardy, recognizing their brilliance,
+(E)	only one G. H. Hardy recognized, but these theorems were brilliant
+---------------------------------
+#SC#44 (685)#D#400
+Cost cutting and restructuring <span style="text-decoration: underline">has allowed the manufacturing company to lower its projected losses for the second quarter, and they are forecasting</span> a profit before the end of the year.
+(A)	has allowed the manufacturing company to lower its projected losses for the second quarter, and they are forecasting
+(B)	has allowed for the manufacturing company to lower its projected losses in the second quarter and to forecast
+(C)	have allowed that the manufacturing company can lower the projected losses for the second quarter, and to forecast
+(D)	have allowed the manufacturing company to lower its projected second-quarter losses and to forecast
+(E)	have allowed for the manufacturing company to lower the projected losses in the second quarter, as well as forecasting
+---------------------------------
+#SC#45 (699)#C#500
+Researchers now regard interferon <span style="text-decoration: underline">as not a single substance, but it is rather a biological family of complex molecules that play</span> an important, though not entirely defined, role in the immune system.
+(A)	as not a single substance, but it is rather a biological family of complex molecules that play
+(B)	as not a single substance but as a biological family of complex molecules playing
+(C)	not as a single substance but as a biological family of complex molecules that play
+(D)	not to be a single substance but rather a biological family of complex molecules playing
+(E)	not as a single substance but instead as being a biological family of complex molecules that play
+---------------------------------
+#SC#46 (702)#A#600
+Between 14,000 and 8,000 b.c. the ice cap that covered northern Asia, Europe, and America <span style="text-decoration: underline">began to melt, uncovering vast new areas that were to be occupied</span> by migrating peoples moving northward.
+(A)	began to melt, uncovering vast new areas that were to be occupied
+(B)	began melting, to uncover vast new areas to be occupied
+(C)	began, by melting, to uncover vast new areas for occupation
+(D)	began, after melting, uncovering vast new areas which are to be occupied
+(E)	would begin to uncover, through melting, vast new areas for occupation
+---------------------------------
+#SC#47 (717)#D#700
+Employing many different techniques throughout his career, Michelangelo produced a great variety of art works, <span style="text-decoration: underline">including paintings, for example, in the Sistine Chapel, to sculpture, for example,</span> the statue of David.
+(A)	including paintings, for example, in the Sistine Chapel, to sculpture, for example,
+(B)	including paintings, for example, in the Sistine Chapel, to sculpture, like
+(C)	including paintings, such as those in the Sistine Chapel, and sculpture, as
+(D)	ranging from paintings, such as those in the Sistine Chapel, to sculpture, such as
+(E)	ranging from paintings, such as in the Sistine Chapel, and sculpture, such as
+---------------------------------
+#SC#48 (735)#E#800
+The English physician Edward Jenner found that if experimental subjects were deliberately infected with cowpox, <span style="text-decoration: underline">which caused only a mild illness, they are immune from</span> smallpox.
+(A)	which caused only a mild illness, they are immune from
+(B)	causing only a mild illness, they become immune from
+(C)	which causes only a mild illness, they are immune to
+(D)	causing only a mild illness, they became immune from
+(E)	which caused only a mild illness, they would become immune to
+---------------------------------
+#SC#49 (743)#A#900
+To attract the most talented workers, some companies are offering a wider range of <span style="text-decoration: underline">benefits, letting employees pick those most important to them.</span>
+(A)	benefits, letting employees pick those most important to them
+(B)	benefits, letting employees pick the most important of them to themselves
+(C)	benefits and letting employees pick the most important to themselves
+(D)	benefits and let employees pick the most important to them
+(E)	benefits and let employees pick those that are most important to themselves
+---------------------------------
+#SC#50 (745)#C#1000
+Tides typically range from three to six feet, but while some places show no tides at all, <span style="text-decoration: underline">some others, such as the Bay of Fundy, have tides of at least thirty feet and more.</span>
+(A)	some others, such as the Bay of Fundy, have tides of at least thirty feet and more
+(B)	the others, such as the Bay of Fundy, that have tides of more than thirty feet
+(C)	others, such as the Bay of Fundy, have tides of more than thirty feet
+(D)	those at the Bay of Fundy, which has tides of more than thirty feet
+(E)	the ones at the Bay of Fundy have tides of at least thirty feet and more
+---------------------------------
+#SC#51 (750)#B#1100
+Next month, state wildlife officials are scheduled to take over the job of increasing the wolf population in the federally designated recovery <span style="text-decoration: underline">area, the number of which will however</span> ultimately be dictated by the number of prey in the area.
+(A)	area, the number of which will however
+(B)	area; the size of the population, however, will
+(C)	area, however the number of wolves will
+(D)	area; the number of which will, however,
+(E)	area, when the size of the population will, however,
+---------------------------------
+#SC#52 (751)#B#1200
+About 5 million acres in the United <span style="text-decoration: underline">States have been invaded by leafy spurge, a herbaceous plant from Eurasia with milky sap that gives mouth sores to cattle, displacing grasses and other cattle food and rendering</span> rangeland worthless.
+(A)	States have been invaded by leafy spurge, a herbaceous plant from Eurasia with milky sap that gives mouth sores to cattle, displacing grasses and other cattle food and rendering
+(B)	States have been invaded by leafy spurge, a herbaceous plant from Eurasia, with milky sap, that gives mouth sores to cattle and displaces grasses and other cattle food, rendering
+(C)	States have been invaded by leafy spurge, a herbaceous plant from Eurasia having milky sap that gives mouth sores to cattle and displacing grasses and other cattle food, rendering
+(D)	States, having been invaded by leafy spurge, a herbaceous plant from Eurasia with milky sap that gives mouth sores to cattle, displaces grasses and other cattle food, and renders
+(E)	States, having been invaded by leafy spurge, a herbaceous plant from Eurasia that has milky sap giving mouth sores to cattle and displacing grasses and other cattle food, rendering
+---------------------------------
+#SC#53 (763)#B#1300
+Positing an enormous volcanic explosion at the end of the Permian period would explain the presence of a buried crater, <span style="text-decoration: underline">account for the presence of the element iridium (originating deep within the earth), and the presence of quartz having been</span> shattered by high-impact shock waves.
+(A)	account for the presence of the element iridium (originating deep within the earth), and the presence of quartz having been
+(B)	of the element iridium (originating deep within the earth), and of quartz
+(C)	the element iridium (originating deep within the earth), and explain the presence of quartz having been
+(D)	the presence of the element iridium (originating deep within the earth), and explain the presence of quartz
+(E)	explain the element iridium (originating deep within the earth), and the presence of quartz
+---------------------------------
+#SC#54 (770)#A#1400
+Although a number of excellent studies narrate the development of domestic technology and its impact on housewifery, these works do not discuss the contributions of the women employed <span style="text-decoration: underline">by manufacturers and utility companies as product demonstrators and publicists</span>, who initially promoted new and unfamiliar technology to female consumers.
+(A)	by manufacturers and utility companies as product demonstrators and publicists,
+(B)	to be product demonstrators and publicists by manufacturers and utility companies,
+(C)	to demonstrate and publicize their products by manufacturers and utility companies
+(D)	by manufacturers and utility companies to be demonstrators and publicists of their products
+(E)	by manufacturers and utility companies to demonstrate and publicize their products
+---------------------------------
+#SC#55 (777)#A#1500
+Before 1988, insurance companies in California were free to charge whatever rates the market would bear, <span style="text-decoration: underline">needing no approval from regulators before raising</span> rates.
+(A)	needing no approval from regulators before raising
+(B)	and it needed no approval by regulators before raising
+(C)	and needing no approval from regulators before they raised
+(D)	with approval not needed by regulators before they raised
+(E)	with no approval needed from regulators before the raising of
+---------------------------------
+#SC#56 (780)#E#1600
+Unlike the automobile <span style="text-decoration: underline">company, whose research was based on</span> crashes involving sport utility vehicles, the research conducted by the insurance company took into account such factors as a driver'a age, sex, and previous driving record.
+(A)	company, whose research was based on
+(B)	company, which researched
+(C)	company, in its research of
+(D)	company's research, having been based on
+(E)	company's research on
+---------------------------------
+#SC#57 (781)#E#1700
+Gusty westerly winds will continue <span style="text-decoration: underline">to usher in a seasonably cool air mass into the region, as a broad area of high pressure will build and</span> bring fair and dry weather for several days.
+(A)	to usher in a seasonably cool air mass into the region, as a broad area of high pressure will build and
+(B)	ushering in a seasonably cool air mass into the region and a broad area of high pressure will build that
+(C)	to usher in a seasonably cool air mass to the region, a broad area of high pressure building, and
+(D)	ushering a seasonably cool air mass in the region, with a broad area of high pressure building and
+(E)	to usher a seasonably cool air mass into the region while a broad area of high pressure builds, which will
+---------------------------------
+#SC#58 (782)#C#1800
+With <span style="text-decoration: underline">the patience of its customers and with its network strained to the breaking point, the on-line service company announced a series of new initiatives trying to relieve</span> the congestion that has led to at least four class-action lawsuits and thousands of complaints from frustrated customers.
+(A)	the patience of its customers and with its network strained to the breaking point, the on-line service company announced a series of new initiatives trying to relieve
+(B)	the patience of its customers and its network strained to the breaking point, the on-line service company announced a series of new initiatives that try to relieve
+(C)	its network and the patience of its customers strained to the breaking point, the on-line service company announced a series of new initiatives to try to relieve
+(D)	its network and with the patience of its customers strained to the breaking point, the on-line service company announced a series of initiatives to try relieving
+(E)	its network and its customers’ patience strained to the breaking point, the on-line service company announced a series of new initiatives to try relieving
+---------------------------------
+#SC#59 (784)#C#1900
+Most of the country’s biggest daily newspapers had lower circulation in the six months from October 1995 through March 1996 than <span style="text-decoration: underline">a similar period</span> a year earlier.
+(A)	a similar period
+(B)	a similar period’s
+(C)	in a similar period
+(D)	that in a similar period
+(E)	that of a similar period
+---------------------------------
+#SC#60 (796)#B#2000
+Among the Tsonga, a Bantu-speaking group of tribes in southeastern Africa, dance teams represent their own chief at <span style="text-decoration: underline">the court of each other, providing entertainment in return for</span> food, drink, and lodging.
+(A)	the court of each other, providing entertainment in return for
+(B)	the court of another and provide entertainment in return for
+(C)	the court of the other, so as to provide entertainment as a return on
+(D)	each other's court, entertainment being provided in return for
+(E)	another's court and provide entertainment as a return on
+---------------------------------
+#SC#61 (799)#A#2100
+While most of the earliest known ball courts in Mesoamerica date to 900–400 b.c., <span style="text-decoration: underline">waterlogged latex balls found at El Manati and representations of ballplayers painted on ceramics found at San Lorenzo attest</span> to the fact that the Mesoamerican ballgame was well established by the mid-thirteenth century b.c.
+(A)	waterlogged latex balls found at El Manati and representations of ballplayers painted on ceramics found at San Lorenzo attest
+(B)	waterlogged latex balls found at El Manati and the painting of representations of ballplayers on ceramics found at San Lorenzo attests
+(C)	waterlogged latex balls found at El Manati and ceramics painted with representations of ballplayers found at San Lorenzo attests
+(D)	the finding of waterlogged latex balls at El Manati and the painting of representations of ballplayers on ceramics found at San Lorenzo attests
+(E)	the finding of waterlogged latex balls at El Manati and of representations of ballplayers painted on ceramics at San Lorenzo attest
+---------------------------------

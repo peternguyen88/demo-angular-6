@@ -1,0 +1,210 @@
+####31####GCM-01####TEST####62
+#DS#1#B#100#Geometry / Coordinate Geometry#
+<p style="text-align: center;"><img align="middle" src="../../../assets/img/question/GMC-01-01.gif"/><p>Is triangle ABC above an isosceles triangle?
+Angle ACB is twice as large as angle ADC.
+Angle ACB is twice as large as angle CAB.
+---------------------------------
+#PS#2#D#100#Algebra#
+If \(x=\sqrt[4]{x^3+6x^2}\), then the sum of all possible solutions for x is:
+A. \(-2\)
+B. \(0\)
+C. \(1\)
+D. \(3\)
+E. \(5\)
+---------------------------------
+#PS#3#D#100#Remainders#
+If \(n\) is a non-negative integer and the remainder when \(3^n\) is divided by 4 is a multiple of 3, then which of the following must be true?<br>    I. \(n^2\) divided by 4 yields the reminder of 1<br>    II. \((-2)^n\) is less than 0<br>    III. \(n\) is a prime number
+(A) \(I\) only
+(B) \(II\) only
+(C) \(III\) only
+(D) \(I\) and \(II\) only
+(E) \(II\) and \(III\) only
+---------------------------------
+#DS#4#C#100#Number Properties#
+If \(a\), \(b\), and \(c\) are integers and \(a \lt b \lt c\), are a, b, and c consecutive integers?
+The median of \(\{a!, b!, c!\}\) is an odd number.
+\(c!\) is a prime number.
+---------------------------------
+#PS#5#B#100#Combinatorics and Probability#
+At a blind taste competition a contestant is offered 3 cups of each of the 3 samples of tea in a random arrangement of 9 marked cups. If each contestant tastes 4 different cups of tea, what is the probability that a contestant does not taste all of the samples?
+(A) \(\frac{1}{12}\)
+(B) \(\frac{5}{14}\)
+(C) \(\frac{4}{9}\)
+(D) \(\frac{1}{2}\)
+(E) \(\frac{2}{3}\)
+---------------------------------
+#DS#6#B#100#Exponents / Roots#
+Is \(\frac{7^7}{7^x}\) an integer?
+\(0 \le x \le 7\)
+\(|x| = x^2\)    
+---------------------------------
+#DS#7#B#100#Percents and Interest Problems#
+If the price increased by \(x\%\) from 2001 to 2002 and by \(y\%\) from 2002 to 2003, what is the percentage increase from 2001 to 2003?
+\(xy = 30\)
+\(100x + 100y + xy = 1330\)
+---------------------------------
+#DS#8#B#100#Distance / Problems#
+Buster leaves the trailer at noon and walks towards the studio at a constant rate of B miles per hour. 20 minutes later, Charlie leaves the same studio and walks towards the same trailer at a constant rate of C miles per hour along the same route as Buster. Will Buster be closer to the trailer than to the studio when he passes Charlie?
+Charlie gets to the trailer in 55 minutes.
+Buster gets to the studio at the same time as Charlie gets to the trailer.
+---------------------------------
+#DS#9#A#100#Word problems#
+There is at least one viper and at least one cobra in Pandora's box. How many cobras are there?
+From any two snakes from Pandora's box at least one is a viper.
+The total number of snakes in Pandora's box is 99.
+---------------------------------
+#PS#10#B#100#Properties of Sets#
+A set of 11 different integers has a median of 25 and a range of 50. What is the greatest possible integer that could be in this set?
+(A) 65
+(B) 70
+(C) 75
+(D) 80
+(E) 85
+---------------------------------
+#DS#11#C#100#Geometry / Coordinate Geometry#
+What is the perimeter of rectangle \(ABCD\)?
+The longer side of the rectangle is 2 meters shorter than its diagonal
+The ratio of the shorter side of the rectangle to its diagonal is \(\frac{1}{3}\)
+---------------------------------
+#DS#12#D#100#Geometry / Coordinate Geometry#
+If vertices of a triangle are A (5, 0), B (x, y) and C (25, 0), what is the area of the triangle?
+\(|x| = y = 10\)
+\(x = |y| = 10\)
+---------------------------------
+#DS#13#B#100#Geometry / Coordinate Geometry#
+A, B, C, and D are distinct points on a plane. If triangle ABC is right angled and BD is a height of this triangle, what is the value of AB times BC ?
+\(AB = 6\)
+The product of the non-hypotenuse sides of triangle \(ABC\) is equal to 24.
+---------------------------------
+#PS#14#D#100#Properties of Sets#
+The sequence \(a_1\), \(a_2\), ..., \(a_n\), ... is such that \(a_n=a_1+(n-1)d\) for all integers \(n \gt 1\) and for some constant \(d\). If the sum of the second and the fifth terms of the sequence is 8 and the sum of the third and the seventh terms is 14, what is the first term of the sequence?
+(A) 3
+(B) 2
+(C) 1
+(D) -1
+(E) -3
+---------------------------------
+#PS#15#E#100#Divisibility / Multiples / Factors#
+How many distinct integers are factors of 90?
+(A) 6
+(B) 8
+(C) 9
+(D) 10
+(E) 12
+---------------------------------
+#PS#16#A#100#Divisibility / Multiples / Factors#
+What is the number of integers from 1 to 1000, inclusive that are not divisible by 11 or by 35?
+(A) 884
+(B) 890
+(C) 892
+(D) 910
+(E) 945
+---------------------------------
+#DS#17#E#100#Number Properties#
+Is \(\frac{75}{z+1}\) an integer?
+\(z = 75x\) where \(x\) is an integer
+\(0 \le z \le 75\)
+---------------------------------
+#PS#18#B#100#Inequalities#
+If \(x^2-100 \lt 300\) then \(x\) can take how many integer values?
+(A) 42
+(B) 39
+(C) 38
+(D) 37
+(E) 19
+---------------------------------
+#PS#19#B#100#Inequalities#
+If \(x\) and \(y\) are positive integers and \(\frac{1}{x}+\frac{1}{y} \lt 2\), which of the following must be true?
+(A) \(x + y \gt 4\)
+(B) \(xy \gt 1\)
+(C) \(\frac{x}{y} + \frac{y}{x} \lt 1\)
+(D) \((x - y)^2 \gt 0\)
+(E) none of the above
+---------------------------------
+#PS#20#E#100#Number Properties#
+If \(x^2 \lt 81\) and \(y^2 \lt 25\), what is the largest prime number that can be equal to \(x-2y\)?
+(A) 3
+(B) 7
+(C) 11
+(D) 13
+(E) 17
+---------------------------------
+#PS#21#C#100#Work / Rate problems#
+Three workers, A, B, and C, can complete a certain task in 10, 5 and x hours respectively. A starts working alone and 2 hours later B joins. After another 2 hours joins C. After that A, B, and C together complete the task in 15 minutes. What is the value of \(x\)?
+(A) \(1\)
+(B) \(1.25\)
+(C) \(2\)
+(D) \(2.5\)
+(E) \(4\)
+---------------------------------
+#DS#22#E#100#Arithmetic#
+<b> x 2 1</b><br><br>      <b> 2 1 y</b><br><br>      <b> 1 z 2</b><br><br>      If in this table above \(x\), \(y\), and \(z\) stand for numbers, what is the value of \(x + y + z\)?
+The sum of numbers in each of the rows is equal.
+The sum of numbers in each of the columns is equal.
+---------------------------------
+#PS#23#A#100#Arithmetic#
+Which of the following expressions has the greatest value?
+(A) \(999^{12}\)
+(B) \(10^{30}\)
+(C) \(777^{10}\)
+(D) \((-20)^{24}\)
+(E) \((\sqrt{15})^{40}\)
+---------------------------------
+#PS#24#C#100#Absolute Values#
+Which of the following always equals \(\sqrt{9 + x^2 - 6x}\) ?
+(A) \(x - 3\)
+(B) \(3 + x\)
+(C) \(|3 - x|\)
+(D) \(|3 + x|\)
+(E) \(3 - x\)
+---------------------------------
+#PS#25#B#100#Overlapping Sets#
+Among 200 people, 56% like strawberry jam, 44% like apple jam, and 40% like raspberry jam. If 30% of the people like both strawberry and apple jam, what is the largest possible number of people who like raspberry jam but do not like either strawberry or apple jam?
+(A) 20
+(B) 60
+(C) 80
+(D) 86
+(E) 92
+---------------------------------
+#PS#26#A#100#Exponents / Roots#
+If each expression under the square root is greater than or equal to 0, what is \(\sqrt{x^2 - 6x + 9} + \sqrt{2 - x} + x - 3\)?
+(A) \(\sqrt{2 - x}\)
+(B) \(2x - 6 + \sqrt{2 - x}\)
+(C) \(\sqrt{2 - x} + x - 3\)
+(D) \(2x - 6 + \sqrt{x - 2}\)
+(E) \(x + \sqrt{x - 2}\)
+---------------------------------
+#PS#27#D#100#Word problems#
+60 percent of the people surveyed said that they would vote for Stewart. Of those who said they would vote for Stewart, 90 percent actually voted for him, and of those who did not say that they would vote for Stewart, 5 percent actually voted for him. What percent of the group surveyed voted for Stewart?
+(A) 30%
+(B) 40%
+(C) 50%
+(D) 56%
+(E) 64%
+---------------------------------
+#PS#28#E#100#Percents and Interest Problems#
+Max's current monthly salary is $2,000, and will be raised by 25% next month. If he decides to save exactly 25% of his salary each month, how many months will it take for Max to save $5,500?
+(A) 4
+(B) 5
+(C) 6
+(D) 7
+(E) 9
+---------------------------------
+#PS#29#D#100#Fractions / Ratios / Decimals#
+What is the last digit of \(3^{3^3}\)?
+(A) 1
+(B) 3
+(C) 6
+(D) 7
+(E) 9
+---------------------------------
+#DS#30#D#100#Combinatorics and Probability#
+If Event \(A\) and Event \(B\) are independent, is the probability that both Event \(A\) and Event \(B\) will happen greater than 0.3?
+Probability that \(A\) will happen is 0.25
+Probability that \(B\) will NOT happen is 0.71
+---------------------------------
+#DS#31#B#100#Algebra#
+If \(5x = y + 7\), is \((x - y) \gt 0\)?
+\(xy = 6\)
+\(x\) and \(y\) are consecutive integers with the same sign
+---------------------------------

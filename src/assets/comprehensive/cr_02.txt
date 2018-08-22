@@ -1,0 +1,689 @@
+####86####Comprehensive CR - Part II
+#CR#1#D#
+Half of the subjects in an experiment—the experimental group—consumed large quantities of a popular artificial sweetener. Afterward, this group showed lower cognitive abilities than did the other half of the subjects—the control group—who did not consume the sweetener. The detrimental effects were attributed to an amino acid that is one of the sweetener's principal constituents. <br><br>Which of the following, if true, would best support the conclusion that some ingredient of the sweetener was responsible for the experimental results?
+(A) Most consumers of the sweetener do not consume as much of it as the experimental group members did.
+(B) The amino acid referred to in the conclusion is a component of all proteins, some of which must be consumed for adequate nutrition.
+(C) The quantity of the sweetener consumed by individuals in the experimental group is considered safe by federal food regulators.
+(D) The two groups of subjects were evenly matched with regard to cognitive abilities prior to the experiment.
+(E) A second experiment in which subjects consumed large quantities of the sweetener lacked a control group of subjects who were not given the sweetener.
+---------------------------------
+#CR#2#D#
+The recent decline in the value of the dollar was triggered by a prediction of slower economic growth in the coming year. But that prediction would not have adversely affected the dollar had it not been for the government's huge budget deficit, which must therefore be decreased to prevent future currency declines.<br><br>Which of the following, if true, would most seriously weaken the conclusion about how to prevent future currency declines?
+(A) The government has made little attempt to reduce the budget deficit.
+(B) The budget deficit has not caused a slowdown in economic growth.
+(C) The value of the dollar declined several times in the year prior to the recent prediction of slower economic growth.
+(D) Before there was a large budget deficit, predictions of slower economic growth frequently caused declines in the dollar's value.
+(E) When there is a large budget deficit, other events in addition to predictions of slower economic growth sometimes trigger declines in currency value.
+---------------------------------
+#CR#3#B#
+When three Everett-owned Lightning-built airplanes crashed in the same month, the Everett company ordered three new Lightning-built airplanes as replacements. This decision surprised many in the airline industry because, ordinarily when a product is involved in accidents, users become reluctant to buy that product. <br><br>Which of the following, if true, provides the best indication that the Everett company's decision was logically well supported?
+(A) Although during the previous year only one Lightning-built airplane crashed, competing manufacturers had a perfect safety record.
+(B) The Lightning-built airplanes crashed due to pilot error, but because of the excellent quality of the planes there were many survivors.
+(C) The Federal Aviation Association issued new guidelines for airlines in order to standardize safety requirements governing preflight inspections.
+(D) Consumer advocates pressured two major airlines into purchasing safer airplanes so that the public would be safer while flying.
+(E) Many Lightning Airplane Company employees had to be replaced because they found jobs with the competition.
+---------------------------------
+#CR#4#B#
+The pharmaceutical industry argues that because new drugs will not be developed unless heavy development costs can be recouped in later sales, the current 20 years of protection provided by patents should be extended in the case of newly developed drugs. However, in other industries new-product development continues despite high development costs, a fact that indicates that the extension is unnecessary. <br><br>Which of the following, if true, most strongly supports the pharmaceutical industry's argument against the challenge made above?
+(A) No industries other than the pharmaceutical industry have asked for an extension of the 20-year limit on patent protection.
+(B) Clinical trials of new drugs, which occur after the patent is granted and before the new drug can be marketed, often now take as long as 10 years to complete.
+(C) There are several industries in which the ratio of research and development costs to revenues is higher than it is in the pharmaceutical industry.
+(D) An existing patent for a drug does not legally prevent pharmaceutical companies from bringing to market alternative drugs, provided they are sufficiently dissimilar to the patented drug.
+(E) Much recent industrial innovation has occurred in products—example, in the computer and electronics industries—which patent protection is often very ineffective.
+---------------------------------
+#CR#5#E#
+Robot satellites relay important communications and identify weather patterns. Because the satellites can be repaired only in orbit, astronauts are needed to repair them. Without repairs, the satellites would eventually malfunction. Therefore, space flights carrying astronauts must continue. <br><br>Which of the following, if true, would most seriously weaken the argument above?
+(A) Satellites falling from orbit because of malfunctions burn up in the atmosphere.
+(B) Although satellites are indispensable in the identification of weather patterns, weather forecasters also make some use of computer projections to identify weather patterns.
+(C) The government, responding to public pressure, has decided to cut the budget for space flights and put more money into social welfare programs.
+(D) Repair of satellites requires heavy equipment, which adds to the amount of fuel needed to lift a spaceship carrying astronauts into orbit.
+(E) Technical obsolescence of robot satellites makes repairing them more costly and less practical than sending new, improved satellites into orbit.
+---------------------------------
+#CR#6#E#
+The proposal to hire ten new police officers in Middletown is quite foolish. There is sufficient funding to pay the salaries of the new officers, but not the salaries of additional court and prison employees to process the increased caseload of arrests and convictions that new officers usually generate. <br><br>Which of the following, if true, will most seriously weaken the conclusion drawn above?
+(A) Studies have shown that an increase in a city's police force does not necessarily reduce crime.
+(B) When one major city increased its police force by 19 percent last year, there were 40 percent more arrests and 13 percent more convictions.
+(C) If funding for the new police officers' salaries is approved, support for other city services will have to be reduced during the next fiscal year.
+(D) In most United States cities, not all arrests result in convictions, and not all convictions result in prison terms.
+(E) Middletown's ratio of police officers to citizens has reached a level at which an increase in the number of officers will have a deterrent effect on crime.
+---------------------------------
+#CR#7#B#
+The more frequently employees take time to exercise during working hours each week, the fewer sick days they take. Even employees who exercise only once a week during working hours take less sick time than those who do not exercise. Therefore, if companies started fitness programs, the absentee rate in those companies would decrease significantly. <br><br>Which of the following, if true, most seriously weakens the argument above?
+(A) Employees who exercise during working hours occasionally fall asleep for short periods of time after they exercise.
+(B) Employees who are frequently absent are the least likely to cooperate with or to join a corporate fitness program.
+(C) Employees who exercise only once a week in their company's fitness program usually also exercise after work.
+(D) Employees who exercise in their company's fitness program use their working time no more productively than those who do not exercise.
+(E) Employees who exercise during working hours take slightly longer lunch breaks than employees who do not exercise.
+---------------------------------
+#CR#8#B#
+Recently a court ruled that current law allows companies to reject a job applicant if working in the job would entail a 90 percent chance that the applicant would suffer a heart attack. The presiding judge justified the ruling, saying that it protected both employees and employers. <br><br>The use of this court ruling as part of the law could not be effective in regulating employment practices if which of the following were true?
+(A) The best interests of employers often conflict with the interests of employees.
+(B) No legally accepted methods exist for calculating the risk of a job applicant's having a heart attack as a result of being employed in any particular occupation.
+(C) Some jobs might involve health risks other than the risk of heart attack.
+(D) Employees who have a 90 percent chance of suffering a heart attack may be unaware that their risk is so great.
+(E) The number of people applying for jobs at a company might decline if the company, by screening applicants for risk of heart attack, seemed to suggest that the job entailed high risk of heart attack.
+---------------------------------
+#CR#9#A#
+Treatment for hypertension forestalls certain medical expenses by preventing strokes and heart disease. Yet any money so saved amounts to only one-fourth of the expenditures required to treat the hypertensive population. Therefore, there is no economic justification for preventive treatment for hypertension. <br><br>Which of the following, if true, is most damaging to the conclusion above?
+(A) The many fatal strokes and heart attacks resulting from untreated hypertension cause insignificant medical expenditures but large economic losses of other sorts.
+(B) The cost, per patient, of preventive treatment for hypertension would remain constant even if such treatment were instituted on a large scale.
+(C) In matters of health care, economic considerations should ideally not be dominant.
+(D) Effective prevention presupposes early diagnosis, and programs to ensure early diagnosis are costly.
+(E) The net savings in medical resources achieved by some preventive health measures are smaller than the net losses attributable to certain other measures of this kind.
+---------------------------------
+#CR#10#C#
+Transnational cooperation among corporations is experiencing a modest renaissance among United States firms, even though projects undertaken by two or more corporations under a collaborative agreement are less profitable than projects undertaken by a single corporation. The advantage of transnational cooperation is that such joint international projects may allow United States firms to win foreign contracts that they would not otherwise be able to win. <br><br>Which of the following is information provided by the passage?
+(A) Transnational cooperation involves projects too big for a single corporation to handle.
+(B) Transnational cooperation results in a pooling of resources leading to high-quality performance.
+(C) Transnational cooperation has in the past been both more common and less common than it is now among United States firms.
+(D) Joint projects between United States and foreign corporations are not profitable enough to be worth undertaking.
+(E) Joint projects between United States and foreign corporations benefit only those who commission the projects.
+---------------------------------
+#CR#11#D#
+Until now, only injectable vaccines against influenza have been available. Parents are reluctant to subject children to the pain of injections, but adults, who are at risk of serious complications from influenza, are commonly vaccinated. A new influenza vaccine, administered painlessly in a nasal spray, is effective for children. However, since children seldom develop serious complications from influenza, no significant public health benefit would result from widespread vaccination of children using the nasal spray.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Any person who has received the injectable vaccine can safely receive the nasal-spray vaccine as well.
+(B) The new vaccine uses the same mechanism to ward off influenza as injectable vaccines do.
+(C) The injectable vaccine is affordable for all adults.
+(D) Adults do not contract influenza primarily from children who have influenza.
+(E) The nasal spray vaccine is not effective when administered to adults.
+---------------------------------
+#CR#12#C#
+Newspaper editorial: In an attempt to reduce the crime rate, the governor is getting tough on criminals and making prison conditions harsher. Part of this effort has been to deny inmates the access they formerly had to college-level courses. However, this action is clearly counter to the governor's ultimate goal, since after being released form prison, inmates who had taken such courses committed far fewer crimes overall than other inmates. <br><br>Which of the following is an assumption on which the argument depends?
+(A) Not being able to take college-level courses while in prison is unlikely to deter anyone from a crime that he or she might otherwise have committed.
+(B) Former inmates are no more likely to commit crimes than are members of the general population.
+(C) The group of inmates who chose to take college-level courses were not already less likely than other inmates to commit crimes after being released.
+(D) Taking high school level courses in prison has less effect on an inmate's subsequent behavior than taking college-level courses does.
+(E) The governor's ultimate goal actually is to gain popularity by convincing people that something effective is being done about crime.
+---------------------------------
+#CR#13#A#
+A significant number of complex repair jobs carried out by Ace Repairs have to be reworked under the company's warranty. The reworked jobs are invariably satisfactory. When initial repairs are inadequate, therefore, it is not because the mechanics lack competence; rather, there is clearly a level of focused concentration that complex repairs require that is elicited more reliably by rework jobs than by first-time jobs. <br><br>The argument above assumes which of the following?
+(A) There is no systematic difference in membership between the group of mechanics who do first-time jobs and the group of those who do rework jobs.
+(B) There is no company that successfully competes with Ace Repairs for complex repair jobs.
+(C) Ace Repairs' warranty is good on first-time jobs but does not cover rework jobs.
+(D) Ace Repairs does not in any way penalize mechanics who have worked on complex repair jobs that later had to be reworked.
+(E) There is no category of repair jobs in which Ace Repairs invariably carries out first-time jobs satisfactorily.
+---------------------------------
+#CR#14#D#
+When storing Renaissance oil paintings, museums conform to standards that call for careful control of the surrounding temperature and humidity, with variations confined within narrow margins. Maintaining this environment is very costly, and recent research shows that even old oil paint is unaffected by wide fluctuations in temperature and humidity. Therefore, museums could relax their standards and save money without endangering their Renaissance oil paintings.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Renaissance paintings were created in conditions involving far greater fluctuations in temperature and humidity than those permitted by current standards.
+(B) Linder the current standards that museums use when storing Renaissance oil paintings, those paintings do not deteriorate at all.
+(C) Museum collections typically do not contain items that are more likely to be vulnerable to fluctuations in temperature and humidity than Renaissance oil paintings.
+(D) None of the materials in Renaissance oil paintings other than the paint are vulnerable enough to relatively wide fluctuations in temperature and humidity to cause damage to the paintings.
+(E) Most Renaissance oil paintings are stored in museums located in regions near the regions where the paintings were created.
+---------------------------------
+#CR#15#D#
+In the year following an eight-cent increase in the federal tax on a pack of cigarettes, sales of cigarettes fell ten percent. In contrast, in the year prior to the tax increase, sales had fallen one percent. The volume of cigarette sales is therefore strongly related to the after-tax price of a pack of cigarettes. <br><br>The argument above requires which of following assumptions?
+(A) During the year following the tax increase, the pretax price of a pack of cigarettes did not increase by as much as it had during the year prior to the tax increase.
+(B) The one percent fall in cigarette sales in the year prior to tax increase was due to a smaller tax increase.
+(C) The pretax price of a pack of cigarettes gradually decreased throughout the year before and the year after the tax increase.
+(D) For the year following the tax increase, the pretax price of a pack of cigarettes was not eight or more cents lower than it had been the previous year.
+(E) As the after-tax price of a pack of cigarettes rises, the pretax price also rises.
+---------------------------------
+#CR#16#C#
+In Kravonia, the average salary for jobs requiring a college degree has always been higher than the average salary for jobs that do not require a degree. Current enrollments in Kravonia's colleges indicate that over the next four years the percentage of the Kravonian workforce with college degrees will increase dramatically. Therefore, the average salary for all workers in Kravonia is likely to increase over the next four years.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Kravonians with more than one college degree earn more, on average, than do Kravonians with only one college degree.
+(B) The percentage of Kravonians who attend college in order to earn higher salaries is higher now than it was several years ago.
+(C) The higher average salary for jobs requiring a college degree is not due largely to a scarcity among the Kravonian workforce of people with a college degree.
+(D) The average salary in Kravonia for jobs that do not require a college degree will not increase over the next four years.
+(E) Few members of the Kravonian workforce earned their degrees in other countries.
+---------------------------------
+#CR#17#D#
+For most people, the left half of the brain controls linguistic capabilities, but some people have their language centers in the right half. When a language center of the brain is damaged, for example by a stroke, linguistic capabilities are impaired in some way. Therefore, people who have suffered a serious stroke on the left side of the brain without suffering any such impairment must have their language centers in the right half. <br><br>Which of the following is an assumption on which the reasoning in the argument above depends?
+(A) No part of a person's brain that is damaged by a stroke ever recovers.
+(B) Impairment of linguistic capabilities does not occur in people who have not suffered any damage to any language center of the brain.
+(C) Strokes tend to impair linguistic capabilities more severely than does any other cause of damage to language centers in the brain.
+(D) If there are language centers on the left side of the brain, any serious stroke affecting that side of the brain damages at least one of them.
+(E) It is impossible to determine which side of the brain contains a person's language centers if the person has not suffered damage to either side of the brain.
+---------------------------------
+#CR#18#C#
+In a certain wildlife park, park rangers are able to track the movements of many rhinoceroses because those animals wear radio collars. When, as often happens, a collar slips off, it is put back on. Putting a collar on a rhinoceros involves immobilizing the animal by shooting it with a tranquilizer dart. Female rhinoceroses that have been frequently recollared have significantly lower fertility rates than uncollared females. Probably, therefore, some substance in the tranquilizer inhibits fertility.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The dose of tranquilizer delivered by a tranquilizer dart is large enough to give the rangers putting collars on rhinoceroses a generous margin of safety.
+(B) The fertility rate of uncollared female rhinoceroses in the park has been increasing in the past few decades.
+(C) Any stress that female rhinoceroses may suffer as a result of being immobilized and handled has little or no negative effect on their fertility.
+(D) The male rhinoceroses in the wildlife park do net lose their collars as often as the park's female rhinoceroses do.
+(E) The tranquilizer used in immobilizing rhinoceroses is the same as the tranquilizer used in working with other large mammals.
+---------------------------------
+#CR#19#E#
+In response to mounting public concern, an airplane manufacturer implemented a program with the well-publicized goal of reducing by half the total yearly amount of hazardous waste generated by its passenger-jet division. When the program began in 1994, the division's hazardous waste output was 90 pounds per production worker; last year it was 40 pounds per production worker. Clearly, therefore, charges that the manufacturer's program has not met its goal are false.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The amount of nonhazardous waste generated each year by the passenger-jet division has not increased significantly since 1994.
+(B) At least as many passenger jets were produced by the division last year as had been produced in 1994.
+(C) Since 1994, other divisions in the company have achieved reductions in hazardous waste output that are at least equal to that achieved in the passenger-jet division.
+(D) The average number of weekly hours per production worker in the passenger-jet division was not significantly greater last year than it was in 1994.
+(E) The number of production workers assigned to the passenger-jet division was not significantly less in 1994 than it was last year.
+---------------------------------
+#CR#20#E#
+The milk of many mammals contains cannabinoids, substances that are known to stimulate certain receptors in the brain. To investigate the function of cannabinoids, researchers injected newborn mice with a chemical that is known to block cannabinoids from reaching their receptors in the brain. The injected mice showed far less interest in feeding than normal newborn mice do. Therefore, cannabinoids probably function to stimulate the appetite.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Newborn mice do not normally ingest any substance other than their mothers' milk.
+(B) Cannabinoids are the only substances in mammals' milk that stimulate the appetite.
+(C) The mothers of newborn mice do not normally make any effort to encourage their babies to feed.
+(D) The milk of mammals would be less nutritious if it did not contain cannabinoids.
+(E) The chemical that blocks cannabinoids from stimulating their brain receptors does not independently inhibit the appetite.
+---------------------------------
+#CR#21#C#
+Tourists have long complained that hotel accommodations in Midville are too expensive. Starting last year, the city council, hoping to attract more tourists, lowered the hotel tax rate to 5 percent of room charges. By the end of last year, Midville had taken in no less money from hotel taxes than it did the year before, so an examination of the hotel records will show that more tourists stayed in city hotels last year than the year before. <br><br>Which of the following is an assumption on which the argument depends?
+(A) The tourists who stayed in Midville hotels last year were aware that the hotel tax rate had been lowered.
+(B) The average price of hotel accommodations in Midville was not significantly higher than in hotels in other cities either last year or the year before.
+(C) The average length of a tourist's stay in Midville hotels was not longer last year than it had been the year before.
+(D) There were significantly more efforts to publicize Midville as a tourist destination last year than there had been the year before.
+(E) On average, tourists in Midville did not spend significantly more on meals last year than they did on hotels accommodations.
+---------------------------------
+#CR#22#E#
+Because it was long thought that few people would watch lengthy televised political messages, most televised political advertisements, like commercial advertisements, took the form of short messages. Last year, however, one candidate produced a half-hour-long advertisement. During the half hour the advertisement was aired, a substantial portion of the viewing public tuned into the advertisement. Clearly, then, many more people are interested in watching lengthy televised political messages than was previously thought.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The candidate's ratings improved significantly as a result of the half-hour-long political advertisement.
+(B) Political advertisements have become increasingly influential in determining voters' decisions at the polls.
+(C) Many people would appreciate the opportunity to become better acquainted with political candidates' views on current political issues.
+(D) Most people who are interested in political issues watch television regularly.
+(E) Most of the viewers who tuned in to the candidate's half-hour-long advertisement last year did not change channels after the first few minutes.
+---------------------------------
+#CR#23#C#
+Because ethylene dibromide, a chemical used to fumigate grain, was blamed for the high rate of nerve damage suffered by people who work in grain-processing plants, many such plants switched to other chemical fumigants two years ago. Since then, however, the percentage of workers at these plants who were newly diagnosed with nerve damage has not dropped significantly. Therefore, either ethylene dibromide was wrongly blamed or else the new chemicals also cause nerve damage.<br><br>Which of the following is an assumption on which the argument depends?
+(A) If the new chemicals cause nerve damage, the nerve damage caused would be different from any nerve damage that ethylene dibromide may cause.
+(B) There are no chemical fumigants that are completely safe for workers in grain-processing plants.
+(C) If ethylene dibromide causes nerve damage, it does not take two years or longer for that damage to become detectable.
+(D) Workers at grain-processing plants typically continue to work there even after being diagnosed with nerve damage.
+(E) Workers at grain-processing plants that still use ethylene dibromide continue to have a high rate of nerve damage.
+---------------------------------
+#CR#24#D#
+Lawmaker: Raising taxes is not the only means of reducing government debt. The government's stockpile of helium is worth 25 percent more, at current market prices, than the debt accumulated in acquiring and storing it. Therefore, by selling the helium, the government can not only pay off that debt but reduce its overall debt as well.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The government has no current need for helium.
+(B) Twenty-five percent of the debt the government has accumulated in stockpiling helium is not an insignificant portion of the government's total debt.
+(C) It is not in the lawmaker's interest to advocate raising taxes as a means of reducing government debt.
+(D) Attempts to sell the government's helium will not depress the market price of helium by more than 25 percent.
+(E) The government will not incur any costs in closing its facilities for stockpiling helium.
+---------------------------------
+#CR#25#B#
+Early in the twentieth century, Lake Konfa became very polluted. Recently fish populations have recovered as release of industrial pollutants has declined and the lake's waters have become cleaner. Fears are now being voiced that the planned construction of an oil pipeline across the lake's bottom might revive pollution and cause the fish population to decline again. However, a technology for preventing leaks is being installed. Therefore, provided this technology is effective, those fears are groundless.<br><br>The argument depends on assuming which of the following?
+(A) Apart from development related to the pipeline, there will be no new industrial development around the lake that will create renewed pollution in its waters.
+(B) Other than the possibility of a leak, there is no realistic pollution threat posed to the lake by the pipeline's construction.
+(C) There is no reason to believe that the leak-preventing technology would be ineffective when installed in the pipeline in Lake Konfa.
+(D) Damage to the lake's fish populations would be the only harm that a leak of oil from the pipeline would cause.
+(E) The species of fish that are present in Lake Konfa now are the same as those that were in the lake before it was affected by pollution.
+---------------------------------
+#CR#26#A#
+In the past, every ten-percentage-point increase in cigarette prices in the country of Coponia has decreased per capita sales of cigarettes by four percent. Coponia is about to raise taxes on cigarettes by 9 cents per pack. The average price of cigarettes in Coponia is and has been for more than a year 90 cents per pack. So the tax hike stands an excellent chance of reducing per capita sales of cigarettes by four percent.<br><br>Which of the following is an assumption on which the argument depends?
+(A) Tobacco companies are unlikely to reduce their profit per pack of cigarettes to avoid an increase in the cost per pack to consumers in Coponia.
+(B) Previous increases in cigarette prices in Coponia have generally been due to increases in taxes on cigarettes.
+(C) Any decrease in per capita sales of cigarettes in Coponia will result mainly from an increase in the number of people who quit smoking entirely.
+(D) At present, the price of a pack of cigarettes in Coponia includes taxes that amount to less than ten percent of the total selling price.
+(E) The number of people in Coponia who smoke cigarettes has remained relatively constant for the past several years.
+---------------------------------
+#CR#27#C#
+Personnel officer: The exorbitant cost of our health-insurance benefits reflects the high dollar amount of medical expenses incurred by our employees. Employees who are out of shape, as a group, have higher doctor bills and longer hospital stays than do their colleagues who are fit. Therefore, since we must reduce our health-insurance costs, we should offer a rigorous fitness program of jogging and weight lifting to all employees, and require employees who are out of shape to participate.<br><br>The conclusion reached by the personnel officer depends on which of the following assumptions?
+(A) A person who is fit would receive a routine physical checkup by a doctor less regularly than would a person who is out of shape.
+(B) The medical expenses incurred by employees who are required to participate in the fitness program would be less than those incurred by employees who are not required to participate.
+(C) The strenuous activities required of out-of-shape employees by the program would not by themselves generate medical expenses greater than any reduction achieved by the program.
+(D) The fitness program would serve more employees who are out of shape than it would employees who are fit.
+(E) The employees who participate in the fitness program would be away from work because of illness less than would the employees who do not participate.
+---------------------------------
+#CR#28#A#
+The ancient Nubians inhabited an area in which typhus occurred, yet surprisingly few of their skeletons show the usual evidence of this disease. The skeletons do show deposits of tetracycline, an antibiotic produced by a bacterium common in Nubian soil. This bacterium can flourish on the dried grain used for making two staples of the Nubian diet, beer and bread. Thus, tetracycline in their food probably explains the low incidence of typhus among ancient Nubians.<br><br>Which of the following is an assumption on which the argument relies?
+(A) The tetracycline deposits did not form after the bodies were buried.
+(B) The diseases other than typhus to which the ancient Nubians were exposed would not be affected by tetracycline.
+(C) Typhus is generally fatal.
+(D) Nubian grain became contaminated with tetracycline-producing bacteria prior to being harvested.
+(E) Bread and beer were the only foods eaten by the ancient Nubians which could have contained tetracycline.
+---------------------------------
+#CR#29#E#
+In Brindon County, virtually all of the fasteners—such as nuts, bolts, and screws—used by workshops and manufacturing firms have for several years been supplied by the Brindon Bolt Barn, a specialist wholesaler. In recent months many of Brindon County's workshops and manufacturing firms have closed down, and no new ones have opened. Therefore, the Brindon Bolt Barn will undoubtedly show a sharp decline in sales volume and revenue for this year as compared to last year.<br><br>The argument depends on assuming which of the following?
+(A) Last year the Brindon Bolt Barn's sales volume and revenue were significantly higher than they had been the previous year.
+(B) The workshops and manufacturing firms that have remained open have a smaller volume of work to do this year than they did last year.
+(C) Soon the Brindon Bolt Barn will no longer be the only significant supplier of fasteners to Brindon County's workshops.
+(D) The Brindon Bolt Barn's operating expenses have not increased this year.
+(E) The Brindon Bolt Barn is not a company that gets the great majority of its business from customers outside Brindon County.
+---------------------------------
+#CR#30#D#
+Educational Theorist: Recent editorials have called for limits on the amount of homework assigned to children. They point out that free-time activities play an important role in childhood development and that large amounts of homework reduce children's free time, hindering their development. But the average homework time for a ten year old, for example, is little more than 30 minutes per night. Clearly, therefore, there is no need to impose the limits these editorials are calling for.<br><br>Which of the following is an assumption on which the educational theorist's argument relies?
+(A) The free-time activities that ten year olds engage in most are all approximately equally effective at fostering development
+(B) Regularly doing homework assignments improves children's academic performance.
+(C) Individual teachers are not the best judges of how much homework to assign the children they teach
+(D) In most schools, if not all, the homework assignments given are of a length that does not diverge widely from the average.
+(E) Free-time activities rarely teach children skills or information that they can use in their academic work.
+---------------------------------
+#CR#31#C#
+Political advocacy groups have begun to use information services to disseminate information that is then accessed by the public via personal computer. Since many groups are thus able to bypass traditional news sources, whose reporting is selective, and to present their political views directly to the public, information services present a more balanced picture of the complexities of political issues than any traditional news source presents.<br><br>Which of the following is an assumption on which the argument above depends?
+(A) Information services are accessible to enough people to ensure that political advocacy groups can use these services to reach as large a percentage of the public as they could through traditional news sources.
+(B) People could get a thorough understanding of a particular political issue by sorting through information provided by several traditional news sources, each with differing editorial biases.
+(C) Information on political issues disseminated through information services does not come almost entirely from advocacy groups that share a single bias.
+(D) Traditional news sources seldom report the views of political advocacy groups accurately.
+(E) Most people who get information on political issues from newspapers and other traditional news sources can readily identify the editorial biases of those sources.
+---------------------------------
+#CR#32#E#
+Excavations of the Roman city of Sepphoris have uncovered numerous detailed mosaics depicting several readily identifiable animal species: a hare, a partridge, and various Mediterranean fish. Oddly, most of the species represented did not live in the Sepphoris region when these mosaics were created. Since identical motifs appear in mosaics found in other Roman cities, however, the mosaics of Sepphoris were very likely created by traveling artisans from some other part of the Roman Empire.<br><br>Which of the following is an assumption on which the argument depends?
+(A) The Sepphoris mosaics are not composed exclusively of types of stones found naturally in the Sepphoris area
+(B) There is no single region to which all the species depicted in the Sepphoris mosaics are native
+(C) No motifs appear in the Sepphoris mosaics that do not also appear in the mosaics of some other Roman city
+(D) All of the animal figures in the Sepphoris mosaics are readily identifiable as representation of known species
+(E) There was not a common repertory of mosaic designs with which artisans who lived in various parts of the Roman empire were familiar
+---------------------------------
+#CR#33#E#
+City Official: At City Hospital, uninsured patients tend to have shorter stays and fewer procedures performed than do insured patients, even though insured patients, on average, have slightly less serious medical problems at the time of admission to the hospital than uninsured patients have. Critics of the hospital have concluded that <strong>the uninsured patients are mot receiving proper medical care.</strong> However, <strong>this conclusion is almost certainly false.</strong> Careful investigation has recently shown two things: insured patients have much longer stays in the hospital than necessary, and they tend to have more procedures performed than are medically necessary. <br><br>In the city official's argument, the two boldface portions play which of the following roles?
+(A) The first states the conclusion of the city official's argument; the second provides support for that conclusion.
+(B) The first is used to support the conclusion of the city official's argument; the second states that conclusion.
+(C) The first was used to support the conclusion drawn by hospital critics; the second states the position that the city official's argument opposes.
+(D) The first was used to support the conclusion drawn by hospital critics; the second provides support for the conclusion of the city official's argument.
+(E) The first states the position that the city official's argument opposes; the second states the conclusion of the city official's argument.
+---------------------------------
+#CR#34#D#
+<strong>Environmental organizations want to preserve the land surrounding the Wilgrinn Wilderness Area from residential development.</strong> They plan to do this by purchasing that land from the farmers who own it. That plan is ill-conceived: if the farmers did sell their land, they would sell it to the highest bidder, and developers would outbid any other bidders. On the other hand, <strong>these farmers will never actually sell any of the land, provided that farming it remains viable.</strong> But farming will not remain viable if the farms are left unmodernized, and most of the farmers lack the financial resources modernization requires. And that is exactly why a more sensible preservation strategy would be to assist the farmers to modernize their farms to the extent needed to maintain viability. <br><br>In the argument as a whole, the two boldface proportions play which of the following roles?
+(A) The first presents a goal that the argument rejects as ill-conceived; the second is evidence that is presented as grounds for that rejection.
+(B) The first presents a goal that the argument concludes cannot be attained; the second is a reason offered in support of that conclusion.
+(C) The first presents a goal that the argument concludes can be attained; the second is a judgment disputing that conclusion.
+(D) The first presents a goal, strategies for achieving which are being evaluated in the argument; the second is a judgment providing a basis for the argument's advocacy of a particular strategy.
+(E) The first presents a goal that the argument endorses; the second presents a situation that the argument contends must be changed if that goal is to be met in the foreseeable future.
+---------------------------------
+#CR#35#D#
+Scientists typically do their most creative work before the age of forty. It is commonly thought that this happens because <strong>aging by itself brings about a loss of creative capacity.</strong> However, studies show that <strong>a disproportionately large number of the scientists who produce highly creative work beyond the age of forty entered their field at an older age than is usual.</strong> Since by the age of forty the large majority of scientists have been working in their field for at least fifteen years, the studies' finding strongly suggests that the real reason why scientists over forty rarely produce highly creative work is not that they have simply aged but rather that they generally have spent too long in a given field. <br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first is the position that the argument as a whole opposes; the second is an objection that has been raised against a position defended in the argument.
+(B) The first is a claim that has been advanced in support of a position that the argument opposes; the second is a finding that has been used in support of that position.
+(C) The first is an explanation that the argument challenges; the second is a finding that has been used in support of that explanation.
+(D) The first is an explanation that the argument challenges; the second is a finding on which that challenge is based.
+(E) The first is an explanation that the argument defends; the second is a finding that has been used to challenge that explanation.
+---------------------------------
+#CR#36#B#
+Although the earliest surviving Greek inscriptions written in an alphabet date from the eighth century B.C., a strong case can be made that <strong>the Greeks actually adopted alphabetic writing at least two centuries earlier.</strong> Significantly, the text of these earliest surviving Greek inscriptions sometimes runs from right to left and sometimes from left to right. Now, the Greeks learned alphabetic writing from the Phoenicians, and in the <strong>process they would surely have adopted whatever convention the Phoenicians were then using with respect to the direction of writing.</strong> Originally, Phoenician writing ran in either direction, but by the eighth century B.C. it had been consistently written from right to left for about two centuries. <br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first is the position that the argument seeks to establish; the second reports a discovery that has been used to support a position that the argument opposes.
+(B) The first is the position that the argument seeks to establish; the second presents an assumption on which the argument relies.
+(C) The first presents evidence that is used in support of the position that the argument seeks to establish; the second presents an assumption on which the argument relies.
+(D) The first is an objection raised against a position that the argument opposes; the second is the position that the argument seeks to establish.
+(E) The first is an objection raised against a position that the argument opposes; the second is evidence that has been used to support that position.
+---------------------------------
+#CR#37#B#
+Criminologist: Some legislators advocate mandating a sentence of life in prison for anyone who, having twice served sentences for serious crimes, is subsequently convicted of a third serious crime. These legislators argue that <strong>such a policy would reduce crime dramatically,</strong> since it would take people with a proven tendency to commit crimes off the streets permanently. What this reasoning overlooks, however, is that people old enough to have served two prison sentences for serious crimes rarely commit more than one subsequent crime. <strong>Filling our prisons with such individuals would have exactly the opposite of the desired effect,</strong> since it would limit our ability to incarcerate younger criminals, who commit a far greater proportion of serious crimes.<br><br>In the argument as a whole, the two boldfaced portions play which of the following roles?
+(A) The first is a conclusion that the argument as a whole seeks to refute; the second is a claim that has been advanced in support of that conclusion.
+(B) The first is a conclusion that the argument as a whole seeks to refute; the second is the main conclusion of the argument.
+(C) The first is the main conclusion of the argument; the second is an objection that has been raised against that conclusion.
+(D) The first is the main conclusion of the argument; the second is a prediction made on the basis of that conclusion.
+(E) The first is a generalization about the likely effect of a policy under consideration in the argument; the second points out a group of exceptional cases to which that generalization does not apply.
+---------------------------------
+#CR#38#B#
+Business Consultant: Some corporations shun the use of executive titles because they fear that <strong>the use of titles indicating position in the corporation tends to inhibit communication up and down the corporate hierarchy.</strong> Since an executive who uses a title is treated with more respect by outsiders, however, <strong>use of a title can facilitate an executive's dealings with external businesses.</strong> The obvious compromise is for these executives to use their corporate titles externally but not internally, since even if it is widely known that the corporation's executives use executive titles outside their organization, this knowledge does not by itself inhibit communication within the corporation.<br><br>In the consultant's reasoning, the two portions in boldface play which of the following roles?
+(A) The first presents an obstacle to achieving a certain goal; the second presents a reason for considering that goal to be undesirable.
+(B) The first is a consideration that has led to the adoption of a certain strategy; the second presents a reason against adopting that strategy.
+(C) The first describes a concern that the consultant dismisses as insignificant; the second is a consideration that serves as the basis for that dismissal.
+(D) The first is a belief for which the consultant offers support; the second is part of that support.
+(E) The first is a belief against which evidence is offered; the second is part of the evidence offered against that belief.
+---------------------------------
+#CR#39#C#
+Scientists typically do their most creative work before the age of forty. It is commonly thought that this happens because <strong>aging by itself brings about a loss of creative capacity.</strong> However, a study has found that almost all scientists who produce highly creative work beyond the age of forty entered their fields late and less than a dozen years before their creative breakthroughs. Since <strong>creative breakthroughs by scientists under forty also generally occur within a dozen years of the scientist's entry into the field,</strong> the study's finding strongly suggests that the real reason why scientists over forty rarely produce highly creative work is not due to age but rather because most have spent too long in their fields.In the argument given, the two portions in boldface play which of the following roles?
+(A) The first is the position that the argument as a whole defends; the second is evidence that is advanced as part of that defense.
+(B) The first and second are both claims that have been advanced in support of a position that the argument as a whole opposes.
+(C) The first is an explanation that the argument challenges; the second provides evidence in support of a competing explanation that the argument defends.
+(D) The first is an explanation that the argument challenges; the second is evidence that has been used against an alternative explanation that the argument defends.
+(E) The first is an explanation that the argument defends; the second is evidence that has been used to challenge that explanation.
+---------------------------------
+#CR#40#B#
+Ecologist: The Scottish Highlands were once the site of extensive forests, but these forests have mostly disappeared and been replaced by peat bogs. The common view is that the Highlands' deforestation was caused by human activity, especially agriculture. However, <strong>agriculture began in the Highlands less than 2,000 years ago.</strong> Peat bogs, which consist of compressed decayed vegetable matter, build up by only about one foot per 1,000 years and, <strong>throughout the Highlands, remains of trees in peat bogs are almost all at depths great than four feet.</strong> Since climate changes that occurred between 7,000 and 4,000 years ago favored the development of peat bogs rather than the survival of forests, the deforestation was more likely the result of natural processes than of human activity. <br><br>In the ecologist's argument the two portions in boldface play which of the following roles?
+(A) The first is evidence that has been used in support of a position that the ecologist rejects; the second is a finding that the ecologist uses to counter that evidence.
+(B) The first is evidence that, in light of the evidence provided in the second, serves as grounds for the ecologist's rejection of a certain position.
+(C) The first is a position that the ecologist rejects; the second is evidence that has been used in support of that position.
+(D) The first is a position that the ecologist rejects; the second provides evidence in support of that rejection.
+(E) The first is a position for which the ecologist argues; the second provides evidence to support that position.
+---------------------------------
+#CR#41#D#
+As a large corporation in a small country, Hachnut wants its managers to have international experience, so <strong>each year it sponsors management education abroad for its management trainees.</strong> Hachnut has found, however, that the attrition rate of graduates from this program is very high, with many of them leaving Hachnut to join competing firms soon after completing the program. Hachnut does use performance during the program as a criterion in deciding among candidates for management positions, but <strong>both this function and the goal of providing international experience could be achieved in other ways.</strong> Therefore, if the attrition problem cannot be successfully addressed, Hachnut should discontinue the sponsorship program.<br><br>In the argument given, the two boldfaced portions play which of the following roles?
+(A) The first describes a practice that the argument seeks to justify; the second states a judgment that is used in support of a justification for that practice.
+(B) The first describes a practice that the argument seeks to explain; the second presents part of the argument's explanation of that practice.
+(C) The first introduces a practice that the argument seeks to evaluate; the second provides grounds for holding that the practice cannot achieve its objective.
+(D) The first introduces a policy that the argument seeks to evaluate; the second provides grounds for holding that the policy is not needed.
+(E) The first introduces a consideration supporting a policy that the argument seeks to evaluate; the second provides evidence for concluding that the policy should be abandoned.
+---------------------------------
+#CR#42#D#
+Since it has become known that several of a bank's top executives have been buying shares in their own bank, the bank's depositors, who had been worried by rumors that the bank faced impending financial collapse, have been greatly relieved. They reason that since <strong>top executives evidently have faith in the bank's financial soundness,</strong> those worrisome rumors must be false. <strong>They might well be overoptimistic,</strong> however since corporate executives have sometimes bought shares in their own company in a calculated attempt to dispel negative rumors about the company's health. <br><br>In the argument given, the two boldfaced portions play which of the following roles?
+(A) The first summarizes the evidence used in the reasoning called into question by the argument; the second states the counterevidence on which the argument relies.
+(B) The first summarizes the evidence used in the reasoning called into question by the argument; the second is an intermediate conclusion supported by the evidence.
+(C) The first is an intermediate conclusion that forms part of the reasoning called into question by the argument; the second is evidence that undermines the support for this intermediate conclusion.
+(D) The first is an intermediate conclusion that forms part of the reasoning called into question by the argument; the second is the main conclusion of the argument.
+(E) The first is an intermediate conclusion that forms part of the reasoning called into question by the argument; the second states a further conclusion supported by this intermediate conclusion.
+---------------------------------
+#CR#43#B#
+One of the limiting factors in human physical performance is the amount of oxygen that is absorbed by the muscles from the bloodstream. Accordingly, entrepreneurs have begun selling at gymnasiums and health clubs bottles of drinking water, labeled "SuperOXY," that has extra oxygen dissolved in the water. Such water would be useless in improving physical performance, however, since <strong>the only way to get oxygen into the bloodstream so that it can be absorbed by the muscles is through the lungs.</strong><br><br>Which of the following, if true, would serve the same function in the argument as the statement in boldface?
+(A) the water lost in exercising can be replaced with ordinary tap water
+(B) the amount of oxygen in the blood of people who are exercising is already more than the muscle can absorb
+(C) world-class athletes turn in record performance without such water
+(D) frequent physical exercise increases the body's ability to take in and use oxygen
+(E) lack of oxygen is not the only factor limiting human physical performance
+---------------------------------
+#CR#44#A#
+Business Consultant: <strong>Some corporations shun the use of executive titles</strong> because they fear that the use of titles indicating position in the corporation tends to inhibit communication up and down the corporate hierarchy. Since an executive who uses a title is treated with more respect by outsiders, however, <strong>use of a title can facilitate an executive's dealings with external businesses.</strong> Clearly, corporations should adopt the compromise of encouraging their executives to use their corporate titles externally but not internally, since even if it is widely known that the corporation's executives use titles outside their organization, this knowledge does not by itself inhibit communication within the corporation.<br><br>In the consultant's reasoning, the two portions in boldface play which of the following roles?
+(A) The first describes a strategy that has been adopted to avoid a certain problem; the second presents a drawback to that strategy.
+(B) The first describes a strategy that has been adopted to avoid a certain problem; the second is a consideration raised to call into question the effectiveness of that strategy as a means of achieving that goal.
+(C) The first describes a strategy that has been adopted to avoid a certain problem; the second is a consideration the consultant raises in questioning the significance of that problem.
+(D) The first is part of an explanation that the consultant offers for a certain phenomenon; the second is that phenomenon.
+(E) The first describes a policy for which the consultant seeks to provide a justification; the second is a consideration the consultant raises as part of that justification.
+---------------------------------
+#CR#45#A#
+During the past year, Pro-Tect Insurance Company's total payouts on car-theft claims were larger than the company can afford to sustain. <strong>Pro-Tect cannot reduce the number of car-theft policies it carries,</strong> so cannot protect itself against continued large payouts that way. Therefore, <strong>Pro-Tect has decided to offer a discount to holders of car-theft policies whose cars have antitheft devices.</strong> Many policyholders will respond to the discount by installing antitheft devices, since the amount of the discount will within two years typically more than cover the cost of installation. Thus, because cars with antitheft devices are rarely stolen, Pro-Tect's plan is likely to reduce its annual payouts.<br><br>In the argument above, the two portions in boldface play which of the following roles?
+(A) The first rules out a certain strategy for achieving a goal; the second presents the strategy that was adopted instead and whose effectiveness the argument assesses.
+(B) The first is a judgment made in support of a certain conclusion; the second is that conclusion.
+(C) The first has been used as a consideration to support adopting a certain strategy for achieving a goal; the second reports a decision to adopt an alternative strategy.
+(D) The first provides evidence in favor of adopting a certain strategy for achieving a goal; the second reports a decision to pursue an alternative goal.
+(E) The first is a consideration offered against adopting a certain strategy for achieving a goal; the second is the main conclusion that the argument is seeking to establish.
+---------------------------------
+#CR#46#E#
+Many winemakers use cork stoppers; but cork stoppers can leak, crumble, or become moldy, so that those winemakers must often discard a significant proportion of their inventory of bottled wine. Bottlemaster plastic stoppers, which cannot leak, crumble, or mold, have long been available to winemakers, at a price slightly higher than that of traditional cork stoppers. Cork prices, however, are expected to rise dramatically in the near future. Clearly, therefore, <strong>winemakers who still use cork but wish to keep production costs from rising will be forced to reconsider plastic stoppers.</strong> And since the wine-buying public's association of plastic stoppers with poor-quality wine is weakening, <strong>there is an excellent chance that the Bottlemaster plastic stopper will gain an increased share of the marked for wine- bottle stoppers.</strong> <br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first is a judgment that has been advanced in support of a position that the argument opposes; the second is the main conclusion of the argument.
+(B) The first is a judgment that has been advanced in support of a position that the argument opposes; the second is a conclusion drawn in order to support the main conclusion of the argument.
+(C) The first is the main conclusion of the argument; the second provides evidence in support of that main conclusion.
+(D) The first is the main conclusion of the argument; the second is a restatement of that main conclusion.
+(E) The first is a conclusion drawn in order to support the main conclusion of the argument; the second is that main conclusion.
+---------------------------------
+#CR#47#E#
+Last year a record number of new manufacturing jobs were created. Will this year bring another record? Well, <strong>any new manufacturing job is created either within an existing company or by the start-up of a new company.</strong> Within existing firms, new jobs have been created this year at well below last year's record pace. At the same time, there is considerable evidence that the number of new companies starting up this year will be no higher than it was last year and <strong>there is no reason to think that the new companies starting up this year will create more jobs per company than did last year's start¬ups.</strong> So clearly, the number of new jobs created this year will fall short of last year's record.<br><br>In the argument given, the two portions in boldface play which of the following roles?
+(A) The first provides evidence in support of the main conclusion of the argument; the second is a claim that argument challenges.
+(B) The first is a generalization that the argument seeks to establish; the second is a conclusion that the argument draws in order to support that generalization.
+(C) The first is a generalization that the argument seeks to establish; the second is a judgment that has been advanced in order to challenge that generalization.
+(D) The first is presented as obvious truth on which the argument is based; the second is a claim that has been advanced in support of a position that the argument opposes.
+(E) The first is presented as obvious truth on which the argument is based; the second is a judgment advanced in support of the main conclusion of the argument.
+---------------------------------
+#CR#48#D#
+Critics of certain pollution-control regulations have claimed that the <strong>money spent over the last decade in order to reduce emissions of carbon monoxide and of volatile organic compounds has been wasted.</strong> The evidence they offer in support of this claim might appear compelling: despite the money spent, annual emissions of these pollutants have been increasing steadily. This evidence is far from adequate, however, since <strong>over the last decade a substantial number of new industrial facilities that emit these pollutants have been built.</strong><br><br>In the reasoning given, the two portions in boldface play which of the following roles?
+(A) The first identifies a claim that the reasoning seeks to show is false; the second is evidence that has been cited by others in support of that claim.
+(B) The first identifies a claim that the reasoning seeks to show is false; the second is a position for which the reasoning seeks to provide support.
+(C) The first is a position that the reasoning contends is inadequately supported by the evidence; the second is a position for which the reasoning seeks to provide support.
+(D) The first is a position that the reasoning contends is inadequately supported by the evidence; the second is evidence used to support the reasoning's contention.
+(E) The first is a position that the reasoning contends is inadequately supported by the evidence; the second is evidence that has been used to support that position.
+---------------------------------
+#CR#49#E#
+It is illegal to advertise prescription medications in Hedland except in professional medical journals or by mail directly to physicians. A proposed law would allow general advertising of prescription medications. Opponents object that, in general, laypersons lack the specialized knowledge to evaluate such advertisements and might ask their physicians for inappropriate medications. But since physicians have the final say as to whether to prescribe a medication for a patient, the objection provides no grounds for concern.<br><br>Which of the following would it be most useful to establish in order to evaluate the argument?
+(A) Whether nonprescription medications can interact with and block the action of any prescription medications that could be advertised to the general public
+(B) Whether most prescription medication advertisements directed at the general public would be advertisements for recently developed medications newly available by prescription
+(C) Whether prescription medication advertisements directed at the general public would appear on television and radio as well as in print
+(D) Whether physicians are more likely to pay attention to advertising directed to the general public than to advertising directed to physicians
+(E) Whether physicians are likely to succumb to pressure from patients to prescribe inappropriate medications
+---------------------------------
+#CR#50#C#
+Magazine Publisher: Our magazine does not have a liberal bias. It is true that when a book review we had commissioned last year turned out to express distinctly conservative views, we did not publish it until we had also obtained a second review that took a strongly liberal position. Clearly, however, our actions demonstrate not a bias in favor of liberal views but rather a commitment to a balanced presentation of diverse opinions. <br><br>Determining which of the following would be most useful in evaluating the cogency of the magazine publisher's response?
+(A) Whether any other magazines in which the book was reviewed carried more than one review of the book
+(B) Whether the magazine publishes unsolicited book reviews as well as those that it has commissioned
+(C) Whether in the event that a first review commissioned by the magazine takes a clearly liberal position the magazine would make any efforts to obtain further reviews
+(D) Whether the book that was the subject of the two reviews was itself written from a clearly conservative or a clearly liberal point of view
+(E) Whether most of the readers of the magazine regularly read the book reviews that the magazine publishes
+---------------------------------
+#CR#51#E#
+76. The growing popularity of computer-based activities was widely expected to result in a decline in television viewing, since it had been assumed that people lack sufficient free time to maintain current television-viewing levels while spending increasing amounts of free time on the computer. That assumption, however, is evidently false: in a recent mail survey concerning media use, a very large majority of respondents who report increasing time spent per week using computers report no change in time spent watching television. <br><br>Which of the following would it be most useful to determine in order to evaluate the argument?
+(A) Whether a large majority of the survey respondents reported watching television regularly
+(B) Whether the amount of time spent watching television is declining among people who report that they rarely or never use computers
+(C) Whether the type of television programs a person watches tends to change as the amount of time spent per week using computers increases
+(D) Whether a large majority of the computer owners in the survey reported spending increasing amounts of time per week using computers
+(E) Whether the survey respondents' reports of time spent using computers included time spent using computers at work
+---------------------------------
+#CR#52#A#
+Business Analyst: National Motors began selling the Luxora—its new model of sedan—in June. Last week, National released sales figures for the summer months of June, July, and August that showed that by the end of August only 80,000 Luxoras had been sold. Therefore, National will probably not meet its target of selling 500,000 Luxoras in the model's first twelve months. <br><br>Which of the following would be most useful to establish in order to evaluate the analyst's prediction?
+(A) Whether new-car sales are typically lower in the summer months than at any other time of the year
+(B) Whether National Motors currently produces more cars than any other automaker
+(C) Whether the Luxora is significantly more expensive than other models produced by National Motors
+(D) Whether National Motors has introduced a new model in June in any previous year
+(E) Whether National Motors will suffer serious financial losses if it fails to meet its sales goal for the Luxora
+---------------------------------
+#CR#53#C#
+The emission of sulfur dioxide when high-sulfur coal is burned is restricted by law. New coal-burning plants usually comply with the law by installing expensive equipment to filter sulfur dioxide from their emissions. These new plants could save money by installing instead less expensive cleaning equipment that chemically removes most sulfur from coal before combustion. <br><br>Which of the following, if known, would be most relevant to evaluating the claim above about how new coal-burning plants could save money?
+(A) Whether existing oil-burning plants are required to filter sulfur dioxide from their emissions
+(B) Whether the expense of installing the cleaning equipment in a new plant is less than the expense of installing the cleaning equipment in an older plant
+(C) Whether the process of cleaning the coal is more expensive than the process of filtering the emissions
+(D) Whether lawful emissions of sulfur dioxide from coal-burning plants are damaging the environment
+(E) Whether existing plants that use the filtering equipment could replace this equipment with the cleaning equipment and still compete with new plants that install the cleaning equipment
+---------------------------------
+#CR#54#C#
+TrueSave is a mail-order company that ships electronic products from its warehouses to customers worldwide. The company's shipping manager is proposing that customer orders be packed with newer, more expensive packing materials that virtually eliminate damage during shipping. The manager argues that overall costs would essentially remain unaffected, since the extra cost of the new packing materials roughly equals the current cost of replacing products returned by customers because they arrived in damaged condition. <br><br>Which of the following would it be most important to ascertain in determining whether implementing the shipping manager's proposal would have the argued-for effect on costs?
+(A) Whether the products shipped by TrueSave are more vulnerable to incurring damage during shipping than are typical electronic products
+(B) Whether electronic products are damaged more frequently in transit than are most other products shipped by mail-order companies
+(C) Whether a sizable proportion of returned items are returned because of damage already present when those items were packed for shipping
+(D) Whether there are cases in which customers blame themselves for product damage that, though present on arrival of the product, is not discovered until later
+(E) Whether TrueSave continually monitors the performance of the shipping companies it uses to ship products to its customers
+---------------------------------
+#CR#55#A#
+Regulations will not allow a pesticide that is toxic to humans to be used inside houses unless the pesticide will dissipate completely from the air within eight hours after its application. One test that pesticide manufacturers standardly use to determine how quickly anti-termite pesticides dissipate involves spraying the pesticides on the walls of room-sized plywood boxes and then timing its dissipation. <br><br>Which of the following would it be most useful to know in order to evaluate whether a dissipation time of just under eight hours on the manufacturers' test indicates that an anti-termite pesticide that is toxic to humans obeys regulations for use in houses?
+(A) Whether anti-termite pesticides dissipate more slowly in furnished rooms than in plywood boxes
+(B) Whether people who apply anti-termite pesticide standardly wear protective equipment that prevents them from being exposed to the pesticide
+(C) Whether people whose house is being treated with anti-termite pesticide generally know that they should remain out of their house during the hours immediately after the pesticide's application
+(D) Whether there are anti-termite pesticides that are toxic to humans that, when subjected to the manufacturers' test, dissipate completely from the air in the boxes in well under eight hours
+(E) Whether anti-termite pesticides that are not toxic to humans tend to take longer to dissipate than those that are toxic
+---------------------------------
+#CR#56#D#
+Plant scientists have been able to genetically engineer vegetable seeds to produce crops that are highly resistant to insect damage. Although these seeds currently cost more than conventional seeds, their cost is likely to decline. Moreover, farmers planting them can use far less pesticide, and most consumers prefer vegetables grown with less pesticide, therefore, for crops for which these seeds can be developed, their use is likely to become the norm. <br><br>Which of the following would be most useful to know in evaluating the argument above?
+(A) Whether plant scientists have developed insect-resistant seeds for every crop that is currently grown commercially
+(B) Whether farmers typically use agricultural pesticides in larger amounts than is necessary to prevent crop damage.
+(C) Whether plants grown from the new genetically engineered seeds can be kept completely free of insect damage.
+(D) Whether seeds genetically engineered to produce insect-resistant crops generate significantly lower per acre crop yields than do currently used seeds.
+(E) Whether most varieties of crops currently grown commercially have greater natural resistance to insect damage than did similar varieties in the past.
+---------------------------------
+#CR#57#E#
+Fish currently costs about the same at seafood stores throughout Eastville and its surrounding suburbs. Seafood stores buy fish from the same wholesalers and at the same prices, and other business expenses have also been about the same. But new tax breaks will substantially lower the cost of doing business within the city. Therefore, in the future, profit margins will be higher at seafood stores within the city than at suburban seafood stores. <br><br>For the purposes of evaluating the argument, it would be most useful to know whether
+(A) more fish wholesalers are located within the city than in the surrounding suburbs.
+(B) any people who currently own seafood stores in the suburbs surrounding Eastville will relocate their businesses nearer to the city
+(C) the wholesale price of fish is likely to fall in the future
+(D) fish has always cost about the same at seafood stores throughout Eastville and its surrounding suburbs.
+(E) seafood stores within the city will in the future set prices that are lower than those at suburban seafood stores.
+---------------------------------
+#CR#58#C#
+Goronian lawmaker: Goronia's Cheese Importation Board, the agency responsible for inspecting all wholesale shipments of cheese entering Goronia from abroad and rejecting shipments that fail to meet specified standards, rejects about one percent of the cheese that it inspects. Since the health consequences and associated costs of not rejecting that one percent would be negligible, whereas the cost of maintaining the agency is not, the agency's cost clearly outweighs the benefits it provides. <br><br>Knowing the answer to which of the following would be most useful in evaluating the lawmaker's argument?
+(A) Are any of the types of cheeses that are imported into Goronia also produced in Goronia?
+(B) Has the Cheese Importation Board, over the last several years, reduced its operating costs by eliminating inefficiencies within the agency itself?
+(C) Does the possibility of having merchandise rejected by the Cheese Importation Board deter many cheese exporters from shipping substandard cheese to Goronia?
+(D) Are there any exporters of cheese to Goronia whose merchandise is never rejected by the Cheese Importation Board?
+(E) How is the cheese rejected by the Cheese Importation Board disposed of?
+---------------------------------
+#CR#59#B#
+The population of desert tortoises in Targland's Red Desert has declined, partly because they are captured for sale as pets and partly because people riding all-terrain vehicles have damaged their habitat. Targland plans to halt this population decline by blocking the current access routes into the desert and announcing new regulations to allow access only on foot. Targland's officials predict that these measures will be adequate, since it is difficult to collect the tortoises without a vehicle. <br><br>Which of the following would it be most important to establish in order to evaluate the officials' prediction?
+(A) Whether possessing the tortoises as pets remains legally permissible in Targland
+(B) Whether Targland is able to enforce the regulations with respect to all-terrain vehicle entry at points other than the current access routes
+(C) Whether the Red Desert tortoises are most active during the day or at night
+(D) Whether people who travel on foot in the Red Desert often encounter the tortoises
+(E) Whether the Targland authorities held public hearings before restricting entry by vehicle into the Red Desert
+---------------------------------
+#CR#60#D#
+Though sucking zinc lozenges has been promoted as a treatment for the common cold, research has revealed no consistent effect. Recently, however, a zinc gel applied nasally has been shown to greatly reduce the duration of colds. Since the gel contains zinc in the same form and concentration as the lozenges, the greater effectiveness of the gel must be due to the fact that cold viruses tend to concentrate in the nose, not the mouth. <br><br>In order to evaluate the argument, it would be most helpful to determine which of the following?
+(A) Whether zinc is effective only against colds, or also has an effect on other virally caused diseases
+(B) Whether there are remedies that do not contain zinc but that, when taken orally, can reduce the duration of colds
+(C) Whether people who frequently catch colds have a zinc deficiency
+(D) Whether either the zinc gel or the lozenges contain ingredients that have an impact on the activity of the zinc
+(E) Whether the zinc gel has an effect on the severity of cold symptoms, as well as on their duration
+---------------------------------
+#CR#61#A#
+Following several years of declining advertising sales, the Greenville Times reorganized its advertising sales force two years ago. Before the reorganization, the sales force was organized geographically, with some sales representatives concentrating on city-center businesses and others concentrating on different outlying regions. The reorganization attempted to increase the sales representatives' knowledge of clients' businesses by having each sales representative deal with only one type of industry or of retailing. After the reorganization, advertising sales increased. <br><br>In assessing whether the improvement in advertising sales can properly be attributed to the reorganization, it would be helpful to find out each of the following EXCEPT:
+(A) Two years ago, what proportion of the Greenville Times' total revenue was generated by advertising sales?
+(B) Has the circulation of the Greenville Times increased substantially in the last two years?
+(C) Has there been a substantial turnover in personnel in the advertising sales force over the last two years?
+(D) Before the reorganization, had sales representatives found it difficult to keep up with relevant developments in all types of businesses to which they are assigned?
+(E) Has the economy in Greenville and the surrounding regions been growing rapidly over the last two years?
+---------------------------------
+#CR#62#D#
+Fedora Convertibles began selling the Freewheeler - its newest convertible sports car - in May of this year. Fedora sent out a press release last month indicating that the Freewheeler's sales for May, June, July, and August totaled over 50,000. As a result, Fedora will in all likelihood easily meet its stated sales goal of 120,000 for Freewheeler's first year of release.<br><br>Which of the following would be most useful in order to evaluate this prediction?
+(A) Fedora is the market leader in this category of automobile.
+(B) Freewheeler is significantly more expensive than similar models produced by Fedora's competitors.
+(C) Fedora released a similar model in May of the previous year.
+(D) Sales of similar models of cars are typically much higher in the summer months than at any other time of the year.
+(E) Freewheeler sales are important to meeting the sales goals of Fedora as a company.
+---------------------------------
+#CR#63#B#
+Environmentalist: The use of snowmobiles in the vast park north of Milville creates unacceptable levels of air pollution and should be banned.<br><br>Milville business spokesperson: Snowmobiling brings many out-of-towners to Milville in winter months, to the great financial benefit of many local residents. So, economics dictate that we put up with the pollution.<br><br>Environmentalist: I disagree: A great many cross-country skiers are now kept from visiting Milville by the noise and pollution that snowmobiles generate.<br><br>Environmentalist responds to the business spokesperson by doing which of the following?
+(A) Challenging an assumption that certain desirable outcome can derive from only one set of circumstances
+(B) Challenging an assumption that certain desirable outcome is outweighed by negative aspects associated with producing that outcome
+(C) Maintaining that the benefit that the spokesperson desires could be achieved in greater degree by a different means
+(D) Claiming that the spokesperson is deliberately misrepresenting the environmentalist's position in order to be better able to attack it
+(E) Denying that an effect that the spokesperson presents as having benefited a certain group of people actually benefited those people
+---------------------------------
+#CR#64#D#
+Proposal: Carbon dioxide and methane in the atmosphere block the escape of heat into space. So emission of these "greenhouse" gases contributes to global warming. In order to reduce global warming, emission of greenhouse gases needs to be reduced. Therefore, the methane now emitted from open landfills should instead be burned to produce electricity. Objection: The burning of methane generates carbon dioxide that is released into the atmosphere.<br><br>Which of the following, if true, most adequately counters the objection made to the proposal?
+(A) Every time a human being or other mammal exhales, there is some carbon dioxide released into the air.
+(B) The conversion of methane to electricity would occur at a considerable distance from the landfills.
+(C) The methane that is used to generate electricity would generally be used as a substitute for a fuel that does not produce any greenhouse gases when burned.
+(D) Methane in the atmosphere is more effective in blocking the escape of heat from the Earth than is carbon dioxide.
+(E) The amount of methane emitted from the landfills could be reduced if the materials whose decomposition produces methane were not discarded, but recycled.
+---------------------------------
+#CR#65#D#
+It is theoretically possible that bacteria developed on Mars early in its history and that some were carried to Earth by a meteorite. However, strains of bacteria from different planets would probably have substantial differences in protein structure that would persist over time, and no two bacterial strains on Earth are different enough to have arisen on different planets. So, even if bacteria did arrive on Earth from Mars, they must have died out. <br><br>The argument is most vulnerable to which of the following criticisms?
+(A) It fails to establish whether bacteria actually developed on Mars.
+(B) It fails to establish how likely it is that Martian bacteria were transported to Earth.
+(C) It fails to consider whether there were means other than meteorites by which Martian bacteria could have been carried to Earth.
+(D) It fails to consider whether all bacteria now on Earth could have arisen from transported Martian bacteria.
+(E) It fails to consider whether there could have been strains of bacteria that originated on Earth and later died out.
+---------------------------------
+#CR#66#E#
+Unless tiger hunting decreases, tigers will soon be extinct in the wild. The countries in which the tigers' habitats are located are currently debating joint legislation that would ban tiger hunting. Thus, if these countries can successfully enforce this legislation, the survival of tigers in the wild will be ensured. <br><br>The reasoning in the argument is most vulnerable to criticism on the grounds that the argument
+(A) assumes without sufficient warrant that a ban on tiger hunting could be successfully enforced
+(B) considers the effects of hunting on tigers without also considering the effects of hunting on other endangered animal species
+(C) fails to take into account how often tiger hunters are unsuccessful in their attempts to kill tigers
+(D) neglects to consider the results of governmental attempts in the past to limit tiger hunting
+(E) takes the removal of an impediment to the tigers' survival as a guarantee of their survival
+---------------------------------
+#CR#67#C#
+Yeasts capable of leavening bread are widespread, and in the many centuries during which the ancient Egyptians made only unleavened bread, such yeasts must frequently have been mixed into bread doughs accidentally. The Egyptians, however, did not discover leavened bread until about 3000 B.C. That discovery roughly coincided with the introduction of a wheat variety that was preferable to previous varieties because its edible kernel could be removed from the husk without first toasting the grain.<br><br>Which of the following, if true, provides the strongest evidence that the two developments were causally related?
+(A) Even after the ancient Egyptians discovered leavened bread and the techniques for reliably producing it were well known, unleavened bread continued to be widely consumed.
+(B) Only when the Egyptians stopped the practice of toasting grain were their stonelined grain- toasting pits available for baking bread.
+(C) Heating a wheat kernel destroys its gluten, a protein that must be present in order for yeast to leaven bread dough.
+(D) The new variety of wheat, which had a more delicate flavor because it was not toasted, was reserved for the consumption of high officials when it first began to be grown.
+(E) Because the husk of the new variety of wheat was more easily removed, flour made from it required less effort to produce.
+---------------------------------
+#CR#68#E#
+A theory is either true or false. Galileo's observations of Jupiter's satellites showed that the Ptolemaic theory of the motion of celestial bodies is false. Therefore, since the Copernican theory of planetary motion is inconsistent with the Ptolemaic account, Galileo's observations of Jupiter's satellites proved the truth of the Copernican theory. <br><br>The argument above is open to the objection that it makes the questionable assumption that
+(A) whoever first observed something inconsistent with the truth of the Ptolemaic theory should be credited with having proved that theory false
+(B) there are some possible observations that would be inconsistent with the account given by the Copernican theory but consistent with the account given by the Ptolemaic theory
+(C) the Ptolemaic and Copernican theories, being inconsistent, cannot both be based on exactly the same evidence
+(D) numerous counterexamples were necessary in order to show the Ptolemaic theory to be false
+(E) the Ptolemaic and Copernican theories, being inconsistent, cannot both be false
+---------------------------------
+#CR#69#D#
+The violent crime rate (number of violent crimes per 1,000 residents) in Meadowbrook is 60 percent higher now than it was four years ago. The corresponding increase for Parkdale is only 10 percent. These figures support the conclusion that residents of Meadowbrook are more likely to become victims of violent crime than are residents of Parkdale. <br><br>The argument above is flawed because it fails to take into account
+(A) changes in the population density of both Parkdale and Meadowbrook over the past four years
+(B) how the rate of population growth in Meadowbrook over the past four years compares to the corresponding rate for Parkdale
+(C) the ratio of violent to nonviolent crimes committed during the past four years in Meadowbrook and Parkdale
+(D) the violent crime rates in Meadowbrook and Parkdale four years ago
+(E) how Meadowbrook's expenditures for crime prevention over the past four years compare to Parkdale's expenditures
+---------------------------------
+#CR#70#D#
+The town of Enderton is located in an area where forest fires are quite common. During dry periods and periods of persistent winds, when even a spark can result in a fire that spreads over many acres, the danger of fire there is particularly serious. To help prevent forest fires in the area, the town government plans to post a ban on outdoor fires when such conditions prevail. <br><br>Which of the following, if true, provides the strongest indication that the town's plan will have at most a minor effect on the annual number of forest fires in the Enderton area?
+(A) Most of the tourists who visit the forests surrounding Enderton also visit Enderton itself.
+(B) Although there are county fire fighters available to combat forest fires in the area, Enderton itself has no professional fire fighters.
+(C) Very few forest fires in the Enderton area result from fires deliberately set by arsonists.
+(D) Nearly all forest fires in the Enderton area are the result of lightning strikes.
+(E) The number of forest fires in the Enderton area has not increased significantly in the last several years.
+---------------------------------
+#CR#71#A#
+Mel: The official salary for judges has always been too low to attract the best candidates to the job. The legislature's move to raise the salary has done nothing to improve the situation, because it was coupled with a ban on receiving money for lectures and teaching engagements. Pat: No, the raise in salary really does improve the situation. Since very few judges teach or give lectures, the ban will have little or no negative effect.<br><br>Pat's response to Mel is inadequate in that it
+(A) attempts to assess how a certain change will affect potential members of a group by providing evidence about its effect on the current members.
+(B) mistakenly takes the cause of a certain change to be an effect of that change
+(C) attempts to argue that a certain change will have a positive effect merely by pointing to the absence of negative effects
+(D) simply denies Mel's claim without putting forward any evidence in support of that denial
+(E) assumes that changes that benefit the most able members of a group necessarily benefit all members of that group.
+---------------------------------
+#CR#72#A#
+Which of the following most logically completes the argument?<br><br>When people engage in activities that help others, their brain releases endorphins, the brain's natural opiates, which induce in people a feeling of well-being. It has been suggested that regular release of endorphins increases people's longevity. And a statistic on adults who regularly engage in volunteer work helping others shows that they live longer, on average, than adults who do not volunteer. However, that statistic would be what we would expect even if volunteering does not boost longevity, because.
+(A) in the communities studied, women were much more likely to do regular volunteer work than men were, and women tend to live longer than men do.
+(B) the number of young adults who do regular volunteer work is on the increase
+(C) the feelings of well-being induced by endorphins can, at least for a time, mask the symptoms of various conditions and diseases, provided the symptoms are mild.
+(D) it is rare for a person to keep up a regular schedule of volunteer work throughout his or her life.
+(E) Some people find that keeping a commitment to do regular volunteer work becomes a source of stress in their lives.
+---------------------------------
+#CR#73#A#
+In Patton City, days are categorized as having heavy rainfall (more than two inches), moderate rainfall (more than one inch, but no more than two inches), light rainfall (at least a trace, but no more than one inch), or no rainfall. In 1990, there were fewer days with light rainfall than in 1910 and fewer with moderate rainfall, yet total rainfall for the year was 20 percent higher in 1990 than in 1910. <br><br>If the statements above are true, then it is also possible that in Patton City
+(A) the number of days with heavy rainfall was lower in 1990 than in 1910
+(B) the number of days with some rainfall, but no more than two inches, was the same in 1990 as in 1910
+(C) the number of days with some rainfall, but no more than two inches, was higher in 1990 than in 1910
+(D) the total number of inches of rain that fell on days with moderate rainfall in 1990 was more than twice what it had been in 1910
+(E) the average amount of rainfall per month was lower in 1990 than in 1910
+---------------------------------
+#CR#74#E#
+Background information: This year, each film submitted to the Barbizon Film Festival was submitted in one of ten categories. For each category, there was a panel that decided which submitted films to accept.<br><br>Fact 1: Within each category, the rate of acceptance for domestic films was the same as that for foreign films.<br><br>Fact 2: The overall rate of acceptance of domestic films was significantly higher than that of foreign films.<br><br>In light of the background information, which of the following, if true, can account for fact 1 and fact 2 both being true of the submissions to this year's Barbizon Film Festival?
+(A) In each category, the selection panel was composed of filmmakers, and some selection panels included no foreign filmmakers.
+(B) Significantly more domestic films than foreign films were submitted to the festival.
+(C) In each of the past three years, the overall acceptance rate was higher for foreign than for domestic films, an outcome that had upset some domestic filmmakers.
+(D) The number of films to be selected in each category was predetermined, but in no category was it required that the acceptance rate of foreign films should equal that of domestic films.
+(E) Most foreign films, unlike most domestic films, were submitted in categories with high prestige, but with correspondingly low rates of acceptance.
+---------------------------------
+#CR#75#A#
+Investment banks often have conflicting roles. They sometimes act for a client company by raising capital from other investment institutions as advantageously as possible, but their analysts also sometimes send unfavorable reports on the financial health of companies for whom they are raising capital to other clients who wish to make investments. Analyses of companies' financial health need to be unbiased if an investment bank is to achieve long-term success. <br><br>If the statements above are true, which of the following practices, if adopted by an investment bank, would hinder its long-term success?
+(A) Evaluating and rewarding the bank's analysts on the basis of recommendations made by managers who are solely engaged in raising capital for clients
+(B) Using reports by the investment bank's analysts to determine how best to raise capital for a client
+(C) Sharing the task of raising capital for a client with other investment banks
+(D) Ensuring that conflicts between analysts and those who raise capital for clients are carefully mediated and resolved by impartial arbitrators
+(E) Monitoring the success or failure of analysts' current predictions about how companies will perform financially, in order to determine the value of future predictions
+---------------------------------
+#CR#76#A#
+Smithtown University's fund-raisers succeeded in getting donations from 80 percent of the potential donors they contacted. This success rate, exceptionally high for university fund¬raisers, does not indicate that they were doing a good job. On the contrary, since the people most likely to donate are those who have donated in the past, good fund-raisers constantly try less-likely prospects in an effort to expand the donor base. The high success rate shows insufficient canvassing effort. <br><br>Which of the following, if true, provides more support for the argument?
+(A) Smithtown University's fund-raisers were successful in their contacts with potential donors who had never given before about as frequently as were fund-raisers for other universities in their contacts with such people.
+(B) This year the average size of the donations to Smithtown University from new donors when the university's fund-raisers had contacted was larger than the average size of donations from donors who had given to the university before.
+(C) This year most of the donations that came to Smithtown University from people who had previously donated to it were made without the university's fund-raisers having made any contact with the donors.
+(D) The majority of the donations that fund-raisers succeeded in getting for Smithtown University this year were from donors who had never given to the university before.
+(E) More than half of the money raised by Smithtown University's fund-raisers came from donors who had never previously donated to the university.
+---------------------------------
+#CR#77#C#
+Every fall Croton's jays migrate south. The jays always join flocks of migrating crookbeaks with which they share the same summer and winter territories. If a jay from the crookbeaks it is accompanying, it wanders until it comes across another flock of crookbeaks. Clearly, therefore, Croton's jays lack the navigational ability to find their way south on their own. <br><br>Which of the following, if true, most strengthens the argument?
+(A) Croton's jays lay their eggs in the nests of crookbeaks which breed upon completing their southern migration.
+(B) The three species most closely related to crookbeaks do not migrate at all.
+(C) In the spring, Croton's jays migrate north in the company of Tattersall warblers.
+(D) Species other than Croton's jays occasionally accompany flocks of migrating crookbeaks.
+(E) In the spring, crookbeaks migrate north before croton's jays do.
+---------------------------------
+#CR#78#B#
+Which of the following most logically completes the passage?<br><br>Appendicitis (inflammation of the appendix) is potentially fatal; consequently, patients with symptoms strongly suggesting appendicitis almost always have their appendix removed. The appropriate surgery is low-risk but performed unnecessarily in about 20 percent of all cases. A newly developed internal scan for appendicitis is highly accurate, producing two misdiagnoses for every 98 correct diagnoses. Clearly, using this test, doctors can largely avoid unnecessary removals of the appendix without, however, performing any fewer necessary ones than before, since __________.
+(A) the patients who are correctly diagnosed with this test as not having appendicitis invariably have medical conditions that are much less serious than appendicitis
+(B) the misdiagnoses produced by this test are always instances of attributing appendicitis to someone who does not, in fact, have it
+(C) all of the patients who are diagnosed with this test as having appendicitis do, in fact, have appendicitis
+(D) every patient who is diagnosed with this test as having appendicitis has more than one of the symptoms generally associated with appendicitis
+(E) the only patients who are misdiagnosed using this test are patients who lack one or more of the symptoms that are generally associated with appendicitis
+---------------------------------
+#CR#79#C#
+In two months, the legal minimum wage in the country of Kirlandia will increase from five Kirlandic dollars (KD5.00) Per hour to KD5.50 per hour. Opponents of this increase have argued that the resulting rise in wages will drive the inflation rate up. In fact its impact on wages will probably be negligible, since only a very small proportion of all Kirlandic workers are currently receiving less than KD5.50 per hour. <br><br>Which of the following, if true, most seriously weakens the argument?
+(A) Most people in Kirlandia who are currently earning the minimum wage have been employed at their current jobs for less than a year.
+(B) Some firms in Kirlandia have paid workers considerably less than KD5.00 per hour, in violation of Kirlandic employment regulations.
+(C) Many businesses hire trainees at or near the minimum wage but must reward trained workers by keeping their pay levels above the pay level of trainees.
+(D) The greatest growth in Kirlandia's economy in recent years has been in those sectors where workers earn wages that tend to be much higher than the minimum wage.
+(E) The current minimum wage is insufficient for a worker holding only one job to earn enough to support a family, even when working full time at that job.
+---------------------------------
+#CR#80#B#
+In Kantovia, physicians' income comes from insurance companies, which require physicians to document their decisions in treating patients and to justify deviations from the companies' treatment guidelines. Ten years ago physicians were allowed more discretion. Most physicians believe that the companies' requirements now prevent them from spending enough time with patients. Yet the average amount of time a patient spends with a physician during an office visit has actually increased somewhat over the last ten years. <br><br>Which of the following, if true, most helps to resolve the apparent discrepancy between physicians' perceptions and the change in the actual time spent?
+(A) Patients are more likely to be in a hurry nowadays and are less willing to wait a long time to see their physician.
+(B) Physicians today typically have a wider range of options in diagnosis and treatment to consider with the patient before prescribing.
+(C) Physicians are increasingly likely to work in group practices, sharing the responsibility of night and weekend work.
+(D) Most patients would rather trust their physicians than their insurance companies to make decisions about their treatment.
+(E) Since the insurance companies pay physicians a set amount for each office visit, it is to physicians' financial advantage to see as many patients as possible.
+---------------------------------
+#CR#81#A#
+People who have spent a lot of time in contact with animals often develop animal-induced allergies, some of them quite serious. In a survey of current employees in major zoos, about 30 percent had animal-induced allergies. Based on this sample, experts conclude that among members of the general population who have spent a similarly large amount of time in close contact with animals, the percentage with animal-induced allergies is not 30 percent but substantially more. <br><br>Which of the following, if true, provides the strongest grounds for the experts' conclusion?
+(A) A zoo employee who develops a serious animal-induced allergy is very likely to switch to some other occupation.
+(B) A zoo employee is more likely than a person in the general population to keep one or more animal pets at home
+(C) The percentage of the general population whose level of exposure to animals matches that of a zoo employee is quite small.
+(D) Exposure to domestic pets is, on the whole, less likely to cause animal induced allergy than exposure to many of the animals kept in zoos.
+(E) Zoo employees seldom wear protective gear when they handle animals in their care.
+---------------------------------
+#CR#82#E#
+People who have spent a lot of time in contact with animals often develop animal-induced allergies, a significant percentage of which are quite serious. In a survey of current employees in major zoos, about 30 percent had animal-induced allergies. However, a zoo employee who develops a serious animal-induced allergy is very likely to switch to some other occupation.<br><br>Which of the following hypotheses receives the strongest support from the information given?
+(A) The incidence of serious animal-induced allergies among current zoo employees is lower than that among the general population.
+(B) Zoo employees tend to develop animal-induced allergies that are more serious than those of other people who spend equally large amounts of time with animals.
+(C) Exposure to domestic pets is, on the whole, less likely to cause animal-induced allergy than is exposure to the kinds of animals that are kept in zoos.
+(D) There is no occupation for which the risk of developing an animal-induced allergy is higher than 30 percent.
+(E) Among members of the general population who have spent as much time with animals as zoo employees typically have, the percentage with animal-induced allergies is significantly more than 30 percent.
+---------------------------------
+#CR#83#E#
+Which of the following most logically completes the argument?<br><br>A certain cultivated herb is one of a group of closely related plants that thrive in soil with high concentrations of metals that are toxic to most other plants. Agronomists studying the herb have discovered that it produces large amounts of histidine, an amino acid that, in test-tube solutions, renders these metals chemically inert. Possibly, therefore, the herb's high histidine production is what allows it to grow in metal-rich soils, a hypothesis that would gain support if ___________.
+(A) histidine is found in all parts of the plant—roots, stem, leaves, and flowers
+(B) the herb's high level of histidine production is found to be associated with an unusually low level of production of other amino acids
+(C) others of the closely related group of plants are also found to produce histidine in large quantities
+(D) cultivation of the herb in soil with high concentrations of the metals will, over an extended period, make the soil suitable for plants to which the metals are toxic
+(E) the concentration of histidine in the growing herb declines as the plant approaches maturity
+---------------------------------
+#CR#84#E#
+Manatees, aquatic mammals inhabiting Florida's rivers and coastal waters, swim close to the surface and are frequently killed in collisions with boats. To address the problem, boat traffic in manatee-populated waters is being required to maintain very low speeds. Unfortunately, manatees are unable to hear low-pitched sounds and a boat's sound lowers in pitch as the boat slows. Therefore, this approach may in fact make things worse rather than better. <br><br>Which of the following, if true, casts most doubt on the conclusion?
+(A) The areas where boats would have to maintain low speeds were decided partly on the basis of manatee-population estimates and partly from numbers of reported collisions between manatees and boats.
+(B) Because the water hyacinth that manatees feed on grows best in water that is nearly still, water hyacinth beds can be disturbed or damaged by fast-moving boat traffic.
+(C) Over the last several decades, boat traffic in Florida's coastal waters has been increasing almost continuously and now represents the greatest threat to the endangered manatee population.
+(D) The sound of a boat engine generally travels much further under water than it does through the air.
+(E) When experimenters exposed manatees to the recorded sounds of boats moving at various speeds, the creatures were unable to discern the sounds over normal background noise.
+---------------------------------
+#CR#85#B#
+In Rubaria, excellent health care is available to virtually the entire population, whereas very few people in Terland receive adequate medical care. Yet, although the death rate for most diseases is higher in Terland than in Rubaria, the percentage of the male population that dies from prostate cancer is significantly higher in Rubaria than in Terland.<br><br>Which of the following, if true, most helps to explain the disparity between the prostate cancer death rate in Rubaria and Terland?
+(A) Effective treatment of prostate cancer in its early stages generally requires medical techniques available in Rubaria but not in Terland.
+(B) Most men who have prostate cancer are older than the average life expectancy for male inhabitants of Terland.
+(C) Being in poor general health does not increase one's risk of developing prostate cancer.
+(D) It is possible to decrease one's risk of getting prostate cancer by eating certain kinds of foods, and such foods are more readily available in Rubaria than in Terland.
+(E) Among men in Rubaria, the death rate from prostate cancer is significantly higher for those who do not take full advantage of Rubaria's health care system than for those who do.
+---------------------------------
+#CR#86#E#
+Kernland imposes a high tariff on the export of unprocessed cashew nuts in order to ensure that the nuts are sold to domestic processing plants. If the tariff were lifted and unprocessed cashews were sold at world market prices, more farmers could profit by growing cashews. However, since all the processing plants are in urban areas, removing the tariff would seriously hamper the government's effort to reduce urban unemployment over the next five years. <br><br>Which of the following, if true, most seriously weakens the argument?
+(A) Some of the byproducts of processing cashews are used for manufacturing paints and plastics.
+(B) Other countries in which cashews are processed subsidize their processing plants.
+(C) More people in Kernland are engaged in farming cashews than in processing them.
+(D) Buying unprocessed cashews at lower than world market prices enables cashew processors in Kernland to sell processed nuts at competitive prices
+(E) A lack of profitable crops is driving an increasing number of small farmers in Kernland off their land and into the cities.
+---------------------------------

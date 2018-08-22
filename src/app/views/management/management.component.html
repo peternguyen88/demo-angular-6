@@ -1,0 +1,52 @@
+<p-table [value]="users">
+  <ng-template pTemplate="header">
+    <tr>
+      <th style="width: 200px" [pSortableColumn]="'name'">
+        Name
+        <p-sortIcon [field]="'name'"></p-sortIcon>
+      </th>
+      <th style="width: 55px">Photo</th>
+      <th style="width: 115px" [pSortableColumn]="'login_count'">
+        Login Count
+        <p-sortIcon [field]="'login_count'"></p-sortIcon>
+      </th>
+      <th style="width: 130px" [pSortableColumn]="'unlock_feature'">
+        Unlock Feature
+        <p-sortIcon [field]="'unlock_feature'"></p-sortIcon>
+      </th>
+      <th style="width: 100px" [pSortableColumn]="'is_student'">
+        Is Student
+        <p-sortIcon [field]="'is_student'"></p-sortIcon>
+      </th>
+      <th style="width: 70px">Save</th>
+      <th [pSortableColumn]="'last_login_time'">
+        Last Login
+        <p-sortIcon [field]="'last_login_time'"></p-sortIcon>
+      </th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-user>
+    <tr>
+      <td>{{user.name}}</td>
+      <td><img src={{user.photo_url}} *ngIf="user.photo_url" class="img-avatar"></td>
+      <td align="right">{{user.login_count}}</td>
+      <td>
+        <label class="switch switch-success">
+          <input type="checkbox" class="switch-input" [ngModel]="user.unlock_feature" (change)="user.unlock_feature = !user.unlock_feature">
+          <span class="switch-slider"></span>
+        </label>
+      <td>
+        <label class="switch switch-warning">
+          <input type="checkbox" class="switch-input" [ngModel]="user.is_student" (change)="user.is_student = !user.is_student">
+          <span class="switch-slider"></span>
+        </label>
+      </td>
+      <td>
+        <button class="btn btn-outline-success" (click)="saveUser(user)">Save</button>
+      </td>
+      <td>{{user.last_login}}</td>
+    </tr>
+  </ng-template>
+</p-table>
+
+<p-toast [style]="{marginTop: '60px'}"></p-toast>

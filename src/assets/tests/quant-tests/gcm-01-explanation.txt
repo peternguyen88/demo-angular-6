@@ -1,0 +1,323 @@
+####31####GCM-01
+#DS#1#B#
+<div  ans="B">
+      Notice that since ABC is a right triangle then the question basically asks whether angle ACB is equal to angle CAB, because in this case AB would be equal to BC, thus triangle ABC would be an isosceles triangle.<br>
+      (1) Angle ACB is twice as large as angle ADC. It certainly possible angle ACB to be equal to angle CAB (45 degrees) and angle ADC to be 22.5 degrees but it's also possible angle ACB NOT to be equal to angle CAB, for example if angle ACB is 60 degrees and angle ADC is 30 degrees. Not sufficient.<br>
+      (2) Angle ACB is twice as large as angle CAB. Directly says that angle ACB is NOT equal to angle CAB, hence triangle ABC is NOT isosceles. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183532.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#2#D#
+<div  ans="D">Take the given expression to the 4th power: \(x^4=x^3+6x^2\);<br>
+      Re-arrange and factor out \(x^2\): \(x^2(x^2-x-6)=0\);<br>
+      Factorize:  \(x^2(x-3)(x+2)=0\);<br>
+      So, the roots are \(x=0\), \(x=3\) and \(x=-2\). But \(x\) cannot be negative as it equals to the even (4th) root of some expression (\(\sqrt{expression}\geq{0}\)), thus only two solution are valid \(x=0\) and \(x=3\).<br>
+      The sum of all possible solutions for x is 0+3=3.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183474.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#3#D#
+<div  ans="D">
+	\(3^0=1\).The remainder when 1 is divided by 4 is 1; <br>
+    \(3^1=3\). The remainder when 3 is divided by 4 is 3;<br>
+    \(3^2=9\). The remainder when 9 is divided by 4 is 1;<br>
+    \(3^3=27\). The remainder when 27 is divided by 4 is 3;<br>
+    ...<br>
+    We can see that in order the condition to hold true \(n\) must be odd.<br>
+	I. \(n^2\) divided by 4 yields the reminder of 1. Since \(odd^2\) divided by 4 always yields the reminder of 1, then this statement must be true.<br>
+    II. \((-2)^n\) is less than 0. Since \((-2)^{odd} \lt 0\), then this statement must be true.<br>
+    III. \(n\) is a prime number. Not necessarily true.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m28-184524.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#4#C#
+<div  ans="C">
+	Note that:<br>
+    A. The factorial of a negative number is undefined.<br>
+    B. 0!=1.<br>
+    C. Only two factorials are odd: 0!=1 and 1!=1.<br>
+    D. Factorial of a number which is prime is 2!=2.<br>
+    (1) The median of {a!, b!, c!} is an odd number. This implies that b!=odd. Thus b is 0 or 1. But if b=0, then a is a negative number, so in this case a! is not defined. Therefore a=0 and b=1, so the set is {0!, 1!, c!}={1, 1, c!}. Now, if c=2, then the answer is YES but if c is any other number then the answer is NO. Not sufficient.<br>
+    (2) c! is a prime number. This implies that c=2. Not sufficient.<br>
+	(1)+(2) From above we have that a=0, b=1 and c=2, thus the answer to the question is YES. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183481.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#5#B#
+<div  ans="B">
+      "The probability that a contestant does not taste all of the samples" means that contestant tastes only 2 samples of tea (one sample is not possible as contestant tastes 4 cups \(\gt \)3 of each kind).<br>
+      \(\frac{C^2_3*C^4_6}{C^4_9}=\frac{5}{14}\).<br>
+      \(C^2_3\) - # of ways to choose which 2 samples will be tasted;<br>
+      \(C^4_6\) - # of ways to choose 4 cups out of 6 cups of two samples (\(2  samples*3  \text{cups each} = 6  cups\));<br>
+      \(C^4_9\) - total # of ways to choose 4 cups out of 9.<br>
+      <p>
+        <b>Another way:</b>
+      </p>
+      Calculate the probability of opposite event and subtract this value from 1.<br>
+      Opposite event is that contestant will taste ALL 3 samples, so contestant should taste 2 cups of one sample and 1 cup from each of 2 other samples (2-1-1).<br>
+      \(C^1_3\) - # of ways to choose the sample which will provide with 2 cups;<br>
+      \(C^2_3\) - # of ways to choose these 2 cups from the chosen sample;<br>
+      \(C^1_3\) - # of ways to choose 1 cup out of 3 from second sample;<br>
+      \(C^1_3\) - # of ways to choose 1 cup out of 3 from third sample;<br>
+      \(C^4_9\) - total # of ways to choose 4 cups out of 9.<br>
+      \(P=1-\frac{C^1_3*C^2_3*C^1_3*C^1_3}{C^4_9}=1-\frac{9}{14}=\frac{5}{14}\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183499.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#6#B#
+<div  ans="B">
+      \(\frac{7^7}{7^x} = 7^{7-x}\), so as long as \(x\) is an integer and \(x \le 7\), the expression is an integer.<br>
+      Statement (1) by itself is insufficient. S1 says that \(x\) can be between 0 and 7, so it can be an integer or any fraction.<br>
+      Statement (1) by itself is sufficient. S2 implies that \(x\) is one of (-1, 0, 1).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183648.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#7#B#
+<div  ans="B"><b>If the price increased by \(x\%\) from 2001 to 2002 and by \(y\%\) from 2002 to 2003, what is the percentage increase from 2001 to 2003?</b><br>
+      The price in 2001: \(p\);<br>
+      The price in 2002: \(p*(1+\frac{x}{100})\);<br>
+      The price in 2003: \(p*(1+\frac{x}{100})(1+\frac{y}{100})=p(1+\frac{y}{100}+\frac{x}{100}+\frac{xy}{10,000})\);<br>
+      The percentage increase from 2001 to 2003 is \(\frac{2003-2001}{2001}*100=x+y+ \frac{xy}{100}\).<br>
+      (1) \(xy=30\). Not sufficient.<br>
+      (2) \(100x+100y+xy=1330\). Divide both sides by 100: \(x+y+\frac{xy}{100}=13.3\), directly gives the answer. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m12-183954.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#8#B#
+<div  ans="B">
+      (1) Charlie gets to the trailer in 55 minutes. No info about Buster. Not sufficient.<br>
+      (2) Buster gets to the studio at the same time as Charlie gets to the trailer. Charlie needed 20 minutes less than Buster to cover the same distance, which means that the rate of Charlie is higher than that of Buster. Since after they pass each other they need the same time to get to their respective destinations (they get at the same time to their respective destinations) then Buster had less distance to cover ahead (at lower rate) than he had already covered (which would be covered by Charlie at higher rate). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m06-183716.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#9#A#
+<div  ans="A">
+This is a hard question that challenges test-taker's logic. It is simple once you understand it but hard if you have never solved it. If you made a mistake on this question, make sure you understand the logic so you can be armed with this new tool for the real test.<br>
+      (1) Statement 1 tells us that from any two snakes from Pandora's box at least one is a viper. This does not mean that there are 2 snakes in the box or that there is only 1 viper. Instead, it indicates that at most, there is 1 cobra. This may mean 1 cobra and 1 viper or 1 cobra and 99 vipers. Make sure you understand this distinction. S1 tells us that there is only 1 cobra in the box, which is sufficient. <br>
+      (2) The total number of snakes Pandora's box is 99. Clearly insufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183752.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#10#B#
+<div  ans="B">
+      Consider 11 numbers in ascending order to be \(x_1\), \(x_2\), \(x_3\), ..., \(x_{11}\).<br>
+      The median of a set with odd number of elements is the middle number (when arranged in ascending or descending order), so the median of given set is \(x_{6}=25\);<br>
+      The range of a set is the difference between the largest and the smallest numbers of a set, so the range of given set is \(50=x_{11}-x_{1}\) \(\rightarrow\) \(x_{11}=50+x_{1}\);<br>
+      We want to maximize \(x_{11}\), hence we need to maximize \(x_{1}\). Since all integers must be distinct then the maximum value of \(x_{1}\) will be \(median-5=25-5=20\) and thus the maximum value of \(x_{11}\) is \(x_{11}=50+20=70\).<br>
+      The set could be {<b>20</b>, 21, 22, 23, 24, <b>25</b>, 26, 27, 28, 29, <b>70</b>}<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183482.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#11#C#
+<div  ans="C">
+      (1) The longer side of the rectangle is 2 meters shorter than its diagonal. Given: \(a=d-2\), where \(a\) is the length of the longer side and \(d\) is the length of the diagonal. Not sufficient on its own to get the perimeter.<br>
+      (2) The ratio of the shorter side of the rectangle to its diagonal is \(\frac{1}{3}\). Given: \(\frac{b}{d}=\frac{1}{3}\), so \(d=3b\), where \(b\) is the length of the shorter side. Not sufficient on its own to get the perimeter.<br>
+      (1)+(2) We have that \(a=d-2\) and \(d=3b\), so \(a=3b-2\). Also from Pythagorean theorem \(a^2+b^2=d^2\), hence \(a^2 -32a-32=0\). We can get the value of \(a\) (we'll have two solutions for \(a\): one positive and another negative, hence not valid ) and therefore the value of \(b\), so the value of the perimeter too. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m16-184091.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#12#D#
+<div  ans="D">
+      Statement 1: If \(|x| = y = 10\), \(y\) is 10 but \(x\) could be -10 or 10. The area is same for \(x = 10\) and \(x = -10\). This is sufficient to answer the question.<br>
+      Statement 2: If \(x = |y| = 10\), \(x = 10\) but \(y\) could be 10 or -10 but different value of \(y\) does not affect the area of the triangle. This statement is also sufficient to answer the question.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183495.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#13#B#
+<div  ans="B"><b>A, B, C, and D are distinct points on a plane. If triangle ABC is right angled and BD is a height of this triangle, what is the value of AB times BC ?</b><br>
+      Since all points are distinct and BD is a height then B must be a right angle and AC must be a hypotenuse (so BD is a height from right angle B to the hypotenuse AC). Question thus asks about the product of non-hypotenuse sides AB and BC.<br>
+      (1) AB = 6. Clearly insufficient.<br>
+      (2) The product of the non-hypotenuse sides of triangle \(ABC\) is equal to 24 \(\rightarrow\) directly gives us the value of AB*BC. Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m04-183634.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#14#D#
+<div  ans="D">
+      Given:<br>
+      \(a_2+a_5=(a_1+d)+(a_1+4d)=2a_1+5d=8\);<br>
+      \(a_3+a_7=(a_1+2d)+(a_1+6d)=2a_1+8d=14\);<br>
+      Subtract 1 from 2: \(3d=6\), hence \(d=2\). Now, since \(2a_1+5d=8\) then \(2a_1+5*2=8\) giving \(a_1=-1\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m03-183614.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#15#E#
+<div  ans="E">
+      Approach 1: Write out the factors: 90, 45, 30, 18, 15, 10, 9, 6, 5, 3, 2, 1. There are 12 of them.<br>
+      Approach 2:  Prime factorization:<br>
+      \(2^1 * 3^2 * 5^1 = 90\)
+      Add 1 to each exponent and multiply them:<br>
+      \((1+1)(2+1)(1+1) = 12\)
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m02-183572.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#16#A#
+<div  ans="A">
+      # of multiples of 11 in the given range \(\frac{(\text{last}-\text{first})}{\text{multiple}}+1=\frac{(990-11)}{11}+1=90\);<br>
+      # of multiples of 35 in the given range \(\frac{(\text{last}-\text{first})}{\text{multiple}}+1=\frac{(980-35)}{35}+1=28\);<br>
+      # of multiples of both 11 and 35 is 2 (\(11*35=385\) and 770);<br>
+      So, # of multiples of 11 or 35 in the given range is \(90+28-2=116\). Thus numbers which are not divisible by either of them is \(1000-116=884\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183748.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#17#E#
+<div  ans="E">
+      S1 states that \(z\) is one of the following: -75, 0, 75, 150, etc. It is not sufficient since when \(z=0\), the expression is an integer, in all other cases it is not. INSUFFICIENT.<br>
+      S2 gives a range of numbers where again, the expression may or may not be an integer. INSUFFICIENT.<br>
+      Combining both statements together, \(z\) can be 0 or 75. This is again INSUFFICIENT.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m00-183511.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#18#B#
+<div  ans="B">
+    Given: \(x^2-100 \lt 300\);<br>
+	\(x^2 \lt 400\);<br>
+	\(|x| \lt 20\);<br>
+	\(-20 \lt x \lt 20\), so \(x\) can take 39 integer values from -19 to 19, inclusive.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m07-183765.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#19#B#
+<div  ans="B">
+      Notice that since \(x\) and \(y\) are positive integers then each can be 1, 2, 3, ... Also notice that \(x=y=1\) is not possible since in this case \(\frac{1}{x}+\frac{1}{y}=2\), which violates given condition that \(\frac{1}{x}+\frac{1}{y} \lt 2\). So, at least one out of \(x\) and \(y\) must be more than 1, which makes \(xy\) greater than 1. So, option B is always true.<br>
+      As for the other options: consider \(x=y=2\) to see that neither holds true.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m11-183917.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#20#E#
+<div  ans="E">
+      Notice that we are not told that \(x\) and \(y\) are integers.<br>
+      \(x^2 \lt 81\) means that \(-9 \lt x \lt 9\) and \(y^2 \lt 25\) means that \(-5 \lt y \lt 5\). Now, since the largest value of \(x\) is almost 9 and the largest value of \(-2y\) is almost 10 (for example if \(y=-4.9\)), then the largest value of \(x-2y\) is almost \(9+10=19\), so the actual value is less than 19, which means that the largest prime that can be equal to \(x-2y\) is 17. For example: \(x=8\) and \(y=-4.5\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m03-183591.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#21#C#
+<div  ans="C">
+	After 2 hours \(2*\frac{1}{10}=\frac{1}{5}\) of the taks will be done (as only A works);<br>
+	After 4 hours \(\frac{1}{5}+2*(\frac{1}{10}+\frac{1}{5})=\frac{4}{5}\) of the task will be done and \(\frac{1}{5}\) will be left to be done;<br>
+	We are told that 1/5th of the task is done in 15 minutes (1/4th of an hour) by all three workers: \(\frac{1}{4}*(\frac{1}{10}+\frac{1}{5}+\frac{1}{x})=\frac{1}{5}\). From which we can find that \(x=2\) hours.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183489.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#22#E#
+<div  ans="E">
+      (1) The sum of numbers in each of the rows is equal. So, \(x+2+1=2+1+y=1+z+2\), which gives that \(x=y=z\). Not sufficient.<br>
+      (2) The sum of numbers in each of the columns is equal. So, \(x+2+1=2+1+z=1+y+2\), which again gives that \(x=y=z\). Not sufficient.<br>
+      (1)+(2) All we know is that \(x=y=z\), which is not sufficient to get the value of \(x+y+z\). Not sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m23-184365.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#23#A#
+<div  ans="A">
+      Let's simplify each of the options if we can:<br>
+      A. \(999^{12} \approx 1000^{12} = 10^{36}\)<br>
+      B. \(10^{30} = 1000^{10}\)<br>
+      C. \(777^{10}\) - it's obviously smaller than B as the bases differ but the power is the same<br>
+      D. \((-20)^{24} = 20^{24} = 2^{24}*10^{24} \approx 2^4*10^6*10^{24} = 16*10^{30}\) (we used this approximation: \(2^{10} \approx 10^3\))<br>
+      E. \((\sqrt{15})^{40} = 15^{20}\) - this one is for sure smaller than D<br>
+      We are left with A, B and D. B is approximately 16 times smaller than D. Although we used approximation for A, it should still be greater than D. A is the greatest.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183466.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#24#C#
+<div  ans="C">\(\sqrt{9 + x^2 - 6x} = \sqrt{(3 - x)^2} = |3 - x|\) (by the definition of a square root).</div>
+<div class = "correct"><span> The correct answer is <strong>C</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m19-184200.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#25#B#
+<div  ans="B">
+      Look at the diagram below:<br>
+      <p style="text-align: center;"><img align="middle" src="../../../assets/img/question/GMC-01-25.png"/><p>
+      Notice that "30% of the people like both strawberry and apple jam" doesn't mean that among these 30% (60) cannot be some people who like raspberry as well. Both strawberry and apple jam is the intersection of these two groups, if we refer to the diagram it's the yellow segment in it.<br>
+      Next, no formula is needed to solve this question: 112 like strawberry jam, 88 like apple jam, 60 people like both strawberry and apple jam. So the # of people who like either strawberry or apple (or both) is \(112+88-60=140\) (on the diagram it the area covered by Strawberry and Apple). So there are TOTAL of \(200-140=60\) people left who "do not like either strawberry or apple jam". Can ALL these 60 people like raspberry? As \(\text{Raspberry}=80 \ge 60\), then why not! So, maximum # of people who like raspberry and don't like either strawberry or apple jam is 60 (grey segment on the diagram). Notice here that in this case the # of people who like none of the 3 jams (area outside three circles) will be zero.<br>
+      Side note: minimum # of people who like raspberry and don't like either strawberry or apple jam would be zero (consider Raspberry circle inside Strawberry and/or Apples circles). In this case those 60 people (who "do not like either strawberry or apple jam") will be those who like none of the 3 jams.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m08-183778.html"><span>Link to Forum discussion</span></a></span></div>							
+---------------------------------
+#PS#26#A#
+<div  ans="A">
+      <b>Absolute value properties:</b><br>
+      When \(x \le 0\) then \(|x|=-x\), or more generally when \(\text{some expression} \le 0\) then \(|\text{some expression}| = -(\text{some expression})\). For example: \(|-5|=5=-(-5)\);<br>
+      When \(x \ge 0\) then \(|x|=x\), or more generally when \(\text{some expression} \ge 0\) then \(|\text{some expression}| = \text{some expression}\). For example: \(|5|=5\);<br>
+      Another important property to remember: \(\sqrt{x^2}=|x|\).<br>
+      <b>Back to the original question:</b><br>
+      \(\sqrt{x^2 - 6x + 9} + \sqrt{2 - x} + x - 3=\sqrt{(x-3)^2}+\sqrt{2-x}+x-3=|x-3|+\sqrt{2-x}+x-3\).<br>
+      Now, as the expressions under the square roots are more than or equal to zero then \(2-x \ge 0\) \(\rightarrow\) \(x \le 2\). Next: as \(x \le 2\) then \(|x-3|\) becomes \(|x-3|=-(x-3)=-x+3\).<br>
+      \(|x-3|+\sqrt{2-x}+x-3=-x+3+\sqrt{2-x}+x-3=\sqrt{2-x}\).<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>A</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m08-183787.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#27#D#
+<div  ans="D">
+      Let \(X\) be the total number of polled people.<br>
+      <ul>
+        <li>\(0.6X\) -- say that they will vote for Stewart</li>
+        <li>\(0.9*0.6X=0.54\) -- actually voted</li>
+      </ul>
+      <ul>
+        <li>\(0.4X\) -- will not vote for Stewart</li>
+        <li>\(0.05*0.4X=0.02X\) -- nevertheless, voted for him</li>
+      </ul>
+      So, \(0.54X+0.02X=0.56X\) or 56%<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m00-183510.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#28#E#
+<div  ans="E">
+      Max will be able to save 25% of $2,000, which is $500, during the first month. He still needs to save \(5,500 - 500 = \$5,000\). Max's salary will be raised by one-fourth starting next month and will be \(2000*1.25 = \$2,500\). He will be able to save \(2500*0.25 = \$625\) every month starting from the second month and will save $5,000 more in 8 months (\(625*8=5000\)). Therefore it will take Max 9 months to save $5,500.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>E</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m01-183538.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#PS#29#D#
+<div  ans="D">
+      <b>THEORY</b><br>
+      If exponentiation is indicated by stacked symbols, the rule is to work from the top down, thus:<br>
+      \(a^{m^n}=a^{(m^n)}\) and not \((a^m)^n\), which on the other hand equals to \(a^{mn}\).<br>
+      So:<br>
+      \((a^m)^n=a^{mn}\);<br>
+      \(a^{m^n}=a^{(m^n)}\) and not \((a^m)^n\).<br>
+      <b>BACK TO THE QUESTION</b><br>
+      According to the above: \(3^{3^3}=3^{(3^3)}=3^{27}\)<br>
+      Next, the units digit of 3 in positive integer power repeats in pattern of 4: {3, 9, 7, 1}. So, the units digit of \(3^{27}\)  (27=<b>4</b>*6+<b>3</b>) is the same as the units digit of \(3^3\), which is 7.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m09-183840.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#30#D#
+<div  ans="D">
+      Notice that since events \(A\) and \(B\) are independent, then the probability that both occur, equals to the product of their individual probability, so \(P(A \text { and } B)=P(A)*P(B)\). Also notice that \(0 \le P(A) \le 1\) and \(0 \le P(B) \le1\).<br>
+      <p>(1) Probability that \(A\) will happen is 0.25. Now, since \(P(A)=0.25\), then \(P(A \text { and } B)=P(A)*P(B) \le 0.25 \lt 0.3\). Sufficient.
+Or consider the following: how can the probability that both Event \(A\) and Event \(B\) will happen be more than individual probability of each happening? So, the probability that both happen cannot be more than 0.25.</p>
+      (2) Probability that B will NOT happen is 0.71. The same here: since \(P(B)=1-0.71=0.29\), then \(P(A \text { and } B)=P(A)*P(B) \le 0.29 \lt 0.3\). Sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>D</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/m23-184330.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
+#DS#31#B#
+<div  ans="B">
+      Statement 1: \(xy = 6\) is not sufficient to answer the question because solving the equation gives \(y = 3\) when \(x\) is 2 and \(y\) is -10 when \(x\) is \(-\frac{3}{5}\).<br>
+      \(5x = y + 7\) <br>
+      \(x = \frac{y + 7}{5}\) ................i<br>
+      \(xy = 6\) ........................ ii<br>
+      Replacing the value of \(x\) on eq ii: \(\frac{y(y + 7)}{5} = 6\)<br>
+      \(y^2 + 7y = 30\)<br>
+      \(y^2 + 10y - 3y - 30= 0\)<br>
+      \(y (y + 10) - 3 (y + 10) = 0\)<br>
+      \((y + 10) (y - 3) = 0\)<br>
+      \(y = - 10\) or \(3\)<br>
+      If \(y = - 10\), \(x = -\frac{3}{5}\). In this case, \(x - y = -\frac{3}{5} - (-10) = \frac{47}{5}\). Yes.<br>
+      If \(y = 3\), \(x = 2\). In this case, \(x - y = 2 - 3 = -1\). No.<br>
+      In each case \((x-y) \gt 0\) and \(\lt 0\). Hence statement 1 is not sufficient.<br>
+      <b>Statement 2:</b> If \(x\) and \(y\) are consecutive integers, \(x = 2\) and \(y = 3\).<br>
+      When \(x\) and \(y\) are consecutive integers, either \(x = y+1\) or \(y = x+1\) is possible.<br>
+      <u>(i) If \(x = y+1\)</u><br>
+      \(5x = y + 7\)<br>
+      \(5(y+1) = y + 7\)
+      \(4y = 2\)<br>
+      \(y = \frac{1}{2}\). Then \(x = \frac{3}{2}\). However this is not possible because \(x\) and \(y\) are even not integers. So this option is not valid.<br>
+      <u>(ii) If \(y = x+1\)</u><br>
+      \(5x = y + 7\)<br>
+      \(5x = x + 1 + 7\)<br>
+      \(4x = 8\)<br>
+      \(x = 2\)<br>
+      Then, \(y = 3\). This is valid because \(x\) and \(y\) are consecutive integers.<br>
+      So \((x-y) = 2-3 = -1\). Hence statement 2 is sufficient.<br>
+</div>
+<div class = "correct"><span> The correct answer is <strong>B</strong><a target="_blank" style="position: absolute; right: 10px;" href="http://gmatclub.com/forum/d01-183504.html"><span>Link to Forum discussion</span></a></span></div>
+---------------------------------
