@@ -10,6 +10,11 @@ div#questionExplanation, div#custom-page-container {
   user-select: none;
 }
 
+div#custom-page-container img{
+  max-width: 100%;
+  height: auto;
+}
+
 /*Round Box for explanation*/
 div.round-box {
   border: 1px solid #ccc !important;
@@ -52,6 +57,10 @@ table.example th {
 }
 
 /*----------------- End Table in Explanation ----------------------*/
+
+.intro-btn{
+  margin-top: 10px; margin-bottom: 10px;
+}
 
 /*----------------- Practice Summary Table ------------------------*/
 .practice-summary-table .ui-table .ui-table-thead > tr > th {

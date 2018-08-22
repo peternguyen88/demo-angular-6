@@ -29,6 +29,7 @@
               "node_modules/primeicons/primeicons.css",
               "src/assets/css/facebook-login.css",
               "src/assets/css/style.css",
+              "src/assets/css/style-small-device.css",
               "src/scss/style.scss"
             ],
             "stylePreprocessorOptions": {

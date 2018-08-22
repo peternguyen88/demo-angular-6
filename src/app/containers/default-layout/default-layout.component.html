@@ -13,7 +13,7 @@
     <li class="nav-item dropdown" dropdown placement="bottom right">
       <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" dropdownToggle (click)="false">
         <img src="{{user?.providerData[0].photoURL}}" class="img-avatar">
-        <span class="hidden-md-down">{{user?.displayName}}</span>
+        <span class="d-md-down-none">{{user?.displayName}}</span>
       </a>
       <div class="dropdown-menu dropdown-menu-right" *dropdownMenu aria-labelledby="simple-dropdown">
         <span *ngIf="user?.email === 'tronghieubk@gmail.com'">

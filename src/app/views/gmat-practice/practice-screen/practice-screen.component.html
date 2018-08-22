@@ -2,16 +2,17 @@
   <div id="wrapper">
     <div class="testForm">
       <div id="header">
-        <h1>GMAT - Zero To Hero</h1>
+        <h1 class="d-sm-down-none">GMAT - Zero To Hero</h1>
 
-        <h1 style="margin-left: 150px;">{{currentPractice.practiceFullName}}</h1>
+        <h1 class="d-md-down-none" style="margin-left: 150px;">{{currentPractice.practiceFullName}}</h1>
+        <h1 class="d-md-up-none">{{currentPractice.practiceName}}</h1>
 
         <div id="steps" class="control quizNum">
           <i class="icon-note icons"></i>
           <span>{{currentQuestion.question_number}} of {{currentPractice.numberOfQuestions}}</span>
         </div>
         <div class="control timer" *ngIf="!isReview()">
-          <span class="title">{{practiceService.isInTestMode() ? 'Time Remain' : 'Time Spent'}}</span>
+          <span class="title d-sm-down-none">{{practiceService.isInTestMode() ? 'Time Remain' : 'Time Spent'}}</span>
           <i class="icons icon-clock" style="padding: 0 5px 0 5px;"></i>
           <span class="time" appDigitalTime [time]="practiceService.elapsedTime" *ngIf="!practiceService.isInTestMode()"></span>
           <span class="time" appDigitalTime [time]="currentPractice.allowedTime - practiceService.elapsedTime" *ngIf="practiceService.isInTestMode()"></span>
@@ -22,7 +23,7 @@
 
       <div id="questionInfo">
         <button type="button" class="btn btn-outline-success no-glow-button white-text" *ngIf="isReview()" (click)="showAnswer()"><i class="fa" [ngClass]="{'fa-star-o': !showCorrectAnswer, 'fa-star': showCorrectAnswer}"></i>&nbsp; Show Answer</button>
-        <p class="question-time">Current Question Time: <span appDigitalTime [time]="practiceService.currentQuestionTime"></span></p>
+        <p class="question-time">Time: <span appDigitalTime [time]="practiceService.currentQuestionTime"></span></p>
       </div>
 
 
@@ -87,18 +88,18 @@
       </div>
 
       <div id="questionExplanation" *ngIf="isShowingExplanation">
-        <div class="content" style="height:243px; width: 100%;resize:horizontal; padding: 5px 5px;" [innerHTML]="currentQuestion.question_explanation | safeHtml"></div>
+        <div class="content" style="height:260px; width: 100%;resize:horizontal; padding: 5px 5px;" [innerHTML]="currentQuestion.question_explanation | safeHtml"></div>
       </div>
 
       <div id="setUp">
-        <button type="button" class="btn btn-outline-info no-glow-button black-text" (click)="currentQuestion.toggleBookmark()"><i class="fa" [ngClass]="{'fa-flag-o': !currentQuestion.bookmarked, 'fa-flag': currentQuestion.bookmarked}"></i>&nbsp; Favorite</button>
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" (click)="currentQuestion.toggleBookmark()"><i class="fa" [ngClass]="{'fa-flag-o': !currentQuestion.bookmarked, 'fa-flag': currentQuestion.bookmarked}"></i>&nbsp; <span class="d-sm-down-none">Favorite</span></button>
 
-        <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="reportQuestion()"><i class="fa fa-exclamation-circle"></i>&nbsp; Report</button>
+        <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="reportQuestion()"><i class="fa fa-exclamation-circle"></i>&nbsp; <span class="d-sm-down-none">Report</span></button>
         <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="toggleNote()" *ngIf="isReview()" [class.hasNote]="currentQuestion.hasNote()"
-                [disabled]="!currentQuestion.selected_answer"><i class="fa fa-pencil-square-o"></i>&nbsp; Note</button>
+                [disabled]="!currentQuestion.selected_answer"><i class="fa fa-pencil-square-o"></i>&nbsp; <span class="d-sm-down-none">Note</span></button>
 
         <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="toggleExplanation()" *ngIf="isReview() && currentPractice.hasExplanation">
-                <i class="fa fa-file-text-o"></i>&nbsp; Show Explanation</button>
+          <i class="fa fa-file-text-o"></i>&nbsp;<span class="d-sm-down-none">Show Explanation</span></button>
       </div>
 
       <div id="footer">

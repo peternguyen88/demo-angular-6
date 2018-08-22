@@ -270,11 +270,38 @@ a.testPause {
   color: white;
 }
 
-.btn{
+.btn {
   cursor: pointer;
 }
 
-.hasNote{
+.hasNote {
   color: yellow;
   background-color: indigo;
 }
+
+/* CSS to adapt to small Screen */
+@media screen and (max-width: 999px) {
+  .testForm {
+    left: 0;
+    margin-left: 0;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .testForm .whiteBG {
+    width: unset;
+    left: 0;
+    right: 10px;
+  }
+
+  .testForm #setUp, .testForm #footer, .testForm #questionNote, .testForm #questionExplanation{
+    width: unset;
+    left: 0;
+    right: 0;
+  }
+
+  .testForm .questionWrap, .testForm .passage {
+    font-size: 14px !important;
+  }
+}
+

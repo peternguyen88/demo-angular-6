@@ -1,10 +1,10 @@
-<div class="card card-accent-success" *ngIf="!isSpecialRender()">
+<div class="card card-accent-success set-selection" *ngIf="!isSpecialRender()">
   <div class="card-header">
     <h6>Choose Your Practice Set</h6>
   </div>
   <div class="card-body">
     <div class="row">
-      <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets">
+      <div class="col-sm-6 col-md-4 col-lg-2" *ngFor="let practice of practiceSets">
 
         <div class="card text-white bg-primary text-center">
           <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
@@ -22,14 +22,14 @@
 
 <!--Comprehensive Render-->
 
-<div *ngIf="isComprehensiveRender()">
+<div *ngIf="isComprehensiveRender()" class="set-selection">
   <div class="card card-accent-success">
     <div class="card-header">
       <h6>Sentence Correction</h6>
     </div>
     <div class="card-body">
       <div class="row">
-        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'SC'">
+        <div class="col-sm-6 col-md-4 col-lg-2" *ngFor="let practice of practiceSets | filter: 'SC'">
 
           <div class="card text-white bg-primary text-center">
             <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
@@ -51,7 +51,7 @@
     </div>
     <div class="card-body">
       <div class="row">
-        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'CR'">
+        <div class="col-sm-6 col-md-4 col-lg-2" *ngFor="let practice of practiceSets | filter: 'CR'">
 
           <div class="card text-white bg-success text-center">
             <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
@@ -73,7 +73,7 @@
     </div>
     <div class="card-body">
       <div class="row">
-        <div class="col-sm-6 col-md-4" *ngFor="let practice of practiceSets | filter: 'RC'">
+        <div class="col-sm-6 col-md-4 col-lg-2" *ngFor="let practice of practiceSets | filter: 'RC'">
 
           <div class="card text-white bg-danger text-center">
             <div class="card-body" style="cursor: pointer;" (click)="selectPracticeSet(practice)">
