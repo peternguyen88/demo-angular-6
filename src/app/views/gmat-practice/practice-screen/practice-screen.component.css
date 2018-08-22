@@ -207,7 +207,8 @@ a.testPause {
   position: absolute;
   margin: 0 10px;
   width: 980px;
-  bottom: 65px;
+  bottom: 70px;
+  height: 255px;
   overflow: scroll;
   background-color: ghostwhite;
 }

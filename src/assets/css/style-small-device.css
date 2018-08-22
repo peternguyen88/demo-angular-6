@@ -10,8 +10,25 @@
   }
 }
 
+/*-------------- For Desktop -----------------------*/
 .practice-summary-table .question-no{
   width: 140px;
+}
+
+.testForm .passage{
+  width: 50%;
+}
+
+.testForm #setUp .show-question{
+  display: none;
+}
+
+.questionWrap.halfWidth{
+  display: block;
+}
+
+.testForm .passage{
+  display: block;
 }
 
 @media screen and (max-width: 999px) {
@@ -28,5 +45,18 @@
   div.performance-summary{
     overflow-x: scroll;
     padding: 1.25rem 0;
+  }
+
+  .testForm .passage{
+    width: 100%;
+  }
+
+  .questionWrap.halfWidth{
+    width: 100% !important;
+    display: none;
+  }
+
+  .testForm #setUp .show-question{
+    display: unset;
   }
 }

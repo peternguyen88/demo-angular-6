@@ -1,8 +1,7 @@
 /**
  * Display Test To User
  */
-import {AfterViewChecked, Component, HostListener, OnDestroy, Pipe, PipeTransform} from '@angular/core';
-import {DomSanitizer} from '@angular/platform-browser';
+import {AfterViewChecked, Component, HostListener, OnDestroy} from '@angular/core';
 import {PracticeService} from '../services/gmat-practice.service';
 import {Stage} from '../data/Model';
 import {Question} from '../../../models/question';
@@ -34,6 +33,8 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
 
   updateMathContent = false;
   questionChangeDetected = false;
+
+  showRCQuestion = false; // Will only be used on very small screen.
 
   constructor(public practiceService: PracticeService, private webService: WebService) {
     this.updateCurrentQuestion(this.practiceService.getCurrentQuestion());
@@ -71,6 +72,8 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
   }
 
   public prev() {
+    this.compareReadingPassageToTogglePassage(this.practiceService.getCurrentQuestion(), this.practiceService.getPreviousQuestion());
+
     this.practiceService.prev();
     this.updateCurrentQuestion(this.practiceService.getCurrentQuestion());
     this.showCorrectAnswer = false;
@@ -103,6 +106,8 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
     }
 
     if (!this.practiceService.isLastQuestion()) {
+      this.compareReadingPassageToTogglePassage(this.practiceService.getCurrentQuestion(), this.practiceService.getNextQuestion());
+
       this.practiceService.next();
       this.updateCurrentQuestion(this.practiceService.getCurrentQuestion());
       this.showCorrectAnswer = false;
@@ -115,6 +120,18 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
 
 
     $('#questionExplanation').scrollTop(0);
+  }
+
+  private compareReadingPassageToTogglePassage(thisQuestion: Question, thatQuestion: Question){
+    if(!thisQuestion.isReadingComprehension() || !thatQuestion.isReadingComprehension()) {
+      this.showRCQuestion = false;
+      return;
+    }
+    const thisLength = thisQuestion.reading_passage.replace(/<.*?>/g,'').length;
+    const thatLength = thatQuestion.reading_passage.replace(/<.*?>/g,'').length;
+    if(thisLength !== thatLength && this.showRCQuestion){
+      this.toggleRCQuestion();
+    }
   }
 
   public pauseOrResume() {
@@ -205,5 +222,16 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
       }
       this.questionChangeDetected = false;
     }
+  }
+
+  toggleRCQuestion() {
+    if (!this.showRCQuestion) {
+      $('.questionWrap.halfWidth').show();
+      $('.testForm .passage').hide();
+    } else {
+      $('.questionWrap.halfWidth').hide();
+      $('.testForm .passage').show();
+    }
+    this.showRCQuestion = !this.showRCQuestion;
   }
 }

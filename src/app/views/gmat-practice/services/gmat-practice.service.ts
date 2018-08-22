@@ -13,6 +13,7 @@ import {UserQuestionReport} from '../../../models/firebase.model';
 import {interval} from 'rxjs/observable/interval';
 import {Subject} from 'rxjs/Subject';
 import {ArrayUtils} from '../../../shared/utils/array-utils';
+import {environment} from '../../../../environments/environment';
 
 @Injectable()
 export class PracticeService {
@@ -24,7 +25,7 @@ export class PracticeService {
 
   // ========================================Render Control ===================================================
   stage: Stage = Stage.SELECT;
-  cache = false;
+  cache = environment.production;
   isLoading = false; // If loading -> Not display chart, not go into practice/review mod
 
   // -------------Control variables----------------
@@ -281,6 +282,14 @@ export class PracticeService {
     return this.questions[this.currentQuestionIndex];
   }
 
+  getNextQuestion(): Question {
+    return this.questions[this.currentQuestionIndex + 1];
+  }
+
+  getPreviousQuestion(): Question {
+    return this.questions[this.currentQuestionIndex - 1];
+  }
+
   // ------------- Subscription -----------------------
   subscribe() {
     this.subscription = interval(1000).subscribe(() => {
@@ -344,7 +353,7 @@ export class PracticeService {
       console.log('Newer version from Server detected. Getting data from server and saving to local');
       PracticeResult.mergeArrayResultToPractice(this.currentPractice, questionResults);
       localStorage.setItem(this.currentPractice.practiceName, JSON.stringify(new PracticeResult(this.currentPractice)));
-    }, ()=>{
+    }, () => {
       this.isLoading = false;
     });
   }

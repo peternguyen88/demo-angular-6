@@ -30,7 +30,7 @@
       <div class="whiteBG" [style.bottom]="isShowingNote || isShowingExplanation ? '330px' : '62px'">
         <div id="section">
           <div class="content" style="display: inline-block">
-            <div class="passage" [innerHTML]="currentQuestion.reading_passage | safeHtml" *ngIf="currentQuestion.isReadingComprehension()" style="width: 50%;">
+            <div class="passage" [innerHTML]="currentQuestion.reading_passage | safeHtml" *ngIf="currentQuestion.isReadingComprehension()">
             </div>
             <div class="questionWrap" [ngClass]="{halfWidth: currentQuestion.isReadingComprehension(), fullWidth : !currentQuestion.isReadingComprehension()}">
               <div class="question">
@@ -88,7 +88,7 @@
       </div>
 
       <div id="questionExplanation" *ngIf="isShowingExplanation">
-        <div class="content" style="height:260px; width: 100%;resize:horizontal; padding: 5px 5px;" [innerHTML]="currentQuestion.question_explanation | safeHtml"></div>
+        <div class="content" style="height:240px; width: 100%;resize:horizontal; padding: 0 5px;" [innerHTML]="currentQuestion.question_explanation | safeHtml"></div>
       </div>
 
       <div id="setUp">
@@ -100,6 +100,9 @@
 
         <button type="button" class="btn btn-outline-info no-glow-button black-text" style="float:right;" (click)="toggleExplanation()" *ngIf="isReview() && currentPractice.hasExplanation">
           <i class="fa fa-file-text-o"></i>&nbsp;<span class="d-sm-down-none">Show Explanation</span></button>
+
+        <button type="button" class="btn btn-outline-info no-glow-button black-text show-question" (click)="toggleRCQuestion()" *ngIf="currentQuestion.isReadingComprehension()">
+          <i class="fa fa-free-code-camp"></i>&nbsp;<span>{{!showRCQuestion ? 'Show Question' : 'Show Passage'}}</span></button>
       </div>
 
       <div id="footer">
