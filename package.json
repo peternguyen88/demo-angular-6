@@ -1,27 +1,20 @@
 {
-  "name": "@coreui/coreui-free-angular-admin-template",
+  "name": "@Hieu-Nguyen/gmat-zero-to-hero",
   "version": "2.0.0-rc.4",
-  "description": "CoreUI Free Angular 2+ Admin Template",
+  "description": "GMAT - Zero to Hero",
   "author": {
-    "name": "Łukasz Holeczek",
-    "url": "http://holeczek.pl",
-    "github": "https://github.com/mrholek",
-    "twitter": "https://twitter.com/lukaszholeczek"
+    "name": "Hieu Nguyen",
+    "url": "https://gmat-zero-to-hero.firebaseapp.com"
   },
-  "contributors": [
-    {
-      "name": "Andrzej Kopański",
-      "url": "https://github.com/xidedix"
-    }
-  ],
-  "homepage": "https://coreui.io/angular",
-  "copyright": "Copyright 2018 creativeLabs Łukasz Holeczek",
+  "homepage": "https://gmat-zero-to-hero.firebaseapp.com",
+  "copyright": "Copyright 2018 GMAT - Zero to Hero",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start_lan": "ng serve --host 0.0.0.0",
     "build_and_deploy_firebase": "build_and_deploy_firebase",
-    "build": "ng build --prod",
+    "build": "ng build --prod --output-hashing none",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -46,7 +39,6 @@
     "chart.js": "^2.7.2",
     "core-js": "^2.5.7",
     "firebase": "^5.4.0",
-    "flag-icon-css": "^3.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "moment": "^2.22.2",

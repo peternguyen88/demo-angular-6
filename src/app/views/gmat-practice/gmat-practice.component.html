@@ -3,7 +3,7 @@
 </div>
 
 <!--Due to a strange bug when update to Angular 6, need to keep the component alive to prevent scroll to top-->
-<div *ngIf="isSummaryStage() || isPracticeStage()">
+<div *ngIf="isSummaryStage() || isPracticeStage()" id="summary-page">
   <app-gmat-practice-summary></app-gmat-practice-summary>
 </div>
 

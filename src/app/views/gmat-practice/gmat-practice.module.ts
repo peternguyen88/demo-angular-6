@@ -13,14 +13,14 @@ import {PracticeScreenComponent} from './practice-screen/practice-screen.compone
 import {GmatCommonModule} from '../../shared/modules/gmat-common-module';
 import {HttpClient} from '@angular/common/http';
 import {TableModule} from 'primeng/table';
-import {AlertModule, CollapseModule, PopoverModule, TooltipModule} from 'ngx-bootstrap';
+import {AlertModule, CollapseModule, ModalModule, PopoverModule, TooltipModule} from 'ngx-bootstrap';
 import {ToastModule} from 'primeng/toast';
 import {MessageService} from 'primeng/api';
 import {ChartModule} from 'primeng/chart';
 
 @NgModule({
   imports: [CommonModule, GmatCommonModule, GMATPracticeRoutingModule, FormsModule, TableModule, AlertModule.forRoot(), ToastModule,
-    CollapseModule.forRoot(), ChartModule, TooltipModule.forRoot(), PopoverModule.forRoot(),],
+    CollapseModule.forRoot(), ChartModule, TooltipModule.forRoot(), PopoverModule.forRoot(), ModalModule.forRoot()],
   declarations: [GMATPracticeComponent, GMATPracticeListComponent,
     GMATPracticeSummaryComponent, PracticeScreenComponent, FilterPipe],
   providers: [PracticeService, HttpClient, MessageService]

@@ -2,6 +2,7 @@ import * as firebase from 'firebase/app';
 import {Injectable} from '@angular/core';
 import {AngularFireAuth} from 'angularfire2/auth';
 import {Subject} from 'rxjs/Subject';
+import {ScreenUtils} from '../utils/screen-utils';
 
 @Injectable()
 export class FirebaseAuthenticationService {
@@ -13,7 +14,11 @@ export class FirebaseAuthenticationService {
   }
 
   login() {
-    this.fireAuth.auth.signInWithPopup(new firebase.auth.FacebookAuthProvider());
+    if(ScreenUtils.isOnSmallScreen()){
+      this.fireAuth.auth.signInWithRedirect(new firebase.auth.FacebookAuthProvider());
+    } else {
+      this.fireAuth.auth.signInWithPopup(new firebase.auth.FacebookAuthProvider());
+    }
   }
 
   logout() {

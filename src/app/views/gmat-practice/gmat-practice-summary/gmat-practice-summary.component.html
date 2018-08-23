@@ -1,6 +1,6 @@
 <button class="btn btn-primary" style="margin-bottom: 20px;" (click)="backToSelection()"><i class="fa fa-arrow-left"></i> Back</button>
-<button class="btn btn-outline-success" style="margin: 0 10px 20px 10px;" (click)="startPractice()">Start {{!currentPractice.isTest() ? 'Practice' : 'Test'}}</button>
-<button class="btn btn-outline-danger" style="margin: 0 10px 20px 0;" (click)="resumePractice()" [ngClass]="{disabled: !resumable}">Resume {{!currentPractice.isTest() ? 'Practice' : 'Test'}}</button>
+<button class="btn btn-outline-success" style="margin: 0 10px 20px 10px;" (click)="startPractice()">Start <span class="d-sm-down-none">{{!currentPractice.isTest() ? 'Practice' : 'Test'}}</span></button>
+<button class="btn btn-outline-danger" style="margin: 0 10px 20px 0;" (click)="resumePractice()" [ngClass]="{disabled: !resumable}">Resume <span class="d-sm-down-none">{{!currentPractice.isTest() ? 'Practice' : 'Test'}}</span></button>
 <button class="btn btn-outline-dark" style="margin-bottom: 20px;" (click)="startReview()">Review All</button>
 
 <div class="card d-sm-down-none">
@@ -84,3 +84,27 @@
     </p-table>
   </div>
 </div>
+
+<button type="button" class="btn btn-danger" data-toggle="modal" (click)="dangerModal.show()">
+  Danger modal
+</button>
+
+<div bsModal #dangerModal="bs-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-danger" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Modal title</h4>
+        <button type="button" class="close" (click)="dangerModal.hide()" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>One fine body&hellip;</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="dangerModal.hide()">Close</button>
+        <button type="button" class="btn btn-danger">Save changes</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

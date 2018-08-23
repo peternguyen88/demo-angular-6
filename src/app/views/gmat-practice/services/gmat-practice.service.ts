@@ -14,6 +14,7 @@ import {interval} from 'rxjs/observable/interval';
 import {Subject} from 'rxjs/Subject';
 import {ArrayUtils} from '../../../shared/utils/array-utils';
 import {environment} from '../../../../environments/environment';
+import {ScreenUtils} from '../../../shared/utils/screen-utils';
 
 @Injectable()
 export class PracticeService {
@@ -83,6 +84,7 @@ export class PracticeService {
   public startPractice() {
     this.stage = Stage.PRACTICE;
     this.updateUrlToCurrentQuestion();
+    ScreenUtils.preventBackgroundScroll(true);
   }
 
   public backToSelection() {
@@ -169,6 +171,7 @@ export class PracticeService {
       this.endReview();
     }
     this.clearUrlFromPracticeMode();
+    ScreenUtils.preventBackgroundScroll(false);
   }
 
   clearUrlFromPracticeMode() {
