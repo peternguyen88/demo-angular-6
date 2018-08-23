@@ -2,6 +2,7 @@ import {Component} from '@angular/core';
 import {navItems} from '../../_nav';
 import {WebService} from '../../shared/services/web-service';
 import * as firebase from 'firebase';
+import {FirebaseUser} from '../../models/firebase.model';
 
 @Component({
   selector: 'app-dashboard',
@@ -9,13 +10,14 @@ import * as firebase from 'firebase';
 })
 export class DefaultLayoutComponent {
   public navItems = navItems;
-  public user: firebase.User;
+  public user: FirebaseUser;
   public sidebarMinimized = true;
   private changes: MutationObserver;
   public element: HTMLElement = document.body;
 
   constructor(private webService: WebService) {
-    this.webService.subscribeOnAuthStateChanged(user => this.user = user);
+    this.user = this.webService.getCurrentUser(); // Load saved user and update later
+    this.webService.getRealLoginEvent().subscribe(() => this.user = this.webService.getCurrentUser());
 
     this.changes = new MutationObserver((mutations) => {
       this.sidebarMinimized = document.body.classList.contains('sidebar-minimized');

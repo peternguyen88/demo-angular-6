@@ -6,6 +6,7 @@ import {FirebasePerformanceSummary, FirebaseUser, UserQuestionReport} from '../.
 import {PracticeResult, QuestionResult} from '../../models/test-result';
 import {PracticeData} from '../../views/gmat-practice/data/practice-sets';
 import {Subject} from 'rxjs/Subject';
+import {UserCache} from '../utils/user-cache';
 
 @Injectable()
 export class FirebaseDatabaseService {
@@ -55,6 +56,8 @@ export class FirebaseDatabaseService {
         if (!data) {
           this.firstTimeLoginProcess();
         }
+
+        UserCache.saveUser(this.firebaseUser);
       });
     } else {
       this.userObject = null;

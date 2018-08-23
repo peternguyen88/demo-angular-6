@@ -72,6 +72,7 @@ export class PracticeService {
     if (url.indexOf(practiceSet.practiceName) < 0) {
       const newUrl = url + '/' + practiceSet.practiceName;
       this.location.go(newUrl);
+      ScreenUtils.updateLastVisitOnIOS(newUrl);
     }
     this.stage = Stage.SUMMARY;
   }
@@ -93,6 +94,7 @@ export class PracticeService {
     if (url.indexOf(this.currentPractice.practiceName) >= 0) {
       const newUrl = url.substring(0, url.indexOf(this.currentPractice.practiceName));
       this.location.go(newUrl);
+      ScreenUtils.updateLastVisitOnIOS(newUrl);
     }
   }
 
@@ -178,6 +180,7 @@ export class PracticeService {
     let url = this.location.path(true);
     url = url.replace(/\/practice.*/, '').replace(/\/review.*/, '');
     this.location.go(url);
+    ScreenUtils.updateLastVisitOnIOS(url);
   }
 
   endPractice() {
@@ -278,7 +281,8 @@ export class PracticeService {
     const mode = (this.practiceMode === PracticeMode.REVIEW ? 'review' : 'practice');
     const questionNo = this.currentQuestionIndex + 1;
     url = url + '/' + mode + '/' + questionNo;
-    this.location.go(url);
+    this.location.replaceState(url);
+    ScreenUtils.updateLastVisitOnIOS(url);
   }
 
   getCurrentQuestion(): Question {

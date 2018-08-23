@@ -1,0 +1,1 @@
+--output-hashing none : can be used to remove the hashing in 

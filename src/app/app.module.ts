@@ -20,6 +20,8 @@ import {AngularFireAuthModule} from 'angularfire2/auth';
 import {AngularFireModule} from 'angularfire2';
 import {BsDropdownModule} from 'ngx-bootstrap';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 export const firebaseConfig = {
   apiKey: 'AIzaSyAa4rCwsgsFfuKtAtjcRe3tS6cBs0KLsbg',
@@ -36,6 +38,7 @@ const APP_CONTAINERS = [
 
 @NgModule({
   imports: [
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,

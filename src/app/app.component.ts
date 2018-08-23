@@ -1,8 +1,10 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnDestroy, OnInit} from '@angular/core';
 import {Router, NavigationEnd} from '@angular/router';
 import {distinctUntilChanged} from 'rxjs/operators';
 import {environment} from '../environments/environment';
 import {StringUtils} from './shared/utils/string-utils';
+import {Location} from '@angular/common';
+import {ScreenUtils} from './shared/utils/screen-utils';
 
 
 // Declare ga function as ambient
@@ -14,7 +16,7 @@ declare var ga: Function;
   template: '<router-outlet></router-outlet>'
 })
 export class AppComponent implements OnInit {
-  constructor(public router: Router) {
+  constructor(private location: Location, public router: Router) {
 
     if (environment.production) {
       router.events.pipe(distinctUntilChanged((previous: any, current: any) => {
@@ -26,10 +28,11 @@ export class AppComponent implements OnInit {
         // console.log('router.change', x);
         ga('set', 'page', StringUtils.cleanupURLForGA(x.url));
         ga('send', 'pageview');
-        // console.log(StringUtils.cleanupURLForGA(x.url));
+
+        ScreenUtils.updateLastVisitOnIOS(x.url);
       });
 
-      setInterval(function(){ ga('send', 'pageview'); }, 60000 * 5);
+      setInterval(function(){ ga('send', 'pageview'); }, 60000 * 10);
     }
   }
 
@@ -40,5 +43,7 @@ export class AppComponent implements OnInit {
       }
       window.scrollTo(0, 0);
     });
+
+    ScreenUtils.initAutoLoginBackOnIOsDevices(this.location);
   }
 }

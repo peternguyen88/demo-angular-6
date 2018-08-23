@@ -1,0 +1,37 @@
+{
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "resources": {
+        "files": [
+          "/favicon.ico",
+          "/index.html",
+          "/*.css",
+          "/*.js",
+          "/*.ttf",
+          "/*.woff2",
+          "/*.svg",
+          "/*.eot",
+          "/*.woff"
+        ],
+        "urls": [
+          "https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.css",
+          "https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.js",
+          "https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/contrib/auto-render.min.js"
+        ]
+      }
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/assets/**"
+        ]
+      }
+    }
+  ]
+}

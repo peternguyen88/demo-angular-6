@@ -4,6 +4,7 @@ import {FirebaseAuthenticationService} from './firebase.authentication.service';
 import * as firebase from 'firebase/app';
 import {QuestionResult} from '../../models/test-result';
 import {FirebaseUser, UserQuestionReport} from '../../models/firebase.model';
+import {UserCache} from '../utils/user-cache';
 
 
 /**
@@ -37,8 +38,8 @@ export class WebService {
     return this.fbAuthService.isLogin();
   }
 
-  public getCurrentUser(): firebase.User {
-    return this.fbAuthService.getCurrentUser();
+  public getCurrentUser(): FirebaseUser {
+    return UserCache.loadUser() || this.fbDatabaseService.firebaseUser;
   }
 
   public isUnlockFeature(): boolean {
@@ -46,7 +47,7 @@ export class WebService {
   }
 
   public isStudent(): boolean {
-    return this.fbAuthService ? this.fbDatabaseService.isStudent() : false;
+    return UserCache.loadUser() ? UserCache.loadUser().is_student : false;
   }
 
   public processSavePerformanceToServer(id: string, localSavedTime: number, questions: QuestionResult[]) {
@@ -63,7 +64,7 @@ export class WebService {
 
   public reportQuestion(report: UserQuestionReport) {
     report.report_user_id = this.fbDatabaseService.getUserIdentification();
-    report.report_user_name = this.fbAuthService.getCurrentUser().displayName;
+    report.report_user_name = this.fbDatabaseService.firebaseUser.name;
 
     this.fbDatabaseService.reportQuestion(report);
   }
