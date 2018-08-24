@@ -22,15 +22,7 @@ import {BsDropdownModule} from 'ngx-bootstrap';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
-
-export const firebaseConfig = {
-  apiKey: 'AIzaSyAa4rCwsgsFfuKtAtjcRe3tS6cBs0KLsbg',
-  authDomain: 'gmat-zero-to-hero.firebaseapp.com',
-  databaseURL: 'https://gmat-zero-to-hero.firebaseio.com',
-  projectId: 'gmat-zero-to-hero',
-  storageBucket: 'gmat-zero-to-hero.appspot.com',
-  messagingSenderId: '227562885868'
-};
+import {firebaseConfig} from '../config';
 
 const APP_CONTAINERS = [
   DefaultLayoutComponent

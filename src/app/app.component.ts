@@ -45,5 +45,6 @@ export class AppComponent implements OnInit {
     });
 
     ScreenUtils.initAutoLoginBackOnIOsDevices(this.location);
+    // this.location.replaceState('/index-ios.html');
   }
 }
