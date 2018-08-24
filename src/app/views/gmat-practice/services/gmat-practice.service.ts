@@ -340,7 +340,7 @@ export class PracticeService {
       localStorage.setItem(this.currentPractice.practiceName, JSON.stringify(practiceResult));
     }
 
-    this.webService.processSavePerformanceToServer(this.currentPractice.practiceName, practiceResult.lastSavedTime, practiceResult.questions);
+    this.webService.processSavePerformanceToServer(this.currentPractice.practiceName, practiceResult.lastSavedTime, practiceResult.questions, changeIndexes);
   }
 
   loadSavedData() {

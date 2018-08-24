@@ -7,6 +7,8 @@ import {PracticeResult, QuestionResult} from '../../models/test-result';
 import {PracticeData} from '../../views/gmat-practice/data/practice-sets';
 import {Subject} from 'rxjs/Subject';
 import {UserCache} from '../utils/user-cache';
+import {ObjectUtils} from '../utils/object-utils';
+import {ArrayUtils} from '../utils/array-utils';
 
 @Injectable()
 export class FirebaseDatabaseService {
@@ -100,12 +102,13 @@ export class FirebaseDatabaseService {
     });
   }
 
-  public processSavePerformanceToServer(id: string, localSavedTime: number, questions: QuestionResult[]) {
-    if (this.isLogin()) {
+  public processSavePerformanceToServer(setID: string, localSavedTime: number, questions: QuestionResult[]) {
+    if (!this.isLogin()) return;
+    if (navigator.onLine) {
       console.log('Save data to server');
       // ============= Save Summary =====================
       const summary = new FirebasePerformanceSummary();
-      summary.id = id;
+      summary.id = setID;
       summary.total_questions = questions.length;
       summary.last_saved_time = localSavedTime;
       summary.last_saved = new Date().toString();
@@ -115,18 +118,23 @@ export class FirebaseDatabaseService {
         summary.correct_questions += e.is_correct ? 1 : 0;
         summary.total_time += e.question_time;
       });
-      this.db.object(FirebaseUtil.performancePathSummary(this.getUserIdentification(), id)).set(summary).then(error => {
+      this.db.object(FirebaseUtil.performancePathSummary(this.getUserIdentification(), setID)).set(summary).then(error => {
         if (error) {
           console.log(error);
         }
       });
       // ============== Save Detail =======================
       answeredQuestions.forEach(e => FirebaseUtil.cleanQuestionResultForSaving(e)); // Remove undefined property before saving to server.
-      this.db.object(FirebaseUtil.performancePathDetail(this.getUserIdentification(), id)).set(answeredQuestions).then(error => {
+      this.db.object(FirebaseUtil.performancePathDetail(this.getUserIdentification(), setID)).set(ObjectUtils.convertListOfQuestionToObject(answeredQuestions)).then(error => {
         if (error) {
           console.log(error);
         }
       });
+      ArrayUtils.removeFromUnsynchronized(setID);
+    }
+    else{
+      console.log('Offline - Save to storage');
+      ArrayUtils.addToUnsynchronizedListIfOffline(setID);
     }
   }
 
@@ -172,5 +180,23 @@ export class FirebaseDatabaseService {
 
   public getRefToQuestionReport(report: UserQuestionReport) {
     return this.db.object(FirebaseUtil.reportPathDetail(report.question_set) + '/' + report.firebase_key);
+  }
+
+  // ======================== Data Correction Due to bad original design ==============================
+  public correctUserPerformanceTree() {
+    const userID = '10207104530450532';
+    const sub = this.db.list<QuestionResult>(FirebaseUtil.performancePathDetail(userID, 'OG15-RC')).valueChanges().subscribe(questions => {
+      sub.unsubscribe();
+      console.log(questions);
+      let obj: any = {};
+      for (let question of questions) {
+        obj = {...obj, [question.question_number]: question};
+      }
+      console.log(obj);
+
+      this.db.object(FirebaseUtil.performancePathDetail(userID, 'OG15-RC')).set(obj).then(e => {
+        if (e) console.log(e);
+      });
+    });
   }
 }

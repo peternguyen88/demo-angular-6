@@ -15,7 +15,7 @@ export class WebService {
 
   constructor(private fbDatabaseService: FirebaseDatabaseService, private fbAuthService: FirebaseAuthenticationService) {
     this.subscribeOnAuthStateChanged(user => fbDatabaseService.onAuthenticationStateChanged(user));
-    // this.subscribeOnAuthStateChanged(user => restAPIService.onAuthenticationStateChanged(user));
+    UserCache.selfDestructIfLoginSessionTimeout(fbAuthService);
   }
 
   public subscribeOnAuthStateChanged(subscribeFunction: (user: firebase.User) => void) {
@@ -50,7 +50,9 @@ export class WebService {
     return UserCache.loadUser() ? UserCache.loadUser().is_student : false;
   }
 
-  public processSavePerformanceToServer(id: string, localSavedTime: number, questions: QuestionResult[]) {
+  public processSavePerformanceToServer(id: string, localSavedTime: number, questions: QuestionResult[], changeIndexes: number[]) {
+    // const changedQuestions = [];
+    // changeIndexes.forEach(index => {changedQuestions.push(questions[index])});
     this.fbDatabaseService.processSavePerformanceToServer(id, localSavedTime, questions);
   }
 
@@ -83,5 +85,9 @@ export class WebService {
 
   public refToQuestionReport(report: UserQuestionReport) {
     return this.fbDatabaseService.getRefToQuestionReport(report);
+  }
+
+  public dataCorrection(){
+    this.fbDatabaseService.correctUserPerformanceTree();
   }
 }

@@ -81,7 +81,7 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
       this.isShowingNote = false;
     }
 
-    $('#questionExplanation').scrollTop(0);
+    PracticeScreenComponent.scrollViewUponNavigation();
   }
 
   public next() {
@@ -118,8 +118,13 @@ export class PracticeScreenComponent implements AfterViewChecked, OnDestroy {
       this.practiceService.end();
     }
 
+    PracticeScreenComponent.scrollViewUponNavigation();
+  }
 
+  private static scrollViewUponNavigation(){
     $('#questionExplanation').scrollTop(0);
+    $('.questionWrap').scrollTop(0);
+    $('.passage').scrollTop(0);
   }
 
   private compareReadingPassageToTogglePassage(thisQuestion: Question, thatQuestion: Question){

@@ -45,4 +45,4 @@ testem.log
 Thumbs.db
 
 # Config File
-/config.ts
+config.ts

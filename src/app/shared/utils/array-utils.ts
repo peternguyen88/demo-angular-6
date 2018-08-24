@@ -2,6 +2,26 @@ import {PracticeResult} from '../../models/test-result';
 import {GMATPractice} from '../../models/gmat-practice';
 
 export class ArrayUtils {
+
+  public static removeFromUnsynchronized(set: string){
+    if (localStorage.getItem('unsynchronized')) {
+      const items = JSON.parse(localStorage.getItem('unsynchronized')) as string[];
+      items.splice( items.indexOf(set), 1 );
+      localStorage.setItem('unsynchronized', JSON.stringify(items));
+    }
+  }
+
+  public static addToUnsynchronizedListIfOffline(set: string) {
+    if (localStorage.getItem('unsynchronized')) {
+      const items = JSON.parse(localStorage.getItem('unsynchronized')) as string[];
+      items.push(set);
+      localStorage.setItem('unsynchronized', JSON.stringify(items));
+    }
+    else{
+      localStorage.setItem('unsynchronized', JSON.stringify([set]));
+    }
+  }
+
   public static detectChanges(savedResult: PracticeResult, practice: GMATPractice) {
     const changeIndexes = [];
     for (let i = 0; i < practice.questions.length; i++) {

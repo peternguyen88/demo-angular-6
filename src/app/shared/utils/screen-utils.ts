@@ -10,6 +10,11 @@ export class ScreenUtils {
     return ScreenUtils.iOSFullScreen;
   }
 
+  public static isOnPhoneFullScreenMode() {
+    ScreenUtils.iOSFullScreen = ('standalone' in navigator && navigator.standalone);
+    return ScreenUtils.iOSFullScreen;
+  }
+
   public static initAutoLoginBackOnIOsDevices(location) {
     if (ScreenUtils.isOnIOSFullScreenMode()) {
       const lastVisit = localStorage.getItem('lastVisit');

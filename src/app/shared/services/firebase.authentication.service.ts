@@ -4,7 +4,6 @@ import {AngularFireAuth} from 'angularfire2/auth';
 import {Subject} from 'rxjs/Subject';
 import {ScreenUtils} from '../utils/screen-utils';
 import {UserCache} from '../utils/user-cache';
-import {FirebaseUser} from '../../models/firebase.model';
 
 @Injectable()
 export class FirebaseAuthenticationService {
@@ -39,5 +38,9 @@ export class FirebaseAuthenticationService {
 
   public subscribeOnAuthStateChanged(subscribeFunction: (user: firebase.User) => void) {
     return this.authStateChangedBroadcast.subscribe(subscribeFunction);
+  }
+
+  public isLoggedToServer(){
+    return this.fireAuth.auth.currentUser !== null;
   }
 }

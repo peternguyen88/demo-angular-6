@@ -10,11 +10,11 @@
           "/index.html",
           "/*.css",
           "/*.js",
-          "/*.ttf",
-          "/*.woff2",
           "/*.svg",
           "/*.eot",
-          "/*.woff"
+          "/*.woff",
+          "/*.ttf",
+          "/*.woff2"
         ],
         "urls": [
           "https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.css",
@@ -29,7 +29,14 @@
       "updateMode": "prefetch",
       "resources": {
         "files": [
-          "/assets/**"
+          "/assets/**",
+          "/*.eot*",
+          "/*.woff*",
+          "/*.ttf*",
+          "/*.woff2*"
+        ],
+        "urls":[
+          "https://graph.facebook.com/*"
         ]
       }
     }
