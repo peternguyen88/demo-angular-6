@@ -73,7 +73,7 @@ export class FirebaseDatabaseService {
   }
 
   public processRetrievePerformanceFromServer(id: string, localSavedTime: number, mergeData: (questions: QuestionResult[]) => any, finalProcess: () => void) {
-    if (this.isLogin()) {
+    if (this.isLogin() && navigator.onLine) {
       const last_saved_timeObject: AngularFireObject<number> = this.db.object(FirebaseUtil.performancePathLastSavedTime(this.getUserIdentification(), id));
       const lastSavedTimeSubscription = last_saved_timeObject.valueChanges().subscribe((last_saved_time) => {
         lastSavedTimeSubscription.unsubscribe();

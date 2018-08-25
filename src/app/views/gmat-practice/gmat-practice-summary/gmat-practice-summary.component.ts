@@ -8,6 +8,9 @@ import {GMATPractice} from '../../../models/gmat-practice';
 import {Question} from '../../../models/question';
 import {ColorConstants} from '../../../models/color-constants';
 import {TimeUtils} from '../../../shared/utils/time-utils';
+import {UserCache} from '../../../shared/utils/user-cache';
+import {ActivatedRoute} from '@angular/router';
+import {Location} from '@angular/common';
 
 @Component({
   moduleId: module.id,
@@ -104,7 +107,7 @@ export class GMATPracticeSummaryComponent implements OnDestroy {
     }
   };
 
-  constructor(private http: HttpClient, private practiceService: PracticeService) {
+  constructor(private http: HttpClient, private practiceService: PracticeService, private location: Location) {
     this.currentPractice = practiceService.currentPractice;
     this.resumable = this.currentPractice.questions.length !== this.getUnansweredQuestionIndex();
     this.buildChartData();
@@ -236,6 +239,10 @@ export class GMATPracticeSummaryComponent implements OnDestroy {
 
   ngOnDestroy() {
 
+  }
+
+  public saveUrlBeforeCustomPage(){
+    UserCache.saveUrlBeforeCustomPage(this.location.path(true));
   }
 }
 

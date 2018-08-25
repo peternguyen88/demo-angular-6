@@ -49,12 +49,20 @@ export class FirebaseUtil {
       questionResult.bookmarked = null;
       questionResult.question_time = null;
       questionResult.is_correct = null;
+      questionResult.first = null;
+      questionResult.history = null;
     } else {
       if (!questionResult.bookmarked) {
         questionResult.bookmarked = null;
       }
       if (!questionResult.remarks || questionResult.remarks.length === 0) {
         questionResult.remarks = null;
+      }
+      if (!questionResult.first){
+        questionResult.first = null;
+      }
+      if (!questionResult.history || !questionResult.history.length){
+        questionResult.history = null;
       }
     }
     FirebaseUtil.removeUndefined(questionResult);

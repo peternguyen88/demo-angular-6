@@ -1,10 +1,12 @@
-import {Component, OnDestroy, OnInit} from '@angular/core';
-import {Router, NavigationEnd} from '@angular/router';
+import {Component, OnInit} from '@angular/core';
+import {NavigationEnd, Router} from '@angular/router';
 import {distinctUntilChanged} from 'rxjs/operators';
 import {environment} from '../environments/environment';
 import {StringUtils} from './shared/utils/string-utils';
 import {Location} from '@angular/common';
 import {ScreenUtils} from './shared/utils/screen-utils';
+import {WebService} from './shared/services/web-service';
+import {SyncUtils} from './shared/utils/sync-utils';
 
 
 // Declare ga function as ambient
@@ -16,7 +18,7 @@ declare var ga: Function;
   template: '<router-outlet></router-outlet>'
 })
 export class AppComponent implements OnInit {
-  constructor(private location: Location, public router: Router) {
+  constructor(private location: Location, public router: Router, public webService: WebService) {
 
     if (environment.production) {
       router.events.pipe(distinctUntilChanged((previous: any, current: any) => {
@@ -34,6 +36,10 @@ export class AppComponent implements OnInit {
 
       setInterval(function(){ ga('send', 'pageview'); }, 60000 * 10);
     }
+
+    this.webService.subscribeOnAuthStateChanged(() => {
+      SyncUtils.synchronizeDataToServer(this.webService);
+    });
   }
 
   ngOnInit() {

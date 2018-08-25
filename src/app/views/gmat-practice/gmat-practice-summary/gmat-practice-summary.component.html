@@ -39,7 +39,7 @@
 
     <alert type="info" dismissible="true" *ngIf="currentPractice.practiceName === 'OG15-SC'">
       <strong>Note: </strong>This package comes with detailed explanations. Please read this to understand the structure of the explanation.
-      <a routerLink="/custom-pages/og15-sc-explanation-instruction" style="text-decoration: underline; cursor: pointer; color: red;">Read Me</a>
+      <a routerLink="/custom-pages/og15-sc-explanation-instruction" style="text-decoration: underline; cursor: pointer; color: red;" (click)="saveUrlBeforeCustomPage()">Read Me</a>
     </alert>
 
     <!--Summary Table-->
@@ -84,3 +84,5 @@
     </p-table>
   </div>
 </div>
+
+<button class="btn btn-secondary" style="margin-bottom: 20px;" (click)="backToSelection()"><i class="fa fa-arrow-left"></i> Back</button>

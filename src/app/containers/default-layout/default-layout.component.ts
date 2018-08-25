@@ -88,5 +88,6 @@ export class DefaultLayoutComponent {
         });
       }
     }
+    this.http.get('assets/pages/og-companion-manhattan.html', {responseType: 'text'}).subscribe(() => {});
   }
 }

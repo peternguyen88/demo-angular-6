@@ -1,3 +1,5 @@
 <div class="container" id="custom-page-container">
+  <button class="btn btn-primary" style="margin-bottom: 20px;" (click)="back()" *ngIf="returnURL"><i class="fa fa-arrow-left"></i> Back</button>
   <div [innerHTML]="customPageContent | safeHtml"></div>
+  <button class="btn btn-secondary" style="margin: 20px 0;" (click)="back()" *ngIf="returnURL"><i class="fa fa-arrow-left"></i> Back</button>
 </div>

@@ -252,9 +252,16 @@ export class PracticeService {
     return this.practiceMode === PracticeMode.TEST;
   }
 
+  isInReviewMode(){
+    return this.practiceMode === PracticeMode.REVIEW;
+  }
+
   // ------------- Navigation -------------------------
   next() {
     if (!this.isLastQuestion()) {
+      // if(!this.isInReviewMode() && this.getCurrentQuestion().selected_answer) {
+      //   this.savePracticeDataToLocalStorageOnly();
+      // }
       // Save Question Time
       this.getCurrentQuestion().question_time = this.currentQuestionTime;
       // Move to the next question
@@ -266,6 +273,9 @@ export class PracticeService {
 
   prev() {
     if (!this.isFirstQuestion()) {
+      // if(!this.isInReviewMode() && this.getCurrentQuestion().selected_answer) {
+      //   this.savePracticeDataToLocalStorageOnly();
+      // }
       // Save Question Time
       this.getCurrentQuestion().question_time = this.currentQuestionTime;
       // Move back to previous question
@@ -341,6 +351,18 @@ export class PracticeService {
     }
 
     this.webService.processSavePerformanceToServer(this.currentPractice.practiceName, practiceResult.lastSavedTime, practiceResult.questions, changeIndexes);
+  }
+
+  savePracticeDataToLocalStorageOnly(){
+    let practiceResult;
+    if (localStorage.getItem(this.currentPractice.practiceName)) {
+      const savedResult = JSON.parse(localStorage.getItem(this.currentPractice.practiceName)) as PracticeResult;
+      PracticeResult.mergeResult(savedResult, this.currentPractice);
+      localStorage.setItem(this.currentPractice.practiceName, JSON.stringify(savedResult));
+    } else {
+      practiceResult = new PracticeResult(this.currentPractice);
+      localStorage.setItem(this.currentPractice.practiceName, JSON.stringify(practiceResult));
+    }
   }
 
   loadSavedData() {

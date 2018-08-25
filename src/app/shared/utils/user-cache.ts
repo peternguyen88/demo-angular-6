@@ -33,7 +33,21 @@ export class UserCache {
   }
 
   public static deleteUser() {
-    localStorage.setItem(UserCache.USER_KEY, null);
+    localStorage.removeItem(UserCache.USER_KEY);
     UserCache.current_user = null;
+  }
+
+  public static saveUrlBeforeCustomPage(url: string){
+    if(url){
+      localStorage.setItem('urlBeforeCustomPage', url);
+    }
+  }
+
+  public static urlBeforeCustomPage(){
+    return localStorage.getItem('urlBeforeCustomPage');
+  }
+
+  public static deleteUrlBeforeCustomPage(){
+    localStorage.removeItem('urlBeforeCustomPage');
   }
 }

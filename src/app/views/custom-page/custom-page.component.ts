@@ -1,14 +1,17 @@
-import {Component, OnInit} from '@angular/core';
-import {ActivatedRoute} from '@angular/router';
+import {Component, OnDestroy, OnInit} from '@angular/core';
+import {ActivatedRoute, Router} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
+import {UserCache} from '../../shared/utils/user-cache';
 
 @Component({
   templateUrl: 'custom-page.component.html'
 })
-export class CustomPageComponent implements OnInit {
+export class CustomPageComponent implements OnInit, OnDestroy {
   customPageContent: string;
+  returnURL: string;
 
-  constructor(private route: ActivatedRoute, private http: HttpClient) {
+  constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router) {
+    this.returnURL = UserCache.urlBeforeCustomPage();
   }
 
   ngOnInit(): void {
@@ -19,5 +22,14 @@ export class CustomPageComponent implements OnInit {
         this.customPageContent = response;
       });
     }
+  }
+
+  public back(){
+    UserCache.deleteUrlBeforeCustomPage();
+    this.router.navigateByUrl(this.returnURL).then();
+  }
+
+  ngOnDestroy(): void {
+    UserCache.deleteUrlBeforeCustomPage();
   }
 }

@@ -1,27 +1,5 @@
-import {GMATTest} from './gmat-test';
 import {Question} from './question';
 import {GMATPractice} from './gmat-practice';
-
-export class TestResult {
-  constructor(test: GMATTest) {
-    this.testName = test.testName;
-    this.numberOfQuestions = test.numberOfQuestions;
-    this.questions = [];
-    test.questions.filter(e => e.selected_answer).forEach(e => {
-      this.numberOfAnsweredQuestions++;
-      this.questions.push(new QuestionResult(e));
-    });
-    this.isTestFinished = this.numberOfQuestions === this.numberOfAnsweredQuestions;
-    this.lastSavedTime = new Date().getTime();
-  }
-
-  testName: string;
-  numberOfQuestions: number;
-  numberOfAnsweredQuestions = 0;
-  questions: QuestionResult[];
-  isTestFinished: boolean;
-  lastSavedTime: number;
-}
 
 export class PracticeResult {
   practiceName: string;
@@ -81,6 +59,27 @@ export class PracticeResult {
           practice.questions[j].remarks = questionResults[i].remarks;
           practice.questions[j].first = questionResults[i].first;
           practice.questions[j].history = questionResults[i].history;
+          // No need to loop after finding the match
+          lastMatch = j;
+          break;
+        }
+      }
+    }
+  }
+
+  public static mergeArrayResultToLocalQuestions(localQuestions: QuestionResult[], questionResults: QuestionResult[]){
+    let lastMatch = -1; // Index of last match item
+    for (let i = 0; i < questionResults.length; i++) {
+      for (let j = lastMatch + 1; j < localQuestions.length; j++) {
+        if (questionResults[i].question_number === localQuestions[j].question_number) {
+          if(!localQuestions[j].selected_answer) {  // Priority local changes - only update value from server if there is no answer in local
+            localQuestions[j].selected_answer = questionResults[i].selected_answer;
+            localQuestions[j].question_time = questionResults[i].question_time;
+            localQuestions[j].bookmarked = questionResults[i].bookmarked;
+            localQuestions[j].remarks = questionResults[i].remarks;
+            localQuestions[j].first = questionResults[i].first;
+            localQuestions[j].history = questionResults[i].history;
+          }
           // No need to loop after finding the match
           lastMatch = j;
           break;

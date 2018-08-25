@@ -33,7 +33,7 @@ export class FirebaseAuthenticationService {
   }
 
   public isLogin(): boolean {
-    return UserCache.loadUser() !== null || this.fireAuth.auth.currentUser !== null;
+    return this.fireAuth.auth.currentUser !== null;
   }
 
   public subscribeOnAuthStateChanged(subscribeFunction: (user: firebase.User) => void) {

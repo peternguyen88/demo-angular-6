@@ -35,7 +35,7 @@ export class WebService {
   }
 
   public isLogin(): boolean {
-    return this.fbAuthService.isLogin();
+    return UserCache.loadUser() !== null || this.fbAuthService.isLogin();
   }
 
   public getCurrentUser(): FirebaseUser {
@@ -47,9 +47,12 @@ export class WebService {
   }
 
   public isStudent(): boolean {
-    return UserCache.loadUser() ? UserCache.loadUser().is_student : false;
+    return UserCache.loadUser() ? UserCache.loadUser().is_student : this.fbDatabaseService.isStudent();
   }
 
+  /**
+   * ChangeIndexes not supported yet, but in future can only update changed questions
+   */
   public processSavePerformanceToServer(id: string, localSavedTime: number, questions: QuestionResult[], changeIndexes: number[]) {
     // const changedQuestions = [];
     // changeIndexes.forEach(index => {changedQuestions.push(questions[index])});

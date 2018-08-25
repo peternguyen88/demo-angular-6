@@ -8,8 +8,4 @@ export class DashboardComponent {
   constructor(public webService: WebService) {
 
   }
-
-  public dataCorrection(){
-    this.webService.dataCorrection();
-  }
 }
