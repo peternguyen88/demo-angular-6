@@ -7,11 +7,11 @@
           <p-sortIcon [field]="'name'"></p-sortIcon>
         </th>
         <th style="width: 55px">Photo</th>
-        <th style="width: 115px" [pSortableColumn]="'login_count'">
+        <th style="width: 80px" [pSortableColumn]="'login_count'">
           Login Count
           <p-sortIcon [field]="'login_count'"></p-sortIcon>
         </th>
-        <th style="width: 130px" [pSortableColumn]="'unlock_feature'">
+        <th style="width: 90px" [pSortableColumn]="'unlock_feature'">
           Unlock Feature
           <p-sortIcon [field]="'unlock_feature'"></p-sortIcon>
         </th>
@@ -20,6 +20,7 @@
           <p-sortIcon [field]="'is_student'"></p-sortIcon>
         </th>
         <th style="width: 70px">Save</th>
+        <th style="width: 70px">Mobile App</th>
         <th [pSortableColumn]="'last_login_time'" class="d-sm-down-none">
           Last Login
           <p-sortIcon [field]="'last_login_time'"></p-sortIcon>
@@ -46,6 +47,12 @@
         </td>
         <td>
           <button class="btn btn-outline-success" (click)="saveUser(user)">Save</button>
+        </td>
+        <td>
+          <label class="switch switch-outline-danger-alt">
+            <input type="checkbox" class="switch-input" [ngModel]="user.mobile_installed" disabled>
+            <span class="switch-slider"></span>
+          </label>
         </td>
         <td class="d-sm-down-none">{{user.last_login}}</td>
       </tr>

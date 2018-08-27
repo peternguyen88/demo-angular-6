@@ -293,7 +293,7 @@
 			<p>The last word in the answer choices switches back and forth between <i>it</i> and <i>they</i>. Find the antecedent.</p>
 			<pre class="compare-group">
 	Scientists have assumed that _______________ evolved independently of the vertebrate eye</span>
-			</pre>			
+			</pre>
 			<p>Logically, that blank should contain the <i>insect eye</i>; the <i>insect eye</i> is different from the <i>vertebrate eye</i> because the <i>insect eye</i> consists of a bunch of <i>miniature eyes</i>. <i>Eye</i> is singular, so the pronoun <i>they</i> is incorrect. Eliminate answers (B) and (C).</p>
 		</li>
 		<li>
@@ -301,7 +301,7 @@
 			<p>Two of the answers contain a non-preferred structure. It's not always wrong (and, in fact, this structure is found in the correct answer of at least one official problem), but it is wrong most of the time on the GMAT. Here's the structure:</p>
 			<pre class="compare-group">
 	helps explain scientists’ assuming that</span>
-			</pre>			
+			</pre>
 			<p>As a general rule, the test writers don't like using a possessive noun (<i>scientists</i>’) right before a gerund (<i>assuming</i>, an -ing word acting as a noun). If a regular noun form of that gerund exists, the writers would prefer that form (e.g., <i>helps explain scientists’</i> assumption <i>that</i>). Other correct forms are also possible, as seen in this problem: <i>helps explain why scientists have assumed that</i>. Answers (C) and (D) earn question marks for this structure; don't choose them unless nothing better exists among the other answers.</p>
 		</li>
 	</ol>
@@ -432,7 +432,7 @@
 	(A) universe <i style="color: green;">began</i> 		and <i style="color: green;">has been expanding</i>
 	(B) universe <i style="color: red;">had begun</i> 		and <i style="color: red;">had been expanding</i>
 	(E) universe <i style="color: red;">to have begun</i>	and <i style="color: red;">has been expanding</i>
-			</pre>			
+			</pre>
 			<p>In answer (A), the verbs <span style="color:green;"><i>began</i></span> and <span style="color:green;"><i>has been expanding</i></span> are correctly used because it is logical to say that first the universe <i>began</i> (in the past) and that <i>it has been expanding</i> ever since then.</p>
 			<p>In answer (B), <span style="color:red;"><i>had begun</i></span> (past perfect) is incorrect because there isn't another simple past event or past time marker in the sentence. Similarly, since the intended meaning is that the universe is still expanding, <i><span style="color:red;">had been expanding</span></i> is also incorrect because it implies that the universe is no longer expanding. Eliminate answer (B).</p>
 			<p>In answer (E), <span style="color:red;"><i>to have begun</i></span> is confusing. Is this a verb tense? An infinitive? Whatever it is, it's connected to <i>has been expanding</i> by the word <i>and</i>, so parallelism is required. Something that starts with an infinitive cannot be parallel to a conjugated verb tense. Eliminate answer (E).</p>
@@ -669,7 +669,7 @@
 </div>
 <div class="round-box">
 	<div><b>First Glance</b></div>
-	The underline doesn't contain any punctuation marks or other obvious clues. Be ready for anything! 
+	The underline doesn't contain any punctuation marks or other obvious clues. Be ready for anything!
 </div>
 <div class="round-box">
 	<b>Issues</b><br>
@@ -895,7 +895,7 @@
 			<p>Both <i style="color: red;">do not</i> and <i style="color: red;">nothing</i> are negatives. It's not acceptable to use two negatives in a row; this is called a double negative and it's always wrong. Eliminate answers (A) and (C).</p>
 			<p>Check the and versus or issue that you spotted when comparing the answers:</p>
 			<pre class="compare-group">
-	do not contain additives, preservatives, or anything synthesized 
+	do not contain additives, preservatives, or anything synthesized
 	do not contain additives, preservatives, and anything synthesized
 			</pre>
 			<p>The <i style="color: red;">and</i> option means that the food cannot contain all three bad things at once—but a food that has only one or two of the three would still be considered <i style="color: blue;">natural</i>. This doesn't make logical sense. It's more logical to say that the food cannot contain any of the bad ingredients. Eliminate answers (C) and (E).</p>
@@ -905,7 +905,7 @@
 			<p>The sentence contains a list of three items; check for parallelism.</p>
 			<p>The list consists of nouns that describe bad things that could be added to food. Answers (A), (C), (D), and (E) all offer a noun (<i style="color: blue;">anything</i> or <i style="color: blue;">nothing</i>), but answer (B) is problematic. It could be interpreted in two different ways:</p>
 			<pre class="compare-group">
-	Option 1: <i style="color: red;">additives, preservatives, or that has been</i> 
+	Option 1: <i style="color: red;">additives, preservatives, or that has been</i>
 	Option 2: <i style="color: red;">that do not contain X, Y, or that has been Z</i>
 			</pre>
 			<p>Option 1 is a list of three items, but the third is not parallel to the first two. In option 2, the sentence contains two parallel <i style="color: blue;">that</i> clauses: <i style="color: blue;">that do not contain</i> and <i style="color: blue;">that has been</i>. In this case, the first portion would have to be <i style="color: red;">that do not contain X or Y</i>. The word <i style="color: red;">or</i> is missing! Under either interpretation, the sentence isn't constructed properly. Eliminate answer (B).</p>
@@ -939,10 +939,10 @@
 			<p>Prepositional phrase modifiers are flexible. They can modify nouns (in which case, they should be placed as close to the noun as possible) or they can modify the main clause to which they're attached.</p>
 			<p>Check the text before the modifier to find an acceptable noun or adverbial modifier structure:</p>
 			<pre class="compare-group">
-	(A) Plants are more efficient at acquiring carbon than are <span style="color:red;">fungi</span>, in… 
-	(B) Plants are more efficient at acquiring carbon than <span style="color:red;">fungi</span>, in… 
-	(C) Plants are more efficient than fungi at acquiring <span style="color:green;">carbon</span>, in… 
-	(D) Plants, more efficient than fungi at acquiring <span style="color:green;">carbon</span>, in… 
+	(A) Plants are more efficient at acquiring carbon than are <span style="color:red;">fungi</span>, in…
+	(B) Plants are more efficient at acquiring carbon than <span style="color:red;">fungi</span>, in…
+	(C) Plants are more efficient than fungi at acquiring <span style="color:green;">carbon</span>, in…
+	(D) Plants, more efficient than fungi at acquiring <span style="color:green;">carbon</span>, in…
 	(E) Plants acquire carbon more efficiently than <span style="color:red;">fungi</span>, in…
 			</pre>
 			<p>Note: <i style="color: blue;">plants</i> and <i style="color: blue;">fungi</i> are two categories of organisms. An example of a fungus (fungi and funguses are both acceptable plural forms of fungus) is a mushroom.</p>
@@ -960,36 +960,36 @@
 			<table class="example">
 			  <tr>
 				<th>Example</th>
-				<th>This means:</th>    
+				<th>This means:</th>
 			  </tr>
 			  <tr>
 				<td>Cats hate dogs more than mice do</td>
 				<td>cats hate dogs more than mice hate dogs</td>
-			  </tr> 
+			  </tr>
 			  <tr>
 				<td>Cats hate dogs more than they do mice</td>
 				<td>cats hate dogs more than cats hate mice</td>
 			  </tr>
 			  <tr>
 				<td>Cats hate dogs more than mice.</td>
-				<td>Ambiguous: could be interpreted in either of the ways above</td>    
-			  </tr>  
+				<td>Ambiguous: could be interpreted in either of the ways above</td>
+			  </tr>
 			</table>
 			<p>Apply this understanding to the problem.</p>
 			<table class="example">
 			  <tr>
 				<th>Example</th>
-				<th>This means:</th>    
+				<th>This means:</th>
 			  </tr>
 			  <tr>
 				<td>(A) Plants are more efficient at acquiring carbon than fungi are efficient at acquiring carbon.</td>
 				<td>Plants and fungi are both categories of organisms. The two are compared in terms of how well they each acquire carbon. This is a logical comparison.</td>
-			  </tr> 
+			  </tr>
 			  <tr>
 				<td>(B) Plants are more efficient at acquiring carbon than plants are efficient at acquiring fungi.</td>
 				<td>Plants can acquire carbon efficiently (implying intent / purpose). While a plant could become infected by a fungus, plants don't efficiently acquire (on purpose) a fungus. This is illogical! Or it could mean the same as (A); at the very
 			least, the meaning is ambiguous.</td>
-			  </tr>			  
+			  </tr>
 			</table><p/>
 			<p>Answer (E) uses the same structure as answer (B), so eliminate both answers for having an illogical comparison. Note that this issue is very subtle; other reasons to eliminate answers (B) and (E) exist.</p>
 		</li>		<li>
@@ -1027,13 +1027,13 @@
 	<table class="example">
 	  <tr>
 		<th>First Read: Original Sentence</th>
-		<th>Thoughts</th>    
+		<th>Thoughts</th>
 	  </tr>
 	  <tr>
 		<td><i>The Iroquois were primarily planters, but</i></td>
 		<td>I've got an independent clause, followed by a comma and the word but. I'm expecting two things: some kind of contrast should follow, and that contrast should be in the form of an
 	independent clause.</td>
-	  </tr> 
+	  </tr>
 	  <tr>
 		<td>supplementing their cultivation </td>
 		<td>This isn't an independent clause</td>
@@ -1041,12 +1041,12 @@
 	  <tr>
 		<td>of maize, squash, and beans with fishing and hunting.</td>
 		<td>There is a contrast—although they primarily
-	planted, they did do some fishing and hunting.</td>    
-	  </tr>  
+	planted, they did do some fishing and hunting.</td>
+	  </tr>
 	  <tr>
 		<td></td>
-		<td>The contrast word but works (and I don't want the word and here), but the portion after the but isn't a complete sentence. Answer (A) is wrong.</td>    
-	  </tr>  
+		<td>The contrast word but works (and I don't want the word and here), but the portion after the but isn't a complete sentence. Answer (A) is wrong.</td>
+	  </tr>
 	</table>
 </div>
 <div class="round-box">
@@ -1112,10 +1112,10 @@
 			<p><b>Comparison / Parallelism: <i>in contrast to X, Y; unlike X, Y</i></b></p>
 			<p>Any comparison requires the X and Y portions to be parallel; the words must be structurally similar and logically comparable. The Y portion must be <i style="color: green;">yellow jacket</i> (it's not underlined). Examine the X portions of the answers:</p>
 			<pre class="compare-group">
-	(A) <span style="color:green;">the honeybee</span> 
-	(B) <span style="color:red;">the honeybee's</span> 
-	(C)<span style="color:red;"> the sting</span> of the honeybee 
-	(D) <span style="color:red;">that</span> of the honeybee 
+	(A) <span style="color:green;">the honeybee</span>
+	(B) <span style="color:red;">the honeybee's</span>
+	(C)<span style="color:red;"> the sting</span> of the honeybee
+	(D) <span style="color:red;">that</span> of the honeybee
 	(E) <span style="color:green;">the honeybee</span>
 			</pre>
 			<p>The honeybee is logically comparable to the yellow jacket; answers (A) and (E) are acceptable.</p>
@@ -1195,9 +1195,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Parallelism: <i>X; Y; and Z</i></b></p>
 			<p>The sentence contains a very unusual structure: two semicolons! When you read the original sentence, pay attention to the overall meaning; this will help you to determine how these semicolons are used.</p>
 			<pre class="compare-group">
-	Tropical bats 	<span style="color: blue;">play</span> important roles in the ecosystem, 
-			<span style="color: green;">aiding</span> in the dispersal of seeds; 
-			<span style="color: green;">pollinating</span> trees; 
+	Tropical bats 	<span style="color: blue;">play</span> important roles in the ecosystem,
+			<span style="color: green;">aiding</span> in the dispersal of seeds;
+			<span style="color: green;">pollinating</span> trees;
 			<span style="color: red;">and help</span> produce tequila by pollinating plants.
 			</pre>
 			<p>The sentence contains a list of three roles played by the <i style="color: blue;">tropical bats</i>. The first one, <i style="color: green;">aiding</i>, is not underlined, so the other two have to match. In answer (A), the third item is not parallel to the first two. Eliminate answer (A).</p>
@@ -1213,7 +1213,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 <div class="round-box">
 	<div><b>The Correct Answer</b></div>
 	Correct answer (B) is the only one to offer a parallel structure: <i style="color: green;">aiding; pollinating; and helping.</i> <br>
-	It is possible (though unusual) to use semicolons to separate items in a list. This sentence probably used that structure because two of the items on the list also contained lists themselves; using only commas would have been confusing.<br> 
+	It is possible (though unusual) to use semicolons to separate items in a list. This sentence probably used that structure because two of the items on the list also contained lists themselves; using only commas would have been confusing.<br>
 	Note: The test writers did not actually test you on this issue. All five of the answers used the semicolons.
 </div>
 ---------------------------------
@@ -1473,7 +1473,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Subject –Verb: <i>is</i></b></p>
 			<p>Compared to answer (A), the structure of answer (B) changes substantially: </p>
 			<pre class="compare-group">
-	(A) Because an oversupply has sent prices plunging, 
+	(A) Because an oversupply has sent prices plunging,
 	(B) Because of plunging prices, which is due to an oversupply,
 			</pre>
 			<p>Answer (B) splits the wording into two modifiers. The <i>which</i> modifier refers to the main noun in the preceding text, <i>plunging prices</i>. This noun, though, is plural, while the modifier uses the singular verb <i>is</i>. The modifier can't refer to <i>chips</i> either, because <i>chips</i> is also plural. Mismatch! Eliminate answer (B).</p>
@@ -1487,7 +1487,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Meaning / Modifier: <i>due to</i></b></p>
 			<p>Answers (D) and (E) change the structure more substantially; time to start fresh but keep an eye out for the same issues you already found earlier.</p>
 			<pre class="compare-group">
-	(D) Due to plunging prices from an oversupply, 
+	(D) Due to plunging prices from an oversupply,
 	(E) Due to an oversupply, with the result that prices have been sent plunging,
 			</pre>
 			<p><i>Due to X</i> modifies a noun. For example: Her high score was due to diligent study. “Due to diligent study” modifies “high score.” In the problem, an oversupply leads to plunging prices, so a correct construction might be something such as <i>the plunging prices were due to an oversupply</i>. In answer (D), though, the <i>due to</i> construction modifies the noun<i>manufacturer</i>. The <i>manufacturer</i> was not <i>due to plunging prices</i>; this is nonsensical. Likewise, in answer (E), neither the original <i>prices</i> nor the <i>manufacturer</i> was <i>due to an oversupply</i>. (Note: It's not okay to say that the fact that <i>the manufacturer will cut production</i> was <i>due to plunging prices</i>—then, <i>due to</i> would modify a clause, not a noun.) Eliminate answers (D) and (E) for faulty use of a noun modifier.</p>
@@ -1610,10 +1610,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Structure</b></p>
 			<p>The final clause is introduced in one of three ways:</p>
 			<pre class="compare-group">
-	(A) it is indicative that the economy is not nearing a recession 
-	(B) as if to indicate the economy is not nearing a recession 
-	(C) to indicate that the economy is not nearing a recession 
-	(D) indicative of the economy is not nearing a recession 
+	(A) it is indicative that the economy is not nearing a recession
+	(B) as if to indicate the economy is not nearing a recession
+	(C) to indicate that the economy is not nearing a recession
+	(D) indicative of the economy is not nearing a recession
 	(E) an indication of the economy is not nearing a recession
 			</pre>
 			<p>Let's slightly change the example used during the discussion of the Idiom issue: His test result seems like it is indicative of he is intelligent. In the original example, it was appropriate to use the preposition <i style="color: blue;">of</i> because only a noun followed: <i style="color: blue;">indicative of intelligence</i>. In this new example, though, a clause follows: <i style="color: blue;">he is intelligent</i>. The preposition <i style="color: red;">of</i> cannot be followed by a clause. Eliminate answers (D) and (E) for a faulty sentence structure.</p>
@@ -1646,10 +1646,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Parallelism / Meaning: while being; discharged; injured</b></p>
 			<p>The original sentence provides a list of three things relating to Deborah Sampson; other answers change this structure:</p>
 			<pre class="compare-group">
-	(A) Sampson joined, was injured, and was discharged 
-	(B) Sampson joined, was injured, while being discharged 
-	(C) Sampson joined and was injured, and discharged 
-	(D) Sampson joined, injured, and was discharged 
+	(A) Sampson joined, was injured, and was discharged
+	(B) Sampson joined, was injured, while being discharged
+	(C) Sampson joined and was injured, and discharged
+	(D) Sampson joined, injured, and was discharged
 	(E) Sampson joined, having been injured and discharged
 			</pre>
 			<p>The original <i>X, Y, and Z</i> list is correctly constructed. Answer (B) changes the list to what appears to be two items followed by a modifier ( <i>while being discharged</i>); this introduces two problems. First, a two-item list still needs an <i>and</i> between the two items: <i>Sampson joined and was injured</i>. Answer (B) is missing the <i>and</i>. Second, the sentence now indicates that Sampson was in the midst of being discharged on all three (separate) occasions when she was injured. The meaning is nonsensical. Eliminate answer (B).</p>
@@ -1732,9 +1732,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Idiom: <i>such X, Y; such is X, Y; so X as to Y</i></b></p>
 			<p>The original sentence uses the construction so X that Y: <i style="color: blue;">it is so debilitating that it has become a drain</i>. The Y portion describes or further elucidates X. Other answers change this construction:</p>
 			<pre class="compare-group">
-	(B) it is of such debilitation, it has become 
-	(C) so debilitating is it as to become 
-	(D) such is its debilitation, it becomes 
+	(B) it is of such debilitation, it has become
+	(C) so debilitating is it as to become
+	(D) such is its debilitation, it becomes
 	(E) there is so much debilitation that it has become
 			</pre>
 			<p>The structure in answer (A) is correct. Answers (B) and (D) are missing the word <i style="color: red;">that</i>; the idiom <i style="color: red;">is of such debilitation that</i>. Furthermore, the constructions such X, Y and such is X, Y are both incorrect. Eliminate answers (B) and (D).</p>
@@ -1789,10 +1789,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Meaning: <i>is trimmed; would be trimmed</i></b></p>
 			<p>For a portion of the sentence, the answers switch from active to passive voice: </p>
 			<pre class="compare-group">
-	(A) if non-OPEC nations were to trim output 
-	(B) if the output is trimmed 
-	(C) if the output would be trimmed 
-	(D) if non-OPEC nations were trimming output 
+	(A) if non-OPEC nations were to trim output
+	(B) if the output is trimmed
+	(C) if the output would be trimmed
+	(D) if non-OPEC nations were trimming output
 	(E) if non-OPEC nations trim output
 			</pre>
 			<p>This issue is very subtle. Although many people prefer active voice to passive voice, passive voice is grammatically correct; don't eliminate just for this reason. Do, though, examine the meaning.</p>
@@ -1993,8 +1993,8 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			In both the original sentence and the simpler example, some form of the verb <i>to be</i> is needed: Shelley is believed to be. <i>Quasars are believed to be</i>. Answer (A) is not a complete sentence.</p>
 			<p>Answer (B) correctly inserts the verb <i>are</i>. What about the other answers?</p>
 <pre class="compare-group">
-	(C) Quasars some believe them to be the cores 
-	(D) Quasars some believe they are the cores 
+	(C) Quasars some believe them to be the cores
+	(D) Quasars some believe they are the cores
 	(E) Quasars it is believed that they are the cores
 			</pre>
 			<p>These answers do insert a verb, but they also insert additional subjects. A sentence can't have two subjects simply running together in this way: Shelley some believe she is the smartest. Eliminate answers (A), (C), (D), and (E) for a faulty core sentence structure.</p>
@@ -2029,7 +2029,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The writer is setting a trap. Superficially, the sentence might sound fine, but the construction is not actually parallel because the<i>X</i> portion is a simple phrase (<i>creation of images</i>) and the <i>Y</i> portion is a full clause (<i>they constructed</i>). Answer (C) contains a similar error: <i>Energy was expended on the creation as well as constructing</i>. Eliminate answers (A) and (C).</p>
 			<p>Answers (D) and (E) switch up the subject of the sentence, also changing the parallel structure:</p>
 			<pre class="compare-group">
-	(D) creating images accounted for energy and also constructing and decorating  
+	(D) creating images accounted for energy and also constructing and decorating
 	(E)  the creation of images accounted for energy as well as construction and decoration
 			</pre>
 			<p>In both cases, the sentence says that the<i>creation of images accounted for</i> two things: <i>energy</i>, and <i>construction and decoration</i>. This is illogical; the <i>creation of images</i> did not account for the <i>construction and decoration of the temples</i>. Rather, the <i>artisans’ energy was expended on</i> these things. Eliminate answers (D) and (E) for illogical meaning.</p>
@@ -2076,9 +2076,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>Answer (A) is definitely wrong. Eliminate (A).</p>
 			<p>Check the other answers to see how they handle this construction:</p>
 			<pre class="compare-group">
-	(B) a work that took 		and that Johnson pronounced 
-	(C) a work that had taken 	and that Johnson pronounced it as 
-	(D) a work that took 		and that Johnson pronounced it as 
+	(B) a work that took 		and that Johnson pronounced
+	(C) a work that had taken 	and that Johnson pronounced it as
+	(D) a work that took 		and that Johnson pronounced it as
 	(E) a work that had taken 	and Johnson pronounced it
 			</pre>
 			<p>On the surface, all of the remaining choices appear to be parallel. There is one problem though. The words <i>a work</i>, which appear before the parallelism starts, must apply to both the <i>X</i> and<i>Y</i> portions of the sentence. Try this with answer (B): <i>a work that took and (a work) that Johnson pronounced</i>. No problem. Now try answer (C): <i>a work that had taken and (a work) that Johnson pronounced it</i>.What is <i>it</i>?</p>
@@ -2217,7 +2217,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Idiom: <i>confidence in</i></b></p>
 			<p>The sentences contain a split at the beginning:</p>
 			<pre class="compare-group">
-	(A), (E): confidence that the economy will avoid 
+	(A), (E): confidence that the economy will avoid
 	(B), (C), (D): confidence in the economy (‘s ability) to avoid
 			</pre>
 			<p>It is possible to use either <i>confidence that</i> or <i>confidence in</i> correctly in a sentence, as long as you follow some rules. Someone has <i>confidence in</i> a noun: She has confidence in your ability. Alternately, someone has <i>confidence that</i> something more complex will occur: She has confidence that you will get a good score on the GMAT. In the given answers, the more complex structure exists, so use <i>confidence that</i>, not <i>confidence in</i>. Eliminate answers (B), (C), and (D).</p>
@@ -2226,12 +2226,12 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Modifier: <i>what</i></b></p>
 			<p>Answer (B) changes the restrictive modifier <i>that many had feared</i> into a non-restrictive modifier (set off by commas) beginning with the word <i>what</i>.</p>
 			<p><i>What</i> and <i>that</i> are not interchangeable; <i>what</i> is not a regular relative pronoun and can't be used to start this kind of noun modifier. None of the other answers repeats this error, so eliminate answer (B).</p>
-		</li>		
+		</li>
 		<li>
 			<p><b>Structure / Meaning: <i>X rather Y; X with Y</i></b></p>
 			<p>Answers (B) and (E) change the structure so that the sentence no longer contains the <i>X and Y</i> parallelism marker:</p>
 			<pre class="compare-group">
-	(B) in the economy to avoid X rather to come in for Y 
+	(B) in the economy to avoid X rather to come in for Y
 	(E) the economy will avoid X with it instead coming in for Y
 			</pre>
 			<p>The word <i>rather</i> is an adverb, not a conjunction (such as <i>and</i>), so <i>to come in for Y</i> is never properly connected to the rest of the sentence. This is the equivalent of saying <i>confidence in the economy to avoid X, to come in for Y</i>. Note that <i>rather</i> is not the same thing as <i>rather than</i>.</p>
@@ -2278,10 +2278,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The ends of the answer choices differ. All begin with the same lead-in words:</p>
 			<p><i>hampers the ability of some children</i> … </p>
 			<pre class="compare-group">
-	(A) for distinguishing X 	and, the result is, to make Y 
-	(B) to distinguish X 		and, as a result, to make Y 
-	(C) to distinguish X 		and, the result of this, they are unable to make Y  
-	(D) to distinguish X 		and results in not making Y 
+	(A) for distinguishing X 	and, the result is, to make Y
+	(B) to distinguish X 		and, as a result, to make Y
+	(C) to distinguish X 		and, the result of this, they are unable to make Y
+	(D) to distinguish X 		and results in not making Y
 	(E) for distinguishing X 	resulting in being unable to make Y
 			</pre>
 			<p>
@@ -2328,10 +2328,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Idiom: <i>to be; being</i> </b></p>
 			<p>The answers differ in the way that they present this portion of the sentence:</p>
 			<pre class="compare-group">
-	(A) before it was fashionable to be an expatriate 
-	(B) before it was fashionable to be an expatriate 
-	(C) before to be an expatriate was fashionable 
-	(D) before it was fashionable to be an expatriate 
+	(A) before it was fashionable to be an expatriate
+	(B) before it was fashionable to be an expatriate
+	(C) before to be an expatriate was fashionable
+	(D) before it was fashionable to be an expatriate
 	(E) before it was fashionable being an expatriate
 			</pre>
 			<p><i>Fashionable to be</i> is an acceptable idiom, but <i>fashionable being</i> is not. In order to move the verb <i>to be</i> earlier in the sentence, as in answer (C), you would have to say <i>before being an expatriate was fashionable</i> (and that construction would probably still be considered awkward). Eliminate answers (C) and (E).</p>
@@ -2368,10 +2368,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The first difference is a split between <i>a critique</i> and <i>critiquing</i>. What's the difference between the two forms?</p>
 			<p>The original sentence offered two commentaries about the “Essay on Heat and Light”: It was <i>a critique</i> of something <i>as well as a vision</i> of something else. The two pieces, then, should be parallel: <i>X as well as Y</i> or (in other choices) <i>X and Y</i>. Check all of the answers for parallelism:</p>
 			<pre class="compare-group">
-	(A) a critique 	as well as a vision 
-	(B) a critique 	and also his envisioning 
-	(C) a critique 	and envisioning 
-	(D) critiquing 	and also a vision 
+	(A) a critique 	as well as a vision
+	(B) a critique 	and also his envisioning
+	(C) a critique 	and envisioning
+	(D) critiquing 	and also a vision
 	(E) critiquing 	as well as his own envisioning
 			</pre>
 			<p>Answers (B), (C), and (D) are definitely not parallel; eliminate them. Answer (E) does have two -ing words, so it's parallel on the surface, but this one needs to be examined more closely.</p>
@@ -2419,9 +2419,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The original sentence appears to contain a list of three recommendations made by the report (<i>X, Y, and Z</i>), though the three items are so far from parallel that it's hard to anticipate what the correct answer will contain.</p>
 			<p>Eliminate answer (A) for lack of parallelism. Examine the other answers to see whether they maintain the <i>X, Y, and Z</i> structure. If so, cross off any that aren't parallel.</p>
 			<pre class="compare-group">
-	(B) should eliminate beds, services should be consolidated, and space be used 
-	(C) should eliminate beds, services should be consolidated, and to use space 
-	(D) eliminate beds, consolidate services, and space used 
+	(B) should eliminate beds, services should be consolidated, and space be used
+	(C) should eliminate beds, services should be consolidated, and to use space
+	(D) eliminate beds, consolidate services, and space used
 	(E) eliminate beds, consolidate services, and use space
 			</pre>
 			<p>All of the answers do attempt to use an <i>X, Y, and Z</i> structure, but only option (E) offers a parallel set of three. The other answers mix verbs and nouns. Eliminate answers (A), (B), (C), and (D).</p>
@@ -2506,10 +2506,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Parallelism: <i>both X and Y</i></b></p>
 			<p>The original sentence contains the parallel structure <i>both X and Y</i>. The <i>Y</i> portion is underlined, so check to see whether it is parallel with <i>X</i>.</p>
 			<pre class="compare-group">
-	(A) of both Prehistoric Textiles and also of Women's Work 
-	(B) of both Prehistoric Textiles and also Women's Work 
-	(C) of both Prehistoric Textiles and of Women's Work 
-	(D) of both Prehistoric Textiles and of Women's Work 
+	(A) of both Prehistoric Textiles and also of Women's Work
+	(B) of both Prehistoric Textiles and also Women's Work
+	(C) of both Prehistoric Textiles and of Women's Work
+	(D) of both Prehistoric Textiles and of Women's Work
 	(E) of both Prehistoric Textiles and Women's Work
 			</pre>
 			<p>The <i>X</i> portion consists solely of the title of one work, <i>Prehistoric Textiles</i>, so the <i>Y</i> portion should match. Only answer choice (E) offers the simple title <i>Women's Work</i>. Answers (A), (C), and (D) incorrectly repeat the word <i>of</i>, which was already used before the <i>both X and Y</i> parallelism began. Answers (A) and (B) insert the word <i>also</i>, which means the same thing as <i>and</i>. Using <i>and also</i> is redundant; the correct idiom structure is <i>both X and Y</i>. Eliminate answers (A), (B), (C), and (D).</p>
@@ -2556,10 +2556,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Parallelism: <i>either X or Y</i></b></p>
 			<p>The word <i>either</i> is always paired with the word <i>or</i> in the structure <i>either X or Y</i>. In addition, the <i>X</i> and the <i>Y</i> have to be parallel.</p>
 			<pre class="compare-group">
-	(A) either from sandstone 		or schist 
-	(B) either sandstone 			or from schist 
-	(C) either fashioned from sandstone 	or schist 
-	(D) either fashioned from sandstone 	or from schist 
+	(A) either from sandstone 		or schist
+	(B) either sandstone 			or from schist
+	(C) either fashioned from sandstone 	or schist
+	(D) either fashioned from sandstone 	or from schist
 	(E) either from sandstone 		or from schist
 			</pre>
 			<p>Answers (A), (B), (C), and (D) all break parallelism. Only answer (E) provides <i>from</i> + <i>noun</i> for both <i>X</i> and <i>Y</i>.
@@ -2648,10 +2648,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Comparison: <i>X is to Y like A is to B; X is to Y just as A is to B; X is to Y similar to A is to B</i> </b></p>
 			<p>The problem uses an unusual comparison idiom that changes a bit in the five answers:</p>
 			<pre class="compare-group">
-	(A) Smith's books are to democratic capitalism <span style="color: green;">what</span> Marx's book is to socialism 
+	(A) Smith's books are to democratic capitalism <span style="color: green;">what</span> Marx's book is to socialism
 	(B) Smith's books are to democratic capitalism <span style="color: red;">like</span> Marx's book is to socialism
-	(C) Smith's books are to democratic capitalism <span style="color: red;">just as</span> Marx's book is to socialism  
-	(D) books are to democratic capitalism <span style="color: red;">similar to</span> Marx's book is to socialism 
+	(C) Smith's books are to democratic capitalism <span style="color: red;">just as</span> Marx's book is to socialism
+	(D) books are to democratic capitalism <span style="color: red;">similar to</span> Marx's book is to socialism
 	(E) books are to democratic capitalism <span style="color: green;">what</span> Marx's book is to socialism
 			</pre>
 			<p>What does this comparison idiom mean? Here's a simpler example: McDonald's is to the fast food industry what Coke is to the soft drink industry. The sentence is saying that McDonald's and Coke play similar roles in their respective industries.</p>
@@ -2776,9 +2776,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The original sentence begins with a modifier: <i>Rivaling the pyramids or the cities as an achievement</i>. The information is talking about something that has not yet been mentioned. What is rivaling the pyramids?</p>
 			<p>The <i>pyramids of Egypt</i> are works of art. What else in the sentence is a work of art or can be described as <i>an achievement</i>? <i>An army of terra-cotta warriors</i> makes sense and should be placed right after the comma, so the original sentence is fine. The other answers offer various other illogical options as the noun following the comma:</p>
 			<pre class="compare-group">
-	(B) Qin Shi Huang (a person is not a work of art) 
-	(C) it (referring to how long the warriors took to make) 
-	(D) artisans (people are not works of art) 
+	(B) Qin Shi Huang (a person is not a work of art)
+	(C) it (referring to how long the warriors took to make)
+	(D) artisans (people are not works of art)
 	(E) 36 years (a length of time is not a work of art)
 			</pre>
 			<p>Eliminate answers (B), (C), (D), and (E) because each uses an illogical noun following the comma.</p>
@@ -2833,10 +2833,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Parallelism: <i>X and Y</i></b></p>
 			<p>The original sentence also contains a real instance of the parallelism marker <i>X and Y</i>: </p>
 			<pre class="compare-group">
-	(A) will try and establish 	and to encourage 
-	(B) will try and establish 	and encouraging 
-	(C) will try establishing 	and to encourage 
-	(D) will try to establish 	and encouraging 
+	(A) will try and establish 	and to encourage
+	(B) will try and establish 	and encouraging
+	(C) will try establishing 	and to encourage
+	(D) will try to establish 	and encouraging
 	(E) will try to establish 	and to encourage
 			</pre>
 			<p>Answers (A) and (B) use the form <i>will establish</i> for the <i>X</i> portion. Neither <i>to encourage</i> nor <i>encouraging</i> is an acceptable match for the <i>Y</i> portion. Answers (C) and (D) pair a participle with an infinitive; both are not parallel. Only answer (E) offers a parallel structure: <i>to establish and to encourage</i>. Eliminate answers (A), (B), (C), and (D).</p>
@@ -2873,9 +2873,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Idiom: <i>X but also Y; not only X, Y</i></b></p>
 			<p>The original sentence uses the idiom <i>not only X but also Y</i>. This is a correct idiom, but check the other answers to see what form they use. Also check the <i>X</i> and <i>Y</i> portions for parallelism.</p>
 			<pre class="compare-group">
-	(A) not only do damage 	but also aggravate 
-	(B) do damage 		but also are aggravating 
-	(C) are damaging 	but also are aggravating 
+	(A) not only do damage 	but also aggravate
+	(B) do damage 		but also are aggravating
+	(C) are damaging 	but also are aggravating
 	(D) not only do damage 	they are also aggravating
 	(E) are doing damage 	and they are also aggravating
 			</pre>
@@ -2933,10 +2933,10 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Meaning: <i>that which; that</i></b></p>
 			<p>The sentence makes a comparison between what the new evidence suggests and what was previously thought to be true. Some of the comparisons include a pronoun structure (<i>that</i> or <i>that which</i>).</p>
 			<pre class="compare-group">
-	(A) life-forms emerged 	earlier than they had previously thought 
-	(B) earlier emergence 	than had been previously thought 
-	(C) life-forms emerged 	earlier than previously thought 
-	(D) earlier emergence 	than that which was previously thought 
+	(A) life-forms emerged 	earlier than they had previously thought
+	(B) earlier emergence 	than had been previously thought
+	(C) life-forms emerged 	earlier than previously thought
+	(D) earlier emergence 	than that which was previously thought
 	(E) earlier emergence 	than that previously thought
 			</pre>
 			<p>The structure is pretty complex. The comparison signal is <i>earlier than</i>, but what is the actual comparison? Here's where the difficulty comes in: these answers all imply something for the second half that was already stated in the first half. It's possible to say that something <i>emerged</i> (verb) earlier than it was previously thought to <i>have emerged</i> (an implied verb). It's also possible to say that the <i>emergence</i> of something <i>occurred</i> earlier than it was previously thought to <i>have occurred</i> (another implied verb). In both cases, the implied verb is explicitly used in the first half of the comparison. Parallelism allows you to assume that the verb repeats in the second half.</p>
@@ -3123,7 +3123,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 </div>
 <div class="round-box">
 	<div><b>First Glance</b></div>
-	It's important to read the extra-long original sentence in full, even though it will take longer than usual. Be very diligent about comparing portions of the (long!) answer choices vertically; you do not want to read each one in full! 
+	It's important to read the extra-long original sentence in full, even though it will take longer than usual. Be very diligent about comparing portions of the (long!) answer choices vertically; you do not want to read each one in full!
 </div>
 <div class="round-box">
 	<b>Issues</b><br>
@@ -3703,7 +3703,7 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p><b>Meaning / Modifier </b></p>
 			<p>Answers (A), (B), and (E) present the information about dioxins and exposure as one long modifier, while answers (C) and (D) separate this portion into two parallel pieces of information:</p>
 			<pre class="compare-group">
-	<span style="color: green;">(A), (B), (E): the currently uncontrolled dioxins (that / to which) North Americans are exposed</span>  
+	<span style="color: green;">(A), (B), (E): the currently uncontrolled dioxins (that / to which) North Americans are exposed</span>
 	<span style="color: red;">(C), (D): the dioxins that are currently uncontrolled and (that) North Americans are exposed to</span>
 			</pre>
 			<p>What's the difference?</p>
@@ -3804,9 +3804,9 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 			<p>The original sentence contains the parallel structure <i>not just X but (also) Y</i>. (Note: The word <i>also</i> is optional; the structure is correct both with it and without it.) Check the answers for parallelism:</p>
 			<pre class="compare-group">
 	(A) explained not just because of drugs but by the fact that
-	(B) explained not just by the fact that X but also by the fact that Y 
-	(C) occurring not just because of drugs but doctors are also writing 
-	(D) which occurred not just because drugs but doctors are also writing 
+	(B) explained not just by the fact that X but also by the fact that Y
+	(C) occurring not just because of drugs but doctors are also writing
+	(D) which occurred not just because drugs but doctors are also writing
 	(E) which occurred not just because of drugs but because doctors
 			</pre>
 			<p>Answer (A) is not parallel. In addition,<i>a phenomenon that is explained because of</i> something is redundant: <i>Explained</i> and <i>because of</i> mean the same thing.</p>
@@ -3827,31 +3827,61 @@ Note: Your first instinct might be to cross off answer (A) because of the two se
 #SC#87#C#8700
 <div class="round-box">
 	<div><b>Error Summary</b></div>
-	(A) Structure<br>
-	<b>(B) CORRECT</b><br>
-	(C) Structure<br>
-	(D) Structure<br>
-	(E) Structure
+	(A) Modifier <i>(which brightened)</i><br>
+	(B) Parallelism <i>(X and Y)</i>; Meaning <i>(and)</i><br>
+	<b>(C) CORRECT</b><br>
+	(D) Meaning <i>(from the Sun)</i><br>
+	(E) Parallelism <i>(X and Y)</i>; Meaning <i>(from the Sun)</i>
 </div>
 <div class="round-box">
 	<div><b>First Glance</b></div>
-	The underline is fairly short; compare the answers before reading the original sentence. The opening splits between <i>ozone is formed</i> (main clause) and <i>ozone, formed</i> (modifier).
+	Both the sentence and underline are long; there's a good chance that the question will test Modifier, Parallelism, or Meaning issues.
 </div>
 <div class="round-box">
 	<b>Issues</b><br>
 	<ol>
-		<li>
-			<p><b>Structure </b></p>
-			<p>The original sentence contains one independent clause,<i>ozone is formed</i>, followed by a modifier starting with the word <i>from</i>. Later in the sentence, a second verb, <i>react</i>, pops up. What subject goes with that second verb?</p>
-			<p>Logically, <i>react</i> might go with <i>hydrocarbons and oxides</i>. This sentence would result: <i>ozone is formed from hydrocarbons and oxides react</i>. <i>React</i> is a main verb and needs a main subject to match, but <i>hydrocarbons and oxides</i> are part of a prepositional phrase. Prepositional phrases don't contain verbs. A noun in a prepositional phrase isn't eligible to be the subject of a verb. In this structure, no main subject exists for the main verb. Eliminate answer (A).</p>
-			<p>Answer (E) also uses <i>from</i> and further compounds the issue by changing the first independent clause to a modifier: <i>ozone, formed in X from Y, react with Z</i>. The verb <i>react</i> can't go with ozone (<i>the hydrocarbons and oxides react</i> to form <i>ozone</i>, not the other way around), so the sentence is a fragment; it contains no main verb. Answer (D) also removes the original independent clause and turns the sentence into a fragment. Eliminate answers (D) and (E).</p>
-			<p>Answer (C) introduces the word <i>and</i> in between the original independent clause and the rest of the sentence. The portion after the word <i>and</i> needs to be an independent clause as well, but it is not. Consider this incorrect example, which mimics the error in answer (C): Hamburgers are made at the restaurant, and when customers eat them. A correct version might say: Hamburgers are made at the restaurant, and customers eat them. Eliminate answer (C).</p>
+    <li>
+			<p><b>Modifier: <i>which brightened</i></b></p>
+			<p>A <i>“comma which”</i> construction always indicates a noun modifier. As a general rule, noun modifiers should refer to the closest main noun (almost always the noun immediately before the comma).</p>
+			<p>The closest main noun to <i>which brightened is Earth</i>. The Earth did not brighten the Northern Lights. Rather, the entire action of the previous clause <i>(the cloud triggered a storm)</i> resulted in the brightening of the Northern Lights. Because an entire action caused the result, a noun modifier cannot be used. Eliminate answer (A). No other answers repeat this error.</p>
 		</li>
+		<li>
+    			<p><b>Parallelism: <i>X and Y</i></b></p>
+    			<p>The word <i>and</i> always indicates parallelism: <i>X and Y</i>. The sentence structure shows a core followed by a comma and two modifiers that should be parallel: <i>A cloud triggered a storm, which brightened and also knocking.</i></p>
+    			<p>Check all of the answer choices in this location:</p>
+    			<pre class="compare-group">
+    	(A) which brightened and also knocking
+    	(B) it brightened and also knocked
+    	(C) brightening and knocking
+    	(D) a storm brightened and it knocked
+    	(E) brightening and it knocked
+    			</pre>
+    			<p>Answers (A) and (E) definitely break parallelism; eliminate them. Answers (B) and (C) are both appropriately parallel.</p>
+    			<p>Answer (D) is trickier. The structure of the sentence has changed more significantly. Now, the subject is <i>storm</i> (not <i>cloud</i>). The core sentence reads: <i>A storm brightened and it knocked</i>. This structure is potentially acceptable from a parallelism standpoint, although it is unnecessary to use the pronoun it before the second verb, as the subject (<i>storm</i>) applies to both verbs. As a general rule, do not use unnecessary words. You might choose to eliminate answer (D) at this point or to examine it further; see issue (4) on Meaning for further discussion.</p>
+    </li>
+    <li>
+    			<p><b>Meaning: and</b></p>
+    			<p>When examining the parallelism issue, you might have noticed a couple of issues related to meaning. In answer (B), the structure <i>A cloud was what triggered a storm, and it brightened and also knocked</i> changes the initial meaning of the sentence.</p>
+    			<p>Changing a modifier (<i>which brightened</i>) into a separate sentence (independent clause) by replacing <i>which</i> with <i>and</i> usually alters the meaning of the sentence. What is the difference in meaning between these two sentences?</p>
+    			<pre class="compare-group">
+    	(1) Her success triggered a bonus, which allowed her to buy a new car.
+    	(2) Her success triggered a bonus, and it allowed her to buy a new car.
+    			</pre>
+    			<p>In the first sentence, the bonus allowed her to buy the new car; otherwise, perhaps she couldn't have afforded it. In the second sentence, the pronoun “it” refers to “her success.” Her success allowed her to buy the new car; she also, separately, earned a bonus.</p>
+    			<p>The introduction of the conjunction <i>and</i> in answer (B) changes the meaning in a similar way: It no longer indicates that the large storm <i>caused</i> the brightening of the Northern Lights. Rather, <i>the cloud triggered a storm</i> and, separately, the <i>cloud…brightened the Northern Lights</i>. Eliminate answer (B).</p>
+    			<p>The remaining answer choices do not contain this same error.</p>
+    </li>
+    <li>
+    			<p><b>Meaning: from the Sun</b></p>
+    			<p>When you discover one meaning error, such as the one in answer (B), examine the remaining answers for other possible meaning errors. Answers (D) and (E) both lack any reference to the Sun; the original sentence indicated that the particles were ejected <i>from the Sun</i>.</p>
+    			<p>As a general rule, the test writers prefer not to drop any information that was present in the original sentence unless there was something illogical or ambiguous about that information. Use this issue only if necessary, though, as it is possible that four answers are so incorrect that the fifth has to be chosen even if it loses a detail that was present in the original.</p>
+    			<p>Eliminate answer (E). Answer (D) now has two strikes against it: this issue and the issue discussed in the Parallelism section. Eliminate answer (D).</p>
+    </li>
 	</ol>
 </div>
 <div class="round-box">
 	<div><b>The Correct Answer</b></div>
-	Correct answer (B) fixes the original problem by changing the preposition <i>from</i> to the conjunction <i>when</i> : <i>ozone is formed when hydrocarbons and oxides react</i>. The verb <i>react</i> now has a subject.
+	Correct answer (C) fixes the original parallelism and modifier errors by replacing <i style="color: red;">which brightened</i> with <i style="color: green;">brightening</i>. This creates a more flexible “comma -ing” modifier, which refers not to the closest noun but to the entire action discussed in the main clause: <i style="color: green;">a cloud triggered a storm</i>, and this entire action then caused the <i style="color: blue;">brightening</i> of the lights and the <i style="color: blue;">knocking out</i> of the satellite.
 </div>
 ---------------------------------
 #SC#88#B#8800
@@ -4150,8 +4180,8 @@ Further, answer (A) conveys a clear contrast between the idea that it is difficu
 			<pre class="compare-group">
 	(A) not so much in a skill 	but in our ability
 	(B) not so much in a skill 	but instead in our ability
-	(C) not so much in a skill 	as in our ability 
-	(D) not in a skill 		as in our ability 
+	(C) not so much in a skill 	as in our ability
+	(D) not in a skill 		as in our ability
 	(E) not in a skill 		but in our ability
 			</pre>
 			<p>The three <i>not so much</i> variations are all acceptable idioms, as is the <i>not X but Y</i> form in answer (E). However, the <i>not X as Y</i> form in answer (D) is incorrect; eliminate this answer.</p>
@@ -4233,7 +4263,7 @@ Further, answer (A) conveys a clear contrast between the idea that it is difficu
 			<p>A vertical comparison of the answers reveals a split between <i>at some time in the past</i> and <i>some time in the past</i>.</p>
 			<p>The prepositional phrase <i>at some time</i> refers to some particular (but unspecified) moment in time; this construction is a modifier. If the preposition <i>at</i> is not placed before <i>some time</i>, then <i>time</i> is a noun, not a modifier, but the sentence structure requires a modifier here. The adverb <i>sometime</i> could be used, or the prepositional phrase <i>at some time</i>. Here are two correct examples: </p>
 			<pre class="compare-group">
-	At some time in the past, she worked for the rodeo. 
+	At some time in the past, she worked for the rodeo.
 	Sometime in the past, she worked for the rodeo.
 			</pre>
 			<p>Eliminate answers (C) and (D) for incorrectly changing a modifier into a noun.</p>
@@ -4244,8 +4274,8 @@ Further, answer (A) conveys a clear contrast between the idea that it is difficu
 			<pre class="compare-group">
 	(A) greatly reducing their numbers and our variation
 	(B) greatly reduced their numbers and our variation
-	(C) their numbers were reduced and our variation 
-	(D) their numbers were reduced and our variation 
+	(C) their numbers were reduced and our variation
+	(D) their numbers were reduced and our variation
 	(E) reduce their numbers and our variation
 			</pre>
 			<p>Answers (A), (B), and (E) all contain proper parallelism between the nouns <i>numbers</i> and <i>variation</i>. Further, the verb just preceding the <i>X</i> and <i>Y</i> structure (<i>reducing</i>, <i>reduced</i>, or <i>reduce</i>) applies to both numbers and variation.</p>
@@ -4366,8 +4396,8 @@ Further, answer (A) conveys a clear contrast between the idea that it is difficu
 			<p><b>Meaning </b></p>
 			<p>The original sentence conveys a certain meaning: when someone commits heavily to a certain course of action, that person might then overlook signs that this course of action isn't a good idea after all. Check the sentence core:</p>
 			<pre class="compare-group">
-	(A) Heavy commitment makes it likely to miss 
-	(B) An executive makes missing signs likely 
+	(A) Heavy commitment makes it likely to miss
+	(B) An executive makes missing signs likely
 	(C) An executive is likely to miss signs
 	(D) Being heavily committed makes them likely to miss signs
 	(E) Being heavily committed is likely to make an executive miss signs
@@ -4492,7 +4522,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<pre class="compare-group">
 	1. The participle could be a noun acting as the direct object of the verb: I like swimming.
 	2. The participle could be part of a present progressive tense: She is driving to the store.
-			</pre>	
+			</pre>
 			<p>Neither of the two possible structures fits <i>allowing</i> in this sentence, so answer (A) is wrong. The other answers change the structure:</p>
 			<pre class="compare-group">
 	(B) phenomenon where changes are combining to allow
@@ -4545,7 +4575,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Meaning </b></p>
 			<p>The placement of the modifiers in answers (C) and (D) is completely different:</p>
 			<pre class="compare-group">
-	(C) In her illustrations, which she coordinated with her narratives, Potter  
+	(C) In her illustrations, which she coordinated with her narratives, Potter
 	(D) Coordinated with her narratives, Potter, in her book illustrations
 			</pre>
 			<p>Answer (D) says: <i>coordinated with her narratives, Beatrix Potter</i>.</p>
@@ -4625,15 +4655,15 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Modifier: <i>called</i></b></p>
 			<p>Once you suspect that modifiers are being tested, examine the sentence structure and answer choices with this in mind.</p>
 			<pre class="compare-group">
-	What was <i>originally developed for</i> something? The technique. 
+	What was <i>originally developed for</i> something? The technique.
 	What is <i>called proton-induced</i>…? The technique.
 	What <i>can quickly analyze</i>…? Wow—once again, the technique!
 			</pre>
 			<p>Of the three modifiers referring to <i>technique</i>, only <i>called proton-induced X-ray emission</i> is an essential modifier and so should not be separated from <i>technique</i> by words or punctuation marks. Answer (A) correctly places the <i>called</i> modifier immediately adjacent to <i>technique</i> without any intervening punctuation. Scan the other answers for the placement of the <i>called</i> modifier:</p>
 			<pre class="compare-group">
 	(B) a technique called …
-	(C) a technique…pollutants, called … 
-	(D) a technique…pollutants, called … 
+	(C) a technique…pollutants, called …
+	(D) a technique…pollutants, called …
 	(E) a technique…substance, called …
 			</pre>
 			<p>Answers (C), (D), and (E) all separate <i>technique</i> from its essential modifier. In answers (C) and (D), it appears that the <i>air pollutants</i> are <i>called proton-induced X-ray emission</i>. In answer (E), it appears that the <i>substance</i> is called this name. Eliminate all three answers.</p>
@@ -4680,14 +4710,14 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p>The five answer choices contain small differences in the comparison structure: (A) <i></p>
 			<p>it costs about the same to run nuclear plants as other types of plants </i> </p>
 			<pre class="compare-group">
-	(B) the cost of running nuclear plants is about the same as for other types of plants  
-	(C) it costs about the same to run nuclear plants as for other types of plants  
-	(D) it costs about the same to run nuclear plants as for other types of plants  
+	(B) the cost of running nuclear plants is about the same as for other types of plants
+	(C) it costs about the same to run nuclear plants as for other types of plants
+	(D) it costs about the same to run nuclear plants as for other types of plants
 	(E) the cost of running nuclear plants is about the same as other types of plants
 			</pre>
 			<p>Each sentence requires the reader to carry some words of the comparison to both the <i>X</i> and the <i>Y</i> components. Answer (A) is properly parallel and maintains an appropriate meaning: <i>It costs the same to run X as</i> [<i>to run</i>] <i>Y</i>. Likewise, in answer (B), <i>the cost of running X is the same as</i> [<i>the cost</i>] <i>for</i> [<i>running</i>] <i>Y</i>.</p>
 			<p>Answers (C), (D), and (E), however, are problematic. Answers (C) and (D) indicate that <i>it costs the same to run X as [to run] for Y</i>. To run <i>for</i> plants? That's a big difference in meaning (and an illogical one). Answer (E) says that <i>the cost of running X is the same as the cost running Y</i>; the preposition (either <i>of</i> or <i>for</i>) is missing from the second part. Eliminate answers (C), (D), and (E).</p>
-		</li>		
+		</li>
 		<li>
 			<p><b>Meaning / Pronoun: <i>it; they</i></b></p>
 			<p>The original sentence uses the pronoun <i>it</i> three times. Are all three instances clear, and do they refer to the same noun?</p>
@@ -4731,7 +4761,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p>Answers (A), (B), and (D) compare the two types of parents. What's going on in answer (C)?</p>
 			<pre class="compare-group">
 	Is it this?
-	(C) <i style="color: blue;">Children of</i> authoritative parents <i style="color: blue;">rather than</i> permissive parents 
+	(C) <i style="color: blue;">Children of</i> authoritative parents <i style="color: blue;">rather than</i> permissive parents
 	Or this?
 	(C) Children <i style="color: blue;">of authoritative parents rather than</i> permissive parents
 			</pre>
@@ -4747,8 +4777,8 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<pre class="compare-group">
 	(A) self-confident, high in self-esteem, and independent
 	(B) self-confident, high in self-esteem, and independent
-	(C) to be self-confident, have high self-esteem, and to be independent 
-	(D) to have self-confidence, a high self-esteem, and be independent 
+	(C) to be self-confident, have high self-esteem, and to be independent
+	(D) to have self-confidence, a high self-esteem, and be independent
 	(E) to have self-confidence, a high self-esteem, and to be independent
 			</pre>
 			<p>Answers (C), (D), and (E) all break parallelism. Answer (C) needs a <i>to</i> either before all three items or before only the first one. Answers (D) and (E) use verbs for the first and third items but not for the second. Eliminate answers (C), (D), and (E).</p>
@@ -4861,41 +4891,41 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 		<table class="example">
 		  <tr>
 			<th>First Read: Original Sentence</th>
-			<th>Thoughts</th>    
+			<th>Thoughts</th>
 		  </tr>
 		  <tr>
 			<td><i>A mutual fund</i></td>
 			<td>Noun…is this the subject?</td>
-		  </tr> 
+		  </tr>
 		  <tr>
 			<td><i>having billions of dollars in assets</i></td>
 			<td>Modifier, describing the <i>mutual fund</i></td>
 		  </tr>
 		  <tr>
 			<td><i>will typically invest</i></td>
-			<td>Bingo. This is the verb and <i>mutual fund</i> is the subject</td>    
+			<td>Bingo. This is the verb and <i>mutual fund</i> is the subject</td>
 		  </tr>
 		  <tr>
 			<td><i>that money</i></td>
-			<td><i>That</i> is referring back to the <i>money</i> mentioned in the first modifier.</td>    
+			<td><i>That</i> is referring back to the <i>money</i> mentioned in the first modifier.</td>
 		  </tr>
 		  <tr>
 			<td><i>in hundreds of <u>companies</u></i></td>
-			<td>The underline starts here.</td>    
+			<td>The underline starts here.</td>
 		  </tr>
 		  <tr>
 			<td><i><u>rarely holding</u></i></td>
-			<td>A “comma -ing” modifier refers to the main clause (subject and verb).</td>    
+			<td>A “comma -ing” modifier refers to the main clause (subject and verb).</td>
 		  </tr>
 		  <tr>
 			<td><i><u>more than one percent</u> of the shares of any particular corporation</i></td>
-			<td>Does this “comma -ing” modifier actually modify the main clause? Yes, this is a followup to the fact that the mutual fund invests in tons of companies.</td>    
+			<td>Does this “comma -ing” modifier actually modify the main clause? Yes, this is a followup to the fact that the mutual fund invests in tons of companies.</td>
 		  </tr>
 		  <tr>
 			<td></td>
-			<td>Hmm. The modifier sounds a little funny—but I can't actually find anything wrong with the sentence. I'll need to go look at the other answer choices next.</td>    
+			<td>Hmm. The modifier sounds a little funny—but I can't actually find anything wrong with the sentence. I'll need to go look at the other answer choices next.</td>
 		  </tr>
-		</table><p/>			
+		</table><p/>
 </div>
 <div class="round-box">
 	<b>Issues</b><br>
@@ -4942,7 +4972,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p>Answer (A) is incorrect due to the missing conjunction; compare the remaining answers: </p>
 			<pre class="compare-group">
 	(B) Construction begun and was completed
-	(C) Construction began and was completed 
+	(C) Construction began and was completed
 	(D) Construction, it was completed
 	(E) Construction, which was begun and was completed
 			</pre>
@@ -5039,9 +5069,9 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Pronouns: <i>it; they</i><br>Parallelism: <i>if X then Y</i></b></p>
 			<p>The original sentence contains this piece: <i>If one arm is lost it quickly replaces it</i>. Check the pronouns.</p>
 			<pre class="compare-group">
-	(A) if one arm is lost… 	(then) it quickly replaces it 
-	(B) if one arm is lost… 	(then) it is quickly replaced 
-	(C) if they lose one arm… 	(then) they quickly replace it 
+	(A) if one arm is lost… 	(then) it quickly replaces it
+	(B) if one arm is lost… 	(then) it is quickly replaced
+	(C) if they lose one arm… 	(then) they quickly replace it
 	(D) if they lose one arm… 	(then) they are quickly replaced
 	(E) if they lose one arm… 	(then) it is quickly replaced
 			</pre>
@@ -5086,8 +5116,8 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Pronoun: <i>they; this</i></b></p>
 			<p>The original sentence begins with an opening modifier followed by a main clause: <i>Because there are provisions, they have stimulated</i>. To which noun does the pronoun <i>they</i> refer?</p>
 			<pre class="compare-group">
-	(A) Because there are provisions…areas, they have stimulated disputes 
-	(B) Because the code provides that…areas, it has stimulated disputes 
+	(A) Because there are provisions…areas, they have stimulated disputes
+	(B) Because the code provides that…areas, it has stimulated disputes
 	(C) Even tiny islets can be…code, already stimulating disputes
 	(D) Because tiny islets can be…code, this has stimulated disputes
 	(E) Because tiny islets can be…code, which is already stimulating disputes
@@ -5148,8 +5178,8 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Structure / Meaning </b></p>
 			<p>Because structure has already been tested once, with the missing <i>and</i> in answer (A), examine the remaining answers with this in mind. Answers (C), (D), and (E) are all parallel, but what happens with the remaining portion of the construction?</p>
 			<pre class="compare-group">
-	(C) members made payments and <span style="color: green;">took turns drawing</span> on the funds. 
-	(D) members made payments and <span style="color: red;">took turns, they drew</span> on the funds. 
+	(C) members made payments and <span style="color: green;">took turns drawing</span> on the funds.
+	(D) members made payments and <span style="color: red;">took turns, they drew</span> on the funds.
 	(E) members made payments and <span style="color: red;">drew, taking turns</span> on the funds.
 			</pre>
 			<p>Answer (C) ends on one complete thought: <i>took turns drawing</i>. Answer (D) splits out the last portion as its own independent clause: <i>they drew on the funds</i>. It is incorrect to connect an independent </p>
@@ -5323,7 +5353,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			</pre>
 			<p>The modifier beginning <i>a phenomenon</i> has a complex structure. The simpler version would be:</p>
 			<pre class="compare-group">
-	a phenomenon that is caused by (something) 
+	a phenomenon that is caused by (something)
 			</pre>
 			<p>The author wants to introduce further support by indicating that most scientists agree with this assessment. In this type of construction, the <i>scientists agree</i> portion should be placed between <i>that</i> and <i>is</i>: <i>that most scientists agree is</i>. Answer (C) does this correctly. Eliminate answer (B).</p>
 		</li>
@@ -5331,7 +5361,7 @@ Correct answer (B) has this structure, properly indicating that the <i>society</
 			<p><b>Meaning </b></p>
 			<p>Answers (D) and (E) change up the meaning:</p>
 			<pre class="compare-group">
-	<span style="color: red;">(D) which scientists agree on as a phenomenon caused by human beings who burn fuels  
+	<span style="color: red;">(D) which scientists agree on as a phenomenon caused by human beings who burn fuels
 	(E) which scientists agree to be a phenomenon caused by fuels burned by human beings  </span>
 			</pre>
 Consider these examples:
@@ -5415,8 +5445,8 @@ Consider these examples:
 			<p><b>Idiom: <i>claims it; claims the ability; claims being able</i></b></p>
 			<p>The answers offer several variations of this idiom:</p>
 			<pre class="compare-group">
-	(A) A firm claims from a sample that it can assess 
-	(B) A firm claims from a sample it has the ability 
+	(A) A firm claims from a sample that it can assess
+	(B) A firm claims from a sample it has the ability
 	(C) A firm claims the ability
 	(D) A firm claims to be able
 	(E) A firm claims being able
@@ -5524,8 +5554,8 @@ Consider these examples:
 			<p>There are two problems with <i>she was less successful compared to Germany</i>. First, the correct idiom is <i>less successful than</i> but the <i>than</i> is missing in this case. Second, it's illogical to compare a person or a person's success to Germany. Scan the other answers for either of these errors:</p>
 			<pre class="compare-group">
 	(B) less successful 			<span style="color: red;">as</span> compared to Germany
-	(C) less successful 			<span style="color: green;">than</span> she had been in Germany 
-	(D) she was less successful 		<span style="color: red;">when</span> compared to Germany 
+	(C) less successful 			<span style="color: green;">than</span> she had been in Germany
+	(D) she was less successful 		<span style="color: red;">when</span> compared to Germany
 	(E) she had been less successful 	<span style="color: green;">than</span> in Germany
 			</pre>
 			<p>Answers (A), (B), and (D) all lack the word <i>than</i> in the construction <i>less successful than</i>. Eliminate all three.</p>
@@ -5580,8 +5610,8 @@ Consider these examples:
 	<span style="color: blue;">The same acreage produces:</span>
 		(A) double the apples
 		(B) twice as many apples
-		(C) as much as twice the apples 
-		(D) two times as many apples 
+		(C) as much as twice the apples
+		(D) two times as many apples
 		(E) a doubling of the apples
 			</pre>
 			<p>The sentence is trying to compare the number of apples produced in 1910 to the number of apples produced today (via the same amount of acreage). The original wording (<i>double</i>) isn't great, but it's not outright incorrect either. Answer (B) is also acceptable. Answer (C) uses the comparison marker <i>as much as</i>, but the number of apples is countable. <i>Much</i> is used for uncountable quantities: there is much water, but there are many apples. Eliminate answer (C).</p>
@@ -5626,8 +5656,8 @@ Consider these examples:
 			<p><b>Meaning: <i>creating; to create; who creates</i></b></p>
 			<p>The beginning of each answer choice varies:</p>
 			<pre class="compare-group">
-	(A) reactions in an individual <span style="color: green;">that create</span> responses 
-	(B) reactions in an individual <span style="color: green;">that creates</span> responses 
+	(A) reactions in an individual <span style="color: green;">that create</span> responses
+	(B) reactions in an individual <span style="color: green;">that creates</span> responses
 	(C) reactions in an individual <span style="color: red;">creating</span> responses
 	(D) reactions in an individual <span style="color: red;">to create</span> responses
 	(E) reactions in an individual <span style="color: red;">who creates</span> responses
@@ -5636,7 +5666,7 @@ Consider these examples:
 			<p>The <i>that</i> modifier, then, refers to the main noun <i>reactions</i>, not to the modifier <i>individual</i>. Answers (A) and (B) are acceptable.</p>
 			<p>Answer (C) changes the first word to <i>creating</i>. A participle that is not separated out from the main clause by a comma describes the noun to which it is directly attached. Consider this alternate sentence:</p>
 			<pre class="compare-group">
-	An earthquake will result in instability for a person hopping on one foot. 
+	An earthquake will result in instability for a person hopping on one foot.
 			</pre>
 			<p>The instability isn't hopping on one foot; the person is.</p>
 			<p>In answers (C) and (E), both modifiers refer to the <i>individual</i>, not the <i>responses</i>. In this construction, the reactions occur only in individuals who have been creating unconscious physiological responses for some other reason. This meaning is nonsensical; rather, the reaction to lying then creates the unconscious responses. Eliminate answers (C) and (E). (Note: This issue is very subtle; most people miss it.) </p>
@@ -5782,7 +5812,7 @@ Consider these examples:
 			<p>Those <i>words are added</i> to…what? The sentence doesn't actually say. Further, <i>in addition</i> is redundant when the phrase immediately follows the word <i>and</i>. Eliminate answer (E).</p>
 			<p>What about <i>which</i> versus <i>with</i>? This gets tricky. <i>To which</i> is required to refer to the main noun immediately beforehand (<i>French</i> in this case); however, the preposition <i>with</i> is more flexible. Look at these two sentences:</p>
 			<pre class="compare-group">
-	I'll have my pie with ice cream. 
+	I'll have my pie with ice cream.
 	I'll have the pie with the apples.
 			</pre>
 			<p>The first one is talking about having something along with the pie: Can you please add ice cream on the side? The second is talking about a specific characteristic inherent in the pie: No, I don't want the cherry pie. I want the one with the apples.</p>
@@ -5821,8 +5851,8 @@ Consider these examples:
 			<pre class="compare-group">
 	(A) it is just over 33 percent
 	(B) which uses just over 33 percent
-	(C) nuclear power accounts for just over 33 percent 
-	(D) just over 33 percent comes from nuclear power 
+	(C) nuclear power accounts for just over 33 percent
+	(D) just over 33 percent comes from nuclear power
 	(E) where it is just over 33 percent
 			</pre>
 			<p>Answers (A) and (E) use the pronoun <i>it</i>. It would be illogical for the pronoun to refer to <i>75 percent</i> or to <i>the energy produced in France</i>. What about just <i>the energy</i>? In this case, the sentence would read <i>the energy is just over 33 percent</i>. The sentence isn't clear.</p>
@@ -5841,12 +5871,12 @@ Consider these examples:
 				<td>Arya likes the apple.</td>
 				<td> → </td>
 				<td>She likes one specific apple.</td>
-			  </tr> 
+			  </tr>
 			  <tr>
 				<td>Arya likes the apple whereas Jon despises the apple.</td>
 				<td> → </td>
 				<td>The two are passing judgment on one particular apple.</td>
-			  </tr>			  
+			  </tr>
 			</table></p>
 			<p>Answers (D) and (E) contain two instances of <i>the energy</i>; are both referring to the same energy?</p>
 			<p>In the first half of the sentence, <i>the energy</i> mentioned is specifically <i>the energy produced in France</i>.  Answers (D) and (E) both refer to <i>the energy</i> in the second half of the sentence, but you don't want to talk about the French energy again. The sentence is attempting to contrast the energy produced in France with the energy produced in Germany.</p>
@@ -5918,8 +5948,8 @@ Consider these examples:
 			<p>Scan the other answers to see whether any repeat this error.</p>
 			<pre class="compare-group">
 	(B) Although W, grown from X, appear Y, heirlooms are Z…
-	(C) Although W, <span style="color: red;">heirloom tomatoes</span>, grown from X, <span style="color: red;">heirlooms are</span> Z… 
-	(D) Grown from X, <span style="color: red;">heirloom tomatoes appear Y, heirlooms are</span> Z… 
+	(C) Although W, <span style="color: red;">heirloom tomatoes</span>, grown from X, <span style="color: red;">heirlooms are</span> Z…
+	(D) Grown from X, <span style="color: red;">heirloom tomatoes appear Y, heirlooms are</span> Z…
 	(E) <span style="color: red;">Heirloom tomatoes</span>, grown from X, although W, <span style="color: red;">heirlooms are</span> Z…
 			</pre>
 			<p>Answers (C) and (E) repeat the original error: <i>heirloom tomatoes heirlooms are</i>. Eliminate answers (C) and (E).</p>
@@ -6034,9 +6064,9 @@ Consider these examples:
 			<p><b>Verb / Parallelism </b></p>
 			<p>A vertical comparison exposes a difference in the main verb tense, as well as a parallel verb later in the non-underlined portion:</p>
 			<pre class="compare-group">
-	(A) Müller began his career and <span style="color: red;">culminated</span> in 
-	(B), (C): Müller's career <span style="color: green;">began</span> and <span style="color: green;">culminated</span> in 
-	(D) Müller <span style="color: red;">had begun</span> his career and <span style="color: red;">culminated</span> in 
+	(A) Müller began his career and <span style="color: red;">culminated</span> in
+	(B), (C): Müller's career <span style="color: green;">began</span> and <span style="color: green;">culminated</span> in
+	(D) Müller <span style="color: red;">had begun</span> his career and <span style="color: red;">culminated</span> in
 	(E) The career of Müller <span style="color: red;">has begun</span> and <span style="color: red;">culminated</span> in
 			</pre>
 			<p>First, <i>Müller</i> himself did not <i>culminate</i> in anything; his <i>career</i> did. Eliminate answers (A) and (D).</p>
@@ -6124,9 +6154,9 @@ a composer who (X) receives popular acclaim, (Y) goes into decline after death, 
 			<p><b>Structure / Parallelism </b></p>
 			<p>Compare the list structure in each choice:</p>
 			<pre class="compare-group">
-	(A) composer who <span style="color: green;">receives</span> acclaim, <span style="color: green;">goes</span> into decline, and never <span style="color: green;">regains</span>  
-	(B) composer <span style="color: red;">who receives</span> acclaim, <span style="color: red;">whose reputation declines</span> <span style="color: red;">and never regains </span> 
-	(C) composer <span style="color: green;">who receives</span> acclaim, <span style="color: green;">but whose reputation declines</span> and never <span style="color: green;">regains</span>  
+	(A) composer who <span style="color: green;">receives</span> acclaim, <span style="color: green;">goes</span> into decline, and never <span style="color: green;">regains</span>
+	(B) composer <span style="color: red;">who receives</span> acclaim, <span style="color: red;">whose reputation declines</span> <span style="color: red;">and never regains </span>
+	(C) composer <span style="color: green;">who receives</span> acclaim, <span style="color: green;">but whose reputation declines</span> and never <span style="color: green;">regains</span>
 	(D) composer <span style="color: red;">who receives</span> acclaim, <span style="color: red;">who declines</span> in reputation <span style="color: red;">and who never regained  </span>
 	(E) composer who <span style="color: red;">receives</span> acclaim, <span style="color: red;">then has declined</span> and never <span style="color: red;">regained</span>
 			</pre>
@@ -6209,27 +6239,27 @@ a composer who (X) receives popular acclaim, (Y) goes into decline after death, 
 		<table class="example">
 		  <tr>
 			<th style="min-width:225px">First Read: Original Sentence</th>
-			<th>Thoughts</th>    
+			<th>Thoughts</th>
 		  </tr>
 		  <tr>
 			<td><i>In no other historical sighting</i></td>
 			<td>This is kind of a weird opener. I'm not sure yet what's going on.</td>
-		  </tr> 
+		  </tr>
 		  <tr>
 			<td><i>did Halley's Comet cause</i></td>
 			<td>Weirder. Okay, <i style="color: blue;">did cause</i> is a verb; I know that much. What's the subject?</td>
 		  </tr>
 		  <tr>
 			<td><i>such a worldwide sensation as</i></td>
-			<td>Oh, I see. <i style="color: blue;">Halley's Comet caused a worldwide sensation</i>. The subject is <i style="color: blue;">Halley's Comet</i>. Ah, and the word <i style="color: blue;">as</i> can indicate a comparison! Let's see….</td>    
+			<td>Oh, I see. <i style="color: blue;">Halley's Comet caused a worldwide sensation</i>. The subject is <i style="color: blue;">Halley's Comet</i>. Ah, and the word <i style="color: blue;">as</i> can indicate a comparison! Let's see….</td>
 		  </tr>
 		  <tr>
 			<td><i>did its return in 1910–1911.</i></td>
 			<td>So there were multiple sightings of this comet, but this one particular sighting in 1910–1911 caused the biggest worldwide sensation. They seem to want to make a comparison between this one particular sighting and all of the others. <br>
-			Okay, maybe I have a starting point. Is the comparison logical? Is it parallel?</td>  
+			Okay, maybe I have a starting point. Is the comparison logical? Is it parallel?</td>
 		  </tr>
 		  <tr>
-		</table><p/>			
+		</table><p/>
 </div>
 <div class="round-box">
 	<b>Issues</b><br>

@@ -7,6 +7,7 @@ import {Location} from '@angular/common';
 import {ScreenUtils} from './shared/utils/screen-utils';
 import {WebService} from './shared/services/web-service';
 import {SyncUtils} from './shared/utils/sync-utils';
+import {UpdateService} from './shared/services/update.service';
 
 
 // Declare ga function as ambient
@@ -18,7 +19,9 @@ declare var ga: Function;
   template: '<router-outlet></router-outlet>'
 })
 export class AppComponent implements OnInit {
-  constructor(private location: Location, public router: Router, public webService: WebService) {
+  constructor(private location: Location, public router: Router, public webService: WebService, private updateService: UpdateService) {
+    // Check for update
+    this.updateService.checkForUpdate();
 
     if (environment.production) {
       router.events.pipe(distinctUntilChanged((previous: any, current: any) => {

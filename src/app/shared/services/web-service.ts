@@ -43,7 +43,7 @@ export class WebService {
   }
 
   public isUnlockFeature(): boolean {
-    return this.fbDatabaseService.isUnlockFeature();
+    return UserCache.loadUser() ? UserCache.loadUser().unlock_feature : this.fbDatabaseService.isUnlockFeature();
   }
 
   public isStudent(): boolean {

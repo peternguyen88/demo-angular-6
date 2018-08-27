@@ -5,6 +5,7 @@ import {FirebaseUser} from '../../models/firebase.model';
 import {PracticeData} from '../../views/gmat-practice/data/practice-sets';
 import {HttpClient} from '@angular/common/http';
 import {ScreenUtils} from '../../shared/utils/screen-utils';
+import {ManagementUtils} from '../../shared/utils/management-utils';
 
 @Component({
   selector: 'app-dashboard',
@@ -46,6 +47,10 @@ export class DefaultLayoutComponent {
 
   public isLogin() {
     return this.webService.isLogin();
+  }
+
+  public isAdmin(){
+    return ManagementUtils.isAdmin(this.user);
   }
 
   preloadQuestion() {

@@ -10,6 +10,8 @@ export class FirebaseUser {
   is_student = false;
   photo_url: string;
   last_login_time: number;
+  mobile_installed: boolean = null;
+  class_joined: string = null;
 
   constructor(email: string, name: string, uid: string) {
     this.email = email;
@@ -41,4 +43,12 @@ export class UserQuestionReport {
   report_user_id: string;
   processed = false;
   firebase_key: string;
+}
+
+export class FirebaseClass {
+  class_id: string;
+  class_name: string;
+  class_desc: string;
+  time_from: number;
+  time_to: number;
 }

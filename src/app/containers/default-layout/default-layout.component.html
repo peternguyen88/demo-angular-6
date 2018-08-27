@@ -16,7 +16,7 @@
         <span class="d-md-down-none">{{user?.name}}</span>
       </a>
       <div class="dropdown-menu dropdown-menu-right" *dropdownMenu aria-labelledby="simple-dropdown">
-        <span *ngIf="user?.email === 'tronghieubk@gmail.com'">
+        <span *ngIf="isAdmin()">
           <div class="dropdown-header text-center"><strong>Admin</strong></div>
           <a class="dropdown-item" routerLink="/management/users"><i class="fa fa-user-secret"></i> Manage Users</a>
           <a class="dropdown-item" routerLink="/management/question-reports"><i class="fa fa-tasks"></i> User Reports</a>

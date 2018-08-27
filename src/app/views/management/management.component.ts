@@ -2,6 +2,8 @@ import {Component, OnInit} from '@angular/core';
 import {WebService} from '../../shared/services/web-service';
 import {FirebaseUser} from '../../models/firebase.model';
 import {MessageService} from 'primeng/api';
+import {Router} from '@angular/router';
+import {ManagementUtils} from '../../shared/utils/management-utils';
 
 @Component({
   templateUrl: 'management.component.html'
@@ -9,7 +11,12 @@ import {MessageService} from 'primeng/api';
 export class ManagementComponent implements OnInit {
   users: FirebaseUser[];
 
-  constructor(private webService: WebService, private toast: MessageService) {
+  constructor(private webService: WebService, private toast: MessageService, private router: Router) {
+    if (!ManagementUtils.isAdmin(this.webService.getCurrentUser())) {
+      this.router.navigateByUrl('/').then();
+      return;
+    }
+
     const subscription = this.webService.getUserList().valueChanges().subscribe(e => {
       subscription.unsubscribe();
       this.users = e;

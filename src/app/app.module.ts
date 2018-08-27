@@ -23,6 +23,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import {firebaseConfig} from '../config';
+import {UpdateService} from './shared/services/update.service';
 
 const APP_CONTAINERS = [
   DefaultLayoutComponent
@@ -52,7 +53,7 @@ const APP_CONTAINERS = [
   providers: [{
     provide: LocationStrategy,
     useClass: HashLocationStrategy
-  }, FirebaseDatabaseService, FirebaseAuthenticationService, WebService, AngularFireDatabase],
+  }, FirebaseDatabaseService, FirebaseAuthenticationService, WebService, AngularFireDatabase, UpdateService],
   bootstrap: [AppComponent]
 })
 export class AppModule {

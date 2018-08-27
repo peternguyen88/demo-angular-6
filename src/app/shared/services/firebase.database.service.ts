@@ -9,6 +9,7 @@ import {Subject} from 'rxjs/Subject';
 import {UserCache} from '../utils/user-cache';
 import {ObjectUtils} from '../utils/object-utils';
 import {ArrayUtils} from '../utils/array-utils';
+import {ScreenUtils} from '../utils/screen-utils';
 
 @Injectable()
 export class FirebaseDatabaseService {
@@ -43,6 +44,9 @@ export class FirebaseDatabaseService {
         } else {
           this.firebaseUser = new FirebaseUser(user.email, user.displayName, user.providerData[0].uid);
           this.firebaseUser.firebase_uid = user.uid;
+        }
+        if(!this.firebaseUser.mobile_installed && ScreenUtils.isOnPhoneFullScreenMode()){
+          this.firebaseUser.mobile_installed = true;
         }
         this.firebaseUser.login_count++;
         this.firebaseUser.last_login = new Date().toString();
